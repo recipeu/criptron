@@ -1,0 +1,21 @@
+<head>
+  <title>{{ .Title }}</title>
+
+  {{ if .Page.Params.description }}
+  <meta name="description" content="{{ .Page.Params.description }}">
+  {{ else }}
+  <meta name="description" content="una colección de recetas que estás listo para probar en casa">
+  {{ end }}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Armno Prommarak">
+
+  <link rel="preconnect" crossorigin href="https://fonts.gstatic.com">
+  <link rel="preconnect" crossorigin href="https://fonts.googleapis.com">
+{{ partial "style.html" .}}
+{{ partial "meta-tag.html" . }}
+{{ partial "seo/web.html" . }}
+{{ partial "ads/ads-head.html" . }}
+{{ partial "seo/verif.html" . }}
+{{ partial "head-js.html" . }}
+</head>

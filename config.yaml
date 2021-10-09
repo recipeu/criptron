@@ -1,0 +1,93 @@
+baseURL: "https://www.criptron.com"
+disablePathToLower: true
+languageCode: id
+language: id
+title: Criptron
+type: blog
+params:
+  googlverif: ""
+  type: blog
+  copyright: "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+  logo: "/img/logo.svg"
+  sitename: Criptron
+  languageCode: "id"
+  language: "id"
+  thumbnail: "/img/s.jpg"
+  description: Kumpulan Resep Untuk Ibu Ibu
+  images:
+        - "/img/s.jpg"
+  title: Criptron
+  
+  series: Resep
+  fbname: "https://www.facebook.com/bill.yard.35762"
+  twittername: "@Redfox1"
+
+fbname: "https://www.facebook.com/bill.yard.35762"
+twittername: "@Redfox1"
+
+
+theme: lazy
+paginate: 12
+pygmentsStyle: 'friendly'
+pygmentsCodefences: true
+ignoreFiles:
+  - '_drafts'
+blackfriday:
+  extensionsmask:
+    - noIntraEmphasis
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+  blackFriday:
+    angledQuotes: false
+    footnoteAnchorPrefix: ''
+    footnoteReturnLinkContents: ''
+    fractions: true
+    hrefTargetBlank: true
+    latexDashes: true
+    nofollowLinks: true
+    noreferrerLinks: true
+    plainIDAnchors: true
+    skipHTML: false
+    smartDashes: true
+    smartypants: true
+    smartypantsQuotesNBSP: false
+    taskLists: true
+    extensionsmask:
+    - noIntraEmphasis
+
+
+
+
+
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: date
+      weight: 10
+enableGitInfo: false
+enableRobotsTXT: true
+timeout: 30000
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
