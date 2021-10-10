@@ -24,7 +24,7 @@
 {{ end }}
 
 {{ else }}
-{{ $related := shuffle .Site.RegularPages | first 8 | uniq }}
+{{ $related := (where (.Site.RegularPages.Related . ) ".Section" "post" ) | first 8 | uniq }}
 {{ with $related | uniq }}
 <h3>Related Posts</h3>
 <ul class="related-posts no-list-style">

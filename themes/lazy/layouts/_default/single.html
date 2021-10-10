@@ -15,7 +15,7 @@
         <time class="publish-time-article" datetime="{{ .PublishDate }}">
           Published on
           <strong>{{ .PublishDate.Format "January 2, 2006" }}</strong>
-        </time>
+        </time>       
       </header>
 <!--
 {{ $thumbnaily :=  .Params.thumbnail }}
@@ -27,6 +27,7 @@
 {{ .Content }}
 </div>
     </article>
+
 
     {{ if eq .Section "post" }}
     <div class="share-article">

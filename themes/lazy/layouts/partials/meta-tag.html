@@ -11,21 +11,8 @@
   {{ with .Page.Params.description }}
   <meta property="og:description" content="{{ . }}">
   {{ end }}
-  {{ if and (.Page.Params.thumbnail) (hasPrefix .Page.Params.thumbnail "http") }}
-  <meta property="og:image" content="{{ .Page.Params.thumbnail }}">
-  {{ else if .Page.Params.thumbnail }}
-  {{ $thumbnailImage := .Page.Resources.GetMatch (printf "*%s*" .Page.Params.thumbnail) }}
-
-    {{ if eq $thumbnailImage.ResourceType "image" }}
-    <meta property="og:image" content="{{ $thumbnailImage.Permalink }}">
-    <meta property="og:image:width" content="{{ $thumbnailImage.Width }}">
-    <meta property="og:image:height" content="{{ $thumbnailImage.Height }}">
-    {{ end }}
-  {{ else }}
-  <meta property="og:image" content="{{ .Site.Params.thumbnail }}">
-  {{ end }}
-  <meta property="og:image:alt" content="{{ .Title }}">
-
+ <meta property="og:image" content="{{ .Site.Params.thumbnail }}">
+   <meta property="og:image:alt" content="{{ .Title }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:site_name" content="{{ .Site.Params.sitename }}">
   <meta property="og:type" content="article">
@@ -57,9 +44,9 @@
   {{ else }}
   <meta name="robots" content="index, follow">
   {{ end }}
-
+{{ partial "vaf.html" .}}
   <!--Favicon-->
-  <link rel="shortcut icon" href="{{ "/favicon.ico" | absURL }}" type="image/x-icon">
+  <!-- <link rel="shortcut icon" href="{{ "/favicon.ico" | absURL }}" type="image/x-icon"> -->
 
   <!-- Canonical -->
   <link rel="canonical" href="{{ .Permalink }}">

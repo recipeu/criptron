@@ -10,7 +10,9 @@
     "license": "{{ .Site.Params.Copyright }}"
 }
 </script>
-{{ else if .IsPage }}
+{{ end }}
+
+{{ if .IsPage }}
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
 {{ $.Scratch.Add "path" .Site.BaseURL }}
 {{ $.Scratch.Add "breadcrumb" (slice (dict "url" .Site.BaseURL "name" "home" "position" 1 )) }}
@@ -68,3 +70,17 @@
 }
 </script>
 {{ end }}
+
+{{ if eq .Params.type "page" }}
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
+    "license": "{{ .Site.Params.Copyright }}"
+}
+</script>
+{{  end }}

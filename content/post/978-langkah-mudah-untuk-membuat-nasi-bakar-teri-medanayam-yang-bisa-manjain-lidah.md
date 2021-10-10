@@ -1,0 +1,99 @@
+---
+description: "Langkah Mudah untuk Membuat Nasi bakar teri medan+ayam yang Bisa Manjain Lidah"
+title: "Langkah Mudah untuk Membuat Nasi bakar teri medan+ayam yang Bisa Manjain Lidah"
+slug: 978-langkah-mudah-untuk-membuat-nasi-bakar-teri-medanayam-yang-bisa-manjain-lidah
+future: true
+lang: id
+language: id
+languageCode: id
+publishDate: 2021-10-12T07:06:54.939Z 
+thumbnail: https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp
+images:
+- https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp
+image: https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp
+cover: https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp
+author: Mable Porter
+ratingvalue: 4.8
+reviewcount: 5
+recipeingredient:
+- "bawang merah 3 siung"
+- "bawang putih 4 siung"
+- "daun salam 2 lembar"
+- "daun jeruk 2 lembar"
+- "serai 1 biji"
+- "air santan kelapa 4 sdm"
+- "nasi 1 piring"
+- "dada ayam sesuai selera"
+- "teri medan secukupnya"
+- "garam dan penyedap secukupnya"
+recipeinstructions:
+- "Cuci bersih teri medan lalu rendam di air panas, cuci bersih daging ayam lalu potong kecil2 dan rebus ayam di air mendidih lalu masukkan garam"
+- "Haluskan bawang merah dan bawang putih, lalu tumis hingga harum"
+- "Jika tumisan sudah harum masukkan daun salam, daun jeruk, dan sereh yang sudah digepruk"
+- "Lalu masukkan santan di tumisan tadi lalu kasih air sedikit, lalu masukkan ayam yang sudah direbus+ ikan teri medan yg sudah direndam air panas, lalu aduk rata sampai harum lalu masukkan nasi secukupnya. Lalu aduk rata.   Selesai, masukkan nasi yang sudah trcampur tadi ke aluminium foil/ daun pisang lalu bakar di atas wajan, hingga tercium bau nya angkat dan sajikan!❤️"
+categories:
+- Resep
+tags:
+- nasi
+- bakar
+- teri
+
+katakunci: nasi bakar teri 
+nutrition: 277 calories
+recipecuisine: Indonesian
+preptime: "PT28M"
+cooktime: "PT46M"
+recipeyield: "3"
+recipecategory: Dinner
+
+
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+---
+
+
+![Nasi bakar teri medan+ayam](https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp)
+
+Resep rahasia dan cara memasak  Nasi bakar teri medan+ayam cocok banget jika digunakan untuk menjamu teman
+
+<!--inarticleads1-->
+
+## Beberapa Bahan Yang Digunakan Dalam Pembuatan Nasi bakar teri medan+ayam:
+
+1. bawang merah 3 siung
+1. bawang putih 4 siung
+1. daun salam 2 lembar
+1. daun jeruk 2 lembar
+1. serai 1 biji
+1. air santan kelapa 4 sdm
+1. nasi 1 piring
+1. dada ayam sesuai selera
+1. teri medan secukupnya
+1. garam dan penyedap secukupnya
+
+
+
+<!--inarticleads2-->
+
+## Cara Mudah Menyiapkan Nasi bakar teri medan+ayam:
+
+1. Cuci bersih teri medan lalu rendam di air panas, cuci bersih daging ayam lalu potong kecil2 dan rebus ayam di air mendidih lalu masukkan garam
+1. Haluskan bawang merah dan bawang putih, lalu tumis hingga harum
+1. Jika tumisan sudah harum masukkan daun salam, daun jeruk, dan sereh yang sudah digepruk
+1. Lalu masukkan santan di tumisan tadi lalu kasih air sedikit, lalu masukkan ayam yang sudah direbus+ ikan teri medan yg sudah direndam air panas, lalu aduk rata sampai harum lalu masukkan nasi secukupnya. Lalu aduk rata.  -  - Selesai, masukkan nasi yang sudah trcampur tadi ke aluminium foil/ daun pisang lalu bakar di atas wajan, hingga tercium bau nya angkat dan sajikan!❤️
+
+
+
+
+Selamat menikmati hidangan spesial ini bersama keluarga. Salam Istimewa.
