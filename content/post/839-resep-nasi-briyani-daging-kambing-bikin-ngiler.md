@@ -58,7 +58,6 @@ preptime: "PT20M"
 cooktime: "PT52M"
 recipeyield: "4"
 recipecategory: Lunch
-. 
 ---
 
 

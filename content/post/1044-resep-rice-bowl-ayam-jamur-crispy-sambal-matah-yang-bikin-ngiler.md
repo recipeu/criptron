@@ -63,7 +63,6 @@ preptime: "PT28M"
 cooktime: "PT54M"
 recipeyield: "1"
 recipecategory: Dinner
-. 
 ---
 
 

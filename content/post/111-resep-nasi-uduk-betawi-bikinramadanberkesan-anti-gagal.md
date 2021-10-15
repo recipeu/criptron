@@ -48,7 +48,6 @@ preptime: "PT16M"
 cooktime: "PT56M"
 recipeyield: "4"
 recipecategory: Dinner
-. 
 ---
 
 

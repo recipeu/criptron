@@ -42,7 +42,6 @@ preptime: "PT40M"
 cooktime: "PT44M"
 recipeyield: "3"
 recipecategory: Dinner
-. 
 ---
 
 

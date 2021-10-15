@@ -47,7 +47,6 @@ preptime: "PT14M"
 cooktime: "PT52M"
 recipeyield: "3"
 recipecategory: Dessert
-. 
 ---
 
 
