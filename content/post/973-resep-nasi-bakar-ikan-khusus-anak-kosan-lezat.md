@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T03:32:36.387Z 
-thumbnail: https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.png
 author: Zachary Simpson
 ratingvalue: 3.1
 reviewcount: 9
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ikan khusus anak kosan](https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.webp)
+![Nasi bakar ikan khusus anak kosan](https://img-global.cpcdn.com/recipes/97e3c89e148d9add/682x484cq65/nasi-bakar-ikan-khusus-anak-kosan-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar ikan khusus anak kosan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus kamu coba segera
 

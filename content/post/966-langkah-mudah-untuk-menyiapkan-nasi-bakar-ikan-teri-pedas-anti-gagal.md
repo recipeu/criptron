@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-27T13:50:29.166Z 
-thumbnail: https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.png
 author: Lina Myers
 ratingvalue: 5
 reviewcount: 14
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ikan Teri Pedas](https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.webp)
+![Nasi Bakar Ikan Teri Pedas](https://img-global.cpcdn.com/recipes/01c79b499a140188/682x484cq65/nasi-bakar-ikan-teri-pedas-foto-resep-utama.png)
 
 Resep Nasi Bakar Ikan Teri Pedas    dengan 5 langkahmudah dan cepat yang harus ibu coba dirumah
 

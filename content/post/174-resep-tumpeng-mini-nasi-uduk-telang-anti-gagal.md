@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-21T01:37:51.167Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.png
 author: Bertha Yates
 ratingvalue: 4
 reviewcount: 6
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Tumpeng Mini - Nasi Uduk Telang](https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.webp)
+![Tumpeng Mini - Nasi Uduk Telang](https://img-global.cpcdn.com/recipes/b1b06bf1ee207af5/682x484cq65/tumpeng-mini-nasi-uduk-telang-foto-resep-utama.png)
 
 Resep dan cara memasak  Tumpeng Mini - Nasi Uduk Telang yang bisa ibu coba dirumah
 

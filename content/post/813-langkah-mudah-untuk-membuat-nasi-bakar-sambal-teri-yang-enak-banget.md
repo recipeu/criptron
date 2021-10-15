@@ -7,16 +7,16 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T01:24:51.570Z 
-thumbnail: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png
 author: Dale Barnes
 ratingvalue: 3.6
 reviewcount: 3
 recipeingredient:
-- "nasi lemaknasi uduk           lihat resep 1 porsi"
+- "nasi lemaknasi uduk   . 1 porsi"
 - "daun kemangi daun pisang Secukupnya"
 - "sambal teri resep menyusul Secukupnya"
 recipeinstructions:
@@ -53,7 +53,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar sambal Teri](https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp)
+![Nasi Bakar sambal Teri](https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Bakar sambal Teri yang bisa kamu coba dirumah
 
@@ -61,7 +61,7 @@ Resep rahasia dan cara memasak  Nasi Bakar sambal Teri yang bisa kamu coba dirum
 
 ## Bahan-bahan Yang Dibutuhkan Dalam Pembuatan Nasi Bakar sambal Teri:
 
-1. nasi lemaknasi uduk           lihat resep 1 porsi
+1. nasi lemaknasi uduk   . 1 porsi
 1. daun kemangi daun pisang Secukupnya
 1. sambal teri resep menyusul Secukupnya
 

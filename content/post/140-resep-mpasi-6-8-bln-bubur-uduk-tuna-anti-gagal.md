@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T04:04:30.871Z 
-thumbnail: https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.png
 author: Devin Duncan
 ratingvalue: 3.4
 reviewcount: 6
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![MPASI 6 - 8 bln : bubur uduk tuna](https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.webp)
+![MPASI 6 - 8 bln : bubur uduk tuna](https://img-global.cpcdn.com/recipes/be3a3488da7085e3/682x484cq65/mpasi-6-8-bln-bubur-uduk-tuna-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  MPASI 6 - 8 bln : bubur uduk tuna cocok sekali jika digunakan untuk menjamu tamu
 

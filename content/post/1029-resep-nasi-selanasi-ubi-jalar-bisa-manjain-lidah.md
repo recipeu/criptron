@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-01T13:01:52.822Z 
-thumbnail: https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.png
 author: Myra Lawson
 ratingvalue: 4.9
 reviewcount: 14
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Sela(Nasi ubi jalar)](https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.webp)
+![Nasi Sela(Nasi ubi jalar)](https://img-global.cpcdn.com/recipes/14b160bafb281bb2/682x484cq65/nasi-selanasi-ubi-jalar-foto-resep-utama.png)
 
 Resep rahasia Nasi Sela(Nasi ubi jalar)  anti gagal dengan 3 langkahmudah cocok sekali jika digunakan untuk menjamu tamu
 

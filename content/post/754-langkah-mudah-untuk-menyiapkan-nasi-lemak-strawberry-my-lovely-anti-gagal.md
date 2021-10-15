@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-25T20:44:11.153Z 
-thumbnail: https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.png
 author: Maud Ruiz
 ratingvalue: 4
 reviewcount: 9
@@ -85,7 +85,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Lemak Strawberry My Lovely](https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.webp)
+![Nasi Lemak Strawberry My Lovely](https://img-global.cpcdn.com/recipes/296485474830daad/682x484cq65/nasi-lemak-strawberry-my-lovely-foto-resep-utama.png)
 
 Resep rahasia Nasi Lemak Strawberry My Lovely  sederhana dengan 4 langkahcepat cocok banget jika digunakan untuk menjamu teman
 

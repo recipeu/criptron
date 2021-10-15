@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T00:45:31.040Z 
-thumbnail: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 author: Louisa Guzman
 ratingvalue: 5
 reviewcount: 13
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ayam](https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp)
+![Nasi Bakar Ayam](https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Bakar Ayam cocok sekali jika digunakan untuk menjamu teman
 

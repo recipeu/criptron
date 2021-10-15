@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T14:24:31.314Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.png
 author: Zachary Mendez
 ratingvalue: 3.8
 reviewcount: 3
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasgor telur + teri medan pedas simple](https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.webp)
+![Nasgor telur + teri medan pedas simple](https://img-global.cpcdn.com/recipes/9e148783e4dd792a/682x484cq65/nasgor-telur-teri-medan-pedas-simple-foto-resep-utama.png)
 
 Resep Nasgor telur + teri medan pedas simple    dengan 3 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu tamu
 

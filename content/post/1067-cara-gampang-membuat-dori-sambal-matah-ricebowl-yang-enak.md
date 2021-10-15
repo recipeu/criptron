@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-03T13:12:56.351Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.png
 author: Mabelle Wong
 ratingvalue: 3.7
 reviewcount: 13
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Dori Sambal Matah Ricebowl](https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.webp)
+![Dori Sambal Matah Ricebowl](https://img-global.cpcdn.com/recipes/6407c121065ccb9c/682x484cq65/dori-sambal-matah-ricebowl-foto-resep-utama.png)
 
 Resep dan cara mengolah  Dori Sambal Matah Ricebowl yang wajib bunda coba segera
 

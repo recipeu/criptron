@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T09:30:03.670Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Gussie Dunn
 ratingvalue: 3.8
 reviewcount: 15
@@ -36,8 +36,8 @@ recipeinstructions:
 - "Masak kurang lebih 20 mnit lalu angkat"
 - "Sambil.mngaduk2dan mngipas2 buang bumbu2yg ada di nasi smp smua bersih dr bumbu"
 - "Siap untuk di sajikann.dengan bawang goreng smur tahu dan sambel tepe goreng dan telur balado slamat mnikmati"
-- ""
-- ""
+. 
+. 
 categories:
 - Resep
 tags:
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/f53b2751b75e2ca6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep Nasi uduk betawi  enak dengan 13 langkahmudah dan cepat yang harus kamu coba segera
 

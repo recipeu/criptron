@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T19:36:58.992Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.png
 author: Kyle Byrd
 ratingvalue: 3
 reviewcount: 3
@@ -70,7 +70,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk Limau](https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.webp)
+![Nasi Daun Jeruk Limau](https://img-global.cpcdn.com/recipes/a3557c524b3daca2/682x484cq65/nasi-daun-jeruk-limau-foto-resep-utama.png)
 
 7 langkah cepat dan mudah membuat  Nasi Daun Jeruk Limau yang musti ibu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-16T20:02:57.298Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.png
 author: Bruce Perkins
 ratingvalue: 4.6
 reviewcount: 14
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasgor baso matah](https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.webp)
+![Nasgor baso matah](https://img-global.cpcdn.com/recipes/ca90a563271c8199/682x484cq65/nasgor-baso-matah-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasgor baso matah yang bisa kamu coba dirumah
 

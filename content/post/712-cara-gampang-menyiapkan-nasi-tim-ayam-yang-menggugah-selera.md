@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-12T21:41:03.963Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.png
 author: Christina Phelps
 ratingvalue: 3.3
 reviewcount: 11
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Tim Ayam](https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp)
+![Nasi Tim Ayam](https://img-global.cpcdn.com/recipes/c78063bb9d5756b6/682x484cq65/nasi-tim-ayam-foto-resep-utama.png)
 
 Ingin membuat Nasi Tim Ayam ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

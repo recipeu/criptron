@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-16T22:52:28.675Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.png
 author: Francisco Alvarez
 ratingvalue: 3.9
 reviewcount: 10
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang Rai Keju Saus Coklat](https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.webp)
+![Pisang Rai Keju Saus Coklat](https://img-global.cpcdn.com/recipes/1120575472bb936f/682x484cq65/pisang-rai-keju-saus-coklat-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Pisang Rai Keju Saus Coklat cocok sekali jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T03:57:23.489Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.png
 author: Jeanette Rowe
 ratingvalue: 4.5
 reviewcount: 5
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Rice Bowl Udang Sambal Matah](https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.webp)
+![Rice Bowl Udang Sambal Matah](https://img-global.cpcdn.com/recipes/8f74319e839a8224/682x484cq65/rice-bowl-udang-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Rice Bowl Udang Sambal Matah  anti gagal dengan 5 langkahcepat dan mudah yang musti ibu coba dirumah
 

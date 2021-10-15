@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T03:19:39.209Z 
-thumbnail: https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.png
 author: Wesley Greer
 ratingvalue: 4.8
 reviewcount: 11
@@ -78,7 +78,7 @@ recipecategory: Dinner
 ---
 
 
-![Semur betawi ala penjual nasi uduk](https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.webp)
+![Semur betawi ala penjual nasi uduk](https://img-global.cpcdn.com/recipes/911f7f7e08328a81/682x484cq65/semur-betawi-ala-penjual-nasi-uduk-foto-resep-utama.png)
 
 5 langkah mudah dan cepat membuat  Semur betawi ala penjual nasi uduk yang bisa ibu coba segera
 

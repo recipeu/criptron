@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T04:36:40.642Z 
-thumbnail: https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.png
 author: Russell Sanchez
 ratingvalue: 3.4
 reviewcount: 7
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam Hainan Rice Cooker Presto (Ayam Kampung)](https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.webp)
+![Nasi Ayam Hainan Rice Cooker Presto (Ayam Kampung)](https://img-global.cpcdn.com/recipes/361bb2ea37590cdf/682x484cq65/nasi-ayam-hainan-rice-cooker-presto-ayam-kampung-foto-resep-utama.png)
 
 2 langkah mudah memasak  Nasi Ayam Hainan Rice Cooker Presto (Ayam Kampung) yang musti kamu coba segera
 

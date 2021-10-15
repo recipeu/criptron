@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T07:13:46.411Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.png
 author: Daisy Pena
 ratingvalue: 3
 reviewcount: 14
@@ -83,7 +83,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Teflon](https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.webp)
+![Nasi Bakar Teflon](https://img-global.cpcdn.com/recipes/f878cf4fe735cc37/682x484cq65/nasi-bakar-teflon-foto-resep-utama.png)
 
 Resep Nasi Bakar Teflon    dengan 6 langkahcepat dan mudah yang harus kamu coba segera
 

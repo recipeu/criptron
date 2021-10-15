@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T14:06:43.160Z 
-thumbnail: https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.png
 author: Alvin Leonard
 ratingvalue: 4.1
 reviewcount: 6
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Ayam bakar nasi padang tanpa santan](https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.webp)
+![Ayam bakar nasi padang tanpa santan](https://img-global.cpcdn.com/recipes/71bf6410788edf93/682x484cq65/ayam-bakar-nasi-padang-tanpa-santan-foto-resep-utama.png)
 
 Resep rahasia Ayam bakar nasi padang tanpa santan  anti gagal dengan 8 langkahcepat dan mudah yang wajib ibu coba segera
 

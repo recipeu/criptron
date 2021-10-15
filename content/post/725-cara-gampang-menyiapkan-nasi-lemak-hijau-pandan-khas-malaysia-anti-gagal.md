@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-24T04:06:17.154Z 
-thumbnail: https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.png
 author: Anthony Morton
 ratingvalue: 3.9
 reviewcount: 11
@@ -77,7 +77,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Lemak Hijau Pandan (khas Malaysia)](https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.webp)
+![Nasi Lemak Hijau Pandan (khas Malaysia)](https://img-global.cpcdn.com/recipes/54e7eb2439615d89/682x484cq65/nasi-lemak-hijau-pandan-khas-malaysia-foto-resep-utama.png)
 
 Ingin membuat Nasi Lemak Hijau Pandan (khas Malaysia) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti bunda coba dirumah
 

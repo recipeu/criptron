@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T05:12:50.528Z 
-thumbnail: https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.png
 author: Walter Moore
 ratingvalue: 3
 reviewcount: 7
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Betawi Asli (Magicom)](https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.webp)
+![Nasi Uduk Betawi Asli (Magicom)](https://img-global.cpcdn.com/recipes/12e79b984d63e05b/682x484cq65/nasi-uduk-betawi-asli-magicom-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Uduk Betawi Asli (Magicom) yang harus bunda coba dirumah
 
@@ -96,7 +96,7 @@ Resep rahasia dan cara mengolah  Nasi Uduk Betawi Asli (Magicom) yang harus bund
 1. Masukkan bumbu rempah-rempah. Masukkan garam lalu aduk- aduk. Nyalakan tombol &#34;cook&#34; magicom. Tunggu sampai matang
 1. Bila sudah matang, aduk-aduk nasi supaya nasi tanak.
 1. Hidangkan dengan bawang goreng dan aneka macam lauknya.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/060dbda9f6bfe222/160x128cq70/nasi-uduk-betawi-asli-magicom-langkah-memasak-5-foto.webp" alt="Nasi Uduk Betawi Asli (Magicom)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/060dbda9f6bfe222/160x128cq70/nasi-uduk-betawi-asli-magicom-langkah-memasak-5-foto.png" alt="Nasi Uduk Betawi Asli (Magicom)" width="340" height="340">
 >
 
 

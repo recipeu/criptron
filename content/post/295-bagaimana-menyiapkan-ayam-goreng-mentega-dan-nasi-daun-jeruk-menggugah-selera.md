@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T22:10:06.958Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.png
 author: Addie Todd
 ratingvalue: 4.1
 reviewcount: 9
@@ -83,7 +83,7 @@ recipecategory: Dinner
 ---
 
 
-![Ayam Goreng Mentega dan Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.webp)
+![Ayam Goreng Mentega dan Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/e82a943c34534bd0/682x484cq65/ayam-goreng-mentega-dan-nasi-daun-jeruk-foto-resep-utama.png)
 
 Resep rahasia Ayam Goreng Mentega dan Nasi Daun Jeruk  anti gagal dengan 8 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

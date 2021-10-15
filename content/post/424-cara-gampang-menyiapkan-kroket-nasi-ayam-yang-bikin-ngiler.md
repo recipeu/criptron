@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T12:34:53.911Z 
-thumbnail: https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.png
 author: Rosa Vargas
 ratingvalue: 3.7
 reviewcount: 4
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Kroket nasi ayam](https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.webp)
+![Kroket nasi ayam](https://img-global.cpcdn.com/recipes/159c382c5bcebcac/682x484cq65/kroket-nasi-ayam-foto-resep-utama.png)
 
 Resep rahasia Kroket nasi ayam  enak dengan 5 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu tamu
 

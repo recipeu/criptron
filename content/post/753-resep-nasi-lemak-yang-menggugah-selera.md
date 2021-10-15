@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-20T07:27:41.687Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.png
 author: Blake Chambers
 ratingvalue: 4.1
 reviewcount: 10
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi lemak](https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.webp)
+![Nasi lemak](https://img-global.cpcdn.com/recipes/b881b021c5ba9fbe/682x484cq65/nasi-lemak-foto-resep-utama.png)
 
 Ingin membuat Nasi lemak ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib bunda coba dirumah
 

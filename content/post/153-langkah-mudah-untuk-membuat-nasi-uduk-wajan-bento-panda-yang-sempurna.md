@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-27T20:26:19.484Z 
-thumbnail: https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.png
 author: Leona Rivera
 ratingvalue: 4.2
 reviewcount: 5
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Wajan (Bento panda)](https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.webp)
+![Nasi Uduk Wajan (Bento panda)](https://img-global.cpcdn.com/recipes/56c6a677755abb0a/682x484cq65/nasi-uduk-wajan-bento-panda-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Uduk Wajan (Bento panda) yang wajib ibu coba segera
 

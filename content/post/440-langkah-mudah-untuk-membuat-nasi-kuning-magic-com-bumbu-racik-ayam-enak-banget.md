@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-09T12:36:42.988Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.png
 author: Garrett Wheeler
 ratingvalue: 4.8
 reviewcount: 11
@@ -90,7 +90,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi kuning magic com bumbu racik ayam](https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.webp)
+![Nasi kuning magic com bumbu racik ayam](https://img-global.cpcdn.com/recipes/a3399fcb5111b6f1/682x484cq65/nasi-kuning-magic-com-bumbu-racik-ayam-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi kuning magic com bumbu racik ayam yang bisa ibu coba dirumah
 

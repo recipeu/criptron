@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T20:04:21.869Z 
-thumbnail: https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.png
 author: Trevor Holloway
 ratingvalue: 4.5
 reviewcount: 13
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Lemak Hijau Pandan](https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.webp)
+![Nasi Lemak Hijau Pandan](https://img-global.cpcdn.com/recipes/555f7486710882bd/682x484cq65/nasi-lemak-hijau-pandan-foto-resep-utama.png)
 
 Resep rahasia Nasi Lemak Hijau Pandan    dengan 6 langkahcepat yang wajib ibu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T09:54:24.120Z 
-thumbnail: https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.png
 author: Joseph Jackson
 ratingvalue: 4.1
 reviewcount: 13
@@ -122,7 +122,7 @@ recipecategory: Lunch
 ---
 
 
-![147. Nasi Campur Khas Bali](https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.webp)
+![147. Nasi Campur Khas Bali](https://img-global.cpcdn.com/recipes/075ccdebf623d954/682x484cq65/147-nasi-campur-khas-bali-foto-resep-utama.png)
 
 16 langkah cepat membuat  147. Nasi Campur Khas Bali cocok banget jika digunakan untuk menjamu tamu
 

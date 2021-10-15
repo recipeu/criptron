@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-06T04:50:56.084Z 
-thumbnail: https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.png
 author: Michael McLaughlin
 ratingvalue: 3.9
 reviewcount: 6
@@ -21,7 +21,7 @@ recipeingredient:
 - "santan 500 ml"
 - "garam 1 sdt"
 - "Bahan Isian  "
-- "Abon ayam           lihat resep "
+- "Abon ayam   . "
 - "sambal terasi Secukupnya"
 - "Pelengkap  "
 - "daun pisang Secukupnya"
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Abon Ayam](https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.webp)
+![Nasi Bakar Abon Ayam](https://img-global.cpcdn.com/recipes/51e9a502e8568e20/682x484cq65/nasi-bakar-abon-ayam-foto-resep-utama.png)
 
 Resep Nasi Bakar Abon Ayam  enak dengan 4 langkahcepat dan mudah yang bisa ibu coba dirumah
 
@@ -76,7 +76,7 @@ Resep Nasi Bakar Abon Ayam  enak dengan 4 langkahcepat dan mudah yang bisa ibu c
 1. santan 500 ml
 1. garam 1 sdt
 1. Bahan Isian  
-1. Abon ayam           lihat resep 
+1. Abon ayam   . 
 1. sambal terasi Secukupnya
 1. Pelengkap  
 1. daun pisang Secukupnya

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-22T03:40:18.291Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.png
 author: Christine Hicks
 ratingvalue: 3.1
 reviewcount: 8
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Medan](https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.webp)
+![Nasi Ayam Medan](https://img-global.cpcdn.com/recipes/e5cda740a59783c8/682x484cq65/nasi-ayam-medan-foto-resep-utama.png)
 
 Resep Nasi Ayam Medan    dengan 3 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

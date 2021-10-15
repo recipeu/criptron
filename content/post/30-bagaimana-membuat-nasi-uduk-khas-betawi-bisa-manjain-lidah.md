@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-04T01:33:45.225Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 author: Pauline Hayes
 ratingvalue: 4.5
 reviewcount: 11
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Khas Betawi](https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp)
+![Nasi Uduk Khas Betawi](https://img-global.cpcdn.com/recipes/3a0aa253f4ecc5cf/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Uduk Khas Betawi cocok banget jika digunakan untuk menjamu tamu
 

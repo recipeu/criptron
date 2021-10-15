@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-08T18:58:56.930Z 
-thumbnail: https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.png
 author: Miguel Hunt
 ratingvalue: 3.4
 reviewcount: 12
@@ -80,7 +80,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ayam Dan Teri Medan](https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.webp)
+![Nasi Bakar Ayam Dan Teri Medan](https://img-global.cpcdn.com/recipes/57792b0eb5e06e8d/682x484cq65/nasi-bakar-ayam-dan-teri-medan-foto-resep-utama.png)
 
 16 langkah mudah memasak  Nasi Bakar Ayam Dan Teri Medan cocok banget jika digunakan untuk menjamu teman
 

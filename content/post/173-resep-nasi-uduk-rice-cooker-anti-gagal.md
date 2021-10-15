@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-26T23:42:48.884Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 author: Fannie Cummings
 ratingvalue: 3.3
 reviewcount: 12
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk (rice cooker)](https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp)
+![Nasi Uduk (rice cooker)](https://img-global.cpcdn.com/recipes/ea9cb015a9d6fec4/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk (rice cooker) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa bunda coba segera
 

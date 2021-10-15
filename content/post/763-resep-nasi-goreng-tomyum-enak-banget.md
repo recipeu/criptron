@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T04:35:22.985Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.png
 author: Hester Park
 ratingvalue: 4.2
 reviewcount: 3
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng TomYum](https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.webp)
+![Nasi Goreng TomYum](https://img-global.cpcdn.com/recipes/cad593e9db14ea83/682x484cq65/nasi-goreng-tomyum-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Goreng TomYum cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T20:54:07.369Z 
-thumbnail: https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.png
 author: Larry Weaver
 ratingvalue: 4.9
 reviewcount: 5
@@ -55,7 +55,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk betawi ricecookers](https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.webp)
+![Nasi uduk betawi ricecookers](https://img-global.cpcdn.com/recipes/31f54349e8d95a4e/682x484cq65/nasi-uduk-betawi-ricecookers-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk betawi ricecookers    dengan 1 langkahmudah yang bisa bunda coba segera
 

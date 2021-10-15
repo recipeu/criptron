@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T01:57:40.716Z 
-thumbnail: https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.png
 author: Lottie Arnold
 ratingvalue: 3.9
 reviewcount: 10
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Buttermilk chicken (malaysia)](https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.webp)
+![Buttermilk chicken (malaysia)](https://img-global.cpcdn.com/recipes/92b9c7e307db00c8/682x484cq65/buttermilk-chicken-malaysia-foto-resep-utama.png)
 
 5 langkah mudah membuat  Buttermilk chicken (malaysia) yang musti kamu coba dirumah
 

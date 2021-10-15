@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-30T12:30:34.148Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.png
 author: Ida Simpson
 ratingvalue: 3.7
 reviewcount: 5
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi goreng kimchi](https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.webp)
+![Nasi goreng kimchi](https://img-global.cpcdn.com/recipes/ca5d16bd080e81bd/682x484cq65/nasi-goreng-kimchi-foto-resep-utama.png)
 
 5 langkah cepat dan mudah memasak  Nasi goreng kimchi cocok banget jika digunakan untuk menjamu teman
 

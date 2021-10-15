@@ -7,18 +7,18 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T12:27:53.379Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.png
 author: Isaiah Lane
 ratingvalue: 4.7
 reviewcount: 5
 recipeingredient:
 - "Jagung pipil me  stok freezer 100 g"
 - "wortel diserut 100 g"
-- "tepung gluten free           lihat resep 10 sdm"
+- "tepung gluten free   . 10 sdm"
 - "bw putih parut halus 1 siung"
 - "daun seledri iris2 3 tangkai"
 - "kaldu bubuk 1 sdt"
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Bakwan Jagung Wortel (kress kriuk, gluten free) #41](https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.webp)
+![Bakwan Jagung Wortel (kress kriuk, gluten free) #41](https://img-global.cpcdn.com/recipes/b83af0789cc76321/682x484cq65/bakwan-jagung-wortel-kress-kriuk-gluten-free-41-foto-resep-utama.png)
 
 Resep Bakwan Jagung Wortel (kress kriuk, gluten free) #41    dengan 6 langkahmudah dan cepat yang wajib kamu coba dirumah
 
@@ -75,7 +75,7 @@ Resep Bakwan Jagung Wortel (kress kriuk, gluten free) #41    dengan 6 langkahmud
 
 1. Jagung pipil me  stok freezer 100 g
 1. wortel diserut 100 g
-1. tepung gluten free           lihat resep 10 sdm
+1. tepung gluten free   . 10 sdm
 1. bw putih parut halus 1 siung
 1. daun seledri iris2 3 tangkai
 1. kaldu bubuk 1 sdt

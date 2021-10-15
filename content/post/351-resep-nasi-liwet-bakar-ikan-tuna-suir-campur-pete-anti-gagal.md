@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T15:12:10.748Z 
-thumbnail: https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.png
 author: Carolyn Rivera
 ratingvalue: 3.5
 reviewcount: 12
@@ -78,7 +78,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Liwet Bakar Ikan Tuna Suir Campur Pete](https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.webp)
+![Nasi Liwet Bakar Ikan Tuna Suir Campur Pete](https://img-global.cpcdn.com/recipes/687fa7cc90e9b734/682x484cq65/nasi-liwet-bakar-ikan-tuna-suir-campur-pete-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Liwet Bakar Ikan Tuna Suir Campur Pete cocok banget jika digunakan untuk menjamu teman
 

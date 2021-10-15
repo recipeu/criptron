@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T08:31:32.612Z 
-thumbnail: https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.png
 author: Marcus Garcia
 ratingvalue: 5
 reviewcount: 9
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Tahu pong isi ayam💓](https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.webp)
+![Tahu pong isi ayam💓](https://img-global.cpcdn.com/recipes/15da89d920a25149/682x484cq65/tahu-pong-isi-ayam-foto-resep-utama.png)
 
 5 langkah mudah dan cepat membuat  Tahu pong isi ayam💓 yang harus kamu coba segera
 

@@ -7,16 +7,16 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-02T09:42:48.744Z 
-thumbnail: https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.png
 author: Addie Grant
 ratingvalue: 3.4
 reviewcount: 15
 recipeingredient:
-- "Nasi uduk harumNasi biasa 2 cup           lihat resep "
+- "Nasi uduk harumNasi biasa 2 cup   . "
 - "ikan teri bilas 1/2 genggam"
 - "tempe papan 1/4"
 - "daun kemangi 1 ikat"
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar teri tempe](https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.webp)
+![Nasi bakar teri tempe](https://img-global.cpcdn.com/recipes/43f71c6e3bd6f877/682x484cq65/nasi-bakar-teri-tempe-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi bakar teri tempe cocok banget jika digunakan untuk menjamu teman
 
@@ -77,7 +77,7 @@ Resep dan cara memasak  Nasi bakar teri tempe cocok banget jika digunakan untuk 
 
 ## Beberapa Bahan Yang Dibutuhkan Dalam Menyiapkan Nasi bakar teri tempe:
 
-1. Nasi uduk harumNasi biasa 2 cup           lihat resep 
+1. Nasi uduk harumNasi biasa 2 cup   . 
 1. ikan teri bilas 1/2 genggam
 1. tempe papan 1/4
 1. daun kemangi 1 ikat

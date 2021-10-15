@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-21T14:33:05.321Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.png
 author: Etta Benson
 ratingvalue: 4.6
 reviewcount: 6
@@ -85,7 +85,7 @@ recipecategory: Lunch
 ---
 
 
-![Ayam Geprek Sambal Mata #ResepPertamku#](https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.webp)
+![Ayam Geprek Sambal Mata #ResepPertamku#](https://img-global.cpcdn.com/recipes/2dd45f85eaa2c848/682x484cq65/ayam-geprek-sambal-mata-reseppertamku-foto-resep-utama.png)
 
 7 langkah cepat dan mudah memasak  Ayam Geprek Sambal Mata #ResepPertamku# cocok banget jika digunakan untuk menjamu tamu
 

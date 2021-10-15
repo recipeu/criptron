@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-12T06:02:38.493Z 
-thumbnail: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png
 author: Olga Kelly
 ratingvalue: 3.6
 reviewcount: 5
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![MPASI nasi tim + tumis ayam tahu](https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp)
+![MPASI nasi tim + tumis ayam tahu](https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png)
 
 6 langkah cepat memasak  MPASI nasi tim + tumis ayam tahu yang bisa ibu coba segera
 

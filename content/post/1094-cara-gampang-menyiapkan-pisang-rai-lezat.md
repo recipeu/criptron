@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T12:32:32.492Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.png
 author: Sam Cross
 ratingvalue: 4.7
 reviewcount: 7
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang Rai](https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.webp)
+![Pisang Rai](https://img-global.cpcdn.com/recipes/5d7483cb396da5d5/682x484cq65/pisang-rai-foto-resep-utama.png)
 
 10 langkah cepat dan mudah membuat  Pisang Rai cocok sekali jika digunakan untuk menjamu tamu
 

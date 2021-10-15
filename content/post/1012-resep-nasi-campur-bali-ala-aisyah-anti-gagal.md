@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T20:53:32.864Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.png
 author: Linnie Quinn
 ratingvalue: 3.1
 reviewcount: 14
@@ -57,7 +57,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi campur bali ala aisyah](https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.webp)
+![Nasi campur bali ala aisyah](https://img-global.cpcdn.com/recipes/3e6e890c1d117103/682x484cq65/nasi-campur-bali-ala-aisyah-foto-resep-utama.png)
 
 3 langkah cepat membuat  Nasi campur bali ala aisyah yang musti bunda coba dirumah
 

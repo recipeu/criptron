@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T18:58:56.912Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.png
 author: Albert Lane
 ratingvalue: 3.2
 reviewcount: 8
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![Sambal Goreng Jipang Nasi Ayam Semarang](https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.webp)
+![Sambal Goreng Jipang Nasi Ayam Semarang](https://img-global.cpcdn.com/recipes/b1f25e094b6a5642/682x484cq65/sambal-goreng-jipang-nasi-ayam-semarang-foto-resep-utama.png)
 
 5 langkah mudah mengolah  Sambal Goreng Jipang Nasi Ayam Semarang yang bisa bunda coba segera
 

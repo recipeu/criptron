@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T18:43:56.962Z 
-thumbnail: https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.png
 author: Sara Pena
 ratingvalue: 4.3
 reviewcount: 15
@@ -83,7 +83,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk, Tempe Garit dan Ayam Goreng Bumbu Ngohiang](https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.webp)
+![Nasi Daun Jeruk, Tempe Garit dan Ayam Goreng Bumbu Ngohiang](https://img-global.cpcdn.com/recipes/369bdaf7dffaf3cc/682x484cq65/nasi-daun-jeruk-tempe-garit-dan-ayam-goreng-bumbu-ngohiang-foto-resep-utama.png)
 
 Ingin membuat Nasi Daun Jeruk, Tempe Garit dan Ayam Goreng Bumbu Ngohiang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

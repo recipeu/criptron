@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-08T01:36:40.928Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.png
 author: Lelia Owens
 ratingvalue: 4.7
 reviewcount: 11
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Saus Telur Asin](https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.webp)
+![Nasi Uduk Saus Telur Asin](https://img-global.cpcdn.com/recipes/cd829b26e3c32a3d/682x484cq65/nasi-uduk-saus-telur-asin-foto-resep-utama.png)
 
 4 langkah mudah membuat  Nasi Uduk Saus Telur Asin yang bisa bunda coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T14:53:37.013Z 
-thumbnail: https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.png
 author: Clyde May
 ratingvalue: 3.8
 reviewcount: 11
@@ -25,7 +25,7 @@ recipeingredient:
 - "terigu serbaguna 6 sdm"
 - "minyak goreng 400 ml"
 - "Sambal Matah "
-- "bawan merah           lihat resep 5 siung"
+- "bawan merah   . 5 siung"
 - "Saus Keju "
 - "keju saya pakai prociz yg spready 68 gr"
 - "susu cair 200 ml"
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Rice Bowl Ayam Saus Keju Sambal Matah](https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.webp)
+![Rice Bowl Ayam Saus Keju Sambal Matah](https://img-global.cpcdn.com/recipes/abed9d223829281b/682x484cq65/rice-bowl-ayam-saus-keju-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Rice Bowl Ayam Saus Keju Sambal Matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 
@@ -86,7 +86,7 @@ Ingin membuat Rice Bowl Ayam Saus Keju Sambal Matah ? Coba resep berikut ini. Ca
 1. terigu serbaguna 6 sdm
 1. minyak goreng 400 ml
 1. Sambal Matah 
-1. bawan merah           lihat resep 5 siung
+1. bawan merah   . 5 siung
 1. Saus Keju 
 1. keju saya pakai prociz yg spready 68 gr
 1. susu cair 200 ml

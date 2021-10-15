@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T23:40:14.718Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.png
 author: Amanda Phelps
 ratingvalue: 3.3
 reviewcount: 11
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Ayam Kari Nasi Biryani](https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.webp)
+![Ayam Kari Nasi Biryani](https://img-global.cpcdn.com/recipes/4cb6433bd1a84e3e/682x484cq65/ayam-kari-nasi-biryani-foto-resep-utama.png)
 
 Ingin membuat Ayam Kari Nasi Biryani ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-26T14:06:06.403Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.png
 author: Gerald Watts
 ratingvalue: 3
 reviewcount: 14
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang rai](https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.webp)
+![Pisang rai](https://img-global.cpcdn.com/recipes/d1d3bcd8d26f0ada/682x484cq65/pisang-rai-foto-resep-utama.png)
 
 Resep dan cara mengolah  Pisang rai cocok banget jika digunakan untuk menjamu teman
 

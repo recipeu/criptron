@@ -7,17 +7,17 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T19:53:49.162Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 author: Garrett Craig
 ratingvalue: 3.5
 reviewcount: 14
 recipeingredient:
 - "Nasi gurih saya pakai nasi liwet "
-- "Ayam suwir Kemangi           lihat resep "
+- "Ayam suwir Kemangi   . "
 - "Tempe orek optional "
 - "Daun pisang dan tusuk lidi "
 - "Untuk nasi liwet "
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Ayam Kemangi](https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Ayam Kemangi](https://img-global.cpcdn.com/recipes/ba821cc91fc30470/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ayam Kemangi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti ibu coba dirumah
 
@@ -75,7 +75,7 @@ Ingin membuat Nasi Bakar Ayam Kemangi ? Coba resep berikut ini. Cara memasaknya 
 ## Bahan-bahan Yang Dibutuhkan Dalam Pembuatan Nasi Bakar Ayam Kemangi:
 
 1. Nasi gurih saya pakai nasi liwet 
-1. Ayam suwir Kemangi           lihat resep 
+1. Ayam suwir Kemangi   . 
 1. Tempe orek optional 
 1. Daun pisang dan tusuk lidi 
 1. Untuk nasi liwet 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T23:05:31.853Z 
-thumbnail: https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 author: Edward Davidson
 ratingvalue: 4.3
 reviewcount: 5
@@ -82,7 +82,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ikan Tuna](https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp)
+![Nasi Bakar Ikan Tuna](https://img-global.cpcdn.com/recipes/01ea5e32a6fd47ae/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png)
 
 6 langkah mudah dan cepat membuat  Nasi Bakar Ikan Tuna cocok banget jika digunakan untuk menjamu teman
 

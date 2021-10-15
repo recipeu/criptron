@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T15:58:35.725Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.png
 author: Christian Mann
 ratingvalue: 4.6
 reviewcount: 4
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Jaje Pisang Rai](https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.webp)
+![Jaje Pisang Rai](https://img-global.cpcdn.com/recipes/2fad8e20e70f6d4c/682x484cq65/jaje-pisang-rai-foto-resep-utama.png)
 
 Resep rahasia Jaje Pisang Rai    dengan 5 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

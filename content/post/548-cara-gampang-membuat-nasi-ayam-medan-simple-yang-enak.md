@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T20:55:53.909Z 
-thumbnail: https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.png
 author: Derek Powers
 ratingvalue: 3.3
 reviewcount: 10
@@ -77,7 +77,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi ayam medan simple](https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.webp)
+![Nasi ayam medan simple](https://img-global.cpcdn.com/recipes/456f8f3d111906cf/682x484cq65/nasi-ayam-medan-simple-foto-resep-utama.png)
 
 Resep rahasia Nasi ayam medan simple  enak dengan 4 langkahcepat cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-24T02:46:56.005Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.png
 author: Francisco McGee
 ratingvalue: 4.3
 reviewcount: 3
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Biryani/Biryani Rice Bumbu Instant dan Chicken/Ayam Tandoori/Tanduri Masala Bumbu Instant](https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.webp)
+![Nasi Biryani/Biryani Rice Bumbu Instant dan Chicken/Ayam Tandoori/Tanduri Masala Bumbu Instant](https://img-global.cpcdn.com/recipes/1ca7eb03450b7ceb/682x484cq65/nasi-biryanibiryani-rice-bumbu-instant-dan-chickenayam-tandooritanduri-masala-bumbu-instant-foto-resep-utama.png)
 
 Resep rahasia Nasi Biryani/Biryani Rice Bumbu Instant dan Chicken/Ayam Tandoori/Tanduri Masala Bumbu Instant  enak dengan 8 langkahmudah yang wajib bunda coba dirumah
 

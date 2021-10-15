@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T23:08:43.095Z 
-thumbnail: https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.png
 author: Bernice Kim
 ratingvalue: 4
 reviewcount: 7
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi &amp; Sambel Kacang](https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.webp)
+![Nasi Uduk Betawi &amp; Sambel Kacang](https://img-global.cpcdn.com/recipes/64e2470972ebc4fc/682x484cq65/nasi-uduk-betawi-sambel-kacang-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Uduk Betawi &amp; Sambel Kacang cocok sekali jika digunakan untuk menjamu tamu
 

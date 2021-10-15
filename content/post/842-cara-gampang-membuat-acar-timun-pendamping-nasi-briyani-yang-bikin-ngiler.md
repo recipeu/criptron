@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T00:49:48.173Z 
-thumbnail: https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.png
 author: Jayden Franklin
 ratingvalue: 4.2
 reviewcount: 9
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Acar Timun Pendamping Nasi Briyani](https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.webp)
+![Acar Timun Pendamping Nasi Briyani](https://img-global.cpcdn.com/recipes/83d4bbcea875a0a2/682x484cq65/acar-timun-pendamping-nasi-briyani-foto-resep-utama.png)
 
 Resep rahasia Acar Timun Pendamping Nasi Briyani    dengan 4 langkahcepat yang harus bunda coba dirumah
 

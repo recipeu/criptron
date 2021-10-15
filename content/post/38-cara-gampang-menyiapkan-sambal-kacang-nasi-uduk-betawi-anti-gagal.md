@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T15:48:44.891Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png
 author: Cynthia Young
 ratingvalue: 4.5
 reviewcount: 14
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Sambal Kacang Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp)
+![Sambal Kacang Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/8428bccddb730ef1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png)
 
 Ingin membuat Sambal Kacang Nasi Uduk Betawi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti kamu coba segera
 
@@ -90,11 +90,11 @@ Buat Pelengkap Nasi Kuning, Nasi Uduk, dll. Nasi uduk yang cukup terkenal adalah
 ## Tata Cara Membuat Sambal Kacang Nasi Uduk Betawi:
 
 1. Siapkan semua bahan.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/6dddf260a274168e/160x128cq70/sambal-kacang-nasi-uduk-betawi-langkah-memasak-1-foto.webp" alt="Sambal Kacang Nasi Uduk Betawi" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/29d48f2363ad9b85/160x128cq70/sambal-kacang-nasi-uduk-betawi-langkah-memasak-1-foto.webp" alt="Sambal Kacang Nasi Uduk Betawi" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/6dddf260a274168e/160x128cq70/sambal-kacang-nasi-uduk-betawi-langkah-memasak-1-foto.png" alt="Sambal Kacang Nasi Uduk Betawi" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/29d48f2363ad9b85/160x128cq70/sambal-kacang-nasi-uduk-betawi-langkah-memasak-1-foto.png" alt="Sambal Kacang Nasi Uduk Betawi" width="340" height="340">
 >1. Kacang tanah, cabai, dan bawang putih digoreng. Hati-hati kacang gosong seperti punya saya 🤭 Kemudian haluskan semua bahan, kecuali cuka dan air jeruk nipis ya. Masukkan air panas sedikit demi sedikit hingga kekentalannya pas.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/54d8d88188cd8fbe/160x128cq70/sambal-kacang-nasi-uduk-betawi-langkah-memasak-2-foto.webp" alt="Sambal Kacang Nasi Uduk Betawi" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7efdb94c8ba2f399/160x128cq70/sambal-kacang-nasi-uduk-betawi-langkah-memasak-2-foto.webp" alt="Sambal Kacang Nasi Uduk Betawi" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/54d8d88188cd8fbe/160x128cq70/sambal-kacang-nasi-uduk-betawi-langkah-memasak-2-foto.png" alt="Sambal Kacang Nasi Uduk Betawi" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7efdb94c8ba2f399/160x128cq70/sambal-kacang-nasi-uduk-betawi-langkah-memasak-2-foto.png" alt="Sambal Kacang Nasi Uduk Betawi" width="340" height="340">
 >1. Pindahkan ke mangkuk, dan tambahkan cuka makan + air jeruk nipis. Sambal kacang siap disajikan
 
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T15:58:16.684Z 
-thumbnail: https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.png
 author: Ethel Young
 ratingvalue: 4.2
 reviewcount: 8
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi ala ricecooker](https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.webp)
+![Nasi uduk betawi ala ricecooker](https://img-global.cpcdn.com/recipes/55a791da71af60e3/682x484cq65/nasi-uduk-betawi-ala-ricecooker-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi uduk betawi ala ricecooker cocok sekali jika digunakan untuk menjamu tamu
 

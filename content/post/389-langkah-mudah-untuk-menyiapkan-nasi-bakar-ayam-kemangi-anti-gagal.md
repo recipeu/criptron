@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-11T02:22:32.231Z 
-thumbnail: https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 author: Adeline Walker
 ratingvalue: 3.2
 reviewcount: 7
@@ -87,7 +87,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar AYAM KEMANGI](https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp)
+![Nasi Bakar AYAM KEMANGI](https://img-global.cpcdn.com/recipes/171abcb60e8253b4/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Bakar AYAM KEMANGI cocok sekali jika digunakan untuk menjamu teman
 

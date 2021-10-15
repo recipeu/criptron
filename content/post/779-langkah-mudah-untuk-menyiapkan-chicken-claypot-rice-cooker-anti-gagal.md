@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T23:26:08.420Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.png
 author: Emilie Hansen
 ratingvalue: 5
 reviewcount: 6
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Chicken Claypot Rice Cooker](https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.webp)
+![Chicken Claypot Rice Cooker](https://img-global.cpcdn.com/recipes/e183ec3cbeb8456d/682x484cq65/chicken-claypot-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Chicken Claypot Rice Cooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

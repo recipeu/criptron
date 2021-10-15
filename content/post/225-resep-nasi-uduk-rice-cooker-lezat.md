@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-04T11:23:29.443Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 author: Leonard Morris
 ratingvalue: 3.9
 reviewcount: 14
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk rice cooker](https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp)
+![Nasi uduk rice cooker](https://img-global.cpcdn.com/recipes/f99b290771fd8d98/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi uduk rice cooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

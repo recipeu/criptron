@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T01:58:14.769Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.png
 author: Daisy Garner
 ratingvalue: 3.1
 reviewcount: 12
@@ -77,7 +77,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar teri, tongkol](https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.webp)
+![Nasi bakar teri, tongkol](https://img-global.cpcdn.com/recipes/8f62dd5f2bdedcdc/682x484cq65/nasi-bakar-teri-tongkol-foto-resep-utama.png)
 
 4 langkah cepat membuat  Nasi bakar teri, tongkol yang wajib kamu coba dirumah
 

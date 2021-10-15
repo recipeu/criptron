@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T06:48:13.742Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.png
 author: Isabelle Poole
 ratingvalue: 3.4
 reviewcount: 5
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi goreng ikan teri medan](https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.webp)
+![Nasi goreng ikan teri medan](https://img-global.cpcdn.com/recipes/f3dc2ecf97c0d7b8/682x484cq65/nasi-goreng-ikan-teri-medan-foto-resep-utama.png)
 
 4 langkah mudah membuat  Nasi goreng ikan teri medan yang musti bunda coba dirumah
 

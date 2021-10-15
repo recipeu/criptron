@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-14T07:46:32.872Z 
-thumbnail: https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.png
 author: Verna Colon
 ratingvalue: 4.9
 reviewcount: 14
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Bihun Nasi Uduk](https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.webp)
+![Bihun Nasi Uduk](https://img-global.cpcdn.com/recipes/770a99b066a5ca2b/682x484cq65/bihun-nasi-uduk-foto-resep-utama.png)
 
 Ingin membuat Bihun Nasi Uduk ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti bunda coba dirumah
 

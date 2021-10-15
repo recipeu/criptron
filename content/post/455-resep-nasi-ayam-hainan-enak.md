@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T06:18:32.789Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 author: Seth Kelly
 ratingvalue: 4.9
 reviewcount: 5
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi ayam hainan](https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp)
+![Nasi ayam hainan](https://img-global.cpcdn.com/recipes/3577a6b7c4bf46ea/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png)
 
 Ingin membuat Nasi ayam hainan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T03:04:00.363Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.png
 author: Virgie Jennings
 ratingvalue: 4.9
 reviewcount: 14
@@ -73,7 +73,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar sederhana ala Dessy](https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.webp)
+![Nasi Bakar sederhana ala Dessy](https://img-global.cpcdn.com/recipes/a3cf617ddff55e74/682x484cq65/nasi-bakar-sederhana-ala-dessy-foto-resep-utama.png)
 
 6 langkah cepat membuat  Nasi Bakar sederhana ala Dessy cocok banget jika digunakan untuk menjamu teman
 

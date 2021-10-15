@@ -7,16 +7,16 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T22:36:51.755Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 author: Chris Marsh
 ratingvalue: 4.6
 reviewcount: 3
 recipeingredient:
-- "Nasi uduk harumnasi biasa 1 cup           lihat resep "
+- "Nasi uduk harumnasi biasa 1 cup   . "
 - "daun kemangi 1 ikat"
 - "dada ayam 1/2"
 - "daun salam 1"
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp)
+![Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ayam suwir  sederhana dengan 5 langkahcepat yang musti kamu coba segera
 
@@ -82,7 +82,7 @@ Resep rahasia Nasi bakar ayam suwir  sederhana dengan 5 langkahcepat yang musti 
 
 ## Bahan-bahan Yang Dibutuhkan Untuk Menyiapkan Nasi bakar ayam suwir:
 
-1. Nasi uduk harumnasi biasa 1 cup           lihat resep 
+1. Nasi uduk harumnasi biasa 1 cup   . 
 1. daun kemangi 1 ikat
 1. dada ayam 1/2
 1. daun salam 1

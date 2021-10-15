@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-05T01:25:41.212Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.png
 author: Amy Sullivan
 ratingvalue: 3.9
 reviewcount: 5
@@ -59,7 +59,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk](https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.webp)
+![Nasi Uduk](https://img-global.cpcdn.com/recipes/ccdf2d703936fb89/682x484cq65/nasi-uduk-foto-resep-utama.png)
 
 Resep Nasi Uduk    dengan 5 langkahcepat cocok sekali jika digunakan untuk menjamu teman
 

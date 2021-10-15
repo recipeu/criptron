@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T01:42:18.949Z 
-thumbnail: https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.png
 author: Ada Burke
 ratingvalue: 3
 reviewcount: 5
@@ -72,7 +72,7 @@ recipecategory: Lunch
 ---
 
 
-![Naskar (Nasi bakar)](https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.webp)
+![Naskar (Nasi bakar)](https://img-global.cpcdn.com/recipes/990a166732304acf/682x484cq65/naskar-nasi-bakar-foto-resep-utama.png)
 
 Ingin membuat Naskar (Nasi bakar) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus kamu coba dirumah
 

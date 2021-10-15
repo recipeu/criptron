@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-03T16:26:01.264Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.png
 author: William Robbins
 ratingvalue: 4
 reviewcount: 4
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng ayam mix vagetable pedes jontor](https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.webp)
+![Nasi goreng ayam mix vagetable pedes jontor](https://img-global.cpcdn.com/recipes/1779c9daeba73d33/682x484cq65/nasi-goreng-ayam-mix-vagetable-pedes-jontor-foto-resep-utama.png)
 
 3 langkah cepat memasak  Nasi goreng ayam mix vagetable pedes jontor cocok sekali jika digunakan untuk menjamu tamu
 

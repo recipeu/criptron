@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T13:45:29.555Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.png
 author: Myrtie Parks
 ratingvalue: 3.7
 reviewcount: 10
@@ -93,7 +93,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto medan resep turun temurun](https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.webp)
+![Soto medan resep turun temurun](https://img-global.cpcdn.com/recipes/a2b53b15ea6f9e84/682x484cq65/soto-medan-resep-turun-temurun-foto-resep-utama.png)
 
 Ingin membuat Soto medan resep turun temurun ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

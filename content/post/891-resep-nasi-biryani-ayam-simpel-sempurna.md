@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T12:19:39.665Z 
-thumbnail: https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.png
 author: Brent Pope
 ratingvalue: 3.9
 reviewcount: 11
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Biryani Ayam Simpel](https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.webp)
+![Nasi Biryani Ayam Simpel](https://img-global.cpcdn.com/recipes/93578d59aa082181/682x484cq65/nasi-biryani-ayam-simpel-foto-resep-utama.png)
 
 5 langkah cepat dan mudah memasak  Nasi Biryani Ayam Simpel cocok sekali jika digunakan untuk menjamu tamu
 

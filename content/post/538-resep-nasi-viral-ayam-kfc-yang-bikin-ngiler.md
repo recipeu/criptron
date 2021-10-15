@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-02T12:09:53.117Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.png
 author: Harriett Howell
 ratingvalue: 4.6
 reviewcount: 13
@@ -61,7 +61,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Viral Ayam KFC](https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.webp)
+![Nasi Viral Ayam KFC](https://img-global.cpcdn.com/recipes/f6c1309fdffe8430/682x484cq65/nasi-viral-ayam-kfc-foto-resep-utama.png)
 
 Ingin membuat Nasi Viral Ayam KFC ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

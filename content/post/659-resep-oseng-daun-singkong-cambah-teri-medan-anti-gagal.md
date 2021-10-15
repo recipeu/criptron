@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T09:49:13.555Z 
-thumbnail: https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.png
 author: Rosalie Guzman
 ratingvalue: 3.3
 reviewcount: 9
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Oseng daun singkong cambah teri medan](https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.webp)
+![Oseng daun singkong cambah teri medan](https://img-global.cpcdn.com/recipes/217431d4095057d5/682x484cq65/oseng-daun-singkong-cambah-teri-medan-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Oseng daun singkong cambah teri medan yang harus ibu coba segera
 

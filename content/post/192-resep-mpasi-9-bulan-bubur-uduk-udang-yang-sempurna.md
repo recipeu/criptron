@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-01T01:22:28.954Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.png
 author: Bernice Silva
 ratingvalue: 4.1
 reviewcount: 7
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Mpasi 9 bulan: bubur uduk udang](https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.webp)
+![Mpasi 9 bulan: bubur uduk udang](https://img-global.cpcdn.com/recipes/9afb207e1357ac06/682x484cq65/mpasi-9-bulan-bubur-uduk-udang-foto-resep-utama.png)
 
 3 langkah cepat mengolah  Mpasi 9 bulan: bubur uduk udang yang bisa bunda coba segera
 

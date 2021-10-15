@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-03T00:38:35.934Z 
-thumbnail: https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.png
 author: Gussie Bowen
 ratingvalue: 4.3
 reviewcount: 5
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk rice cooker simple pulen lezat harum ⭐️⭐️⭐️⭐️⭐️](https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.webp)
+![Nasi uduk rice cooker simple pulen lezat harum ⭐️⭐️⭐️⭐️⭐️](https://img-global.cpcdn.com/recipes/335dcb5fc9815dc7/682x484cq65/nasi-uduk-rice-cooker-simple-pulen-lezat-harum-foto-resep-utama.png)
 
 Ingin membuat Nasi uduk rice cooker simple pulen lezat harum ⭐️⭐️⭐️⭐️⭐️ ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

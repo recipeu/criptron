@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-12T15:42:12.656Z 
-thumbnail: https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.png
 author: Alan Adams
 ratingvalue: 3.9
 reviewcount: 10
@@ -76,7 +76,7 @@ recipecategory: Dinner
 ---
 
 
-![Cumi Krispy Sambel Matah](https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.webp)
+![Cumi Krispy Sambel Matah](https://img-global.cpcdn.com/recipes/98dfc67aaafe4045/682x484cq65/cumi-krispy-sambel-matah-foto-resep-utama.png)
 
 8 langkah mudah dan cepat mengolah  Cumi Krispy Sambel Matah yang bisa kamu coba segera
 

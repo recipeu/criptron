@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-02T10:54:26.824Z 
-thumbnail: https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.png
 author: Bessie Russell
 ratingvalue: 3
 reviewcount: 15
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam suwir pedas](https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.webp)
+![Nasi bakar ayam suwir pedas](https://img-global.cpcdn.com/recipes/71a7356e688e924f/682x484cq65/nasi-bakar-ayam-suwir-pedas-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar ayam suwir pedas ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-30T11:25:01.710Z 
-thumbnail: https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.png
 author: Logan Parker
 ratingvalue: 4.5
 reviewcount: 9
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi ala ibu ida](https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.webp)
+![Nasi uduk betawi ala ibu ida](https://img-global.cpcdn.com/recipes/82bde21cbbd30194/682x484cq65/nasi-uduk-betawi-ala-ibu-ida-foto-resep-utama.png)
 
 8 langkah mudah dan cepat membuat  Nasi uduk betawi ala ibu ida yang harus kamu coba segera
 

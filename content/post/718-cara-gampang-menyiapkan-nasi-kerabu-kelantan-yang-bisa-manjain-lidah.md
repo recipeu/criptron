@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-08T21:43:56.289Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.png
 author: Alberta McDaniel
 ratingvalue: 3
 reviewcount: 10
@@ -101,7 +101,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Kerabu Kelantan](https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.webp)
+![Nasi Kerabu Kelantan](https://img-global.cpcdn.com/recipes/e3e8220f372b9784/682x484cq65/nasi-kerabu-kelantan-foto-resep-utama.png)
 
 Ingin membuat Nasi Kerabu Kelantan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

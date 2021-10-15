@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-20T12:46:08.826Z 
-thumbnail: https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.png
 author: Celia Glover
 ratingvalue: 4.6
 reviewcount: 10
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng Ayam Goreng KFC](https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.webp)
+![Nasi Goreng Ayam Goreng KFC](https://img-global.cpcdn.com/recipes/532b529cbe293636/682x484cq65/nasi-goreng-ayam-goreng-kfc-foto-resep-utama.png)
 
 8 langkah cepat mengolah  Nasi Goreng Ayam Goreng KFC yang harus kamu coba segera
 

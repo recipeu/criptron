@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-11T14:24:22.785Z 
-thumbnail: https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.png
 author: Florence Strickland
 ratingvalue: 3.3
 reviewcount: 9
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Teri Tempe Pedas](https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.webp)
+![Nasi Bakar Teri Tempe Pedas](https://img-global.cpcdn.com/recipes/798f4a21feafced8/682x484cq65/nasi-bakar-teri-tempe-pedas-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Teri Tempe Pedas ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

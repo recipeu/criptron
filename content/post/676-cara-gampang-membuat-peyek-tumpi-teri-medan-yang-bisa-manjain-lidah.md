@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T08:27:25.319Z 
-thumbnail: https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.png
 author: Bessie Kelley
 ratingvalue: 4.8
 reviewcount: 7
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Peyek/tumpi teri medan](https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.webp)
+![Peyek/tumpi teri medan](https://img-global.cpcdn.com/recipes/83e6021023e1f039/682x484cq65/peyektumpi-teri-medan-foto-resep-utama.png)
 
 Resep dan cara mengolah  Peyek/tumpi teri medan cocok banget jika digunakan untuk menjamu tamu
 

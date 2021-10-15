@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T17:34:58.049Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 author: Harriett McKinney
 ratingvalue: 3.4
 reviewcount: 15
@@ -80,7 +80,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk khas betawi](https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp)
+![Nasi uduk khas betawi](https://img-global.cpcdn.com/recipes/8c177c5a893dbe96/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi uduk khas betawi cocok sekali jika digunakan untuk menjamu teman
 

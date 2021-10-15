@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-03T11:54:14.417Z 
-thumbnail: https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.png
 author: Lulu Schneider
 ratingvalue: 3.1
 reviewcount: 12
@@ -81,7 +81,7 @@ recipecategory: Dessert
 ---
 
 
-![Tahu gimbal semarang](https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.webp)
+![Tahu gimbal semarang](https://img-global.cpcdn.com/recipes/62bb4f7279858640/682x484cq65/tahu-gimbal-semarang-foto-resep-utama.png)
 
 8 langkah cepat mengolah  Tahu gimbal semarang yang harus kamu coba dirumah
 

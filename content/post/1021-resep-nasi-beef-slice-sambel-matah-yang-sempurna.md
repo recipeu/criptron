@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T02:50:07.350Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.png
 author: Sally Watkins
 ratingvalue: 4
 reviewcount: 12
@@ -74,7 +74,7 @@ recipecategory: Dessert
 ---
 
 
-![NASI BEEF SLICE SAMBEL MATAH 😋](https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.webp)
+![NASI BEEF SLICE SAMBEL MATAH 😋](https://img-global.cpcdn.com/recipes/b5bd914187a2d5b3/682x484cq65/nasi-beef-slice-sambel-matah-foto-resep-utama.png)
 
 Resep rahasia NASI BEEF SLICE SAMBEL MATAH 😋  sederhana dengan 3 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu teman
 

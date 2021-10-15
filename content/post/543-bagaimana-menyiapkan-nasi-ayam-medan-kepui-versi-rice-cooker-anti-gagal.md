@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T13:42:08.139Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.png
 author: Walter Wilkerson
 ratingvalue: 3.2
 reviewcount: 3
@@ -72,7 +72,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam Medan (Kepui) versi Rice Cooker](https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.webp)
+![Nasi Ayam Medan (Kepui) versi Rice Cooker](https://img-global.cpcdn.com/recipes/a4020680889c94e0/682x484cq65/nasi-ayam-medan-kepui-versi-rice-cooker-foto-resep-utama.png)
 
 5 langkah cepat mengolah  Nasi Ayam Medan (Kepui) versi Rice Cooker cocok sekali jika digunakan untuk menjamu teman
 

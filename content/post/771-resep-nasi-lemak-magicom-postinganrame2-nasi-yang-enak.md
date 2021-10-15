@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T06:41:45.717Z 
-thumbnail: https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.png
 author: Elizabeth Owens
 ratingvalue: 4.2
 reviewcount: 9
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi lemak magicom #postinganrame2_nasi](https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.webp)
+![Nasi lemak magicom #postinganrame2_nasi](https://img-global.cpcdn.com/recipes/dbd3f379d6c7edd6/682x484cq65/nasi-lemak-magicom-postinganrame2_nasi-foto-resep-utama.png)
 
 Resep rahasia Nasi lemak magicom #postinganrame2_nasi    dengan 3 langkahcepat yang bisa kamu coba dirumah
 

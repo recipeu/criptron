@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-08T14:24:09.935Z 
-thumbnail: https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Linnie Holmes
 ratingvalue: 4.6
 reviewcount: 11
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/674cfd729395e618/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk betawi    dengan 5 langkahcepat dan mudah yang wajib ibu coba segera
 
@@ -89,7 +89,7 @@ Menu siap saji, tinggal goreng dan siap disantap dengan. There are no reviews fo
 
 1. Cuci beras sampai bersih
 1. Didihkan santan + bumbu2, aduk jangan sampai santan pecah
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e1198eff5ace2c17/160x128cq70/nasi-uduk-betawi-langkah-memasak-2-foto.webp" alt="Nasi uduk betawi" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e1198eff5ace2c17/160x128cq70/nasi-uduk-betawi-langkah-memasak-2-foto.png" alt="Nasi uduk betawi" width="340" height="340">
 >1. Setelah mendidih, masukan beras, aduk / aron sampai air habis. (Api jangan terlalu besar)
 <img class="lazyload" data-src="//assets-global.cpcdn.com/assets/icons/button_play-2c75c40dde080a61004c1f40b05d8f140eaff45d7e9e6481dc71c63d2e7c4909.png" alt="Nasi uduk betawi" width="340" height="340">
 >1. Panaskan kukusan sampai airnya mendidih. Kukus beras sampai matang. (Saya pakai 2 cup beras kurang lebih 30 menit).

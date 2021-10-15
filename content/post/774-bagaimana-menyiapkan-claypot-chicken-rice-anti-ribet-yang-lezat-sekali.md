@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-21T06:18:17.155Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.png
 author: Bettie Riley
 ratingvalue: 4.3
 reviewcount: 10
@@ -77,7 +77,7 @@ recipecategory: Lunch
 ---
 
 
-![Claypot chicken rice Anti ribet](https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.webp)
+![Claypot chicken rice Anti ribet](https://img-global.cpcdn.com/recipes/6e900d6bb9bb6c4f/682x484cq65/claypot-chicken-rice-anti-ribet-foto-resep-utama.png)
 
 Resep rahasia Claypot chicken rice Anti ribet  enak dengan 10 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T07:33:27.993Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.png
 author: Maud Edwards
 ratingvalue: 4
 reviewcount: 5
@@ -44,7 +44,7 @@ recipeingredient:
 - "Taoge Pendek seduh air panas "
 - "Kubis iris tipis "
 - "Jeruk Nipis "
-- "Tempe Goreng Garit           lihat resep "
+- "Tempe Goreng Garit   . "
 recipeinstructions:
 - "Panaskan air sampai mendidih kemudian masukkan ayam. Masukkan bumbu aromatik. Tutup panci, rebus dengan metode 7.30.7.           (lihat tips)"
 - "Tumis bumbu halus hingga harum. Tambahkan kecap manis, tumis kembali hingga bumbu matang. Angkat."
@@ -83,7 +83,7 @@ recipecategory: Dinner
 ---
 
 
-![249. Soto Semarang](https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.webp)
+![249. Soto Semarang](https://img-global.cpcdn.com/recipes/fc17975d01855c49/682x484cq65/249-soto-semarang-foto-resep-utama.png)
 
 Ingin membuat 249. Soto Semarang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus ibu coba dirumah
 
@@ -119,7 +119,7 @@ Ingin membuat 249. Soto Semarang ? Coba resep berikut ini. Cara memasaknya sanga
 1. Taoge Pendek seduh air panas 
 1. Kubis iris tipis 
 1. Jeruk Nipis 
-1. Tempe Goreng Garit           lihat resep 
+1. Tempe Goreng Garit   . 
 
 
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T03:18:24.465Z 
-thumbnail: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 author: Margaret Lowe
 ratingvalue: 5
 reviewcount: 4
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ayam](https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp)
+![Nasi Bakar Ayam](https://img-global.cpcdn.com/recipes/eb51669546d4afd7/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ayam ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

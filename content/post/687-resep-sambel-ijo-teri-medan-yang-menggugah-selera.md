@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T00:05:55.047Z 
-thumbnail: https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.png
 author: Floyd Patrick
 ratingvalue: 3.7
 reviewcount: 9
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Sambel ijo teri medan](https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.webp)
+![Sambel ijo teri medan](https://img-global.cpcdn.com/recipes/811707b3cb812817/682x484cq65/sambel-ijo-teri-medan-foto-resep-utama.png)
 
 Ingin membuat Sambel ijo teri medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

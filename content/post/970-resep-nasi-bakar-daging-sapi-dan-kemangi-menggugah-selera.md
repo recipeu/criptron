@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-30T00:20:32.077Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.png
 author: Jeremiah Simmons
 ratingvalue: 3.6
 reviewcount: 7
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar daging sapi dan kemangi](https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.webp)
+![Nasi bakar daging sapi dan kemangi](https://img-global.cpcdn.com/recipes/f3574389fe947b60/682x484cq65/nasi-bakar-daging-sapi-dan-kemangi-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar daging sapi dan kemangi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

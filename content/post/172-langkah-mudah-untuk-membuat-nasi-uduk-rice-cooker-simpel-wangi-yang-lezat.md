@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T23:02:48.535Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.png
 author: Nora Rhodes
 ratingvalue: 4.6
 reviewcount: 12
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk rice cooker simpel wangi](https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.webp)
+![Nasi uduk rice cooker simpel wangi](https://img-global.cpcdn.com/recipes/8fa07d995b71c13c/682x484cq65/nasi-uduk-rice-cooker-simpel-wangi-foto-resep-utama.png)
 
 3 langkah cepat membuat  Nasi uduk rice cooker simpel wangi cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T08:41:00.726Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.png
 author: Clifford Silva
 ratingvalue: 4.9
 reviewcount: 13
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Kari](https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.webp)
+![Nasi Goreng Kari](https://img-global.cpcdn.com/recipes/e48656c8b496fced/682x484cq65/nasi-goreng-kari-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Goreng Kari cocok sekali jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-10T18:50:35.861Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.png
 author: Joe Greene
 ratingvalue: 4.1
 reviewcount: 4
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi gurih ayam KFC](https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.webp)
+![Nasi gurih ayam KFC](https://img-global.cpcdn.com/recipes/6a108364e44ffd8d/682x484cq65/nasi-gurih-ayam-kfc-foto-resep-utama.png)
 
 Resep rahasia Nasi gurih ayam KFC    dengan 6 langkahcepat yang wajib ibu coba dirumah
 

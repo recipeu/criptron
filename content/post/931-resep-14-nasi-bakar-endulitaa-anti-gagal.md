@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T03:23:29.753Z 
-thumbnail: https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.png
 author: Jacob Davis
 ratingvalue: 3.9
 reviewcount: 5
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![14. NASI BAKAR endulitaa](https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.webp)
+![14. NASI BAKAR endulitaa](https://img-global.cpcdn.com/recipes/41a9a4fe2fd15564/682x484cq65/14-nasi-bakar-endulitaa-foto-resep-utama.png)
 
 Ingin membuat 14. NASI BAKAR endulitaa ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

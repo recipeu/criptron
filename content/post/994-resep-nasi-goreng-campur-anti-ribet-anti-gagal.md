@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T21:58:51.088Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.png
 author: Keith Hawkins
 ratingvalue: 5
 reviewcount: 13
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Campur Anti Ribet](https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.webp)
+![Nasi Goreng Campur Anti Ribet](https://img-global.cpcdn.com/recipes/8052fd6d6f77e677/682x484cq65/nasi-goreng-campur-anti-ribet-foto-resep-utama.png)
 
 2 langkah cepat dan mudah membuat  Nasi Goreng Campur Anti Ribet yang wajib ibu coba segera
 

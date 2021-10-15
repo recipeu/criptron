@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-24T03:55:32.790Z 
-thumbnail: https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.png
 author: Rebecca Clark
 ratingvalue: 4.1
 reviewcount: 10
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk bumbu kacang](https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.webp)
+![Nasi uduk bumbu kacang](https://img-global.cpcdn.com/recipes/775ebbcdeb597a21/682x484cq65/nasi-uduk-bumbu-kacang-foto-resep-utama.png)
 
 Resep Nasi uduk bumbu kacang  enak dengan 3 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 
@@ -109,7 +109,7 @@ Ok langsung saja, silahkan catat bahan-bahan dan bumbu apa saja yang dibutuhkan,
 
 1. Santan dituang diwajan dimasukkan semua dengan bahan lainnya dimasak sampai santan mendidih dengan api kecil terus diaduk agar tidak pecah santan, masukkan garam, lada, totole. - kemudian setelah mendidih masukkan beras dan aron sampai semua menyerap. setelah itu siapkan kukusan dan beras setengah matang itu dikukus 45 menit sampai matang test rasa. setelah matang diaduk dan tutup sesaat. setelah itu diambil daun2, rempahnya dan diberikan minyak bawang, diaduk lagi dan pindahkan ke ricecooker warm
 1. Kacang, cabai, dan bawang digoreng kemudian dihaluskan dgn cara diulek ataupun diblender, kemudian campurkan air lemon, garam, totole, gula merah ratakan dan test rasa. jika dirasa kekentalan bisa ditambahkan air lagi.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/04d55e18a4f7ecec/160x128cq70/nasi-uduk-bumbu-kacang-langkah-memasak-2-foto.webp" alt="Nasi uduk bumbu kacang" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/04d55e18a4f7ecec/160x128cq70/nasi-uduk-bumbu-kacang-langkah-memasak-2-foto.png" alt="Nasi uduk bumbu kacang" width="340" height="340">
 >1. Selamat menikmati. nasi uduk enakkk bgt dgn tambahan2 lauk yg cocok seperti ayam goreng, tempe orek, perkedel, bihun goreng dan pastinya bawang goreng dan krupuk. selamat menikmati
 
 

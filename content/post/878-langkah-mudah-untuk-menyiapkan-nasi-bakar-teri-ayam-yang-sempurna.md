@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T00:31:46.032Z 
-thumbnail: https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.png
 author: Katherine Vaughn
 ratingvalue: 4.5
 reviewcount: 12
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Teri Ayam](https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.webp)
+![Nasi Bakar Teri Ayam](https://img-global.cpcdn.com/recipes/67ca43ad747e1b6a/682x484cq65/nasi-bakar-teri-ayam-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Teri Ayam  sederhana dengan 6 langkahmudah cocok banget jika digunakan untuk menjamu teman
 

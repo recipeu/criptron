@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T14:42:53.470Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png
 author: Genevieve Watson
 ratingvalue: 3.5
 reviewcount: 11
@@ -80,7 +80,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Liwet &amp; Dori Sambal Matah](https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp)
+![Nasi Liwet &amp; Dori Sambal Matah](https://img-global.cpcdn.com/recipes/6ea5a6d104dacac0/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png)
 
 8 langkah cepat dan mudah memasak  Nasi Liwet &amp; Dori Sambal Matah yang harus bunda coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-14T12:20:53.493Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Hettie Chambers
 ratingvalue: 4.3
 reviewcount: 9
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/a379d7a0ee1be478/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep Nasi Uduk Betawi    dengan 6 langkahcepat yang musti ibu coba segera
 

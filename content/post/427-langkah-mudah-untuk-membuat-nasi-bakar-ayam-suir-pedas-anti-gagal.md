@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-09T20:39:56.203Z 
-thumbnail: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
 author: Ola Byrd
 ratingvalue: 3.3
 reviewcount: 4
@@ -71,7 +71,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar ayam suir pedas](https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp)
+![Nasi bakar ayam suir pedas](https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png)
 
 Resep Nasi bakar ayam suir pedas    dengan 7 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

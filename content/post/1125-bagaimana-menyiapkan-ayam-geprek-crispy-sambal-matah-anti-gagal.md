@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T13:34:56.220Z 
-thumbnail: https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.png
 author: Winifred Goodman
 ratingvalue: 4.6
 reviewcount: 14
@@ -37,7 +37,7 @@ recipeingredient:
 - "air dingin 50 ml"
 - "campuran bahan kering 1 sdm"
 - "Sambal matah "
-- "Resep sambal matah           lihat resep "
+- "Resep sambal matah   . "
 recipeinstructions:
 - "Belah ayam fillet dada menjadi 2 bagian atau bisa di belah lagi supaya lebih tipis, cuci bersih"
 - "Haluskan bawang putih, merica bubuk, garam. Baluri diseluruh permukaan ayam fillet. Diamkan selama 30 menit"
@@ -84,7 +84,7 @@ recipecategory: Dessert
 ---
 
 
-![Ayam Geprek Crispy Sambal Matah](https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.webp)
+![Ayam Geprek Crispy Sambal Matah](https://img-global.cpcdn.com/recipes/26bae8ceff4494f9/682x484cq65/ayam-geprek-crispy-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Ayam Geprek Crispy Sambal Matah    dengan 13 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu tamu
 
@@ -113,7 +113,7 @@ Resep rahasia Ayam Geprek Crispy Sambal Matah    dengan 13 langkahcepat dan muda
 1. air dingin 50 ml
 1. campuran bahan kering 1 sdm
 1. Sambal matah 
-1. Resep sambal matah           lihat resep 
+1. Resep sambal matah   . 
 
 Bikin ayam crispy susu yang lembut banget bisa DI freezer! Ayam geprek, ayam goreng tepung yang digeprek lalu disajikan pakai sambal bawang. Ayam harus dibaluri adonan tepung beberapa kali sebelum digoreng. KOMPAS.com - Ayam Geprek adalah ayam goreng tepung yang disajikan dengan sambal rawit pedas. 
 

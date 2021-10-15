@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T15:44:09.477Z 
-thumbnail: https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.png
 author: Mamie George
 ratingvalue: 4.6
 reviewcount: 8
@@ -61,7 +61,7 @@ recipecategory: Dinner
 ---
 
 
-![NASI UDUK BETAWI (gurih, harum lezaaat)](https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.webp)
+![NASI UDUK BETAWI (gurih, harum lezaaat)](https://img-global.cpcdn.com/recipes/88d841ed00c7b802/682x484cq65/nasi-uduk-betawi-gurih-harum-lezaaat-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  NASI UDUK BETAWI (gurih, harum lezaaat) yang musti bunda coba segera
 

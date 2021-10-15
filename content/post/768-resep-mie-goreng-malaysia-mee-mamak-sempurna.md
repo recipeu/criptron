@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T10:42:58.404Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.png
 author: Christina Berry
 ratingvalue: 4.5
 reviewcount: 15
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Mie Goreng Malaysia (Mee Mamak)](https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.webp)
+![Mie Goreng Malaysia (Mee Mamak)](https://img-global.cpcdn.com/recipes/e3f814508bcf1e58/682x484cq65/mie-goreng-malaysia-mee-mamak-foto-resep-utama.png)
 
 Resep rahasia Mie Goreng Malaysia (Mee Mamak)    dengan 6 langkahcepat dan mudah yang wajib kamu coba dirumah
 

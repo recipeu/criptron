@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-18T04:39:46.173Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.png
 author: Francis Gibbs
 ratingvalue: 3.8
 reviewcount: 10
@@ -79,7 +79,7 @@ recipecategory: Dessert
 ---
 
 
-![JUKUT PULUNG-PULUNG AYAM (BALI)](https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.webp)
+![JUKUT PULUNG-PULUNG AYAM (BALI)](https://img-global.cpcdn.com/recipes/9bbcb7473291e744/682x484cq65/jukut-pulung-pulung-ayam-bali-foto-resep-utama.png)
 
 Ingin membuat JUKUT PULUNG-PULUNG AYAM (BALI) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

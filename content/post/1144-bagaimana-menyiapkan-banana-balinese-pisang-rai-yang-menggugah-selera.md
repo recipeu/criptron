@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T13:10:18.295Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.png
 author: Amelia Wolfe
 ratingvalue: 4.9
 reviewcount: 14
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Banana Balinese (Pisang Rai)](https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.webp)
+![Banana Balinese (Pisang Rai)](https://img-global.cpcdn.com/recipes/9ac8fc3b1c9616ec/682x484cq65/banana-balinese-pisang-rai-foto-resep-utama.png)
 
 Resep Banana Balinese (Pisang Rai)  anti gagal dengan 5 langkahcepat yang bisa bunda coba segera
 
@@ -107,15 +107,15 @@ The bananas are first coated in a homemade batter of rice flour. We have been in
 
 1. Kukus pisang dan potong pisang 1/2 bagian.
 1. Siapkan air rebusan
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/aa4a6a9f13c0e850/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-2-foto.webp" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/aa4a6a9f13c0e850/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-2-foto.png" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
 >1. Campur bahan adonan.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/008cdea12e886605/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-3-foto.webp" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c9cdac8c38a5192f/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-3-foto.webp" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/2dbb08d7a62e2e5d/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-3-foto.webp" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/008cdea12e886605/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-3-foto.png" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c9cdac8c38a5192f/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-3-foto.png" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/2dbb08d7a62e2e5d/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-3-foto.png" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
 >1. Celupkan pisang ke adonan dan masukkan pada air rebusan smp matang mengambang tiriskan.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/faa69f989fcefa0c/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-4-foto.webp" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ff6f7517d99d5f5a/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-4-foto.webp" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b072ba7a52cf3768/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-4-foto.webp" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/faa69f989fcefa0c/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-4-foto.png" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ff6f7517d99d5f5a/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-4-foto.png" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b072ba7a52cf3768/160x128cq70/banana-balinese-pisang-rai-langkah-memasak-4-foto.png" alt="Banana Balinese (Pisang Rai)" width="340" height="340">
 >1. Sajikan dg menggunakan topping kelapa parut yg sudah dikukus.
 
 

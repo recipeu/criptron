@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-08T09:21:00.328Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.png
 author: Ora Maxwell
 ratingvalue: 4.2
 reviewcount: 13
@@ -57,7 +57,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk simple](https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp)
+![Nasi uduk simple](https://img-global.cpcdn.com/recipes/fd4180e33b032009/682x484cq65/nasi-uduk-simple-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi uduk simple cocok sekali jika digunakan untuk menjamu teman
 

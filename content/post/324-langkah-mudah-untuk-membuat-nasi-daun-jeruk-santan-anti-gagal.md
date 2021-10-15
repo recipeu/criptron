@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T19:54:28.091Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.png
 author: Ellen Soto
 ratingvalue: 3.8
 reviewcount: 14
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi daun jeruk santan](https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.webp)
+![Nasi daun jeruk santan](https://img-global.cpcdn.com/recipes/3fcf60170a769629/682x484cq65/nasi-daun-jeruk-santan-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi daun jeruk santan yang harus bunda coba segera
 

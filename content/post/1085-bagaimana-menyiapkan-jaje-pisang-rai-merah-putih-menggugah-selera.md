@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T15:47:34.574Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.png
 author: Lois Reyes
 ratingvalue: 4.5
 reviewcount: 3
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Jaje Pisang Rai (Merah Putih)](https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.webp)
+![Jaje Pisang Rai (Merah Putih)](https://img-global.cpcdn.com/recipes/2a4cf1d7dcf0d3a7/682x484cq65/jaje-pisang-rai-merah-putih-foto-resep-utama.png)
 
 Ingin membuat Jaje Pisang Rai (Merah Putih) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus kamu coba segera
 

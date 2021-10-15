@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-19T16:52:05.071Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.png
 author: Mae Brooks
 ratingvalue: 4.8
 reviewcount: 4
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Ungu (Kembang Teleng)](https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.webp)
+![Nasi Uduk Ungu (Kembang Teleng)](https://img-global.cpcdn.com/recipes/b297870bc04b3607/682x484cq65/nasi-uduk-ungu-kembang-teleng-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Uduk Ungu (Kembang Teleng) yang musti ibu coba segera
 

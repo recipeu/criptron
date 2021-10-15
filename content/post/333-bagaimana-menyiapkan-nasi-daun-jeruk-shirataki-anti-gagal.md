@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T06:02:59.610Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.png
 author: Marc Hansen
 ratingvalue: 4.9
 reviewcount: 7
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi daun jeruk Shirataki](https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.webp)
+![Nasi daun jeruk Shirataki](https://img-global.cpcdn.com/recipes/fae1ce3142254c43/682x484cq65/nasi-daun-jeruk-shirataki-foto-resep-utama.png)
 
 Ingin membuat Nasi daun jeruk Shirataki ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

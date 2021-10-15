@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T04:09:56.707Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.png
 author: Chris Austin
 ratingvalue: 3.1
 reviewcount: 15
@@ -108,7 +108,7 @@ recipecategory: Dessert
 ---
 
 
-![•Nasi Uduk Semur Telur Tahu Betawi• by Dapur Itha](https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.webp)
+![•Nasi Uduk Semur Telur Tahu Betawi• by Dapur Itha](https://img-global.cpcdn.com/recipes/6717d8b11d06e2e2/682x484cq65/nasi-uduk-semur-telur-tahu-betawi-by-dapur-itha-foto-resep-utama.png)
 
 Resep rahasia •Nasi Uduk Semur Telur Tahu Betawi• by Dapur Itha  sederhana dengan 9 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

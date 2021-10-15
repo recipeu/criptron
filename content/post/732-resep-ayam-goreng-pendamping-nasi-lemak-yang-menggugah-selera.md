@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T03:51:04.206Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.png
 author: Eleanor Mullins
 ratingvalue: 4.2
 reviewcount: 11
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Ayam goreng pendamping nasi lemak](https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.webp)
+![Ayam goreng pendamping nasi lemak](https://img-global.cpcdn.com/recipes/c62d56a5fa51a1c1/682x484cq65/ayam-goreng-pendamping-nasi-lemak-foto-resep-utama.png)
 
 3 langkah mudah dan cepat memasak  Ayam goreng pendamping nasi lemak cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-22T23:44:31.983Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png
 author: Joel Goodwin
 ratingvalue: 3.8
 reviewcount: 7
@@ -79,7 +79,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto Ayam Khas Semarang](https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp)
+![Soto Ayam Khas Semarang](https://img-global.cpcdn.com/recipes/1e934c14c0a6ede1/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png)
 
 Resep rahasia Soto Ayam Khas Semarang  anti gagal dengan 6 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

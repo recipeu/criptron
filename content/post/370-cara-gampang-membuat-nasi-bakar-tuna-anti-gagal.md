@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T10:16:13.981Z 
-thumbnail: https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.png
 author: Edwin Garner
 ratingvalue: 4.5
 reviewcount: 8
@@ -81,7 +81,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Tuna](https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.webp)
+![Nasi Bakar Tuna](https://img-global.cpcdn.com/recipes/dc24279c7e1b8e08/682x484cq65/nasi-bakar-tuna-foto-resep-utama.png)
 
 5 langkah mudah membuat  Nasi Bakar Tuna cocok sekali jika digunakan untuk menjamu tamu
 

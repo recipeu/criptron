@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T03:29:25.062Z 
-thumbnail: https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Sophia Boone
 ratingvalue: 4.8
 reviewcount: 15
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/68b1bceeac8f8d03/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk betawi  anti gagal dengan 4 langkahmudah yang harus ibu coba dirumah
 

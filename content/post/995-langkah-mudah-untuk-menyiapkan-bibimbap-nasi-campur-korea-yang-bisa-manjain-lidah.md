@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T09:00:24.624Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.png
 author: Olive Hale
 ratingvalue: 3.1
 reviewcount: 3
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Bibimbap / nasi campur Korea](https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.webp)
+![Bibimbap / nasi campur Korea](https://img-global.cpcdn.com/recipes/e2b4d26130a99c47/682x484cq65/bibimbap-nasi-campur-korea-foto-resep-utama.png)
 
 4 langkah mudah dan cepat mengolah  Bibimbap / nasi campur Korea cocok sekali jika digunakan untuk menjamu teman
 

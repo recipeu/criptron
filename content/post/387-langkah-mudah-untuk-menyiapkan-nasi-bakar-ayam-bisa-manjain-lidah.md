@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-13T15:30:34.271Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 author: Eddie Adams
 ratingvalue: 4.1
 reviewcount: 14
@@ -84,7 +84,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ayam](https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp)
+![Nasi Bakar Ayam](https://img-global.cpcdn.com/recipes/9ba323a91394f72d/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png)
 
 9 langkah cepat dan mudah memasak  Nasi Bakar Ayam yang wajib bunda coba segera
 

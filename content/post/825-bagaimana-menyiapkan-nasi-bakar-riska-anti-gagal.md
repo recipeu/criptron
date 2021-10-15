@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-21T11:35:08.801Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.png
 author: Brandon Massey
 ratingvalue: 4.7
 reviewcount: 15
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar Riska](https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.webp)
+![Nasi bakar Riska](https://img-global.cpcdn.com/recipes/4ed095373bf8b451/682x484cq65/nasi-bakar-riska-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar Riska ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa kamu coba segera
 

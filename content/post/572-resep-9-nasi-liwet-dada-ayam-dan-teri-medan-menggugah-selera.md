@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-25T02:42:17.678Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.png
 author: Jayden Lewis
 ratingvalue: 3.1
 reviewcount: 11
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![9. Nasi Liwet Dada ayam dan teri Medan](https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.webp)
+![9. Nasi Liwet Dada ayam dan teri Medan](https://img-global.cpcdn.com/recipes/2e4855ad48a0f579/682x484cq65/9-nasi-liwet-dada-ayam-dan-teri-medan-foto-resep-utama.png)
 
 Ingin membuat 9. Nasi Liwet Dada ayam dan teri Medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T03:44:26.258Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.png
 author: Alexander Roy
 ratingvalue: 3.5
 reviewcount: 3
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Biryani al mumtazza](https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.webp)
+![Nasi Biryani al mumtazza](https://img-global.cpcdn.com/recipes/5447255ca0cf5ccd/682x484cq65/nasi-biryani-al-mumtazza-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Biryani al mumtazza cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T11:52:20.699Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.png
 author: Nora Anderson
 ratingvalue: 4
 reviewcount: 13
@@ -41,7 +41,7 @@ recipeinstructions:
 - "Bumbui lada hitam dan sedikiit saja garam (teri medannya sudah asin). Aduk-aduk kembali, masak sampai nasi matang dan terlihat kering."
 - "Tuangkan kocokan telur. Biarkan 5-7 detik, lalu aduk kembali supaya merata dengan nasi. Masak sampai terlihat kering kembali dan matang."
 - "Matikan api, masukkan sisa bagian hijau daun bawang dan cabe rawit, aduk-aduk merata."
-- ""
+. 
 - "Terakhir masukkan teri medang goreng. Aduk rata kembali dan koreksi rasa. Ditahap ini baru ketahuan nasi gorengnya sudah cukup asin atau masih butuh garam lagi."
 - "Sajikan..."
 categories:
@@ -76,7 +76,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng Teri Medan #pr_wantuteri](https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.webp)
+![Nasi Goreng Teri Medan #pr_wantuteri](https://img-global.cpcdn.com/recipes/9d5b4fea110bd8f6/682x484cq65/nasi-goreng-teri-medan-pr_wantuteri-foto-resep-utama.png)
 
 9 langkah mudah membuat  Nasi Goreng Teri Medan #pr_wantuteri cocok sekali jika digunakan untuk menjamu teman
 

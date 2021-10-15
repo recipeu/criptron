@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T10:20:00.886Z 
-thumbnail: https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.png
 author: Marion Scott
 ratingvalue: 3.6
 reviewcount: 14
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)](https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.webp)
+![Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)](https://img-global.cpcdn.com/recipes/81a7998b0d48c2a2/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-kana-foto-resep-utama.png)
 
 Ingin membuat Nasi Daun Jeruk (ala Se&#39;i Sapi Kana) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus kamu coba dirumah
 
@@ -91,13 +91,13 @@ Ingin membuat Nasi Daun Jeruk (ala Se&#39;i Sapi Kana) ? Coba resep berikut ini.
 
 1. Siapkan bahan-bahan bumbu: cincang halus bawang putih, cincang cabe merah buang bijinya, iris tipis daun jeruk buang tukang tengahnya
 1. Cuci beras, siapkan air untuk takaran memasak pada umumnya
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/d0cd1f3719cc98a5/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-2-foto.webp" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/d0cd1f3719cc98a5/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-2-foto.png" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
 >1. Tumis bawang putih terlebih dahulu, lalu masukan cabe dan daun jeruk
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/9d644bd0b34b1aee/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c553b6ec0b0f767e/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/9d644bd0b34b1aee/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c553b6ec0b0f767e/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
 >1. Tumis hingga matang
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/29385d3e61fcdd56/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-4-foto.webp" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e97679246d81a07b/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-4-foto.webp" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/29385d3e61fcdd56/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-4-foto.png" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e97679246d81a07b/160x128cq70/nasi-daun-jeruk-ala-sei-sapi-kana-langkah-memasak-4-foto.png" alt="Nasi Daun Jeruk (ala Se&#39;i Sapi Kana)" width="340" height="340">
 >1. Tuangkan bumbu tumisan ke dalam wadah ricecooker, beri garam, kaldu ayam, kaldu jamur. Aduk.tes rasa. Kemudian masak di rice cooker (seperti masak nasi biasa)
 1. Nasi daun jeruk sudah matang, jika mau lebih terasa daun jeruknya bisa di tambahkan lagi lebih banyak, tergantung selera saja yah
 1. Nasi daun jeruk siap disajikan. Selamat menikmati, selamat mencoba. Bisa nambah terus ni makannya hehe

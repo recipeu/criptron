@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-17T00:23:16.220Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.png
 author: Russell Bennett
 ratingvalue: 3.6
 reviewcount: 5
@@ -86,7 +86,7 @@ recipecategory: Lunch
 ---
 
 
-![Sate Padang Medan](https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.webp)
+![Sate Padang Medan](https://img-global.cpcdn.com/recipes/ca5be6c939a5f2ec/682x484cq65/sate-padang-medan-foto-resep-utama.png)
 
 Resep rahasia Sate Padang Medan    dengan 3 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu tamu
 

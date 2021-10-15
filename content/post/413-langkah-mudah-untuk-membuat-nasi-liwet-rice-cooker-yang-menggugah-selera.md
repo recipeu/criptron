@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-02T06:17:19.899Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
 author: Allie Silva
 ratingvalue: 3.6
 reviewcount: 6
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Liwet Rice Cooker](https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp)
+![Nasi Liwet Rice Cooker](https://img-global.cpcdn.com/recipes/4d4cb6b68a9cd2a3/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Liwet Rice Cooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus ibu coba segera
 

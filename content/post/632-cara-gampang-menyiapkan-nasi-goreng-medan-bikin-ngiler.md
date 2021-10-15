@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-27T19:24:23.395Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.png
 author: Frank Jackson
 ratingvalue: 4.3
 reviewcount: 5
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Medan](https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp)
+![Nasi Goreng Medan](https://img-global.cpcdn.com/recipes/8156b55e43ae8f06/682x484cq65/nasi-goreng-medan-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Goreng Medan yang bisa bunda coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-19T17:48:03.389Z 
-thumbnail: https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.png
 author: Phillip McCoy
 ratingvalue: 4.4
 reviewcount: 11
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![MPASI 6+ Bubur Uduk Ayam Wortel Tahu](https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.webp)
+![MPASI 6+ Bubur Uduk Ayam Wortel Tahu](https://img-global.cpcdn.com/recipes/de0deb4acd8e47a8/682x484cq65/mpasi-6-bubur-uduk-ayam-wortel-tahu-foto-resep-utama.png)
 
 Resep MPASI 6+ Bubur Uduk Ayam Wortel Tahu    dengan 3 langkahmudah cocok sekali jika digunakan untuk menjamu tamu
 

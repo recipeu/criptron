@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-07T10:52:15.599Z 
-thumbnail: https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.png
 author: Augusta Lucas
 ratingvalue: 3
 reviewcount: 3
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar (Cumi Balado)](https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.webp)
+![Nasi Bakar (Cumi Balado)](https://img-global.cpcdn.com/recipes/916d15a93bca6efc/682x484cq65/nasi-bakar-cumi-balado-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar (Cumi Balado)    dengan 6 langkahcepat dan mudah yang musti kamu coba segera
 

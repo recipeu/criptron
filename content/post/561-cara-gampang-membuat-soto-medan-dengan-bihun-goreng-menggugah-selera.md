@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T07:52:22.760Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.png
 author: Alfred Stevens
 ratingvalue: 4.7
 reviewcount: 7
@@ -85,7 +85,7 @@ recipecategory: Dinner
 ---
 
 
-![Soto medan dengan bihun goreng](https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.webp)
+![Soto medan dengan bihun goreng](https://img-global.cpcdn.com/recipes/5d2fafe931fc2de4/682x484cq65/soto-medan-dengan-bihun-goreng-foto-resep-utama.png)
 
 Ingin membuat Soto medan dengan bihun goreng ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa ibu coba segera
 

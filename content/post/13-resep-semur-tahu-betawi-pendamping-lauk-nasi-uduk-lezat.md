@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-25T17:45:56.529Z 
-thumbnail: https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.png
 author: Birdie Osborne
 ratingvalue: 4.9
 reviewcount: 4
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Semur Tahu Betawi (Pendamping Lauk Nasi Uduk)](https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.webp)
+![Semur Tahu Betawi (Pendamping Lauk Nasi Uduk)](https://img-global.cpcdn.com/recipes/da75febfc034d304/682x484cq65/semur-tahu-betawi-pendamping-lauk-nasi-uduk-foto-resep-utama.png)
 
 3 langkah cepat mengolah  Semur Tahu Betawi (Pendamping Lauk Nasi Uduk) cocok sekali jika digunakan untuk menjamu tamu
 

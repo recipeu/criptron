@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-11T15:41:56.911Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.png
 author: Milton Hill
 ratingvalue: 3.7
 reviewcount: 8
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![255. Nasi Daun Jeruk Ala Dapoer Budhe](https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.webp)
+![255. Nasi Daun Jeruk Ala Dapoer Budhe](https://img-global.cpcdn.com/recipes/b6978c59db9c519c/682x484cq65/255-nasi-daun-jeruk-ala-dapoer-budhe-foto-resep-utama.png)
 
 Ingin membuat 255. Nasi Daun Jeruk Ala Dapoer Budhe ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus kamu coba segera
 

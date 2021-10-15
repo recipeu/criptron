@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T03:11:06.528Z 
-thumbnail: https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.png
 author: Earl Banks
 ratingvalue: 4.1
 reviewcount: 3
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk simple lauk orek tempe &amp; telur balado](https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.webp)
+![Nasi uduk simple lauk orek tempe &amp; telur balado](https://img-global.cpcdn.com/recipes/42c82b9b2c31c3bb/682x484cq65/nasi-uduk-simple-lauk-orek-tempe-telur-balado-foto-resep-utama.png)
 
 Ingin membuat Nasi uduk simple lauk orek tempe &amp; telur balado ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

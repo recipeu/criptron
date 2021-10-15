@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-20T09:41:31.527Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.png
 author: Chris Christensen
 ratingvalue: 4.8
 reviewcount: 7
@@ -84,7 +84,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar ikan tuna jamur tiram pedas](https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.webp)
+![Nasi Bakar ikan tuna jamur tiram pedas](https://img-global.cpcdn.com/recipes/c103ff7bdb53af37/682x484cq65/nasi-bakar-ikan-tuna-jamur-tiram-pedas-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar ikan tuna jamur tiram pedas  enak dengan 10 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

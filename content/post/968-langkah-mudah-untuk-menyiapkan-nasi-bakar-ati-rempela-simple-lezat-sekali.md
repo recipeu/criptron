@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-26T20:20:14.857Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.png
 author: Eddie Harmon
 ratingvalue: 4.3
 reviewcount: 10
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ati Rempela Simple](https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.webp)
+![Nasi Bakar Ati Rempela Simple](https://img-global.cpcdn.com/recipes/c97a1db8e83b23b3/682x484cq65/nasi-bakar-ati-rempela-simple-foto-resep-utama.png)
 
 5 langkah cepat memasak  Nasi Bakar Ati Rempela Simple cocok banget jika digunakan untuk menjamu teman
 

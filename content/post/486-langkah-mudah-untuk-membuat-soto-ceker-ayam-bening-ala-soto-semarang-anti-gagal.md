@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T04:30:16.753Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.png
 author: Gilbert Young
 ratingvalue: 3.4
 reviewcount: 6
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto ceker ayam bening, ala soto Semarang](https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.webp)
+![Soto ceker ayam bening, ala soto Semarang](https://img-global.cpcdn.com/recipes/8ff07fe2a0f976ba/682x484cq65/soto-ceker-ayam-bening-ala-soto-semarang-foto-resep-utama.png)
 
 4 langkah mudah dan cepat memasak  Soto ceker ayam bening, ala soto Semarang yang bisa ibu coba dirumah
 

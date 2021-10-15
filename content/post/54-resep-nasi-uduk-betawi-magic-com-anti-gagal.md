@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-22T03:38:06.750Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 author: Rena Schmidt
 ratingvalue: 3.8
 reviewcount: 8
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi (Magic Com)](https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp)
+![Nasi Uduk Betawi (Magic Com)](https://img-global.cpcdn.com/recipes/e5ae4738b23f01f1/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Betawi (Magic Com)    dengan 7 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu tamu
 

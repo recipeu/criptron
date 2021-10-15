@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T02:41:00.472Z 
-thumbnail: https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.png
 author: Adrian Thompson
 ratingvalue: 3
 reviewcount: 11
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Dori Sambal Matah](https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.webp)
+![Dori Sambal Matah](https://img-global.cpcdn.com/recipes/865ae49ec90e7f96/682x484cq65/dori-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Dori Sambal Matah    dengan 2 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

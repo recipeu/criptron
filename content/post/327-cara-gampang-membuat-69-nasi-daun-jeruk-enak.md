@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-14T18:17:54.975Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.png
 author: Mollie Nguyen
 ratingvalue: 3.7
 reviewcount: 8
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![69. Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.webp)
+![69. Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/9065eec93b8d2b85/682x484cq65/69-nasi-daun-jeruk-foto-resep-utama.png)
 
 Resep rahasia 69. Nasi Daun Jeruk    dengan 4 langkahcepat dan mudah yang harus kamu coba segera
 

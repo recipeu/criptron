@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-29T14:39:10.300Z 
-thumbnail: https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Robert Nunez
 ratingvalue: 4.8
 reviewcount: 3
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/81d27b15bcec5ee3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi uduk betawi cocok sekali jika digunakan untuk menjamu teman
 

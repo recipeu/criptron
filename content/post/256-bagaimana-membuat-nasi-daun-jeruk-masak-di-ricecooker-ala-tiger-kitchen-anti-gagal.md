@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T16:25:40.332Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.png
 author: Manuel Wade
 ratingvalue: 4.3
 reviewcount: 15
@@ -59,7 +59,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk masak di RiceCooker ala Tiger Kitchen](https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.webp)
+![Nasi Daun Jeruk masak di RiceCooker ala Tiger Kitchen](https://img-global.cpcdn.com/recipes/1a129550747139f0/682x484cq65/nasi-daun-jeruk-masak-di-ricecooker-ala-tiger-kitchen-foto-resep-utama.png)
 
 4 langkah mudah dan cepat mengolah  Nasi Daun Jeruk masak di RiceCooker ala Tiger Kitchen yang harus bunda coba segera
 

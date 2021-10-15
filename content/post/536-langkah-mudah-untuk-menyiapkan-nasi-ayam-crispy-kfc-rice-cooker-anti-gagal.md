@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-29T14:30:12.101Z 
-thumbnail: https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.png
 author: Beatrice Bowen
 ratingvalue: 4.8
 reviewcount: 14
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Crispy KFC Rice Cooker](https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.webp)
+![Nasi Ayam Crispy KFC Rice Cooker](https://img-global.cpcdn.com/recipes/02770df9784e7573/682x484cq65/nasi-ayam-crispy-kfc-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Ayam Crispy KFC Rice Cooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa bunda coba dirumah
 

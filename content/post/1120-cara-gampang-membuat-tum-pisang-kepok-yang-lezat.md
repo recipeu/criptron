@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T18:36:29.955Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.png
 author: Claudia Fernandez
 ratingvalue: 4.4
 reviewcount: 15
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Tum Pisang Kepok](https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.webp)
+![Tum Pisang Kepok](https://img-global.cpcdn.com/recipes/f8bd9cb901afc168/682x484cq65/tum-pisang-kepok-foto-resep-utama.png)
 
 Ingin membuat Tum Pisang Kepok ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

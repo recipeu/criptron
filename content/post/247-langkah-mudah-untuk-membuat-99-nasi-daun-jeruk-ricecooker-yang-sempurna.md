@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T15:29:31.044Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.png
 author: Todd Flores
 ratingvalue: 4.9
 reviewcount: 14
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![99. Nasi Daun Jeruk Ricecooker](https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.webp)
+![99. Nasi Daun Jeruk Ricecooker](https://img-global.cpcdn.com/recipes/e9b01ddb8b811e51/682x484cq65/99-nasi-daun-jeruk-ricecooker-foto-resep-utama.png)
 
 Ingin membuat 99. Nasi Daun Jeruk Ricecooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

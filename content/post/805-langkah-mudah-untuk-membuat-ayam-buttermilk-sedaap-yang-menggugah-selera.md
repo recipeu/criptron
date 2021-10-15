@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-24T03:33:07.801Z 
-thumbnail: https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.png
 author: Mittie Pena
 ratingvalue: 4.8
 reviewcount: 5
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Ayam buttermilk sedaap](https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.webp)
+![Ayam buttermilk sedaap](https://img-global.cpcdn.com/recipes/492eb99af9579f19/682x484cq65/ayam-buttermilk-sedaap-foto-resep-utama.png)
 
 Ingin membuat Ayam buttermilk sedaap ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

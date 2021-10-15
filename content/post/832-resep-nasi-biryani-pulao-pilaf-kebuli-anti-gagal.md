@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T22:26:02.834Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.png
 author: Sean Rodriquez
 ratingvalue: 4.1
 reviewcount: 13
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Biryani/Pulao/Pilaf/Kebuli](https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.webp)
+![Nasi Biryani/Pulao/Pilaf/Kebuli](https://img-global.cpcdn.com/recipes/2b0768d321e4a5e4/682x484cq65/nasi-biryanipulaopilafkebuli-foto-resep-utama.png)
 
 Ingin membuat Nasi Biryani/Pulao/Pilaf/Kebuli ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

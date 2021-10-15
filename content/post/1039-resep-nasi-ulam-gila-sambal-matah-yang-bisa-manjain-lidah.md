@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-14T23:55:00.300Z 
-thumbnail: https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.png
 author: Martha Stevens
 ratingvalue: 3.9
 reviewcount: 13
@@ -61,7 +61,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ulam Gila Sambal Matah](https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.webp)
+![Nasi Ulam Gila Sambal Matah](https://img-global.cpcdn.com/recipes/da25e550d58822f6/682x484cq65/nasi-ulam-gila-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Nasi Ulam Gila Sambal Matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

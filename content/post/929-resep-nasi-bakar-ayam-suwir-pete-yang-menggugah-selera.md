@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T19:28:20.912Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
 author: Celia West
 ratingvalue: 5
 reviewcount: 10
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar ayam suwir pete](https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp)
+![Nasi bakar ayam suwir pete](https://img-global.cpcdn.com/recipes/9c89cd0d15ee5fc8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi bakar ayam suwir pete cocok sekali jika digunakan untuk menjamu teman
 

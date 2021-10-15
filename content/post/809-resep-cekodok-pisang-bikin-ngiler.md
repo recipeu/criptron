@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-02T08:39:56.275Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.png
 author: Sam Payne
 ratingvalue: 4.3
 reviewcount: 11
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Cekodok Pisang](https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.webp)
+![Cekodok Pisang](https://img-global.cpcdn.com/recipes/d55d9c8a73489d1f/682x484cq65/cekodok-pisang-foto-resep-utama.png)
 
 Ingin membuat Cekodok Pisang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib bunda coba segera
 

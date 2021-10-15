@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-22T05:18:02.653Z 
-thumbnail: https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.png
 author: Arthur Phillips
 ratingvalue: 4.5
 reviewcount: 3
@@ -84,7 +84,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ikan Suir](https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.webp)
+![Nasi Bakar Ikan Suir](https://img-global.cpcdn.com/recipes/558ee86e7dd3fc4c/682x484cq65/nasi-bakar-ikan-suir-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ikan Suir ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib bunda coba segera
 

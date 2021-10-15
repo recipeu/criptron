@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-07T19:44:01.254Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.png
 author: Jean Dean
 ratingvalue: 4.6
 reviewcount: 10
@@ -30,10 +30,10 @@ recipeingredient:
 - " 5 cup air sekitar 2-2"
 - "Masakan tambahan sesuai selera  "
 - "Telur dadar "
-- "Tempe gula asem           lihat resep "
-- "Ayam ngohiang           lihat resep "
-- "Sambel bawang           lihat resep "
-- "Bawang goreng           lihat resep "
+- "Tempe gula asem   . "
+- "Ayam ngohiang   . "
+- "Sambel bawang   . "
+- "Bawang goreng   . "
 - "Lalapan  kol mentah "
 recipeinstructions:
 - "Cuci beras hingga bersih"
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi Ricecooker](https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.webp)
+![Nasi Uduk Betawi Ricecooker](https://img-global.cpcdn.com/recipes/4d15c36086ac6686/682x484cq65/nasi-uduk-betawi-ricecooker-foto-resep-utama.png)
 
 5 langkah mudah membuat  Nasi Uduk Betawi Ricecooker cocok banget jika digunakan untuk menjamu teman
 
@@ -95,10 +95,10 @@ recipecategory: Dinner
 1.  5 cup air sekitar 2-2
 1. Masakan tambahan sesuai selera  
 1. Telur dadar 
-1. Tempe gula asem           lihat resep 
-1. Ayam ngohiang           lihat resep 
-1. Sambel bawang           lihat resep 
-1. Bawang goreng           lihat resep 
+1. Tempe gula asem   . 
+1. Ayam ngohiang   . 
+1. Sambel bawang   . 
+1. Bawang goreng   . 
 1. Lalapan  kol mentah 
 
 

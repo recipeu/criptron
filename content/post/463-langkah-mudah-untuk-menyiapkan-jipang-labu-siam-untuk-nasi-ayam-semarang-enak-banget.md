@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T12:58:51.153Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.png
 author: Theresa Roberson
 ratingvalue: 4.9
 reviewcount: 11
@@ -76,7 +76,7 @@ recipecategory: Dessert
 ---
 
 
-![Jipang/labu siam untuk nasi ayam semarang](https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.webp)
+![Jipang/labu siam untuk nasi ayam semarang](https://img-global.cpcdn.com/recipes/1fdbee542be6083b/682x484cq65/jipanglabu-siam-untuk-nasi-ayam-semarang-foto-resep-utama.png)
 
 8 langkah cepat dan mudah memasak  Jipang/labu siam untuk nasi ayam semarang yang wajib bunda coba segera
 

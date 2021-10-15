@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-09T21:06:19.908Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.png
 author: Willie Hudson
 ratingvalue: 4.4
 reviewcount: 3
@@ -37,7 +37,7 @@ recipeingredient:
 - "Bahan pelengkap  "
 - "Nasi putih "
 - "Soun rebus "
-- "Sambal soto           lihat resep "
+- "Sambal soto   . "
 recipeinstructions:
 - "Rebus ayam lalu suwir-suwir. Didihkan sisa kaldu rebusan ayam, air, sereh, daun salam, dan daun jeruk."
 - "Panaskan minyak lalu tumis bumbu halus hingga harum dan matang. Matikan api lalu masukkan suwiran ayam dan kecap manis, aduk rata."
@@ -76,7 +76,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto semarang ala soto ayam pak eko blangkon](https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.webp)
+![Soto semarang ala soto ayam pak eko blangkon](https://img-global.cpcdn.com/recipes/ae3ad9f9f013533b/682x484cq65/soto-semarang-ala-soto-ayam-pak-eko-blangkon-foto-resep-utama.png)
 
 Resep rahasia Soto semarang ala soto ayam pak eko blangkon  enak dengan 5 langkahmudah dan cepat yang musti ibu coba segera
 
@@ -105,7 +105,7 @@ Resep rahasia Soto semarang ala soto ayam pak eko blangkon  enak dengan 5 langka
 1. Bahan pelengkap  
 1. Nasi putih 
 1. Soun rebus 
-1. Sambal soto           lihat resep 
+1. Sambal soto   . 
 
 Kabarnya, soto Pak Man ini menjadi warung soto langganan para pejabat dan artis ibukota, lho. Tapi, kelima warung soto ayam di atas wajib masuk daftar destinasi wisata. SOTO AYAM LEGENDARIS BOKORAN SEMARANG KALAU SIANG SUDAH HABIS!!!Подробнее. PELUANG BISNIS KULINER: KEMITRAAN WARUNG SOTO SEMARANG SOTO SLAMET RAGIL, BUKAN WARALABAПодробнее. 
 

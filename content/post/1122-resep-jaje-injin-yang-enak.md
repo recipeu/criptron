@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-20T08:23:42.064Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.png
 author: Bobby Barber
 ratingvalue: 3
 reviewcount: 11
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Jaje Injin](https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.webp)
+![Jaje Injin](https://img-global.cpcdn.com/recipes/a41acb815a655f94/682x484cq65/jaje-injin-foto-resep-utama.png)
 
 Resep Jaje Injin  enak dengan 3 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

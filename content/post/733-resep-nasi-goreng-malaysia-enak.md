@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T11:52:29.718Z 
-thumbnail: https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.png
 author: Isabel Burke
 ratingvalue: 4.5
 reviewcount: 9
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi goreng malaysia](https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.webp)
+![Nasi goreng malaysia](https://img-global.cpcdn.com/recipes/83e1f59974688512/682x484cq65/nasi-goreng-malaysia-foto-resep-utama.png)
 
 Resep rahasia Nasi goreng malaysia  anti gagal dengan 5 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

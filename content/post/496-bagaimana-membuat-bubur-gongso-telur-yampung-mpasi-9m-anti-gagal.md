@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-19T08:48:21.907Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.png
 author: Jack Parsons
 ratingvalue: 4.1
 reviewcount: 12
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Bubur Gongso Telur Yampung (Mpasi 9m+)](https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.webp)
+![Bubur Gongso Telur Yampung (Mpasi 9m+)](https://img-global.cpcdn.com/recipes/0746bdb5a8cedeb7/682x484cq65/bubur-gongso-telur-yampung-mpasi-9m-foto-resep-utama.png)
 
 Resep Bubur Gongso Telur Yampung (Mpasi 9m+)    dengan 5 langkahcepat dan mudah yang musti ibu coba segera
 

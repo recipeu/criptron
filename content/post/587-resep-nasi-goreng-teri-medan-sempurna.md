@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-09T07:05:18.890Z 
-thumbnail: https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 author: Andrew Higgins
 ratingvalue: 4.9
 reviewcount: 15
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Teri Medan](https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp)
+![Nasi Goreng Teri Medan](https://img-global.cpcdn.com/recipes/efb96afd3ae61e37/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png)
 
 Resep rahasia Nasi Goreng Teri Medan  enak dengan 3 langkahcepat cocok sekali jika digunakan untuk menjamu teman
 

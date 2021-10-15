@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T15:14:15.152Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.png
 author: Troy Cannon
 ratingvalue: 3.7
 reviewcount: 15
@@ -81,7 +81,7 @@ recipecategory: Dinner
 ---
 
 
-![Soto Bangkong Khas Semarang](https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.webp)
+![Soto Bangkong Khas Semarang](https://img-global.cpcdn.com/recipes/2d62aad64aaeb022/682x484cq65/soto-bangkong-khas-semarang-foto-resep-utama.png)
 
 4 langkah mudah memasak  Soto Bangkong Khas Semarang yang wajib kamu coba segera
 

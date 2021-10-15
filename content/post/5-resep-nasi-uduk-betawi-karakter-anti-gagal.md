@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T21:58:20.004Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.png
 author: Tommy Tate
 ratingvalue: 3.1
 reviewcount: 5
@@ -28,12 +28,12 @@ recipeingredient:
 - "bunga cengkeh 3 pcs"
 - "garam 1/2 sdm"
 - "BAHAN PELENGKAP  "
-- "kering tempe           lihat resep "
-- "Telur dadar           lihat resep "
+- "kering tempe   . "
+- "Telur dadar   . "
 - "Bihun  mie goreng "
 - "Balado jengkol "
 - "Edible stamp karakter unicorn "
-- "Semur telur betawi           lihat resep "
+- "Semur telur betawi   . "
 recipeinstructions:
 - "Masak nasi uduk : Tuang santan ke dalam wadah, masukkan semua bumbu. Masak sambil diaduk2 hingga mendidih. Masukkan beras masak sambil diaduk hingga air menyusut."
 - "Setelah air menyusut pindahkan ke dalam panci kukusan yang telah panas. Kukus selama 30 menit hingga 45 menit."
@@ -75,7 +75,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi Karakter](https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.webp)
+![Nasi Uduk Betawi Karakter](https://img-global.cpcdn.com/recipes/ec56dc98b26e0b79/682x484cq65/nasi-uduk-betawi-karakter-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Betawi Karakter ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 
@@ -95,12 +95,12 @@ Ingin membuat Nasi Uduk Betawi Karakter ? Coba resep berikut ini. Cara memasakny
 1. bunga cengkeh 3 pcs
 1. garam 1/2 sdm
 1. BAHAN PELENGKAP  
-1. kering tempe           lihat resep 
-1. Telur dadar           lihat resep 
+1. kering tempe   . 
+1. Telur dadar   . 
 1. Bihun  mie goreng 
 1. Balado jengkol 
 1. Edible stamp karakter unicorn 
-1. Semur telur betawi           lihat resep 
+1. Semur telur betawi   . 
 
 
 

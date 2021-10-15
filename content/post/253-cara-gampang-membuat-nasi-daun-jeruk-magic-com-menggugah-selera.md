@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T15:08:47.804Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.png
 author: Rebecca Evans
 ratingvalue: 3.5
 reviewcount: 15
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi daun jeruk magic com](https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.webp)
+![Nasi daun jeruk magic com](https://img-global.cpcdn.com/recipes/e5e8ec311026e54c/682x484cq65/nasi-daun-jeruk-magic-com-foto-resep-utama.png)
 
 Resep Nasi daun jeruk magic com  anti gagal dengan 3 langkahcepat cocok sekali jika digunakan untuk menjamu teman
 

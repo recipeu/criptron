@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-18T17:08:56.598Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.png
 author: Matthew Saunders
 ratingvalue: 3.2
 reviewcount: 9
@@ -72,7 +72,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Hainan Singapore praktis No Ribet](https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.webp)
+![Nasi Ayam Hainan Singapore praktis No Ribet](https://img-global.cpcdn.com/recipes/b96859aeafa8b171/682x484cq65/nasi-ayam-hainan-singapore-praktis-no-ribet-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Ayam Hainan Singapore praktis No Ribet cocok banget jika digunakan untuk menjamu tamu
 

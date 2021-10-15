@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T05:49:36.936Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.png
 author: Elizabeth Moran
 ratingvalue: 3.7
 reviewcount: 3
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Teri Oncom Merah](https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.webp)
+![Nasi Bakar Teri Oncom Merah](https://img-global.cpcdn.com/recipes/6f69f8bf7f7eba37/682x484cq65/nasi-bakar-teri-oncom-merah-foto-resep-utama.png)
 
 6 langkah mudah dan cepat membuat  Nasi Bakar Teri Oncom Merah cocok banget jika digunakan untuk menjamu tamu
 

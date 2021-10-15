@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-31T06:46:35.155Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.png
 author: Juan Duncan
 ratingvalue: 5
 reviewcount: 4
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Liwet Daun Jeruk Rice Cooker Masakan Rumahan](https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.webp)
+![Nasi Liwet Daun Jeruk Rice Cooker Masakan Rumahan](https://img-global.cpcdn.com/recipes/0c93f0b12af10a1d/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-masakan-rumahan-foto-resep-utama.png)
 
 3 langkah cepat memasak  Nasi Liwet Daun Jeruk Rice Cooker Masakan Rumahan cocok banget jika digunakan untuk menjamu teman
 

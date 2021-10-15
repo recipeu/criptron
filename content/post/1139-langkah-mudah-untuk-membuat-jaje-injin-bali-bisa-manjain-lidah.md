@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-24T02:05:32.241Z 
-thumbnail: https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.png
 author: Howard Mullins
 ratingvalue: 4
 reviewcount: 15
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Jaje injin bali](https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.webp)
+![Jaje injin bali](https://img-global.cpcdn.com/recipes/542325ff8806ca7b/682x484cq65/jaje-injin-bali-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Jaje injin bali yang wajib kamu coba segera
 

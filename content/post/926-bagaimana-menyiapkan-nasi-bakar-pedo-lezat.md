@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T00:21:50.763Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.png
 author: Mollie Burgess
 ratingvalue: 3.2
 reviewcount: 14
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Pedo](https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.webp)
+![Nasi Bakar Pedo](https://img-global.cpcdn.com/recipes/0369a4befaba806e/682x484cq65/nasi-bakar-pedo-foto-resep-utama.png)
 
 7 langkah cepat dan mudah membuat  Nasi Bakar Pedo yang wajib bunda coba segera
 

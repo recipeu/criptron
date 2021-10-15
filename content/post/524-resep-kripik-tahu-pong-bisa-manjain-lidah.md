@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-15T08:39:22.520Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.png
 author: Mike Lyons
 ratingvalue: 4.1
 reviewcount: 6
@@ -75,7 +75,7 @@ recipecategory: Dinner
 ---
 
 
-![Kripik Tahu Pong](https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.webp)
+![Kripik Tahu Pong](https://img-global.cpcdn.com/recipes/8002dd5b9de60e85/682x484cq65/kripik-tahu-pong-foto-resep-utama.png)
 
 Ingin membuat Kripik Tahu Pong ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

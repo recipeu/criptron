@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T00:21:06.498Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png
 author: Jared Ross
 ratingvalue: 3.2
 reviewcount: 9
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Goreng Sambal Matah](https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp)
+![Nasi Goreng Sambal Matah](https://img-global.cpcdn.com/recipes/c222d2e9aebd629e/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Goreng Sambal Matah cocok sekali jika digunakan untuk menjamu tamu
 

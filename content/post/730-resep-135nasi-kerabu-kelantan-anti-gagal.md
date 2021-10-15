@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-30T20:03:36.528Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.png
 author: Logan Rhodes
 ratingvalue: 3.1
 reviewcount: 6
@@ -73,7 +73,7 @@ recipecategory: Dessert
 ---
 
 
-![135.Nasi Kerabu Kelantan](https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.webp)
+![135.Nasi Kerabu Kelantan](https://img-global.cpcdn.com/recipes/0aced671e077814f/682x484cq65/135nasi-kerabu-kelantan-foto-resep-utama.png)
 
 4 langkah mudah memasak  135.Nasi Kerabu Kelantan cocok banget jika digunakan untuk menjamu tamu
 

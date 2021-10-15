@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T07:29:14.053Z 
-thumbnail: https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: Mittie Thompson
 ratingvalue: 4.7
 reviewcount: 10
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/97c94ba68f419063/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 Resep rahasia Nasi Daun Jeruk  anti gagal dengan 5 langkahcepat dan mudah yang harus bunda coba segera
 

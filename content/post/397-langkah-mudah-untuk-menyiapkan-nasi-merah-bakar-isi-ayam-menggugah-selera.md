@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-27T13:39:23.269Z 
-thumbnail: https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.png
 author: Callie Rice
 ratingvalue: 4.1
 reviewcount: 3
@@ -22,7 +22,7 @@ recipeingredient:
 - "air 700 ml"
 - "Garam secukupnya"
 - "Liditusuk Gigi secukupnya"
-- "Ayam suwir           lihat resep "
+- "Ayam suwir   . "
 recipeinstructions:
 - "Masak nasi merah dengan daun pandan, beri garam sedikit, masak sampai air mengering, kukus selama 15 menit."
 - "Ambil 1 lembar daun pisang, masukkan 2 centong nasi, masukkan suwiran ayam, beri kemangi lalu gulung, sematkan Lidi dibagian atas dan bawahnya."
@@ -59,7 +59,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Merah Bakar isi ayam](https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.webp)
+![Nasi Merah Bakar isi ayam](https://img-global.cpcdn.com/recipes/53dbcfef64091334/682x484cq65/nasi-merah-bakar-isi-ayam-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Merah Bakar isi ayam cocok banget jika digunakan untuk menjamu tamu
 
@@ -73,7 +73,7 @@ Resep dan cara mengolah  Nasi Merah Bakar isi ayam cocok banget jika digunakan u
 1. air 700 ml
 1. Garam secukupnya
 1. Liditusuk Gigi secukupnya
-1. Ayam suwir           lihat resep 
+1. Ayam suwir   . 
 
 
 

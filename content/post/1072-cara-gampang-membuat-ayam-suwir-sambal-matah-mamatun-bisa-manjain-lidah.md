@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T08:04:10.618Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.png
 author: Violet Clarke
 ratingvalue: 4.3
 reviewcount: 4
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Ayam suwir sambal matah mamatun](https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.webp)
+![Ayam suwir sambal matah mamatun](https://img-global.cpcdn.com/recipes/8e5ced5049316a8f/682x484cq65/ayam-suwir-sambal-matah-mamatun-foto-resep-utama.png)
 
 9 langkah cepat membuat  Ayam suwir sambal matah mamatun cocok sekali jika digunakan untuk menjamu teman
 

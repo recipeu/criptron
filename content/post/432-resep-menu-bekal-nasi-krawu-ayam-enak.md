@@ -7,20 +7,20 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T02:36:20.229Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.png
 author: Cecelia Woods
 ratingvalue: 3.5
 reviewcount: 8
 recipeingredient:
-- "Ayam suwir kari           lihat resep "
+- "Ayam suwir kari   . "
 - "Nasi "
 - "Selada           lihat tips "
 - "Sayuran           lihat tips "
-- "Serundeng  Poya           lihat resep "
+- "Serundeng  Poya   . "
 recipeinstructions:
 - "Saya cetak nasi pakai cetakan onigiri. Beri bagian tengahnya dengan ayam suwir."
 - "Susun bekal di kotak bekal makanan. Sajikan dengan sayuran dan Poya"
@@ -56,7 +56,7 @@ recipecategory: Dinner
 ---
 
 
-![Menu Bekal Nasi Krawu Ayam](https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.webp)
+![Menu Bekal Nasi Krawu Ayam](https://img-global.cpcdn.com/recipes/8de215c53b32df40/682x484cq65/menu-bekal-nasi-krawu-ayam-foto-resep-utama.png)
 
 Resep rahasia Menu Bekal Nasi Krawu Ayam  sederhana dengan 2 langkahmudah dan cepat yang harus kamu coba dirumah
 
@@ -64,11 +64,11 @@ Resep rahasia Menu Bekal Nasi Krawu Ayam  sederhana dengan 2 langkahmudah dan ce
 
 ## Beberapa Bahan Yang Digunakan Untuk Pembuatan Menu Bekal Nasi Krawu Ayam:
 
-1. Ayam suwir kari           lihat resep 
+1. Ayam suwir kari   . 
 1. Nasi 
 1. Selada           lihat tips 
 1. Sayuran           lihat tips 
-1. Serundeng  Poya           lihat resep 
+1. Serundeng  Poya   . 
 
 
 

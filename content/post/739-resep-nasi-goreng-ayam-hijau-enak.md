@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-14T20:41:41.192Z 
-thumbnail: https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.png
 author: Alice Torres
 ratingvalue: 3.3
 reviewcount: 12
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng ayam hijau](https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.webp)
+![Nasi goreng ayam hijau](https://img-global.cpcdn.com/recipes/17be782159a1e4f4/682x484cq65/nasi-goreng-ayam-hijau-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi goreng ayam hijau cocok sekali jika digunakan untuk menjamu teman
 

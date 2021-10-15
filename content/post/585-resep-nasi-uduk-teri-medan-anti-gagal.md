@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T03:03:16.018Z 
-thumbnail: https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.png
 author: Josie Howard
 ratingvalue: 4.3
 reviewcount: 11
@@ -29,10 +29,10 @@ recipeingredient:
 - "Teri medan goreng sebentar sisihkan Sejumput"
 - "garam tes rasa Secukupnya"
 - "Tambahan  "
-- "ayam madu pedas manis           lihat resep 1 potong"
-- "tahu semur           lihat resep 2 potong"
+- "ayam madu pedas manis   . 1 potong"
+- "tahu semur   . 2 potong"
 - "Kerupuk Timun "
-- "Sambal           lihat resep "
+- "Sambal   . "
 recipeinstructions:
 - "Siapkan bahan bahan nya. Beras di cuci Sampe bersih"
 - "Masukan beras, dan semua bahan lainnya. Aduk rata. Aron beras"
@@ -70,7 +70,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Teri Medan](https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.webp)
+![Nasi Uduk Teri Medan](https://img-global.cpcdn.com/recipes/40c49e01cfb28278/682x484cq65/nasi-uduk-teri-medan-foto-resep-utama.png)
 
 4 langkah mudah mengolah  Nasi Uduk Teri Medan cocok sekali jika digunakan untuk menjamu teman
 
@@ -91,10 +91,10 @@ recipecategory: Dinner
 1. Teri medan goreng sebentar sisihkan Sejumput
 1. garam tes rasa Secukupnya
 1. Tambahan  
-1. ayam madu pedas manis           lihat resep 1 potong
-1. tahu semur           lihat resep 2 potong
+1. ayam madu pedas manis   . 1 potong
+1. tahu semur   . 2 potong
 1. Kerupuk Timun 
-1. Sambal           lihat resep 
+1. Sambal   . 
 
 
 

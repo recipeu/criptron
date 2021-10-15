@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-20T17:54:35.085Z 
-thumbnail: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 author: Russell Crawford
 ratingvalue: 4.6
 reviewcount: 5
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Briyani Ayam](https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp)
+![Nasi Briyani Ayam](https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png)
 
 Resep Nasi Briyani Ayam    dengan 5 langkahmudah dan cepat yang musti kamu coba segera
 

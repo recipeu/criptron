@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-16T18:40:53.300Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 author: Adeline Baldwin
 ratingvalue: 3.3
 reviewcount: 11
@@ -79,7 +79,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi ayam semarang](https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp)
+![Nasi ayam semarang](https://img-global.cpcdn.com/recipes/2f6f90803a744a56/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png)
 
 Ingin membuat Nasi ayam semarang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

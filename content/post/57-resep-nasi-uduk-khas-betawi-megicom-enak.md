@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T00:33:58.276Z 
-thumbnail: https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.png
 author: Sara Quinn
 ratingvalue: 5
 reviewcount: 11
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk khas betawi megicom](https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.webp)
+![Nasi uduk khas betawi megicom](https://img-global.cpcdn.com/recipes/528f1bfb6665c46e/682x484cq65/nasi-uduk-khas-betawi-megicom-foto-resep-utama.png)
 
 Ingin membuat Nasi uduk khas betawi megicom ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

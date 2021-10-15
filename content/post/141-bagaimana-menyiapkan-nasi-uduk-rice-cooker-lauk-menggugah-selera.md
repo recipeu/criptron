@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-25T15:34:16.437Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.png
 author: Flora Hawkins
 ratingvalue: 3.6
 reviewcount: 15
@@ -110,7 +110,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Rice Cooker + Lauk](https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.webp)
+![Nasi Uduk Rice Cooker + Lauk](https://img-global.cpcdn.com/recipes/5c75a5cecffc3c42/682x484cq65/nasi-uduk-rice-cooker-lauk-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Uduk Rice Cooker + Lauk yang musti kamu coba segera
 

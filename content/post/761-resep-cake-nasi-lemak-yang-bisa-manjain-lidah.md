@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-03T13:03:06.162Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.png
 author: Sean Garcia
 ratingvalue: 4
 reviewcount: 14
@@ -96,7 +96,7 @@ recipecategory: Dessert
 ---
 
 
-![Cake Nasi Lemak](https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.webp)
+![Cake Nasi Lemak](https://img-global.cpcdn.com/recipes/5ecf7dfb99a36139/682x484cq65/cake-nasi-lemak-foto-resep-utama.png)
 
 Resep rahasia Cake Nasi Lemak  anti gagal dengan 8 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu teman
 

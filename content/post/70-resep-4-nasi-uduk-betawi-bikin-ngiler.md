@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T04:59:25.110Z 
-thumbnail: https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.png
 author: Josephine Jenkins
 ratingvalue: 3.9
 reviewcount: 6
@@ -58,7 +58,7 @@ recipecategory: Dinner
 ---
 
 
-![#4 Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.webp)
+![#4 Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/24b91c78de1ba29c/682x484cq65/4-nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia #4 Nasi Uduk Betawi  anti gagal dengan 4 langkahcepat dan mudah yang wajib bunda coba segera
 

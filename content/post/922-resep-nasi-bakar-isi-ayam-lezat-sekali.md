@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T07:29:01.351Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.png
 author: Ora Dixon
 ratingvalue: 3.9
 reviewcount: 15
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Isi Ayam](https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.webp)
+![Nasi Bakar Isi Ayam](https://img-global.cpcdn.com/recipes/3e784284564847e9/682x484cq65/nasi-bakar-isi-ayam-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Bakar Isi Ayam cocok banget jika digunakan untuk menjamu teman
 

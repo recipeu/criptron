@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-05T22:27:51.126Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.png
 author: Harvey Greene
 ratingvalue: 3.8
 reviewcount: 10
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Liwet Teri Medan (masak pakai rice cooker)](https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.webp)
+![Nasi Liwet Teri Medan (masak pakai rice cooker)](https://img-global.cpcdn.com/recipes/4d31b8bf82af76e8/682x484cq65/nasi-liwet-teri-medan-masak-pakai-rice-cooker-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Liwet Teri Medan (masak pakai rice cooker) cocok banget jika digunakan untuk menjamu tamu
 

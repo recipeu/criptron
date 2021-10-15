@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T15:02:19.741Z 
-thumbnail: https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.png
 author: Brett Harvey
 ratingvalue: 3.4
 reviewcount: 12
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Jaja Pisang Rai](https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.webp)
+![Jaja Pisang Rai](https://img-global.cpcdn.com/recipes/be7a9730e9799a12/682x484cq65/jaja-pisang-rai-foto-resep-utama.png)
 
 Ingin membuat Jaja Pisang Rai ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 
@@ -106,9 +106,9 @@ Blog Polos: Jaja Pisang Rai - Pisang Goreng Versi Rebus. Dari jaja pisang rai, l
 ## Cara Mudah Menyiapkan Jaja Pisang Rai:
 
 1. Kupas pisang. Potong miring
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ca4fb443dda48328/160x128cq70/jaja-pisang-rai-langkah-memasak-1-foto.webp" alt="Jaja Pisang Rai" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ca4fb443dda48328/160x128cq70/jaja-pisang-rai-langkah-memasak-1-foto.png" alt="Jaja Pisang Rai" width="340" height="340">
 >1. Campur tepung beras, garam, gula pasir. Aduk rata
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e6e3129650ebd62d/160x128cq70/jaja-pisang-rai-langkah-memasak-2-foto.webp" alt="Jaja Pisang Rai" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e6e3129650ebd62d/160x128cq70/jaja-pisang-rai-langkah-memasak-2-foto.png" alt="Jaja Pisang Rai" width="340" height="340">
 >1. Tambahkan air sedikit demi sedikit. Aduk rata. Tambahkan air sampai adonan cukup kental seperti adonan kalau kita membuat pisang goreng
 1. Tambahkan pandan pasta. Aduk rata
 1. Masak air dan vanili sampai mendidih. Pakai vanili karena daun pandan di rumah lagi habis 😁

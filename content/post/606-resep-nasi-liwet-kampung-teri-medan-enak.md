@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-20T16:32:16.660Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.png
 author: Leon Ball
 ratingvalue: 3.6
 reviewcount: 3
@@ -70,7 +70,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Liwet Kampung + Teri Medan](https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.webp)
+![Nasi Liwet Kampung + Teri Medan](https://img-global.cpcdn.com/recipes/ffba026c79b2e8a5/682x484cq65/nasi-liwet-kampung-teri-medan-foto-resep-utama.png)
 
 9 langkah mudah mengolah  Nasi Liwet Kampung + Teri Medan yang wajib kamu coba segera
 

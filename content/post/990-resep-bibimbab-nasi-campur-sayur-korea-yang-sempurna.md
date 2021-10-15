@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T00:26:54.565Z 
-thumbnail: https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.png
 author: Edward Lawson
 ratingvalue: 3.6
 reviewcount: 4
@@ -61,7 +61,7 @@ recipecategory: Dinner
 ---
 
 
-![Bibimbab / Nasi Campur Sayur Korea](https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.webp)
+![Bibimbab / Nasi Campur Sayur Korea](https://img-global.cpcdn.com/recipes/499e137f1bee0d52/682x484cq65/bibimbab-nasi-campur-sayur-korea-foto-resep-utama.png)
 
 Ingin membuat Bibimbab / Nasi Campur Sayur Korea ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus bunda coba segera
 

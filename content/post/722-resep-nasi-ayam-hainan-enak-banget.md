@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-24T15:38:24.306Z 
-thumbnail: https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 author: Mina Stone
 ratingvalue: 4.1
 reviewcount: 4
@@ -81,7 +81,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp)
+![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/70a8839c28e8f213/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png)
 
 Ingin membuat Nasi Ayam Hainan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

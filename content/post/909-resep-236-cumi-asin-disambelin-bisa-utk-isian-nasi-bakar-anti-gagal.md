@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T11:01:51.141Z 
-thumbnail: https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.png
 author: Flora Maldonado
 ratingvalue: 3.5
 reviewcount: 12
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![236. Cumi Asin Disambelin (Bisa utk isian nasi bakar)](https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.webp)
+![236. Cumi Asin Disambelin (Bisa utk isian nasi bakar)](https://img-global.cpcdn.com/recipes/de58627f738e474f/682x484cq65/236-cumi-asin-disambelin-bisa-utk-isian-nasi-bakar-foto-resep-utama.png)
 
 Resep rahasia 236. Cumi Asin Disambelin (Bisa utk isian nasi bakar)    dengan 3 langkahcepat yang harus ibu coba segera
 

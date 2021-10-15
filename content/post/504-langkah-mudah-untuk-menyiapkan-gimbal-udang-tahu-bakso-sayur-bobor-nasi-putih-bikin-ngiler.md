@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T12:40:34.070Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.png
 author: Sylvia Fields
 ratingvalue: 4.5
 reviewcount: 5
@@ -101,7 +101,7 @@ recipecategory: Dessert
 ---
 
 
-![Gimbal udang,tahu bakso,sayur bobor + nasi putih](https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.webp)
+![Gimbal udang,tahu bakso,sayur bobor + nasi putih](https://img-global.cpcdn.com/recipes/ad9826611e1ae167/682x484cq65/gimbal-udangtahu-baksosayur-bobor-nasi-putih-foto-resep-utama.png)
 
 Ingin membuat Gimbal udang,tahu bakso,sayur bobor + nasi putih ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib kamu coba segera
 

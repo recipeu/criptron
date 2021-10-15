@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T05:23:03.673Z 
-thumbnail: https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.png
 author: Mae Delgado
 ratingvalue: 4.7
 reviewcount: 9
@@ -76,7 +76,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ikan Tuna Asap](https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.webp)
+![Nasi bakar ikan Tuna Asap](https://img-global.cpcdn.com/recipes/000865d6cc10de82/682x484cq65/nasi-bakar-ikan-tuna-asap-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi bakar ikan Tuna Asap cocok sekali jika digunakan untuk menjamu teman
 
@@ -105,14 +105,14 @@ Salah satunya adalah tumis tuna pedas. Aroma harum daun pisang berpadu rasa tuna
 ## Cara Mudah Menyiapkan Nasi bakar ikan Tuna Asap:
 
 1. Siapkan bahan 2 yg di perlukan.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/aa651ef20af5d33b/160x128cq70/nasi-bakar-ikan-tuna-asap-langkah-memasak-1-foto.webp" alt="Nasi bakar ikan Tuna Asap" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/aa651ef20af5d33b/160x128cq70/nasi-bakar-ikan-tuna-asap-langkah-memasak-1-foto.png" alt="Nasi bakar ikan Tuna Asap" width="340" height="340">
 >1. Ikan tuna asap di lumuri dgn air perasan jeruk nipis, diamkan selama 10 menit, setelah itu ikan tongkol di suir suir sedang ukurannya.
 1. Peras santan dr 1/2 butir kelapa, kemudian di buat areh, yaitu di rebus sampai matang, tambahkan garam sedikit, tambahkan daun salam n sereh.
 1. Ulek halus, bawang merah, bawang putih, cabe merah kriting, jahe,kemiri
 1. Tumis bumbu halus sampai harum, lalu masukkan daun salam,daun jeruk, sereh dan daun jeruk
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5470c1b2eb693f4e/160x128cq70/nasi-bakar-ikan-tuna-asap-langkah-memasak-5-foto.webp" alt="Nasi bakar ikan Tuna Asap" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5470c1b2eb693f4e/160x128cq70/nasi-bakar-ikan-tuna-asap-langkah-memasak-5-foto.png" alt="Nasi bakar ikan Tuna Asap" width="340" height="340">
 >1. Masukkan ikan suir ke tumisan bumbu
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/32a789090f279f54/160x128cq70/nasi-bakar-ikan-tuna-asap-langkah-memasak-6-foto.webp" alt="Nasi bakar ikan Tuna Asap" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/32a789090f279f54/160x128cq70/nasi-bakar-ikan-tuna-asap-langkah-memasak-6-foto.png" alt="Nasi bakar ikan Tuna Asap" width="340" height="340">
 >1. Tumis ikan sampai bumbu tercampur rata, tambahkan tomat iris dan daun bawang iris, aduk sampai merata.
 1. Siapkan daun pisang utk membungkus nasi.
 1. Ambil nasi sebanyak 2 sdk nasi, taruh tumisan ikan

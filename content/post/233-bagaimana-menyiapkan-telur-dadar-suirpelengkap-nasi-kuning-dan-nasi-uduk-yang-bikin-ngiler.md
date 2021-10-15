@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-25T09:28:30.810Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.png
 author: Nelle Townsend
 ratingvalue: 3.8
 reviewcount: 13
@@ -57,7 +57,7 @@ recipecategory: Lunch
 ---
 
 
-![Telur dadar suir(pelengkap nasi kuning dan nasi uduk)](https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.webp)
+![Telur dadar suir(pelengkap nasi kuning dan nasi uduk)](https://img-global.cpcdn.com/recipes/5cdf676e922e437d/682x484cq65/telur-dadar-suirpelengkap-nasi-kuning-dan-nasi-uduk-foto-resep-utama.png)
 
 4 langkah mudah dan cepat mengolah  Telur dadar suir(pelengkap nasi kuning dan nasi uduk) yang wajib bunda coba dirumah
 

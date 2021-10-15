@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-25T14:31:49.375Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.png
 author: Shane Hodges
 ratingvalue: 4.3
 reviewcount: 14
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Bubur Santan / Bubur Uduk Special 👍](https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.webp)
+![Bubur Santan / Bubur Uduk Special 👍](https://img-global.cpcdn.com/recipes/c93f8655f053c4ae/682x484cq65/bubur-santan-bubur-uduk-special-foto-resep-utama.png)
 
 Resep rahasia Bubur Santan / Bubur Uduk Special 👍  enak dengan 4 langkahcepat yang wajib kamu coba segera
 
@@ -83,7 +83,7 @@ Resep rahasia Bubur Santan / Bubur Uduk Special 👍  enak dengan 4 langkahcepat
 ## Cara Mudah Menyiapkan Bubur Santan / Bubur Uduk Special 👍:
 
 1. Siapkan panci berisi air masukan daun salam,daun pandan dan lengkuas sampe hampir mendidih masukan nasi aduk2 sampai nasi nya tidak mengumpal...lalu masak sampai air menyusut dgn api sedang.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5fc7a0f4439621f6/160x128cq70/bubur-santan-bubur-uduk-special-langkah-memasak-1-foto.webp" alt="Bubur Santan / Bubur Uduk Special 👍" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5fc7a0f4439621f6/160x128cq70/bubur-santan-bubur-uduk-special-langkah-memasak-1-foto.png" alt="Bubur Santan / Bubur Uduk Special 👍" width="340" height="340">
 >1. Aduk sesekali agar bubur tidak gosong. - Setelah nasi setengah menjadi bubur, masukkan garam dan santan. Aduk-aduk jangan sampai santan pecah. Tes rasa.
 1. Masak sambil diaduk-aduk sampai santan matang dan nasi menjadi bubur dengan tekstur sesuai selera. Kalo saya buburnya agak kental hasilnya, tidak terlalu lembut.
 1. Siapkan bubur dimangkok saji..tambahkan pelengkap...saya tambahkan telur rebus dan bayam rebus yg dibumbui minyak bawang putih dan garam.. -           (lihat resep)

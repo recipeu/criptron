@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T09:16:34.397Z 
-thumbnail: https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.png
 author: Virginia Castro
 ratingvalue: 5
 reviewcount: 6
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar Jamur Tuna](https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.webp)
+![Nasi bakar Jamur Tuna](https://img-global.cpcdn.com/recipes/faa15c2d3b5857e3/682x484cq65/nasi-bakar-jamur-tuna-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar Jamur Tuna ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

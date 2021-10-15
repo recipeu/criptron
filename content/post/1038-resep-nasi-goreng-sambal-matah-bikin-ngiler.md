@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T01:23:14.539Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png
 author: Sarah Maldonado
 ratingvalue: 4.3
 reviewcount: 5
@@ -71,7 +71,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi goreng sambal matah 🤤](https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.webp)
+![Nasi goreng sambal matah 🤤](https://img-global.cpcdn.com/recipes/9be0b8e560aa107f/682x484cq65/nasi-goreng-sambal-matah-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi goreng sambal matah 🤤 cocok banget jika digunakan untuk menjamu tamu
 

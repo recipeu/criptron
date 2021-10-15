@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-18T10:05:07.329Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.png
 author: Allie Lowe
 ratingvalue: 4.2
 reviewcount: 5
@@ -72,7 +72,7 @@ recipecategory: Lunch
 ---
 
 
-![Bubur Lambuk Ayam Versi Ummu Maryam](https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.webp)
+![Bubur Lambuk Ayam Versi Ummu Maryam](https://img-global.cpcdn.com/recipes/e003a3b41d50dc48/682x484cq65/bubur-lambuk-ayam-versi-ummu-maryam-foto-resep-utama.png)
 
 Resep dan cara mengolah  Bubur Lambuk Ayam Versi Ummu Maryam yang bisa kamu coba dirumah
 

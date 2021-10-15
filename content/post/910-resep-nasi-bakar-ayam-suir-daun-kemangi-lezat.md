@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T09:55:57.921Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.png
 author: Marc Jackson
 ratingvalue: 3
 reviewcount: 8
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Ayam Suir Daun Kemangi](https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Ayam Suir Daun Kemangi](https://img-global.cpcdn.com/recipes/b5a66ffdf89c6226/682x484cq65/nasi-bakar-ayam-suir-daun-kemangi-foto-resep-utama.png)
 
 9 langkah mudah mengolah  Nasi Bakar Ayam Suir Daun Kemangi cocok banget jika digunakan untuk menjamu teman
 

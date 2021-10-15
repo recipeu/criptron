@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-25T13:58:36.497Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.png
 author: Mayme Paul
 ratingvalue: 4
 reviewcount: 14
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![87. Nasi Uduk Betawi ala Gadih Minang](https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.webp)
+![87. Nasi Uduk Betawi ala Gadih Minang](https://img-global.cpcdn.com/recipes/5346cf25565bfca8/682x484cq65/87-nasi-uduk-betawi-ala-gadih-minang-foto-resep-utama.png)
 
 Resep rahasia 87. Nasi Uduk Betawi ala Gadih Minang  enak dengan 3 langkahmudah cocok banget jika digunakan untuk menjamu tamu
 

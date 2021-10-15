@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-13T01:26:00.403Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.png
 author: Garrett Lyons
 ratingvalue: 4.2
 reviewcount: 7
@@ -59,7 +59,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk sedep](https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.webp)
+![Nasi uduk sedep](https://img-global.cpcdn.com/recipes/c46999128c3de5e9/682x484cq65/nasi-uduk-sedep-foto-resep-utama.png)
 
 3 langkah cepat dan mudah memasak  Nasi uduk sedep cocok sekali jika digunakan untuk menjamu teman
 

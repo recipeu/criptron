@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T10:52:59.291Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.png
 author: Victor Lindsey
 ratingvalue: 4.9
 reviewcount: 3
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang Rai Bali versi Merah Putih 🇮🇩](https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.webp)
+![Pisang Rai Bali versi Merah Putih 🇮🇩](https://img-global.cpcdn.com/recipes/cb0af2aa2536489b/682x484cq65/pisang-rai-bali-versi-merah-putih-foto-resep-utama.png)
 
 8 langkah mudah membuat  Pisang Rai Bali versi Merah Putih 🇮🇩 yang harus kamu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T19:58:36.612Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.png
 author: Ora Jones
 ratingvalue: 3
 reviewcount: 12
@@ -72,7 +72,7 @@ recipecategory: Dinner
 ---
 
 
-![Semur Tahu Telur (Pelengkap Nasi Uduk Khas Jakarta)](https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.webp)
+![Semur Tahu Telur (Pelengkap Nasi Uduk Khas Jakarta)](https://img-global.cpcdn.com/recipes/3aa505ee3095dd6c/682x484cq65/semur-tahu-telur-pelengkap-nasi-uduk-khas-jakarta-foto-resep-utama.png)
 
 Resep dan cara mengolah  Semur Tahu Telur (Pelengkap Nasi Uduk Khas Jakarta) yang bisa bunda coba segera
 

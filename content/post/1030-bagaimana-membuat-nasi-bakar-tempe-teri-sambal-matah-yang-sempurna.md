@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-18T20:23:46.746Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.png
 author: Mae Holloway
 ratingvalue: 4.2
 reviewcount: 5
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Tempe-Teri Sambal Matah](https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.webp)
+![Nasi Bakar Tempe-Teri Sambal Matah](https://img-global.cpcdn.com/recipes/3c3a75b356192b77/682x484cq65/nasi-bakar-tempe-teri-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Tempe-Teri Sambal Matah  enak dengan 7 langkahcepat yang harus bunda coba segera
 

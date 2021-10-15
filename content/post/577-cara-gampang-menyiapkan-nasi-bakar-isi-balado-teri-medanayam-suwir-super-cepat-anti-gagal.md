@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T19:03:28.823Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.png
 author: Jeremiah Maldonado
 ratingvalue: 4
 reviewcount: 10
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar isi balado teri medan+ayam suwir super cepat](https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.webp)
+![Nasi bakar isi balado teri medan+ayam suwir super cepat](https://img-global.cpcdn.com/recipes/4a6fda20424fa9fd/682x484cq65/nasi-bakar-isi-balado-teri-medanayam-suwir-super-cepat-foto-resep-utama.png)
 
 Resep Nasi bakar isi balado teri medan+ayam suwir super cepat    dengan 5 langkahmudah cocok banget jika digunakan untuk menjamu tamu
 

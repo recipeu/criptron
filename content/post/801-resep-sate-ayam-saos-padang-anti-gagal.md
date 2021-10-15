@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T01:09:10.473Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.png
 author: Maud May
 ratingvalue: 4.3
 reviewcount: 14
@@ -83,7 +83,7 @@ recipecategory: Lunch
 ---
 
 
-![Sate ayam saos Padang](https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.webp)
+![Sate ayam saos Padang](https://img-global.cpcdn.com/recipes/0f51dd9f4556b5d7/682x484cq65/sate-ayam-saos-padang-foto-resep-utama.png)
 
 Ingin membuat Sate ayam saos Padang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

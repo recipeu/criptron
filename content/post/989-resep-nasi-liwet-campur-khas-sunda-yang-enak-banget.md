@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-16T05:07:36.214Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.png
 author: Daniel Clark
 ratingvalue: 3.4
 reviewcount: 9
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi liwet campur (khas sunda)](https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.webp)
+![Nasi liwet campur (khas sunda)](https://img-global.cpcdn.com/recipes/6ddae531c6874f02/682x484cq65/nasi-liwet-campur-khas-sunda-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi liwet campur (khas sunda) cocok banget jika digunakan untuk menjamu teman
 

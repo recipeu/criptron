@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T17:33:11.710Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 author: Marvin Marshall
 ratingvalue: 4
 reviewcount: 8
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar (Ikan Tuna)](https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp)
+![Nasi Bakar (Ikan Tuna)](https://img-global.cpcdn.com/recipes/9b1c8bd51d41b38b/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Bakar (Ikan Tuna) yang wajib kamu coba dirumah
 
@@ -99,8 +99,8 @@ Resep rahasia dan cara mengolah  Nasi Bakar (Ikan Tuna) yang wajib kamu coba dir
 ## Langkah-langkah Untuk Menyiapkan Nasi Bakar (Ikan Tuna):
 
 1. Haluskan (cabe, kunyit, bawang merah putih) lalu tumis dengan minyak goreng tambah lengkuas, Daun salam &amp; sereh masak sampai harum, beri sedikit air, masukin ikan tunanya, garam, kaldu bubuk, gula, &amp; kecap manis, tunggu sampai airnya asat biar hasilnya nyemek2 aja. Jangan terlalu kering.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0e274a819ec0792c/160x128cq70/nasi-bakar-ikan-tuna-langkah-memasak-1-foto.webp" alt="Nasi Bakar (Ikan Tuna)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7f48c5d3349a8b1b/160x128cq70/nasi-bakar-ikan-tuna-langkah-memasak-1-foto.webp" alt="Nasi Bakar (Ikan Tuna)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0e274a819ec0792c/160x128cq70/nasi-bakar-ikan-tuna-langkah-memasak-1-foto.png" alt="Nasi Bakar (Ikan Tuna)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7f48c5d3349a8b1b/160x128cq70/nasi-bakar-ikan-tuna-langkah-memasak-1-foto.png" alt="Nasi Bakar (Ikan Tuna)" width="340" height="340">
 >1. Tata nasi, lauk di atas daun pisang bungkus lalu bakar di atas teflon. (Tips sebelum nya jemur dulu daun pisangnya biar agak layu jadi pas di bungkus si daun gak mudah robek)
 
 

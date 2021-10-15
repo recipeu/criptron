@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T19:57:03.529Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.png
 author: Adrian Gibson
 ratingvalue: 3.6
 reviewcount: 11
@@ -96,7 +96,7 @@ recipecategory: Dessert
 ---
 
 
-![Bibimbap Ayam + Sosis (Nasi campur ala Korea)](https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.webp)
+![Bibimbap Ayam + Sosis (Nasi campur ala Korea)](https://img-global.cpcdn.com/recipes/2ccce36c791e8230/682x484cq65/bibimbap-ayam-sosis-nasi-campur-ala-korea-foto-resep-utama.png)
 
 Ingin membuat Bibimbap Ayam + Sosis (Nasi campur ala Korea) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

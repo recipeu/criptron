@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T14:02:47.275Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.png
 author: Jay Myers
 ratingvalue: 3
 reviewcount: 7
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar cumi asin](https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.webp)
+![Nasi bakar cumi asin](https://img-global.cpcdn.com/recipes/d859f5dfdeadef27/682x484cq65/nasi-bakar-cumi-asin-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar cumi asin ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti ibu coba dirumah
 

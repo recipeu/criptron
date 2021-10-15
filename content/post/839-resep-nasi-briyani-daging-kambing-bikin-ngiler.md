@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T18:29:40.756Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.png
 author: Roger Floyd
 ratingvalue: 4.5
 reviewcount: 8
@@ -76,7 +76,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi briyani daging kambing](https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.webp)
+![Nasi briyani daging kambing](https://img-global.cpcdn.com/recipes/c4b3a411e57f8014/682x484cq65/nasi-briyani-daging-kambing-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi briyani daging kambing yang wajib ibu coba dirumah
 

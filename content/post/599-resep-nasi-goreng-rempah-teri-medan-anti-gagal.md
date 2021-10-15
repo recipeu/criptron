@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T20:51:01.047Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.png
 author: Dale Perry
 ratingvalue: 4
 reviewcount: 12
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi goreng rempah teri medan](https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.webp)
+![Nasi goreng rempah teri medan](https://img-global.cpcdn.com/recipes/1b91d740f572bf19/682x484cq65/nasi-goreng-rempah-teri-medan-foto-resep-utama.png)
 
 7 langkah cepat memasak  Nasi goreng rempah teri medan yang wajib ibu coba dirumah
 

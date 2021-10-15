@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-19T10:29:01.493Z 
-thumbnail: https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.png
 author: Lena Farmer
 ratingvalue: 3.5
 reviewcount: 5
@@ -57,7 +57,7 @@ recipecategory: Dessert
 ---
 
 
-![Tahu Gimbal udang](https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.webp)
+![Tahu Gimbal udang](https://img-global.cpcdn.com/recipes/dbfdd5bbd73704ab/682x484cq65/tahu-gimbal-udang-foto-resep-utama.png)
 
 Ingin membuat Tahu Gimbal udang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

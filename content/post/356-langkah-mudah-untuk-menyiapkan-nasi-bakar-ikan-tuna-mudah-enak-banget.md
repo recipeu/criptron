@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-31T01:32:11.750Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.png
 author: Harriett Warren
 ratingvalue: 3.8
 reviewcount: 4
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ikan Tuna Mudah](https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.webp)
+![Nasi Bakar Ikan Tuna Mudah](https://img-global.cpcdn.com/recipes/c023560dc1691b8a/682x484cq65/nasi-bakar-ikan-tuna-mudah-foto-resep-utama.png)
 
 5 langkah cepat memasak  Nasi Bakar Ikan Tuna Mudah cocok banget jika digunakan untuk menjamu tamu
 

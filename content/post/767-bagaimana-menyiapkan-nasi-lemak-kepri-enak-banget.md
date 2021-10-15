@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T13:11:26.466Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.png
 author: Rebecca Moss
 ratingvalue: 3.8
 reviewcount: 11
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi lemak kepri](https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.webp)
+![Nasi lemak kepri](https://img-global.cpcdn.com/recipes/6b83f67c4566fc9c/682x484cq65/nasi-lemak-kepri-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi lemak kepri cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-26T00:01:23.950Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.png
 author: Katherine Davis
 ratingvalue: 3.9
 reviewcount: 9
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Hainan Ayam KFC](https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.webp)
+![Nasi Hainan Ayam KFC](https://img-global.cpcdn.com/recipes/fefb3be9222538eb/682x484cq65/nasi-hainan-ayam-kfc-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Hainan Ayam KFC yang harus kamu coba dirumah
 

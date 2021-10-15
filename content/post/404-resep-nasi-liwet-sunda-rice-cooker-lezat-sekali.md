@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T00:03:22.401Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.png
 author: Francisco Vasquez
 ratingvalue: 3.6
 reviewcount: 6
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Liwet Sunda Rice Cooker](https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.webp)
+![Nasi Liwet Sunda Rice Cooker](https://img-global.cpcdn.com/recipes/c1515c7962c82dd4/682x484cq65/nasi-liwet-sunda-rice-cooker-foto-resep-utama.png)
 
 10 langkah cepat dan mudah memasak  Nasi Liwet Sunda Rice Cooker cocok banget jika digunakan untuk menjamu teman
 
@@ -106,7 +106,7 @@ recipecategory: Lunch
 1. Tambahkan santan yg telah diberi air kira2 seruas jari diatas permukaan beras (dalam panci rice cooker)
 1. Iris tipis bawang merah &amp; bawang putih
 1. Tumis bawang merah, bawang putih, serai, salam dan daun jeruk
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c194cf2d3fa775b8/160x128cq70/nasi-liwet-sunda-rice-cooker-langkah-memasak-4-foto.webp" alt="Nasi Liwet Sunda Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c194cf2d3fa775b8/160x128cq70/nasi-liwet-sunda-rice-cooker-langkah-memasak-4-foto.png" alt="Nasi Liwet Sunda Rice Cooker" width="340" height="340">
 >1. Masukan tumisan bumbu, tambahkan kaldu bubuk dan garam
 1. Tambahkan minyak sisa goreng ikan asin (sedikit saja untuk aroma)
 1. Tambahkan pete dan cabe rawit, aduk

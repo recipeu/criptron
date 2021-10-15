@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-25T20:21:04.510Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png
 author: Rodney Garcia
 ratingvalue: 4.7
 reviewcount: 14
@@ -98,7 +98,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Ayam Hainan Rice cooker](https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp)
+![Nasi Ayam Hainan Rice cooker](https://img-global.cpcdn.com/recipes/bf9147c56224dc07/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi Ayam Hainan Rice cooker  enak dengan 9 langkahmudah dan cepat yang musti kamu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T09:52:47.052Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.png
 author: Mathilda Richards
 ratingvalue: 5
 reviewcount: 7
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Sate lilit kentang ayam bocah 2Y](https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.webp)
+![Sate lilit kentang ayam bocah 2Y](https://img-global.cpcdn.com/recipes/2a289a01c062273d/682x484cq65/sate-lilit-kentang-ayam-bocah-2y-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Sate lilit kentang ayam bocah 2Y yang bisa kamu coba dirumah
 

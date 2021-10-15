@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T06:48:49.779Z 
-thumbnail: https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.png
 author: Augusta Willis
 ratingvalue: 4.7
 reviewcount: 5
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Sayur kari (sayur nasi uduk betawi)](https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.webp)
+![Sayur kari (sayur nasi uduk betawi)](https://img-global.cpcdn.com/recipes/81e20583ff15584e/682x484cq65/sayur-kari-sayur-nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia Sayur kari (sayur nasi uduk betawi)  enak dengan 4 langkahmudah yang wajib kamu coba dirumah
 

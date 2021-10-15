@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-09T14:58:27.543Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.png
 author: Jayden Doyle
 ratingvalue: 4.8
 reviewcount: 10
@@ -80,7 +80,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Campur (Rendang + Bumbu Bali)](https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.webp)
+![Nasi Campur (Rendang + Bumbu Bali)](https://img-global.cpcdn.com/recipes/e2bd6d2c90c1db38/682x484cq65/nasi-campur-rendang-bumbu-bali-foto-resep-utama.png)
 
 Resep rahasia Nasi Campur (Rendang + Bumbu Bali)    dengan 7 langkahcepat cocok banget jika digunakan untuk menjamu teman
 

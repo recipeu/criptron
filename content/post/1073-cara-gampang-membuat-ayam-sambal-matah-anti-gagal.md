@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-30T02:50:55.791Z 
-thumbnail: https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.png
 author: Harriett Cohen
 ratingvalue: 3
 reviewcount: 13
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Ayam Sambal matah](https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.webp)
+![Ayam Sambal matah](https://img-global.cpcdn.com/recipes/021c4ecbae6df02e/682x484cq65/ayam-sambal-matah-foto-resep-utama.png)
 
 Resep dan cara memasak  Ayam Sambal matah yang bisa kamu coba dirumah
 

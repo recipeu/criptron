@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-15T13:52:44.429Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.png
 author: Effie Padilla
 ratingvalue: 4.6
 reviewcount: 14
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk Jakarta (memakai magic com)](https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.webp)
+![Nasi uduk Jakarta (memakai magic com)](https://img-global.cpcdn.com/recipes/9e9514f5d6ee209a/682x484cq65/nasi-uduk-jakarta-memakai-magic-com-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi uduk Jakarta (memakai magic com) cocok sekali jika digunakan untuk menjamu tamu
 

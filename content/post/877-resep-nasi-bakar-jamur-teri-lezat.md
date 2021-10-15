@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T11:27:24.598Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.png
 author: Bettie Green
 ratingvalue: 4.5
 reviewcount: 12
@@ -77,7 +77,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Jamur Teri](https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.webp)
+![Nasi Bakar Jamur Teri](https://img-global.cpcdn.com/recipes/c6c8ec819ee64e6a/682x484cq65/nasi-bakar-jamur-teri-foto-resep-utama.png)
 
 5 langkah mudah dan cepat mengolah  Nasi Bakar Jamur Teri cocok sekali jika digunakan untuk menjamu teman
 

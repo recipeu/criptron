@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T00:28:48.140Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.png
 author: Marvin Carroll
 ratingvalue: 3
 reviewcount: 4
@@ -89,7 +89,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi + Ayam Hainan Kukus](https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.webp)
+![Nasi + Ayam Hainan Kukus](https://img-global.cpcdn.com/recipes/8b42ccb5988132e2/682x484cq65/nasi-ayam-hainan-kukus-foto-resep-utama.png)
 
 Resep Nasi + Ayam Hainan Kukus  enak dengan 12 langkahcepat dan mudah yang wajib ibu coba segera
 

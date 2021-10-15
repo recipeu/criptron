@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T03:47:36.889Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
 author: Rachel Johnston
 ratingvalue: 4.9
 reviewcount: 12
@@ -39,8 +39,8 @@ recipeingredient:
 - "Bawang putih goreng "
 - "Tauge rebus "
 - "Daun bawangseledri iris halus "
-- "Sate telur puyuh           lihat resep "
-- "Perkedel kentang           lihat resep "
+- "Sate telur puyuh   . "
+- "Perkedel kentang   . "
 - "Sambal "
 - "Kecap manis "
 - "Jeruk nipis "
@@ -82,7 +82,7 @@ recipecategory: Lunch
 ---
 
 
-![Soto Ayam Semarang](https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp)
+![Soto Ayam Semarang](https://img-global.cpcdn.com/recipes/7bcd2402dbdc7d83/682x484cq65/soto-ayam-semarang-foto-resep-utama.png)
 
 5 langkah mudah dan cepat membuat  Soto Ayam Semarang yang wajib kamu coba dirumah
 
@@ -113,8 +113,8 @@ recipecategory: Lunch
 1. Bawang putih goreng 
 1. Tauge rebus 
 1. Daun bawangseledri iris halus 
-1. Sate telur puyuh           lihat resep 
-1. Perkedel kentang           lihat resep 
+1. Sate telur puyuh   . 
+1. Perkedel kentang   . 
 1. Sambal 
 1. Kecap manis 
 1. Jeruk nipis 

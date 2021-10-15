@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T09:13:43.777Z 
-thumbnail: https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.png
 author: Mittie Jennings
 ratingvalue: 3.5
 reviewcount: 15
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk tanpa santan rice cooker](https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.webp)
+![Nasi uduk tanpa santan rice cooker](https://img-global.cpcdn.com/recipes/73e78ddc70bb66eb/682x484cq65/nasi-uduk-tanpa-santan-rice-cooker-foto-resep-utama.png)
 
 9 langkah cepat dan mudah memasak  Nasi uduk tanpa santan rice cooker cocok banget jika digunakan untuk menjamu tamu
 

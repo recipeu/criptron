@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-29T12:15:34.915Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.png
 author: Aaron Bradley
 ratingvalue: 4.2
 reviewcount: 15
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Cilok ikan teri nasi medan](https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.webp)
+![Cilok ikan teri nasi medan](https://img-global.cpcdn.com/recipes/2208f47a73a16529/682x484cq65/cilok-ikan-teri-nasi-medan-foto-resep-utama.png)
 
 6 langkah mudah dan cepat membuat  Cilok ikan teri nasi medan yang harus ibu coba segera
 

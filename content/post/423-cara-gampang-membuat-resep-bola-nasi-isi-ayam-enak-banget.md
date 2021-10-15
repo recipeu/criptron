@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T02:13:06.826Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.png
 author: Cordelia Lambert
 ratingvalue: 4.8
 reviewcount: 11
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Resep bola nasi isi ayam](https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.webp)
+![Resep bola nasi isi ayam](https://img-global.cpcdn.com/recipes/f3f468545c5b4ce6/682x484cq65/resep-bola-nasi-isi-ayam-foto-resep-utama.png)
 
 Resep rahasia Resep bola nasi isi ayam  sederhana dengan 6 langkahmudah yang harus bunda coba dirumah
 

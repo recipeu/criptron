@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T01:04:01.378Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.png
 author: Cecelia Curry
 ratingvalue: 3.8
 reviewcount: 9
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![230. Nasi Bakar Tempe Teri Pete](https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.webp)
+![230. Nasi Bakar Tempe Teri Pete](https://img-global.cpcdn.com/recipes/6cc2997455e55f41/682x484cq65/230-nasi-bakar-tempe-teri-pete-foto-resep-utama.png)
 
 Resep 230. Nasi Bakar Tempe Teri Pete  anti gagal dengan 6 langkahcepat dan mudah yang bisa kamu coba segera
 

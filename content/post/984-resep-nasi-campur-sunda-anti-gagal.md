@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T20:36:36.449Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.png
 author: Isabella Powell
 ratingvalue: 3.7
 reviewcount: 6
@@ -30,9 +30,9 @@ recipeingredient:
 - "gula pasir 1 sdm"
 - "minyak goreng untuk menumis 100 ml"
 - "Bahan pelengkap lainnya  "
-- "Oseng tempe buncis           lihat resep "
-- "Telur pindang lihat diresep Timlo Solo           lihat resep "
-- "Sambal asam terasi           lihat resep "
+- "Oseng tempe buncis   . "
+- "Telur pindang lihat diresep Timlo Solo   . "
+- "Sambal asam terasi   . "
 recipeinstructions:
 - "Tumis bawang merah putih hingga harum. Tambahkan cabe, tumis lagi hingga cabe layu"
 - "Masukkan pete, aduk-aduk sebentar"
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Campur Sunda](https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.webp)
+![Nasi Campur Sunda](https://img-global.cpcdn.com/recipes/9ef94bbfe617e72d/682x484cq65/nasi-campur-sunda-foto-resep-utama.png)
 
 Resep rahasia Nasi Campur Sunda  anti gagal dengan 4 langkahcepat yang harus ibu coba segera
 
@@ -92,9 +92,9 @@ Resep rahasia Nasi Campur Sunda  anti gagal dengan 4 langkahcepat yang harus ibu
 1. gula pasir 1 sdm
 1. minyak goreng untuk menumis 100 ml
 1. Bahan pelengkap lainnya  
-1. Oseng tempe buncis           lihat resep 
-1. Telur pindang lihat diresep Timlo Solo           lihat resep 
-1. Sambal asam terasi           lihat resep 
+1. Oseng tempe buncis   . 
+1. Telur pindang lihat diresep Timlo Solo   . 
+1. Sambal asam terasi   . 
 
 It is a traditional Indonesian dish Tips for Making Nasi Campur. While this recipe prepares fish, chicken, and vegetables as the side. Nasi campur (Indonesian/Malay: &#34;mixed rice&#34;, also called nasi rames in Indonesia) refers to a dish Depending where it originates, a nasi campur vendor might served several side dishes, including. There are many kinds of nasi campur, and in some cases, nasi campur means you&#39;re able to freely choose any side dish. 
 

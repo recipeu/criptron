@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-13T14:29:07.210Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png
 author: Louisa Graham
 ratingvalue: 3.2
 reviewcount: 9
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam KFC](https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp)
+![Nasi Ayam KFC](https://img-global.cpcdn.com/recipes/a6a674b5f8be0b5c/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png)
 
 6 langkah mudah memasak  Nasi Ayam KFC yang musti ibu coba dirumah
 

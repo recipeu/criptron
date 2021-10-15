@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-20T17:14:56.373Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.png
 author: Brandon Klein
 ratingvalue: 4.2
 reviewcount: 10
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Goreng Kampung (Malaysian Style)](https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.webp)
+![Nasi Goreng Kampung (Malaysian Style)](https://img-global.cpcdn.com/recipes/fd7c03328d2591c6/682x484cq65/nasi-goreng-kampung-malaysian-style-foto-resep-utama.png)
 
 4 langkah mudah mengolah  Nasi Goreng Kampung (Malaysian Style) yang wajib bunda coba segera
 

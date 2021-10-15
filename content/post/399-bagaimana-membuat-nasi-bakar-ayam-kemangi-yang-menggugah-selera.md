@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T17:00:38.617Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 author: Benjamin Marsh
 ratingvalue: 4.5
 reviewcount: 5
@@ -34,7 +34,7 @@ recipeinstructions:
 - "Potong ayam, saya pakai bagian dada tanpa tulang.  Cuci bersih ayam kemudian saya tumis menggunakan margarin hingga berubah warna."
 - "Sambil menunggu ayam, rebus cabai besar, cabai kecil dan juga bawang putih sampai mendidih.  Kemudian haluskan bumbu tersebut."
 - "Tiriskan ayam jika sudah berubah warna.  Kemudian tumis bumbu halus dengan sedikit minyak, masukkan daun jeruk tumis hingga harum.  🌼Masukkan garam, gula, merica, penyedap rasa, dan juga kaldu jamur, aduk hingga merata.  🌼Cuci daun kemangi kemudian masukkan, aduk rata hingga aromanya wangi, kemudian masukkan daging ayamnya aduk kembali."
-- ""
+. 
 - "Ingat untuk koreksi rasa, angkat ayam jika sudah matang."
 - "Siapkan daun pisang dan juga tusuk gigi/ semat.  Bersihkan daun pisang kemudian letakkan nasi putih, taburkan daging ayam diatasnya dan tambahkan daun kemangi.  Kemudian digulung dan tutup menggunakan tusuk gigi atau semat."
 - "Bakar nasi dengan api kecil saja, agar matangnya merata.  Ingat untuk dibalik-balik ya nasi bakarnya, bair tidak gosong 😁 Angkat nasi bakar jika sudah matang."
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar ayam kemangi](https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp)
+![Nasi bakar ayam kemangi](https://img-global.cpcdn.com/recipes/5dc4826228ce6caa/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ayam kemangi  sederhana dengan 7 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T09:52:22.001Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.png
 author: Jay Allen
 ratingvalue: 3
 reviewcount: 3
@@ -83,7 +83,7 @@ recipecategory: Lunch
 ---
 
 
-![NASI DAUN JERUK BAKAR isi AYAM SUWIR](https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.webp)
+![NASI DAUN JERUK BAKAR isi AYAM SUWIR](https://img-global.cpcdn.com/recipes/d7c8b0997c8ff00b/682x484cq65/nasi-daun-jeruk-bakar-isi-ayam-suwir-foto-resep-utama.png)
 
 Ingin membuat NASI DAUN JERUK BAKAR isi AYAM SUWIR ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib bunda coba dirumah
 

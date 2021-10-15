@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T19:23:57.918Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.png
 author: Harry Franklin
 ratingvalue: 3.9
 reviewcount: 10
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk betawi rempah](https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.webp)
+![Nasi uduk betawi rempah](https://img-global.cpcdn.com/recipes/0a0f9dd6e3d82161/682x484cq65/nasi-uduk-betawi-rempah-foto-resep-utama.png)
 
 Ingin membuat Nasi uduk betawi rempah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

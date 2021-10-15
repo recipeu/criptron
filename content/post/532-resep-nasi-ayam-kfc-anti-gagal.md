@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T21:14:17.097Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png
 author: Curtis Taylor
 ratingvalue: 4
 reviewcount: 14
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam KFC](https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.webp)
+![Nasi Ayam KFC](https://img-global.cpcdn.com/recipes/a97c57babc67a60d/682x484cq65/nasi-ayam-kfc-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Ayam KFC cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-07T11:43:18.675Z 
-thumbnail: https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.png
 author: Leo Drake
 ratingvalue: 3.4
 reviewcount: 6
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk betawi #bikinramadanberkesan](https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.webp)
+![Nasi uduk betawi #bikinramadanberkesan](https://img-global.cpcdn.com/recipes/179a1e12effec819/682x484cq65/nasi-uduk-betawi-bikinramadanberkesan-foto-resep-utama.png)
 
 3 langkah cepat dan mudah mengolah  Nasi uduk betawi #bikinramadanberkesan cocok banget jika digunakan untuk menjamu tamu
 

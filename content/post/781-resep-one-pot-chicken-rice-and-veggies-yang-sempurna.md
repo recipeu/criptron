@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T23:20:05.497Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.png
 author: Eliza Matthews
 ratingvalue: 3.8
 reviewcount: 11
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![One Pot Chicken Rice and Veggies](https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.webp)
+![One Pot Chicken Rice and Veggies](https://img-global.cpcdn.com/recipes/2e6420ff617d4e1d/682x484cq65/one-pot-chicken-rice-and-veggies-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  One Pot Chicken Rice and Veggies cocok banget jika digunakan untuk menjamu tamu
 

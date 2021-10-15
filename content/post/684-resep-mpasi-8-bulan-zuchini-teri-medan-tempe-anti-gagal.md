@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T19:30:59.234Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.png
 author: Clara Marsh
 ratingvalue: 4.7
 reviewcount: 13
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Mpasi 8 bulan (zuchini,teri medan, tempe)](https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.webp)
+![Mpasi 8 bulan (zuchini,teri medan, tempe)](https://img-global.cpcdn.com/recipes/ef019da5112301ba/682x484cq65/mpasi-8-bulan-zuchiniteri-medan-tempe-foto-resep-utama.png)
 
 Resep rahasia Mpasi 8 bulan (zuchini,teri medan, tempe)    dengan 6 langkahmudah dan cepat yang bisa kamu coba segera
 

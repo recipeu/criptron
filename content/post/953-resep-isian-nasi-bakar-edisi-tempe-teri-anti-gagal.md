@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-16T10:45:24.345Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.png
 author: Gary Stephens
 ratingvalue: 4.5
 reviewcount: 3
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Isian Nasi Bakar (edisi tempe teri)](https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.webp)
+![Isian Nasi Bakar (edisi tempe teri)](https://img-global.cpcdn.com/recipes/d3df66335bdd1f22/682x484cq65/isian-nasi-bakar-edisi-tempe-teri-foto-resep-utama.png)
 
 Resep rahasia Isian Nasi Bakar (edisi tempe teri)    dengan 5 langkahcepat cocok sekali jika digunakan untuk menjamu tamu
 

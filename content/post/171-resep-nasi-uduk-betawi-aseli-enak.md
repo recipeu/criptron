@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T17:22:44.865Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.png
 author: Julian Roy
 ratingvalue: 3.5
 reviewcount: 13
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk Betawi Aseli](https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.webp)
+![Nasi uduk Betawi Aseli](https://img-global.cpcdn.com/recipes/ab24abffd092d052/682x484cq65/nasi-uduk-betawi-aseli-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi uduk Betawi Aseli yang bisa ibu coba dirumah
 

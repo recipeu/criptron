@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-28T20:55:15.621Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.png
 author: Clarence Adkins
 ratingvalue: 3.4
 reviewcount: 10
@@ -78,7 +78,7 @@ recipecategory: Dinner
 ---
 
 
-![Wonton / pangsit rebus paling enak!](https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.webp)
+![Wonton / pangsit rebus paling enak!](https://img-global.cpcdn.com/recipes/e1d45fbd4be9e468/682x484cq65/wonton-pangsit-rebus-paling-enak-foto-resep-utama.png)
 
 Ingin membuat Wonton / pangsit rebus paling enak! ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa bunda coba segera
 

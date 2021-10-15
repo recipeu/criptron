@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-27T02:47:09.453Z 
-thumbnail: https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.png
 author: Pearl Lopez
 ratingvalue: 3.4
 reviewcount: 3
@@ -77,7 +77,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ayam Pedas](https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.webp)
+![Nasi Bakar Ayam Pedas](https://img-global.cpcdn.com/recipes/933a08000716e53d/682x484cq65/nasi-bakar-ayam-pedas-foto-resep-utama.png)
 
 Resep Nasi Bakar Ayam Pedas    dengan 7 langkahcepat yang bisa ibu coba dirumah
 

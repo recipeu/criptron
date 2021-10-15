@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T06:11:11.514Z 
-thumbnail: https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 author: Cynthia Potter
 ratingvalue: 3
 reviewcount: 14
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Rice Cooker](https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp)
+![Nasi Uduk Rice Cooker](https://img-global.cpcdn.com/recipes/850bdbd9f3e6eb22/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi Uduk Rice Cooker  sederhana dengan 3 langkahmudah cocok sekali jika digunakan untuk menjamu tamu
 

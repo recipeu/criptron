@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-09T11:39:31.301Z 
-thumbnail: https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.png
 author: Martha Obrien
 ratingvalue: 4.4
 reviewcount: 13
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi goreng kencur teri medan](https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.webp)
+![Nasi goreng kencur teri medan](https://img-global.cpcdn.com/recipes/723402f7eb516deb/682x484cq65/nasi-goreng-kencur-teri-medan-foto-resep-utama.png)
 
 Resep rahasia Nasi goreng kencur teri medan  sederhana dengan 3 langkahmudah dan cepat yang wajib ibu coba segera
 

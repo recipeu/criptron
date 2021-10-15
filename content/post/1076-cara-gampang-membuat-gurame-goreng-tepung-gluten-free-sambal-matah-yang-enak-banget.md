@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T07:22:07.162Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.png
 author: Danny Craig
 ratingvalue: 4.5
 reviewcount: 6
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![Gurame Goreng Tepung Gluten Free + Sambal Matah](https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.webp)
+![Gurame Goreng Tepung Gluten Free + Sambal Matah](https://img-global.cpcdn.com/recipes/b8d894c99eca5f92/682x484cq65/gurame-goreng-tepung-gluten-free-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Gurame Goreng Tepung Gluten Free + Sambal Matah    dengan 9 langkahcepat dan mudah yang musti kamu coba segera
 

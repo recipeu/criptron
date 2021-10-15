@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-27T15:01:34.122Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.png
 author: Betty Brewer
 ratingvalue: 4.6
 reviewcount: 14
@@ -73,7 +73,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Ayam Favorit Singapura: Tidak Digoreng, Cukup Pakai RICE COOKER!](https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.webp)
+![Nasi Ayam Favorit Singapura: Tidak Digoreng, Cukup Pakai RICE COOKER!](https://img-global.cpcdn.com/recipes/7d03918b8c36b389/682x484cq65/nasi-ayam-favorit-singapura-tidak-digoreng-cukup-pakai-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Ayam Favorit Singapura: Tidak Digoreng, Cukup Pakai RICE COOKER! ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti ibu coba dirumah
 

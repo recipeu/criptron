@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-09T01:45:02.141Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.png
 author: Lida Swanson
 ratingvalue: 3
 reviewcount: 11
@@ -58,7 +58,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Ayam Sayur Poll Pedas](https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.webp)
+![Nasi Goreng Ayam Sayur Poll Pedas](https://img-global.cpcdn.com/recipes/e470a1a775d35898/682x484cq65/nasi-goreng-ayam-sayur-poll-pedas-foto-resep-utama.png)
 
 Ingin membuat Nasi Goreng Ayam Sayur Poll Pedas ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus bunda coba dirumah
 

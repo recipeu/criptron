@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T22:45:24.224Z 
-thumbnail: https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.png
 author: Logan Fuller
 ratingvalue: 4.4
 reviewcount: 12
@@ -52,7 +52,7 @@ recipeingredient:
 - "daun salam 2 buah"
 - "jahe geprek 2 cm"
 - "Bahan pendamping "
-- "Acar mentah           lihat resep "
+- "Acar mentah   . "
 - "Kacang mete almond or kacang tanah "
 - "Kismis "
 recipeinstructions:
@@ -94,7 +94,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Biryani masak rice cooker dengan chicken rolls](https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.webp)
+![Nasi Biryani masak rice cooker dengan chicken rolls](https://img-global.cpcdn.com/recipes/16fad4b6e111e328/682x484cq65/nasi-biryani-masak-rice-cooker-dengan-chicken-rolls-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Biryani masak rice cooker dengan chicken rolls yang harus kamu coba dirumah
 
@@ -138,7 +138,7 @@ Resep dan cara mengolah  Nasi Biryani masak rice cooker dengan chicken rolls yan
 1. daun salam 2 buah
 1. jahe geprek 2 cm
 1. Bahan pendamping 
-1. Acar mentah           lihat resep 
+1. Acar mentah   . 
 1. Kacang mete almond or kacang tanah 
 1. Kismis 
 

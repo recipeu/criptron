@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-05T21:12:52.918Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.png
 author: Hilda Dennis
 ratingvalue: 3.8
 reviewcount: 8
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Pisang RAI Bali tabur kelapa parut](https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.webp)
+![Pisang RAI Bali tabur kelapa parut](https://img-global.cpcdn.com/recipes/2eac75b8cbeef12e/682x484cq65/pisang-rai-bali-tabur-kelapa-parut-foto-resep-utama.png)
 
 Resep Pisang RAI Bali tabur kelapa parut  sederhana dengan 6 langkahcepat dan mudah yang bisa ibu coba segera
 

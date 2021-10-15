@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-29T08:04:49.916Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 author: Elmer Fuller
 ratingvalue: 4.5
 reviewcount: 15
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp)
+![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/1df95628b96cf4b2/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png)
 
 6 langkah cepat dan mudah mengolah  Nasi Ayam Hainan yang musti bunda coba dirumah
 

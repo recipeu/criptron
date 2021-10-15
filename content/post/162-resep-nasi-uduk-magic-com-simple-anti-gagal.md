@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T00:38:15.020Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.png
 author: Isaac Soto
 ratingvalue: 3.9
 reviewcount: 10
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk magic com simple](https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.webp)
+![Nasi Uduk magic com simple](https://img-global.cpcdn.com/recipes/a6c50a2f284a3f30/682x484cq65/nasi-uduk-magic-com-simple-foto-resep-utama.png)
 
 5 langkah cepat dan mudah membuat  Nasi Uduk magic com simple yang harus bunda coba segera
 

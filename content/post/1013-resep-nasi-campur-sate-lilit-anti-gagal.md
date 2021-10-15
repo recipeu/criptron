@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-24T19:06:48.519Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.png
 author: Fanny Collins
 ratingvalue: 4.8
 reviewcount: 11
@@ -57,7 +57,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi campur sate lilit](https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.webp)
+![Nasi campur sate lilit](https://img-global.cpcdn.com/recipes/b94a3d712a036512/682x484cq65/nasi-campur-sate-lilit-foto-resep-utama.png)
 
 Ingin membuat Nasi campur sate lilit ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti kamu coba segera
 

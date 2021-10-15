@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T17:46:55.712Z 
-thumbnail: https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
 author: Beulah Paul
 ratingvalue: 4.7
 reviewcount: 5
@@ -79,7 +79,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Tuna Pedas](https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp)
+![Nasi Bakar Tuna Pedas](https://img-global.cpcdn.com/recipes/20db1d8ae5c21518/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Bakar Tuna Pedas yang wajib ibu coba segera
 

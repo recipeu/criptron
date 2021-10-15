@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T04:59:37.124Z 
-thumbnail: https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.png
 author: Elsie Blake
 ratingvalue: 3.2
 reviewcount: 8
@@ -73,7 +73,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto Semarang](https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.webp)
+![Soto Semarang](https://img-global.cpcdn.com/recipes/99bca6807a735d0d/682x484cq65/soto-semarang-foto-resep-utama.png)
 
 5 langkah cepat dan mudah membuat  Soto Semarang cocok sekali jika digunakan untuk menjamu tamu
 
@@ -109,11 +109,11 @@ recipecategory: Dessert
 ## Cara Menyiapkan Soto Semarang:
 
 1. Cuci bersih ayam. Rebus ayam sampai mengeluarkan buih. Buang airnya dan cuci kembali ayamnya. Rebus kembali ayam sampai empuk angkat tiriskan. Suir suir
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/2ec54623f4f2fcfb/160x128cq70/soto-semarang-langkah-memasak-1-foto.webp" alt="Soto Semarang" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/2ec54623f4f2fcfb/160x128cq70/soto-semarang-langkah-memasak-1-foto.png" alt="Soto Semarang" width="340" height="340">
 >1. Tambahkan serai, daun salam, jeruk masak sampai mendidih
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/32884d01457f6cc0/160x128cq70/soto-semarang-langkah-memasak-2-foto.webp" alt="Soto Semarang" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/32884d01457f6cc0/160x128cq70/soto-semarang-langkah-memasak-2-foto.png" alt="Soto Semarang" width="340" height="340">
 >1. Tumis bumbu halus sampai harum.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/9d913616dfe5b678/160x128cq70/soto-semarang-langkah-memasak-3-foto.webp" alt="Soto Semarang" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/9d913616dfe5b678/160x128cq70/soto-semarang-langkah-memasak-3-foto.png" alt="Soto Semarang" width="340" height="340">
 >1. Masukkan kedalam air rebusan tambahkan garam, gula pasir, lada dan penyedap. Aduk rata. Cek rasa. Masak sampai mendidih. Matikan
 1. Tata di mangkok soun, toge, ayam Suir Suir, daun bawang, seledri, bawang goreng, bawang putih goreng. Siram dengan kuah soto. Sajikan dengan nasi hangat, sate kerang, tahu goreng, tempe goreng dan sambal.
 

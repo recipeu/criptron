@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T14:23:31.028Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png
 author: Sadie Joseph
 ratingvalue: 4.6
 reviewcount: 9
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Ricecooker](https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp)
+![Nasi Uduk Ricecooker](https://img-global.cpcdn.com/recipes/1d18c742e0327c64/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Ricecooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 
@@ -92,9 +92,9 @@ Ingin membuat Nasi Uduk Ricecooker ? Coba resep berikut ini. Cara memasaknya san
 1. Setelah setengah mendidih, aduk sesekali agar santan meresap pada nasi.  - Tunggu hingga matang.
 1. Buang daun daun yang ada pada nasi.
 1. Siap di sajikan bersama makanan pelengkap nasi uduk lainnya.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8d52f813452076fd/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-6-foto.webp" alt="Nasi Uduk Ricecooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/bd825f31f1173288/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-6-foto.webp" alt="Nasi Uduk Ricecooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/fb0c53adbfa0bf4a/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-6-foto.webp" alt="Nasi Uduk Ricecooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8d52f813452076fd/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-6-foto.png" alt="Nasi Uduk Ricecooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/bd825f31f1173288/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-6-foto.png" alt="Nasi Uduk Ricecooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/fb0c53adbfa0bf4a/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-6-foto.png" alt="Nasi Uduk Ricecooker" width="340" height="340">
 >
 
 

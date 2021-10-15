@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T09:26:45.508Z 
-thumbnail: https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.png
 author: Bryan Cole
 ratingvalue: 4.4
 reviewcount: 6
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Liwet Magiccom (tidak pedas)](https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.webp)
+![Nasi Liwet Magiccom (tidak pedas)](https://img-global.cpcdn.com/recipes/18ed2336bae7b6b2/682x484cq65/nasi-liwet-magiccom-tidak-pedas-foto-resep-utama.png)
 
 Resep rahasia Nasi Liwet Magiccom (tidak pedas)  enak dengan 5 langkahcepat yang wajib kamu coba segera
 

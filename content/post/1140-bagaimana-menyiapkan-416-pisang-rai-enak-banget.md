@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-28T14:13:26.312Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.png
 author: Adeline Hoffman
 ratingvalue: 3.7
 reviewcount: 4
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![416. Pisang Rai](https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.webp)
+![416. Pisang Rai](https://img-global.cpcdn.com/recipes/c9ba60ce429994b1/682x484cq65/416-pisang-rai-foto-resep-utama.png)
 
 Ingin membuat 416. Pisang Rai ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

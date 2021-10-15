@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-30T07:54:33.651Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.png
 author: Edith Fields
 ratingvalue: 4.3
 reviewcount: 14
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi daun jeruk tongkol suwir](https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.webp)
+![Nasi daun jeruk tongkol suwir](https://img-global.cpcdn.com/recipes/d4df706468704bbf/682x484cq65/nasi-daun-jeruk-tongkol-suwir-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi daun jeruk tongkol suwir yang harus bunda coba segera
 

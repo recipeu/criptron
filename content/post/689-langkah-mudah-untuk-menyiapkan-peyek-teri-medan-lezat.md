@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T23:27:12.897Z 
-thumbnail: https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.png
 author: Louisa Briggs
 ratingvalue: 4.1
 reviewcount: 13
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Peyek teri medan](https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.webp)
+![Peyek teri medan](https://img-global.cpcdn.com/recipes/79ee1e7f8c15d6bf/682x484cq65/peyek-teri-medan-foto-resep-utama.png)
 
 Resep dan cara mengolah  Peyek teri medan cocok banget jika digunakan untuk menjamu teman
 

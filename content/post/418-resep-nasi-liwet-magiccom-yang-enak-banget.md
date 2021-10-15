@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-25T02:09:58.994Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.png
 author: Earl Cunningham
 ratingvalue: 3.8
 reviewcount: 5
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi liwet magiccom](https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.webp)
+![Nasi liwet magiccom](https://img-global.cpcdn.com/recipes/e712cc3aaa3e4f9d/682x484cq65/nasi-liwet-magiccom-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi liwet magiccom cocok banget jika digunakan untuk menjamu tamu
 

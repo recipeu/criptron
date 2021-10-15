@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T09:55:05.791Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.png
 author: Rosa Flores
 ratingvalue: 4.6
 reviewcount: 8
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Lemak ala Cooking with Sheila](https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.webp)
+![Nasi Lemak ala Cooking with Sheila](https://img-global.cpcdn.com/recipes/1c581ad54c7ef89e/682x484cq65/nasi-lemak-ala-cooking-with-sheila-foto-resep-utama.png)
 
 Ingin membuat Nasi Lemak ala Cooking with Sheila ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

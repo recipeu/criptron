@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T06:03:33.956Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.png
 author: Georgia Quinn
 ratingvalue: 3.4
 reviewcount: 5
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng Semarang](https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.webp)
+![Nasi Goreng Semarang](https://img-global.cpcdn.com/recipes/5caea076885dee25/682x484cq65/nasi-goreng-semarang-foto-resep-utama.png)
 
 3 langkah cepat memasak  Nasi Goreng Semarang cocok sekali jika digunakan untuk menjamu tamu
 

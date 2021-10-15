@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-07T09:18:51.442Z 
-thumbnail: https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.png
 author: Lura Brown
 ratingvalue: 5
 reviewcount: 6
@@ -72,7 +72,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk selera / nasi lemak](https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.webp)
+![Nasi uduk selera / nasi lemak](https://img-global.cpcdn.com/recipes/375ea34cc2b0badf/682x484cq65/nasi-uduk-selera-nasi-lemak-foto-resep-utama.png)
 
 3 langkah cepat dan mudah membuat  Nasi uduk selera / nasi lemak cocok sekali jika digunakan untuk menjamu teman
 

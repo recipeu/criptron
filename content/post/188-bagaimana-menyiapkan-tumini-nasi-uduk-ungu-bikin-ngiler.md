@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-14T09:18:55.303Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.png
 author: Ophelia Cobb
 ratingvalue: 3.4
 reviewcount: 3
@@ -31,7 +31,7 @@ recipeingredient:
 - "garam 2 jumput"
 - "Bahan Ayam Goreng  "
 - "ayam bagian paha 1/2 kg"
-- "bumbu dasar putih           lihat resep 1 sdm"
+- "bumbu dasar putih   . 1 sdm"
 - "ketumbar bubuk 1 sdt"
 - "daun salam 1 buah"
 - "daun jeruk 1 buah"
@@ -78,7 +78,7 @@ recipecategory: Dinner
 ---
 
 
-![Tumini Nasi Uduk Ungu](https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.webp)
+![Tumini Nasi Uduk Ungu](https://img-global.cpcdn.com/recipes/9ece592a03079a60/682x484cq65/tumini-nasi-uduk-ungu-foto-resep-utama.png)
 
 4 langkah mudah membuat  Tumini Nasi Uduk Ungu cocok banget jika digunakan untuk menjamu teman
 
@@ -101,7 +101,7 @@ recipecategory: Dinner
 1. garam 2 jumput
 1. Bahan Ayam Goreng  
 1. ayam bagian paha 1/2 kg
-1. bumbu dasar putih           lihat resep 1 sdm
+1. bumbu dasar putih   . 1 sdm
 1. ketumbar bubuk 1 sdt
 1. daun salam 1 buah
 1. daun jeruk 1 buah

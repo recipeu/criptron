@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-17T19:27:23.772Z 
-thumbnail: https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 author: Isaiah Moore
 ratingvalue: 4.8
 reviewcount: 7
@@ -58,7 +58,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi goreng teri medan](https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp)
+![Nasi goreng teri medan](https://img-global.cpcdn.com/recipes/84f9ee036e5d19ad/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png)
 
 3 langkah mudah dan cepat memasak  Nasi goreng teri medan yang wajib bunda coba dirumah
 

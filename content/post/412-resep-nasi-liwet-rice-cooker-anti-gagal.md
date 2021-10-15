@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-27T15:57:18.061Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
 author: Corey Diaz
 ratingvalue: 3.9
 reviewcount: 10
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Liwet Rice Cooker](https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp)
+![Nasi Liwet Rice Cooker](https://img-global.cpcdn.com/recipes/7b3e1422913c79c9/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi Liwet Rice Cooker  enak dengan 5 langkahcepat dan mudah yang wajib ibu coba dirumah
 

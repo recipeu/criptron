@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-15T01:56:28.779Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.png
 author: Adele Luna
 ratingvalue: 4.1
 reviewcount: 15
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto Bening ala Semarangan](https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.webp)
+![Soto Bening ala Semarangan](https://img-global.cpcdn.com/recipes/e527aa7733f25334/682x484cq65/soto-bening-ala-semarangan-foto-resep-utama.png)
 
 5 langkah cepat memasak  Soto Bening ala Semarangan yang bisa kamu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T08:36:41.836Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.png
 author: Lucinda Gardner
 ratingvalue: 4.2
 reviewcount: 6
@@ -77,7 +77,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam Pete Sambel Matah](https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.webp)
+![Nasi Ayam Pete Sambel Matah](https://img-global.cpcdn.com/recipes/ae9839fdc2f06745/682x484cq65/nasi-ayam-pete-sambel-matah-foto-resep-utama.png)
 
 Resep Nasi Ayam Pete Sambel Matah    dengan 3 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

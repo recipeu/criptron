@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T17:40:30.569Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.png
 author: Timothy Cole
 ratingvalue: 4.8
 reviewcount: 4
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![Peyek Udang Rebon Teri Medan](https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.webp)
+![Peyek Udang Rebon Teri Medan](https://img-global.cpcdn.com/recipes/c8f959d34355ce7a/682x484cq65/peyek-udang-rebon-teri-medan-foto-resep-utama.png)
 
 Ingin membuat Peyek Udang Rebon Teri Medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa ibu coba dirumah
 

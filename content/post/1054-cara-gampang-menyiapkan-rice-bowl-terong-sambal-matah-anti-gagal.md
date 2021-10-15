@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-03T10:17:16.493Z 
-thumbnail: https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.png
 author: Ella Robbins
 ratingvalue: 3.7
 reviewcount: 15
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Rice bowl terong sambal matah](https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.webp)
+![Rice bowl terong sambal matah](https://img-global.cpcdn.com/recipes/573eb51d7ea58ed1/682x484cq65/rice-bowl-terong-sambal-matah-foto-resep-utama.png)
 
 4 langkah mudah dan cepat memasak  Rice bowl terong sambal matah yang harus kamu coba dirumah
 

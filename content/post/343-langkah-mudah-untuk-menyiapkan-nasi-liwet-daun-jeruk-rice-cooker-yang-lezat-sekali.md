@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T03:18:22.082Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png
 author: Matilda McKenzie
 ratingvalue: 3
 reviewcount: 5
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi liwet daun jeruk rice cooker](https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp)
+![Nasi liwet daun jeruk rice cooker](https://img-global.cpcdn.com/recipes/e976c61c59c2a5d0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi liwet daun jeruk rice cooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa bunda coba dirumah
 

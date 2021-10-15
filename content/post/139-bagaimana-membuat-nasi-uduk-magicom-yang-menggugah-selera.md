@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T00:15:17.184Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
 author: David Sims
 ratingvalue: 4.9
 reviewcount: 14
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Magicom](https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp)
+![Nasi Uduk Magicom](https://img-global.cpcdn.com/recipes/3a9f88a92324cdbf/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Magicom  sederhana dengan 5 langkahmudah yang bisa bunda coba segera
 

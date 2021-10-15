@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T03:07:22.401Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.png
 author: Ora Harris
 ratingvalue: 3
 reviewcount: 12
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar teri medan+ayam](https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.webp)
+![Nasi bakar teri medan+ayam](https://img-global.cpcdn.com/recipes/2585554_80b0e4a8fa7a6189/682x484cq65/nasi-bakar-teri-medanayam-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi bakar teri medan+ayam yang harus bunda coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-08T19:03:34.095Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.png
 author: Aiden French
 ratingvalue: 4.3
 reviewcount: 5
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Wingko Babat Teflon](https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.webp)
+![Wingko Babat Teflon](https://img-global.cpcdn.com/recipes/e4c9b2dea764a699/682x484cq65/wingko-babat-teflon-foto-resep-utama.png)
 
 Resep rahasia Wingko Babat Teflon  sederhana dengan 5 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 
@@ -82,9 +82,9 @@ Resep rahasia Wingko Babat Teflon  sederhana dengan 5 langkahcepat dan mudah coc
 ## Tata Cara Menyiapkan Wingko Babat Teflon:
 
 1. Campurkan Semua Bahan Ke Dalam Wadah, Tuangkan Air Sedikit sedikit Agar Tidak Kelebihan
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/775ec62868b377ec/160x128cq70/wingko-babat-teflon-langkah-memasak-1-foto.webp" alt="Wingko Babat Teflon" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b5721993f95c58a1/160x128cq70/wingko-babat-teflon-langkah-memasak-1-foto.webp" alt="Wingko Babat Teflon" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/3a87edd3a006768b/160x128cq70/wingko-babat-teflon-langkah-memasak-1-foto.webp" alt="Wingko Babat Teflon" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/775ec62868b377ec/160x128cq70/wingko-babat-teflon-langkah-memasak-1-foto.png" alt="Wingko Babat Teflon" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b5721993f95c58a1/160x128cq70/wingko-babat-teflon-langkah-memasak-1-foto.png" alt="Wingko Babat Teflon" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/3a87edd3a006768b/160x128cq70/wingko-babat-teflon-langkah-memasak-1-foto.png" alt="Wingko Babat Teflon" width="340" height="340">
 >1. Uleni Sampai Kalis
 1. Siapkan Teflon, Dan Olesi Mentega, panaskan teflon dengan api sangat kecil
 1. Bola bola adonan langsung di atas teflon, dan jangan lupa di pipihkan agar bulat ceper (jangan lupa di balik) Masak Hingga kecoklatan. Lalu angkat

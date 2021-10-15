@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T04:17:27.168Z 
-thumbnail: https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Dora Carter
 ratingvalue: 4.8
 reviewcount: 4
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/12d4bff3b52b7597/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Uduk Betawi yang wajib bunda coba segera
 

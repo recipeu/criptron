@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-26T06:38:26.748Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.png
 author: Evelyn Gardner
 ratingvalue: 3.1
 reviewcount: 7
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi RiceCooker Enak Gampil](https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.webp)
+![Nasi Uduk Betawi RiceCooker Enak Gampil](https://img-global.cpcdn.com/recipes/3f826fbc4a5ee42b/682x484cq65/nasi-uduk-betawi-ricecooker-enak-gampil-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Betawi RiceCooker Enak Gampil  sederhana dengan 4 langkahmudah yang wajib bunda coba segera
 

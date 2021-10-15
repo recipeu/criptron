@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-05T00:08:03.912Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.png
 author: Eva Wilkins
 ratingvalue: 3.1
 reviewcount: 11
@@ -39,7 +39,7 @@ recipeingredient:
 - "Daun bawang iris2 "
 - "Seledri iris"
 - "Kecap manis "
-- "Sambal soto           lihat resep "
+- "Sambal soto   . "
 - "Tempe goreng "
 - "Tahu goreng "
 recipeinstructions:
@@ -80,7 +80,7 @@ recipecategory: Dinner
 ---
 
 
-![Soto Semarang versi Ayam](https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.webp)
+![Soto Semarang versi Ayam](https://img-global.cpcdn.com/recipes/ec19556adfeb2f29/682x484cq65/soto-semarang-versi-ayam-foto-resep-utama.png)
 
 5 langkah cepat dan mudah mengolah  Soto Semarang versi Ayam cocok banget jika digunakan untuk menjamu tamu
 
@@ -111,7 +111,7 @@ recipecategory: Dinner
 1. Daun bawang iris2 
 1. Seledri iris
 1. Kecap manis 
-1. Sambal soto           lihat resep 
+1. Sambal soto   . 
 1. Tempe goreng 
 1. Tahu goreng 
 

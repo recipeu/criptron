@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T14:23:19.850Z 
-thumbnail: https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.png
 author: Amelia Dawson
 ratingvalue: 3.7
 reviewcount: 13
@@ -81,7 +81,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Ayam Rica Rica #BikinRamadanBerkesan](https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.webp)
+![Nasi Bakar Ayam Rica Rica #BikinRamadanBerkesan](https://img-global.cpcdn.com/recipes/661d95c8d3b054c8/682x484cq65/nasi-bakar-ayam-rica-rica-bikinramadanberkesan-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Bakar Ayam Rica Rica #BikinRamadanBerkesan yang musti bunda coba dirumah
 

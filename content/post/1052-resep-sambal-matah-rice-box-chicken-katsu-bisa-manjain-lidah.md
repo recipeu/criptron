@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T01:24:41.869Z 
-thumbnail: https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.png
 author: Walter Parsons
 ratingvalue: 5
 reviewcount: 14
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Sambal matah rice box chicken katsu](https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.webp)
+![Sambal matah rice box chicken katsu](https://img-global.cpcdn.com/recipes/09cafc3fa4830a5e/682x484cq65/sambal-matah-rice-box-chicken-katsu-foto-resep-utama.png)
 
 Resep dan cara memasak  Sambal matah rice box chicken katsu yang wajib kamu coba dirumah
 

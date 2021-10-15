@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T22:29:12.662Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png
 author: Betty Gross
 ratingvalue: 3.4
 reviewcount: 9
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Teri Medan Praktis](https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp)
+![Nasi Goreng Teri Medan Praktis](https://img-global.cpcdn.com/recipes/ea92904a72cb18cc/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png)
 
 Resep rahasia Nasi Goreng Teri Medan Praktis  anti gagal dengan 3 langkahcepat yang musti bunda coba segera
 

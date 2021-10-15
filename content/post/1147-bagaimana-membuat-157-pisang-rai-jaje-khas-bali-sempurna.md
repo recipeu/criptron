@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-02T22:41:28.782Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.png
 author: Warren Santos
 ratingvalue: 5
 reviewcount: 14
@@ -78,7 +78,7 @@ recipecategory: Lunch
 ---
 
 
-![15.7 ~Pisang Rai *jaje khas Bali](https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.webp)
+![15.7 ~Pisang Rai *jaje khas Bali](https://img-global.cpcdn.com/recipes/e7e990a6ac298ded/682x484cq65/157-pisang-rai-jaje-khas-bali-foto-resep-utama.png)
 
 9 langkah mudah membuat  15.7 ~Pisang Rai *jaje khas Bali yang wajib kamu coba segera
 
@@ -114,8 +114,8 @@ Hanya saja rasa dan teksturnya berbeda karena ada taburan garam serta kelapa Tam
 ## Cara Mudah Menyiapkan 15.7 ~Pisang Rai *jaje khas Bali:
 
 1. Siapkan semua bahan
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/a2b637047d62169a/160x128cq70/157-pisang-rai-jaje-khas-bali-langkah-memasak-1-foto.webp" alt="15.7 ~Pisang Rai *jaje khas Bali" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/07f65c580aabd25e/160x128cq70/157-pisang-rai-jaje-khas-bali-langkah-memasak-1-foto.webp" alt="15.7 ~Pisang Rai *jaje khas Bali" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/a2b637047d62169a/160x128cq70/157-pisang-rai-jaje-khas-bali-langkah-memasak-1-foto.png" alt="15.7 ~Pisang Rai *jaje khas Bali" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/07f65c580aabd25e/160x128cq70/157-pisang-rai-jaje-khas-bali-langkah-memasak-1-foto.png" alt="15.7 ~Pisang Rai *jaje khas Bali" width="340" height="340">
 >1. Campur semua bahan baluran, kukus selama 15 menit. Angkat dan sisihkan
 1. Membuat saus gula merah : dalam panci, campur semua bahan saus gula merah. Masak dengan api kecil, sambil terus diaduk hingga mengental. Angkat dan saring. Sisihkan
 1. Dalam wadah terpisah, campur adonan tepung.

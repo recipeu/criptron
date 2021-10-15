@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-21T09:25:06.991Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.png
 author: Elizabeth Holt
 ratingvalue: 4.9
 reviewcount: 13
@@ -84,7 +84,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ijo 🌶️pedes gila](https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.webp)
+![Nasi bakar ijo 🌶️pedes gila](https://img-global.cpcdn.com/recipes/9354221f920458c3/682x484cq65/nasi-bakar-ijo-pedes-gila-foto-resep-utama.png)
 
 Resep Nasi bakar ijo 🌶️pedes gila    dengan 12 langkahmudah dan cepat yang harus kamu coba dirumah
 

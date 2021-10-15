@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-03T10:55:36.414Z 
-thumbnail: https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.png
 author: Sallie Wilkins
 ratingvalue: 4.3
 reviewcount: 3
@@ -78,7 +78,7 @@ recipecategory: Lunch
 ---
 
 
-![Tuna Crispy Sambal Matah](https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.webp)
+![Tuna Crispy Sambal Matah](https://img-global.cpcdn.com/recipes/24868d18361f0198/682x484cq65/tuna-crispy-sambal-matah-foto-resep-utama.png)
 
 6 langkah cepat mengolah  Tuna Crispy Sambal Matah yang bisa bunda coba dirumah
 

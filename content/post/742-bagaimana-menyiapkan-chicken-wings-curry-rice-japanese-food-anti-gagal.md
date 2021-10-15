@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T14:25:27.167Z 
-thumbnail: https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.png
 author: Susie Fisher
 ratingvalue: 3.6
 reviewcount: 7
@@ -76,7 +76,7 @@ recipecategory: Lunch
 ---
 
 
-![CHICKEN WINGS CURRY RICE / JAPANESE FOOD](https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.webp)
+![CHICKEN WINGS CURRY RICE / JAPANESE FOOD](https://img-global.cpcdn.com/recipes/105a9f8b7e2f83c3/682x484cq65/chicken-wings-curry-rice-japanese-food-foto-resep-utama.png)
 
 Resep rahasia CHICKEN WINGS CURRY RICE / JAPANESE FOOD    dengan 7 langkahmudah dan cepat yang harus kamu coba dirumah
 

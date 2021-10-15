@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-08T03:51:21.302Z 
-thumbnail: https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png
 author: Leona Tate
 ratingvalue: 4.2
 reviewcount: 7
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Lemak (Malaysia)](https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp)
+![Nasi Lemak (Malaysia)](https://img-global.cpcdn.com/recipes/24ad080221059bca/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png)
 
 Ingin membuat Nasi Lemak (Malaysia) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

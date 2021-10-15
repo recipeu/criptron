@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T00:19:01.453Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.png
 author: Alexander Maxwell
 ratingvalue: 4.5
 reviewcount: 3
@@ -89,7 +89,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi ayam semarang ala fibercreme](https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.webp)
+![Nasi ayam semarang ala fibercreme](https://img-global.cpcdn.com/recipes/ba8769539e854288/682x484cq65/nasi-ayam-semarang-ala-fibercreme-foto-resep-utama.png)
 
 Ingin membuat Nasi ayam semarang ala fibercreme ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

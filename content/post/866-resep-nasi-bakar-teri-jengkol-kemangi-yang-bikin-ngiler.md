@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T22:08:29.923Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.png
 author: Sarah Hill
 ratingvalue: 4.9
 reviewcount: 6
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar teri jengkol kemangi 🤭](https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.webp)
+![Nasi bakar teri jengkol kemangi 🤭](https://img-global.cpcdn.com/recipes/5534ba9f0a271f68/682x484cq65/nasi-bakar-teri-jengkol-kemangi-foto-resep-utama.png)
 
 5 langkah mudah memasak  Nasi bakar teri jengkol kemangi 🤭 yang musti bunda coba dirumah
 

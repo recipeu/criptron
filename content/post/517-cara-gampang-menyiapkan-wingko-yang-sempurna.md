@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T16:50:18.890Z 
-thumbnail: https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.png
 author: Elva Myers
 ratingvalue: 4.3
 reviewcount: 8
@@ -56,7 +56,7 @@ recipecategory: Dinner
 ---
 
 
-![Wingko](https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.webp)
+![Wingko](https://img-global.cpcdn.com/recipes/80b06c87d5a4a21d/682x484cq65/wingko-foto-resep-utama.png)
 
 Resep dan cara mengolah  Wingko yang musti kamu coba segera
 

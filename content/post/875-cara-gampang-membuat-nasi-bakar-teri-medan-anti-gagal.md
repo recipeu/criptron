@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-26T04:47:13.920Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 author: Mayme Ward
 ratingvalue: 4.4
 reviewcount: 12
@@ -77,7 +77,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Teri Medan](https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp)
+![Nasi Bakar Teri Medan](https://img-global.cpcdn.com/recipes/0bc74ab6c6060f6f/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Teri Medan  enak dengan 5 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

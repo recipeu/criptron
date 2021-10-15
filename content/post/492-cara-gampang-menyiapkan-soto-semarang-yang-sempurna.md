@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-06T23:13:12.491Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.png
 author: Danny Malone
 ratingvalue: 3.6
 reviewcount: 6
@@ -46,7 +46,7 @@ recipeingredient:
 - "Taoge Pendek seduh air panas "
 - "Kubis iris tipis "
 - "Jeruk Nipis "
-- "Tempe Goreng Garit           lihat resep "
+- "Tempe Goreng Garit   . "
 recipeinstructions:
 - "Rebus ayam bersama bumbu aromatik, hingga mendidih, ayam matang dan empuk."
 - "Tumis bumbu halus hingga harum.  Tambahkan kecap manis, tumis kembali hingga bumbu matang. Angkat."
@@ -85,7 +85,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto Semarang](https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.webp)
+![Soto Semarang](https://img-global.cpcdn.com/recipes/f9727407d09cce77/682x484cq65/soto-semarang-foto-resep-utama.png)
 
 6 langkah mudah membuat  Soto Semarang cocok banget jika digunakan untuk menjamu tamu
 
@@ -123,7 +123,7 @@ recipecategory: Dessert
 1. Taoge Pendek seduh air panas 
 1. Kubis iris tipis 
 1. Jeruk Nipis 
-1. Tempe Goreng Garit           lihat resep 
+1. Tempe Goreng Garit   . 
 
 
 

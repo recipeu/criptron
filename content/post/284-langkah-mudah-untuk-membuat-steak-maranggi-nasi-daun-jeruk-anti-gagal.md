@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T12:18:02.462Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.png
 author: Steven Palmer
 ratingvalue: 4
 reviewcount: 15
@@ -84,7 +84,7 @@ recipecategory: Dessert
 ---
 
 
-![Steak Maranggi + Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.webp)
+![Steak Maranggi + Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/ab6c7aaaf845d4e3/682x484cq65/steak-maranggi-nasi-daun-jeruk-foto-resep-utama.png)
 
 11 langkah mudah dan cepat mengolah  Steak Maranggi + Nasi Daun Jeruk cocok banget jika digunakan untuk menjamu teman
 

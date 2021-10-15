@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T17:46:25.816Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.png
 author: Cecelia Rodriguez
 ratingvalue: 3.9
 reviewcount: 12
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![Rice Bowl_Ayam gongso penuh cinta..](https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.webp)
+![Rice Bowl_Ayam gongso penuh cinta..](https://img-global.cpcdn.com/recipes/2fe37b0d37577093/682x484cq65/rice-bowl_ayam-gongso-penuh-cinta-foto-resep-utama.png)
 
 Resep dan cara mengolah  Rice Bowl_Ayam gongso penuh cinta.. cocok sekali jika digunakan untuk menjamu tamu
 

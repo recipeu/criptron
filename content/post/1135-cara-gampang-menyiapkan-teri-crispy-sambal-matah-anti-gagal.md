@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T16:06:32.630Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.png
 author: Cecelia Hunt
 ratingvalue: 4.3
 reviewcount: 5
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Teri Crispy Sambal Matah](https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.webp)
+![Teri Crispy Sambal Matah](https://img-global.cpcdn.com/recipes/0a5d76ba3de50fc5/682x484cq65/teri-crispy-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Teri Crispy Sambal Matah cocok banget jika digunakan untuk menjamu teman
 

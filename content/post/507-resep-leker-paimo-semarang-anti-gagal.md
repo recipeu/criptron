@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T12:03:52.322Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.png
 author: Alta Ingram
 ratingvalue: 4.5
 reviewcount: 6
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Leker Paimo Semarang](https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.webp)
+![Leker Paimo Semarang](https://img-global.cpcdn.com/recipes/2b05c45e6d1f3b93/682x484cq65/leker-paimo-semarang-foto-resep-utama.png)
 
 Ingin membuat Leker Paimo Semarang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa bunda coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T14:54:13.323Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.png
 author: Juan Estrada
 ratingvalue: 4.1
 reviewcount: 4
@@ -30,7 +30,7 @@ recipeingredient:
 recipeinstructions:
 - "Cuci bersih beras, didihkan air santan beserta bumbu dan rempah setelah mendidih masukkan beras dan masak di magic com dengan tekan cook"
 - "Setelah matang aduk nasi dan siap disajikan dengan pelengkap sambel bawang kerupuk dan ayam goreng lengkuas"
-- ""
+. 
 categories:
 - Resep
 tags:
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi Versi Magic Com](https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.webp)
+![Nasi Uduk Betawi Versi Magic Com](https://img-global.cpcdn.com/recipes/d0a2bb0952f56dea/682x484cq65/nasi-uduk-betawi-versi-magic-com-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Betawi Versi Magic Com ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

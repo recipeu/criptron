@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T03:14:12.687Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.png
 author: Amelia Marshall
 ratingvalue: 3.9
 reviewcount: 4
@@ -42,7 +42,7 @@ recipeingredient:
 - "daun jeruk purut buang tulangnya 2"
 - "gula aren 1 sdm"
 - "Bahan sambal matah "
-- "Cek di link berikut           lihat resep "
+- "Cek di link berikut   . "
 - "Perlengkapan dekorasi "
 - "Styrofoam 2 ukuran "
 - "Kertas alasbaking paper "
@@ -87,7 +87,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi campur Bali JCCO 1st Anniversary - tumpeng mini bali](https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.webp)
+![Nasi campur Bali JCCO 1st Anniversary - tumpeng mini bali](https://img-global.cpcdn.com/recipes/0c73ecf08af10d74/682x484cq65/nasi-campur-bali-jcco-1st-anniversary-tumpeng-mini-bali-foto-resep-utama.png)
 
 Resep Nasi campur Bali JCCO 1st Anniversary - tumpeng mini bali    dengan 4 langkahmudah yang harus ibu coba dirumah
 
@@ -121,7 +121,7 @@ Resep Nasi campur Bali JCCO 1st Anniversary - tumpeng mini bali    dengan 4 lang
 1. daun jeruk purut buang tulangnya 2
 1. gula aren 1 sdm
 1. Bahan sambal matah 
-1. Cek di link berikut           lihat resep 
+1. Cek di link berikut   . 
 1. Perlengkapan dekorasi 
 1. Styrofoam 2 ukuran 
 1. Kertas alasbaking paper 

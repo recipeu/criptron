@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T06:59:07.044Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.png
 author: Erik Santos
 ratingvalue: 3.7
 reviewcount: 7
@@ -72,7 +72,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk betawi simple](https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.webp)
+![Nasi Uduk betawi simple](https://img-global.cpcdn.com/recipes/f93115740e428efd/682x484cq65/nasi-uduk-betawi-simple-foto-resep-utama.png)
 
 Resep Nasi Uduk betawi simple    dengan 8 langkahmudah dan cepat yang wajib kamu coba segera
 

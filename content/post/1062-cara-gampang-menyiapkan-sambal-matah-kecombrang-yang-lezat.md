@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T15:13:21.370Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.png
 author: Elmer Zimmerman
 ratingvalue: 3.3
 reviewcount: 3
@@ -25,7 +25,7 @@ recipeingredient:
 - "Garam 1/2 sdt"
 - "Minyak goreng me 2 sdm minyak Secukupnya"
 - "Pelengkap "
-- "Nasi goreng Sanga           lihat resep "
+- "Nasi goreng Sanga   . "
 recipeinstructions:
 - "Siapkan semua bahan-bahannya, lalu potong-potong dan iris-iris tipis sesuai selera, masukkan di wadah"
 - "Campur semua secara bertahap dan perlahan-lahan, beri garam lalu tuangkan minyak goreng yang sudah di panaskan sebelumnya, pelan-pelan ya menuangkannya. Setelah itu aduk-aduk lagi dan tambahkan air perasan jeruk nipis"
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Sambal Matah Kecombrang](https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.webp)
+![Sambal Matah Kecombrang](https://img-global.cpcdn.com/recipes/ffda15ffe62f638a/682x484cq65/sambal-matah-kecombrang-foto-resep-utama.png)
 
 4 langkah mudah dan cepat mengolah  Sambal Matah Kecombrang cocok sekali jika digunakan untuk menjamu teman
 
@@ -80,7 +80,7 @@ recipecategory: Lunch
 1. Garam 1/2 sdt
 1. Minyak goreng me 2 sdm minyak Secukupnya
 1. Pelengkap 
-1. Nasi goreng Sanga           lihat resep 
+1. Nasi goreng Sanga   . 
 
 
 

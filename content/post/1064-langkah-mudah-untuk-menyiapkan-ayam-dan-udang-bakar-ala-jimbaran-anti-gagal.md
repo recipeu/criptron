@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-30T06:06:01.878Z 
-thumbnail: https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.png
 author: Dean Valdez
 ratingvalue: 4.5
 reviewcount: 14
@@ -84,7 +84,7 @@ recipecategory: Lunch
 ---
 
 
-![Ayam dan Udang Bakar ala Jimbaran](https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.webp)
+![Ayam dan Udang Bakar ala Jimbaran](https://img-global.cpcdn.com/recipes/74de228e504f83f1/682x484cq65/ayam-dan-udang-bakar-ala-jimbaran-foto-resep-utama.png)
 
 Resep rahasia Ayam dan Udang Bakar ala Jimbaran  sederhana dengan 6 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-09T13:40:40.038Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.png
 author: Nannie Bridges
 ratingvalue: 4.6
 reviewcount: 3
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ayam kemangi diet no oil](https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.webp)
+![Nasi bakar ayam kemangi diet no oil](https://img-global.cpcdn.com/recipes/c9f7a1cc4ce539fb/682x484cq65/nasi-bakar-ayam-kemangi-diet-no-oil-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ayam kemangi diet no oil    dengan 6 langkahcepat yang wajib ibu coba dirumah
 

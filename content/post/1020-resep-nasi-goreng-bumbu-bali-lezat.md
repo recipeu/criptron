@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T18:32:20.703Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.png
 author: Isaac Byrd
 ratingvalue: 4.8
 reviewcount: 15
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Bumbu Bali](https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.webp)
+![Nasi Goreng Bumbu Bali](https://img-global.cpcdn.com/recipes/ea585aa95fff1123/682x484cq65/nasi-goreng-bumbu-bali-foto-resep-utama.png)
 
 4 langkah cepat membuat  Nasi Goreng Bumbu Bali cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T04:04:11.707Z 
-thumbnail: https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.png
 author: Duane Rodriquez
 ratingvalue: 5
 reviewcount: 4
@@ -74,7 +74,7 @@ recipecategory: Dessert
 ---
 
 
-![NASI UDUK DAUN JERUK PEDAS (RICE COOKER)](https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.webp)
+![NASI UDUK DAUN JERUK PEDAS (RICE COOKER)](https://img-global.cpcdn.com/recipes/25cc77cdbb028ccb/682x484cq65/nasi-uduk-daun-jeruk-pedas-rice-cooker-foto-resep-utama.png)
 
 7 langkah cepat mengolah  NASI UDUK DAUN JERUK PEDAS (RICE COOKER) cocok sekali jika digunakan untuk menjamu teman
 

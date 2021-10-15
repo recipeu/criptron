@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-02T00:22:51.813Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.png
 author: Julia Hughes
 ratingvalue: 4.9
 reviewcount: 5
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Daun Jeruk Ala REMPAH NUSANTAR](https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.webp)
+![Nasi Daun Jeruk Ala REMPAH NUSANTAR](https://img-global.cpcdn.com/recipes/8facf63e2baf5028/682x484cq65/nasi-daun-jeruk-ala-rempah-nusantar-foto-resep-utama.png)
 
 7 langkah cepat mengolah  Nasi Daun Jeruk Ala REMPAH NUSANTAR cocok sekali jika digunakan untuk menjamu tamu
 

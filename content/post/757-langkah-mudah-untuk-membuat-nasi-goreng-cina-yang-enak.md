@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-24T07:10:24.802Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.png
 author: Alvin Jefferson
 ratingvalue: 5
 reviewcount: 10
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng Cina](https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.webp)
+![Nasi Goreng Cina](https://img-global.cpcdn.com/recipes/a59801201e5d2c73/682x484cq65/nasi-goreng-cina-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Goreng Cina cocok sekali jika digunakan untuk menjamu tamu
 

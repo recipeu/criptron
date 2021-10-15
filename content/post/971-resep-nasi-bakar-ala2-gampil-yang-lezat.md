@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-25T14:51:09.566Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.png
 author: Nancy Fields
 ratingvalue: 4.3
 reviewcount: 4
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar ala2 gampil](https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.webp)
+![Nasi bakar ala2 gampil](https://img-global.cpcdn.com/recipes/4c365174ab9799a2/682x484cq65/nasi-bakar-ala2-gampil-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar ala2 gampil ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti kamu coba segera
 

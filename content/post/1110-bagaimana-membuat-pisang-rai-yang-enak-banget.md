@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T01:18:37.584Z 
-thumbnail: https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.png
 author: Cameron Boyd
 ratingvalue: 3.7
 reviewcount: 8
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Pisang Rai](https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.webp)
+![Pisang Rai](https://img-global.cpcdn.com/recipes/729f9abed9407952/682x484cq65/pisang-rai-foto-resep-utama.png)
 
 4 langkah cepat memasak  Pisang Rai yang harus bunda coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T14:35:07.712Z 
-thumbnail: https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 author: Bill Cummings
 ratingvalue: 3.8
 reviewcount: 15
@@ -77,7 +77,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi liwet teri medan](https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp)
+![Nasi liwet teri medan](https://img-global.cpcdn.com/recipes/06a826e3f3b56187/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png)
 
 Ingin membuat Nasi liwet teri medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus bunda coba segera
 

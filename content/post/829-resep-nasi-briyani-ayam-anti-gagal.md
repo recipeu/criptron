@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T07:18:41.823Z 
-thumbnail: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 author: Lee Hart
 ratingvalue: 3.8
 reviewcount: 11
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Briyani Ayam](https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp)
+![Nasi Briyani Ayam](https://img-global.cpcdn.com/recipes/11ff3cf1ebec4488/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png)
 
 5 langkah cepat memasak  Nasi Briyani Ayam yang wajib kamu coba dirumah
 

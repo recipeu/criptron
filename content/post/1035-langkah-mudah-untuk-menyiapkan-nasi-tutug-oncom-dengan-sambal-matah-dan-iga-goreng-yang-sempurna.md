@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T10:13:57.594Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.png
 author: Miguel Washington
 ratingvalue: 4.7
 reviewcount: 8
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi tutug oncom dengan sambal matah dan iga goreng](https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.webp)
+![Nasi tutug oncom dengan sambal matah dan iga goreng](https://img-global.cpcdn.com/recipes/7c160d7ba77fe769/682x484cq65/nasi-tutug-oncom-dengan-sambal-matah-dan-iga-goreng-foto-resep-utama.png)
 
 6 langkah cepat mengolah  Nasi tutug oncom dengan sambal matah dan iga goreng cocok banget jika digunakan untuk menjamu teman
 

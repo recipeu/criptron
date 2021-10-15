@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T03:12:43.276Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.png
 author: Carl Butler
 ratingvalue: 4.8
 reviewcount: 14
@@ -20,7 +20,7 @@ recipeingredient:
 - "santan kelapa kental unt mengaron smp setengah matang 1 butir"
 - "sereh 2 lbr daun salam 2 batang"
 - "garam penyedap me  totole 1 sdm"
-- "baceman bawang           lihat resep 1 sdm"
+- "baceman bawang   . 1 sdm"
 recipeinstructions:
 - "Cuci bersih beras, tempatkan dlm panci, tuang santan dan semua bumbu sambil dimasak aduk² smp setengah matang/asat."
 - "Siapkan kukusan/dandang yg sudah mendidih airnya, masukan aronan nasi, kukus smp sekiranya matang (kurang lbh 15-20 menit) Jadi deh nasi uduk/nasi lemak, siap sajikan dg pelengkapnya👏"
@@ -56,7 +56,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk/Nasi lemak (basic)](https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.webp)
+![Nasi Uduk/Nasi lemak (basic)](https://img-global.cpcdn.com/recipes/4527bee9aae53466/682x484cq65/nasi-uduknasi-lemak-basic-foto-resep-utama.png)
 
 2 langkah mudah mengolah  Nasi Uduk/Nasi lemak (basic) cocok banget jika digunakan untuk menjamu teman
 
@@ -68,7 +68,7 @@ recipecategory: Dinner
 1. santan kelapa kental unt mengaron smp setengah matang 1 butir
 1. sereh 2 lbr daun salam 2 batang
 1. garam penyedap me  totole 1 sdm
-1. baceman bawang           lihat resep 1 sdm
+1. baceman bawang   . 1 sdm
 
 
 

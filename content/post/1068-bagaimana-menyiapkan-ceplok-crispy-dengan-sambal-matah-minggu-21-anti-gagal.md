@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T04:08:27.182Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.png
 author: Bess Larson
 ratingvalue: 4.3
 reviewcount: 12
@@ -72,7 +72,7 @@ recipecategory: Dinner
 ---
 
 
-![Ceplok Crispy dengan Sambal Matah ☆Minggu 21☆](https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.webp)
+![Ceplok Crispy dengan Sambal Matah ☆Minggu 21☆](https://img-global.cpcdn.com/recipes/d38b103931006639/682x484cq65/ceplok-crispy-dengan-sambal-matah-minggu-21-foto-resep-utama.png)
 
 Resep Ceplok Crispy dengan Sambal Matah ☆Minggu 21☆    dengan 6 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

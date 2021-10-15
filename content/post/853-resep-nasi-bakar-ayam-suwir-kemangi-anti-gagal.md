@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-03T07:37:39.228Z 
-thumbnail: https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
 author: Lillie Snyder
 ratingvalue: 4.6
 reviewcount: 5
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam suwir kemangi](https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp)
+![Nasi bakar ayam suwir kemangi](https://img-global.cpcdn.com/recipes/37722132fb732092/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi bakar ayam suwir kemangi cocok sekali jika digunakan untuk menjamu tamu
 

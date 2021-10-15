@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T16:11:57.688Z 
-thumbnail: https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.png
 author: Wayne Strickland
 ratingvalue: 3.1
 reviewcount: 13
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Pisang Rai Bali](https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.webp)
+![Pisang Rai Bali](https://img-global.cpcdn.com/recipes/589e755bfcf46949/682x484cq65/pisang-rai-bali-foto-resep-utama.png)
 
 Resep rahasia Pisang Rai Bali  anti gagal dengan 6 langkahmudah cocok banget jika digunakan untuk menjamu teman
 

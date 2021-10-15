@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T20:33:30.316Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.png
 author: Derek Lynch
 ratingvalue: 3.4
 reviewcount: 9
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Mie gomak spesial khas medan](https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.webp)
+![Mie gomak spesial khas medan](https://img-global.cpcdn.com/recipes/cffaa77c3cb0edbe/682x484cq65/mie-gomak-spesial-khas-medan-foto-resep-utama.png)
 
 4 langkah mudah dan cepat mengolah  Mie gomak spesial khas medan cocok banget jika digunakan untuk menjamu teman
 

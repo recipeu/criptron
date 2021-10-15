@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-27T20:05:53.490Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.png
 author: Josie Vega
 ratingvalue: 4.2
 reviewcount: 5
@@ -92,7 +92,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ayam Suwir Pedas Kemangi](https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Ayam Suwir Pedas Kemangi](https://img-global.cpcdn.com/recipes/a3d73e0a0518f18c/682x484cq65/nasi-bakar-ayam-suwir-pedas-kemangi-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Bakar Ayam Suwir Pedas Kemangi cocok sekali jika digunakan untuk menjamu teman
 

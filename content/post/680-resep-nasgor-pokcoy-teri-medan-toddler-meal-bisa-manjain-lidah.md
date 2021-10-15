@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-05T09:55:04.231Z 
-thumbnail: https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.png
 author: Lydia James
 ratingvalue: 3.8
 reviewcount: 12
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasgor Pokcoy Teri Medan (toddler meal)](https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.webp)
+![Nasgor Pokcoy Teri Medan (toddler meal)](https://img-global.cpcdn.com/recipes/32bd8922e50ebcdd/682x484cq65/nasgor-pokcoy-teri-medan-toddler-meal-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasgor Pokcoy Teri Medan (toddler meal) cocok sekali jika digunakan untuk menjamu tamu
 

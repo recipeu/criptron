@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T09:02:04.036Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.png
 author: Mattie Knight
 ratingvalue: 4.4
 reviewcount: 11
@@ -27,10 +27,10 @@ recipeingredient:
 - "jahe di geprek 1 ruas"
 - "lengkuas geprek 1 ruas"
 - "Tambahan  "
-- "Mie goreng           lihat resep "
-- "Telor Balado           lihat resep "
+- "Mie goreng   . "
+- "Telor Balado   . "
 - "Bawang goreng "
-- "Tumis pare teri           lihat resep "
+- "Tumis pare teri   . "
 - "Kerupuk "
 recipeinstructions:
 - "Cuci bersih beras dan bahan cemplung."
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![106. Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.webp)
+![106. Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/8b9b76f6120670dc/682x484cq65/106-nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  106. Nasi Uduk Betawi yang musti bunda coba dirumah
 
@@ -90,10 +90,10 @@ Resep rahasia dan cara mengolah  106. Nasi Uduk Betawi yang musti bunda coba dir
 1. jahe di geprek 1 ruas
 1. lengkuas geprek 1 ruas
 1. Tambahan  
-1. Mie goreng           lihat resep 
-1. Telor Balado           lihat resep 
+1. Mie goreng   . 
+1. Telor Balado   . 
 1. Bawang goreng 
-1. Tumis pare teri           lihat resep 
+1. Tumis pare teri   . 
 1. Kerupuk 
 
 

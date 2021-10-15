@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T06:18:22.485Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.png
 author: Erik Richards
 ratingvalue: 4.3
 reviewcount: 13
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Jinggo Campur Kacang](https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.webp)
+![Nasi Jinggo Campur Kacang](https://img-global.cpcdn.com/recipes/8952e16d5b4e51b3/682x484cq65/nasi-jinggo-campur-kacang-foto-resep-utama.png)
 
 Resep Nasi Jinggo Campur Kacang    dengan 4 langkahmudah dan cepat yang wajib bunda coba dirumah
 

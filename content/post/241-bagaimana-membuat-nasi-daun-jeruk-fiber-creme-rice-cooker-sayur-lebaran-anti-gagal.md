@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T15:07:06.652Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.png
 author: Adam Jefferson
 ratingvalue: 3.7
 reviewcount: 10
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi daun jeruk fiber creme rice cooker (sayur lebaran)](https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.webp)
+![Nasi daun jeruk fiber creme rice cooker (sayur lebaran)](https://img-global.cpcdn.com/recipes/d0da12238ae7a6d4/682x484cq65/nasi-daun-jeruk-fiber-creme-rice-cooker-sayur-lebaran-foto-resep-utama.png)
 
 5 langkah mudah membuat  Nasi daun jeruk fiber creme rice cooker (sayur lebaran) yang harus kamu coba dirumah
 

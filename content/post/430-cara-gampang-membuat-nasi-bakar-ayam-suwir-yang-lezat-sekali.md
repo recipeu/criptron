@@ -7,16 +7,16 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T19:29:24.053Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 author: Craig Gordon
 ratingvalue: 3.5
 reviewcount: 7
 recipeingredient:
-- "Nasi uduk harumnasi biasa 1 cup           lihat resep "
+- "Nasi uduk harumnasi biasa 1 cup   . "
 - "daun kemangi 1 ikat"
 - "dada ayam 1/2"
 - "daun salam 1"
@@ -74,7 +74,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp)
+![Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ayam suwir  anti gagal dengan 5 langkahmudah cocok banget jika digunakan untuk menjamu teman
 
@@ -82,7 +82,7 @@ Resep rahasia Nasi bakar ayam suwir  anti gagal dengan 5 langkahmudah cocok bang
 
 ## Beberapa Bahan Yang Digunakan Dalam Pembuatan Nasi bakar ayam suwir:
 
-1. Nasi uduk harumnasi biasa 1 cup           lihat resep 
+1. Nasi uduk harumnasi biasa 1 cup   . 
 1. daun kemangi 1 ikat
 1. dada ayam 1/2
 1. daun salam 1

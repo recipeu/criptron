@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T10:05:14.065Z 
-thumbnail: https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.png
 author: Harold Fitzgerald
 ratingvalue: 4.3
 reviewcount: 14
@@ -79,7 +79,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi mewah (Nasi putih-Teri goreng kering-tahu telur bumbu Bali)](https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.webp)
+![Nasi mewah (Nasi putih-Teri goreng kering-tahu telur bumbu Bali)](https://img-global.cpcdn.com/recipes/72534d15d5db0410/682x484cq65/nasi-mewah-nasi-putih-teri-goreng-kering-tahu-telur-bumbu-bali-foto-resep-utama.png)
 
 Resep Nasi mewah (Nasi putih-Teri goreng kering-tahu telur bumbu Bali)  anti gagal dengan 5 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu tamu
 

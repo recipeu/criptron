@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-15T08:53:25.701Z 
-thumbnail: https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.png
 author: Estelle Brooks
 ratingvalue: 5
 reviewcount: 11
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi Gurih Simple](https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.webp)
+![Nasi Uduk Betawi Gurih Simple](https://img-global.cpcdn.com/recipes/31a4141d02f677bb/682x484cq65/nasi-uduk-betawi-gurih-simple-foto-resep-utama.png)
 
 3 langkah mudah dan cepat mengolah  Nasi Uduk Betawi Gurih Simple cocok banget jika digunakan untuk menjamu tamu
 

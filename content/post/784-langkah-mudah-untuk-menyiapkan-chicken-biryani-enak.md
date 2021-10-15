@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T17:58:18.844Z 
-thumbnail: https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.png
 author: Donald Lambert
 ratingvalue: 3.7
 reviewcount: 15
@@ -78,7 +78,7 @@ recipecategory: Lunch
 ---
 
 
-![Chicken Biryani](https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.webp)
+![Chicken Biryani](https://img-global.cpcdn.com/recipes/47a479466b44f9fc/682x484cq65/chicken-biryani-foto-resep-utama.png)
 
 Ingin membuat Chicken Biryani ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti ibu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T18:09:14.636Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
 author: Hattie Abbott
 ratingvalue: 4.8
 reviewcount: 10
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi liwet rice cooker](https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp)
+![Nasi liwet rice cooker](https://img-global.cpcdn.com/recipes/f3fa62c25430e56a/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png)
 
 Resep rahasia Nasi liwet rice cooker  anti gagal dengan 4 langkahmudah cocok banget jika digunakan untuk menjamu tamu
 

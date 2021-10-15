@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T12:09:45.006Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.png
 author: Rosalie Nunez
 ratingvalue: 5
 reviewcount: 7
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Tahu Gimbal Goreng (crispy outside, fluffy inside)](https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.webp)
+![Tahu Gimbal Goreng (crispy outside, fluffy inside)](https://img-global.cpcdn.com/recipes/a40bff92fa16200c/682x484cq65/tahu-gimbal-goreng-crispy-outside-fluffy-inside-foto-resep-utama.png)
 
 Ingin membuat Tahu Gimbal Goreng (crispy outside, fluffy inside) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

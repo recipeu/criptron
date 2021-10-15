@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-13T19:43:42.697Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
 author: Eric Howard
 ratingvalue: 3.2
 reviewcount: 14
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar ayam teri medan](https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp)
+![Nasi Bakar ayam teri medan](https://img-global.cpcdn.com/recipes/1e221181f5f7557a/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar ayam teri medan    dengan 5 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

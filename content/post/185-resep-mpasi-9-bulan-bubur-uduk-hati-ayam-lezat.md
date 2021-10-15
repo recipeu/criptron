@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-10T17:39:30.263Z 
-thumbnail: https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.png
 author: Georgie Garza
 ratingvalue: 3.3
 reviewcount: 11
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Mpasi 9 bulan: bubur uduk hati ayam](https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.webp)
+![Mpasi 9 bulan: bubur uduk hati ayam](https://img-global.cpcdn.com/recipes/930a260c13622d8c/682x484cq65/mpasi-9-bulan-bubur-uduk-hati-ayam-foto-resep-utama.png)
 
 Ingin membuat Mpasi 9 bulan: bubur uduk hati ayam ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

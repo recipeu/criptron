@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T02:16:02.039Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.png
 author: Christopher Hansen
 ratingvalue: 3.7
 reviewcount: 15
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng Putih Teri Medan](https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.webp)
+![Nasi Goreng Putih Teri Medan](https://img-global.cpcdn.com/recipes/1db3f70407ada70a/682x484cq65/nasi-goreng-putih-teri-medan-foto-resep-utama.png)
 
 4 langkah cepat dan mudah membuat  Nasi Goreng Putih Teri Medan yang wajib bunda coba dirumah
 

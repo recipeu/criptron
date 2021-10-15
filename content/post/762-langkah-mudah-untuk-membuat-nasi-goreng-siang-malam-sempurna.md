@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T12:25:42.989Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.png
 author: Kate Hicks
 ratingvalue: 4
 reviewcount: 15
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Goreng SIANG MALAM](https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.webp)
+![Nasi Goreng SIANG MALAM](https://img-global.cpcdn.com/recipes/bca3891b7decdffa/682x484cq65/nasi-goreng-siang-malam-foto-resep-utama.png)
 
 7 langkah mudah dan cepat mengolah  Nasi Goreng SIANG MALAM cocok sekali jika digunakan untuk menjamu tamu
 

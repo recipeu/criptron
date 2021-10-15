@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T05:38:28.206Z 
-thumbnail: https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
 author: Gregory McGee
 ratingvalue: 3
 reviewcount: 13
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi liwet Ricecooker](https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp)
+![Nasi liwet Ricecooker](https://img-global.cpcdn.com/recipes/92b29a024440555a/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png)
 
 Resep rahasia Nasi liwet Ricecooker    dengan 9 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

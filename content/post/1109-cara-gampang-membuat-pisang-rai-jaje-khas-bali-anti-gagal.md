@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-10T15:28:10.898Z 
-thumbnail: https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.png
 author: Lenora Ortiz
 ratingvalue: 4.9
 reviewcount: 8
@@ -75,7 +75,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang Rai (jaje khas Bali)](https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.webp)
+![Pisang Rai (jaje khas Bali)](https://img-global.cpcdn.com/recipes/03b4caa05a775c6e/682x484cq65/pisang-rai-jaje-khas-bali-foto-resep-utama.png)
 
 Resep rahasia Pisang Rai (jaje khas Bali)  enak dengan 6 langkahcepat dan mudah yang bisa bunda coba dirumah
 

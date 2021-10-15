@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T10:46:27.434Z 
-thumbnail: https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png
 author: Eddie Larson
 ratingvalue: 4.9
 reviewcount: 14
@@ -82,7 +82,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ayam Teri](https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp)
+![Nasi Bakar Ayam Teri](https://img-global.cpcdn.com/recipes/aa6005d6e29ac932/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Ayam Teri  anti gagal dengan 7 langkahmudah yang bisa bunda coba segera
 

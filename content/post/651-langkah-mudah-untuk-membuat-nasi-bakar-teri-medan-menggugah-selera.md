@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T16:27:53.904Z 
-thumbnail: https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 author: Clyde Bowen
 ratingvalue: 3.3
 reviewcount: 6
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar teri medan](https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp)
+![Nasi bakar teri medan](https://img-global.cpcdn.com/recipes/461ee755a922d18e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png)
 
 4 langkah mudah dan cepat membuat  Nasi bakar teri medan cocok banget jika digunakan untuk menjamu teman
 

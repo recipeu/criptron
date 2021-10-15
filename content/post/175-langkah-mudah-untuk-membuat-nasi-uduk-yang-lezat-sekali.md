@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-27T09:30:35.983Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.png
 author: Walter Murray
 ratingvalue: 3.4
 reviewcount: 13
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk](https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.webp)
+![Nasi Uduk](https://img-global.cpcdn.com/recipes/4a02af9ae1af007a/682x484cq65/nasi-uduk-foto-resep-utama.png)
 
 4 langkah cepat membuat  Nasi Uduk yang wajib ibu coba dirumah
 

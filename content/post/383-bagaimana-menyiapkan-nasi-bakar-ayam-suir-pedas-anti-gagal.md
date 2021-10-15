@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-18T18:14:23.247Z 
-thumbnail: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
 author: Max Maxwell
 ratingvalue: 5
 reviewcount: 3
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam suir pedas](https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp)
+![Nasi bakar ayam suir pedas](https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar ayam suir pedas ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus kamu coba segera
 
@@ -103,11 +103,11 @@ Nasi bakar memang enak bila disandingkan dengan apa saja. Salah satunya adalah t
 
 1. Masukan garam, kaldu ayam dan bawang putih bubuk kedalam nasi. Aduk merata
 1. Haluskan bumbu halus
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ef08161bc9a5467c/160x128cq70/nasi-bakar-ayam-suir-pedas-langkah-memasak-2-foto.webp" alt="Nasi bakar ayam suir pedas" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ef08161bc9a5467c/160x128cq70/nasi-bakar-ayam-suir-pedas-langkah-memasak-2-foto.png" alt="Nasi bakar ayam suir pedas" width="340" height="340">
 >1. Siapkan wajan beri sedikit minyak, nyalakan api kompor (sedang). Masukan bumbu halus bersama dengan lengkuas, daun salam dan daun jeruk. Tumis sampai harum. Lalu masukan jg secukupnya garam, kaldu ayam dan gulpas.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e6bcd13dd1620cda/160x128cq70/nasi-bakar-ayam-suir-pedas-langkah-memasak-3-foto.webp" alt="Nasi bakar ayam suir pedas" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e6bcd13dd1620cda/160x128cq70/nasi-bakar-ayam-suir-pedas-langkah-memasak-3-foto.png" alt="Nasi bakar ayam suir pedas" width="340" height="340">
 >1. Masukan ayam suirnya, aduk merata sampai matang dan koreksi rasa. Lalu angkat dan tiriskan
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/4bbac6b45b721baf/160x128cq70/nasi-bakar-ayam-suir-pedas-langkah-memasak-4-foto.webp" alt="Nasi bakar ayam suir pedas" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/4bbac6b45b721baf/160x128cq70/nasi-bakar-ayam-suir-pedas-langkah-memasak-4-foto.png" alt="Nasi bakar ayam suir pedas" width="340" height="340">
 >1. Siapkan daun pisang, lalu lemaskan agar tidak mudah robek. Tata nasi diatas daun pisang, masukan ayam diatas nasi. Lalu gulung dan rapikan sesuai selera -           (lihat resep)
 1. Jika semua sudah selesai, siapkan teflon yg diolesi sedikit mentega, masukan nasi bakar keatasnya. Panggang hingga harum dan tekstur daun pisang kering. Bolak balik agar merata
 1. Nasi bakar ayam suir siap disajikan

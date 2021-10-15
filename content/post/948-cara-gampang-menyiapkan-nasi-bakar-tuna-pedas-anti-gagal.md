@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T13:47:32.257Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
 author: Jean Baker
 ratingvalue: 3.9
 reviewcount: 6
@@ -78,7 +78,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Tuna Pedas](https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp)
+![Nasi Bakar Tuna Pedas](https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Tuna Pedas    dengan 3 langkahmudah cocok banget jika digunakan untuk menjamu tamu
 

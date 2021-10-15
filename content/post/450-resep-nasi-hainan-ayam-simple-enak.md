@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-29T15:36:23.503Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.png
 author: Allie Norton
 ratingvalue: 3.8
 reviewcount: 10
@@ -83,7 +83,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Hainan Ayam Simple](https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.webp)
+![Nasi Hainan Ayam Simple](https://img-global.cpcdn.com/recipes/c1ea15dca3582c5c/682x484cq65/nasi-hainan-ayam-simple-foto-resep-utama.png)
 
 4 langkah cepat dan mudah mengolah  Nasi Hainan Ayam Simple yang bisa kamu coba dirumah
 

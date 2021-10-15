@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-30T14:58:19.806Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.png
 author: Nathan Curry
 ratingvalue: 4.6
 reviewcount: 3
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi ayam kfc ricecooker](https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.webp)
+![Nasi ayam kfc ricecooker](https://img-global.cpcdn.com/recipes/9d52967bd7cc00c8/682x484cq65/nasi-ayam-kfc-ricecooker-foto-resep-utama.png)
 
 Resep Nasi ayam kfc ricecooker  enak dengan 3 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu tamu
 

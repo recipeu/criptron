@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T03:53:29.674Z 
-thumbnail: https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.png
 author: Mabelle Murphy
 ratingvalue: 3.8
 reviewcount: 6
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Bunga Telang / Nasi Ungu](https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.webp)
+![Nasi Uduk Bunga Telang / Nasi Ungu](https://img-global.cpcdn.com/recipes/661b0590b74ee5ba/682x484cq65/nasi-uduk-bunga-telang-nasi-ungu-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Uduk Bunga Telang / Nasi Ungu yang harus ibu coba dirumah
 

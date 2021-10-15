@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T13:48:54.287Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.png
 author: Olivia Love
 ratingvalue: 4.1
 reviewcount: 12
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Teri Goreng](https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.webp)
+![Nasi Bakar Teri Goreng](https://img-global.cpcdn.com/recipes/bbcc519509cc3b32/682x484cq65/nasi-bakar-teri-goreng-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Teri Goreng  sederhana dengan 4 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu teman
 

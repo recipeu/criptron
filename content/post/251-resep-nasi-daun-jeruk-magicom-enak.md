@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-16T12:43:06.384Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
 author: Cole Ellis
 ratingvalue: 3.3
 reviewcount: 11
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk (Magicom)](https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp)
+![Nasi Daun Jeruk (Magicom)](https://img-global.cpcdn.com/recipes/f0ac461afc74741a/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png)
 
 Resep Nasi Daun Jeruk (Magicom)    dengan 6 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T23:30:44.879Z 
-thumbnail: https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png
 author: John Bowman
 ratingvalue: 3.2
 reviewcount: 8
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Teri kemangi](https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Teri kemangi](https://img-global.cpcdn.com/recipes/75a415a5cc1cfb01/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png)
 
 Resep Nasi Bakar Teri kemangi  sederhana dengan 6 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

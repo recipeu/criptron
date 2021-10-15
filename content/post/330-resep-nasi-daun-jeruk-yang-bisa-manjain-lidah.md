@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T16:59:26.453Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: Mable Strickland
 ratingvalue: 4.6
 reviewcount: 14
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi daun jeruk](https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi daun jeruk](https://img-global.cpcdn.com/recipes/6f20d9976ec6213e/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 Ingin membuat Nasi daun jeruk ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti kamu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T16:50:08.211Z 
-thumbnail: https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.png
 author: Inez Scott
 ratingvalue: 4.2
 reviewcount: 11
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi Punye Gaye edisi Rice Cooker 😋](https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.webp)
+![Nasi Uduk Betawi Punye Gaye edisi Rice Cooker 😋](https://img-global.cpcdn.com/recipes/21574d5e3bbb9f84/682x484cq65/nasi-uduk-betawi-punye-gaye-edisi-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi Uduk Betawi Punye Gaye edisi Rice Cooker 😋    dengan 6 langkahcepat cocok banget jika digunakan untuk menjamu teman
 

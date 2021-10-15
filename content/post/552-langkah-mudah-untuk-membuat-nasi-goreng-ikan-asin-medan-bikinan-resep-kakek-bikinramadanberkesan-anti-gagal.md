@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T23:59:15.865Z 
-thumbnail: https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.png
 author: Ora Shaw
 ratingvalue: 3.3
 reviewcount: 6
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Ikan Asin Medan (bikinan/resep kakek) #bikinramadanberkesan](https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.webp)
+![Nasi Goreng Ikan Asin Medan (bikinan/resep kakek) #bikinramadanberkesan](https://img-global.cpcdn.com/recipes/82e8363d2e703459/682x484cq65/nasi-goreng-ikan-asin-medan-bikinanresep-kakek-bikinramadanberkesan-foto-resep-utama.png)
 
 5 langkah cepat memasak  Nasi Goreng Ikan Asin Medan (bikinan/resep kakek) #bikinramadanberkesan yang wajib kamu coba dirumah
 

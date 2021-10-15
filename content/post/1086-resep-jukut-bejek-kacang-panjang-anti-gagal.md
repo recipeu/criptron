@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-02T15:59:34.409Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.png
 author: Sarah Leonard
 ratingvalue: 4.8
 reviewcount: 3
@@ -83,7 +83,7 @@ recipecategory: Dessert
 ---
 
 
-![Jukut bejek kacang panjang](https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.webp)
+![Jukut bejek kacang panjang](https://img-global.cpcdn.com/recipes/2a80f04f4fe32f7b/682x484cq65/jukut-bejek-kacang-panjang-foto-resep-utama.png)
 
 16 langkah cepat mengolah  Jukut bejek kacang panjang cocok banget jika digunakan untuk menjamu teman
 

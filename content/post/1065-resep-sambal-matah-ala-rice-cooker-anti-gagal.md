@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-20T17:49:13.507Z 
-thumbnail: https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.png
 author: Antonio Richardson
 ratingvalue: 3.3
 reviewcount: 15
@@ -60,7 +60,7 @@ recipecategory: Lunch
 ---
 
 
-![Sambal Matah ala Rice Cooker](https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.webp)
+![Sambal Matah ala Rice Cooker](https://img-global.cpcdn.com/recipes/83f9a6e959cce61f/682x484cq65/sambal-matah-ala-rice-cooker-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Sambal Matah ala Rice Cooker cocok banget jika digunakan untuk menjamu teman
 
@@ -81,7 +81,7 @@ Resep rahasia dan cara mengolah  Sambal Matah ala Rice Cooker cocok banget jika 
 ## Tata Cara Membuat Sambal Matah ala Rice Cooker:
 
 1. Semua bahan di cuci bersih kemudian diiris halus,
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5c676c67f9295e92/160x128cq70/sambal-matah-ala-rice-cooker-langkah-memasak-1-foto.webp" alt="Sambal Matah ala Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5c676c67f9295e92/160x128cq70/sambal-matah-ala-rice-cooker-langkah-memasak-1-foto.png" alt="Sambal Matah ala Rice Cooker" width="340" height="340">
 >1. Campur hingga rata dan jika suka asem dapat menambahkan tomat hijau segar atau air jeruk nipis.
 1. Panaskan 4 sendok minyak kelapa murni (extra virgin coconut oil) siramkan ke campuran cabe
 1. Tambahkan sedikit garam, jika suka manis dpt menambahkan gula, sy tdk pakai gula samasekali.

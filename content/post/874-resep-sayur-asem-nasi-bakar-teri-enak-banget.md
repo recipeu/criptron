@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T15:25:42.226Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.png
 author: Aiden Walton
 ratingvalue: 3.8
 reviewcount: 15
@@ -82,7 +82,7 @@ recipecategory: Dinner
 ---
 
 
-![Sayur Asem + Nasi Bakar Teri](https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.webp)
+![Sayur Asem + Nasi Bakar Teri](https://img-global.cpcdn.com/recipes/8ce11457ed411e8a/682x484cq65/sayur-asem-nasi-bakar-teri-foto-resep-utama.png)
 
 Ingin membuat Sayur Asem + Nasi Bakar Teri ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

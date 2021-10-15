@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T07:38:54.380Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.png
 author: Della Hogan
 ratingvalue: 3.1
 reviewcount: 3
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Sambal T3 (Terong,Tahu dan Teri) ala anak medan](https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.webp)
+![Sambal T3 (Terong,Tahu dan Teri) ala anak medan](https://img-global.cpcdn.com/recipes/0e88f6feabb89f22/682x484cq65/sambal-t3-terongtahu-dan-teri-ala-anak-medan-foto-resep-utama.png)
 
 Resep Sambal T3 (Terong,Tahu dan Teri) ala anak medan  enak dengan 5 langkahcepat cocok sekali jika digunakan untuk menjamu tamu
 

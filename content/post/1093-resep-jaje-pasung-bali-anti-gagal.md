@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T04:41:13.083Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.png
 author: Josie Carroll
 ratingvalue: 4.5
 reviewcount: 11
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Jaje Pasung Bali](https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.webp)
+![Jaje Pasung Bali](https://img-global.cpcdn.com/recipes/9df492231629b62b/682x484cq65/jaje-pasung-bali-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Jaje Pasung Bali yang harus ibu coba segera
 

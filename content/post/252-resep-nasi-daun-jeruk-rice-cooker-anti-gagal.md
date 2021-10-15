@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-18T13:41:54.274Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 author: Emily Hardy
 ratingvalue: 3.5
 reviewcount: 14
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk Rice Cooker](https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp)
+![Nasi Daun Jeruk Rice Cooker](https://img-global.cpcdn.com/recipes/e8c5985384cdc585/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png)
 
 3 langkah mudah dan cepat memasak  Nasi Daun Jeruk Rice Cooker yang bisa bunda coba dirumah
 
@@ -85,9 +85,9 @@ recipecategory: Dinner
 
 1. Cuci bersih beras dan tiriskan.
 1. Masukkan bawang putih, daun jeruk dan santan.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0ca6c856555b52b2/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-2-foto.webp" alt="Nasi Daun Jeruk Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0ca6c856555b52b2/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-2-foto.png" alt="Nasi Daun Jeruk Rice Cooker" width="340" height="340">
 >1. Tambahkan air. Jumlah air bisa disesuaikan jenis beras masing-masing. Masukkan sereh dan bumbui dengan garam dan gula (boleh dikasih kaldu jamur juga). Aduk rata dan masak hingga matang. Sajikan dengan lauk favorite Anda.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/98c8260985a1b3aa/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/98c8260985a1b3aa/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk Rice Cooker" width="340" height="340">
 >
 
 

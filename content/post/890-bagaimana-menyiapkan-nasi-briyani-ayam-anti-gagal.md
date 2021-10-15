@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-22T04:34:52.357Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 author: Lydia Singleton
 ratingvalue: 3.8
 reviewcount: 3
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi briyani ayam](https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp)
+![Nasi briyani ayam](https://img-global.cpcdn.com/recipes/e8ebb1d429f0d23b/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png)
 
 4 langkah mudah dan cepat mengolah  Nasi briyani ayam cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T06:27:45.485Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.png
 author: Clarence Mendoza
 ratingvalue: 3.6
 reviewcount: 3
@@ -57,7 +57,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi daun jeruk purut](https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.webp)
+![Nasi daun jeruk purut](https://img-global.cpcdn.com/recipes/8b365a905a4240fa/682x484cq65/nasi-daun-jeruk-purut-foto-resep-utama.png)
 
 Resep rahasia Nasi daun jeruk purut    dengan 1 langkahcepat cocok sekali jika digunakan untuk menjamu tamu
 

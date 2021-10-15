@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T10:38:39.059Z 
-thumbnail: https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.png
 author: Roger Morris
 ratingvalue: 4.4
 reviewcount: 13
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi ala Master Cheft 😀](https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.webp)
+![Nasi uduk betawi ala Master Cheft 😀](https://img-global.cpcdn.com/recipes/94cef1e874d37721/682x484cq65/nasi-uduk-betawi-ala-master-cheft-foto-resep-utama.png)
 
 4 langkah cepat dan mudah membuat  Nasi uduk betawi ala Master Cheft 😀 cocok sekali jika digunakan untuk menjamu tamu
 

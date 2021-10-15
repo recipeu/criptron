@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-17T14:51:38.299Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 author: Claudia Waters
 ratingvalue: 4.8
 reviewcount: 5
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi ayam Semarang](https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp)
+![Nasi ayam Semarang](https://img-global.cpcdn.com/recipes/0f753367236e7ac3/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi ayam Semarang yang musti kamu coba dirumah
 

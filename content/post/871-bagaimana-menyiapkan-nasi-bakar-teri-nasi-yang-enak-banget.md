@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T16:02:20.039Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.png
 author: Florence Hopkins
 ratingvalue: 3
 reviewcount: 11
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar teri nasi](https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.webp)
+![Nasi bakar teri nasi](https://img-global.cpcdn.com/recipes/ab30ceeda52ac9c1/682x484cq65/nasi-bakar-teri-nasi-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi bakar teri nasi yang bisa kamu coba segera
 

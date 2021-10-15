@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-09T19:18:20.876Z 
-thumbnail: https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.png
 author: Bruce Santos
 ratingvalue: 4.3
 reviewcount: 6
@@ -90,7 +90,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Biryani/Briyani Kambing (Laham)](https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.webp)
+![Nasi Biryani/Briyani Kambing (Laham)](https://img-global.cpcdn.com/recipes/26661614021f6b6b/682x484cq65/nasi-biryanibriyani-kambing-laham-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Biryani/Briyani Kambing (Laham) yang harus kamu coba segera
 

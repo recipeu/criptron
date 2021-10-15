@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-30T08:08:04.703Z 
-thumbnail: https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.png
 author: Elijah Andrews
 ratingvalue: 3.2
 reviewcount: 4
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Katsu Telur Krispi Sambal Matah](https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.webp)
+![Nasi Katsu Telur Krispi Sambal Matah](https://img-global.cpcdn.com/recipes/686d97e471dc3e9e/682x484cq65/nasi-katsu-telur-krispi-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Nasi Katsu Telur Krispi Sambal Matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

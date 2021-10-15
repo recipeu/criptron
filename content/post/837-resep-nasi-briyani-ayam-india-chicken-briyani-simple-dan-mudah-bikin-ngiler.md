@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-25T06:36:37.498Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.png
 author: Derrick Freeman
 ratingvalue: 3.3
 reviewcount: 9
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Briyani Ayam India/Chicken Briyani. Simple dan Mudah](https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.webp)
+![Nasi Briyani Ayam India/Chicken Briyani. Simple dan Mudah](https://img-global.cpcdn.com/recipes/ed0ad7afb4292dea/682x484cq65/nasi-briyani-ayam-indiachicken-briyani-simple-dan-mudah-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Briyani Ayam India/Chicken Briyani. Simple dan Mudah yang bisa ibu coba segera
 

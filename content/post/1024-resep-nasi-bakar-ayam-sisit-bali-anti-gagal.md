@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T23:34:12.943Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.png
 author: Myrtie Wheeler
 ratingvalue: 3.8
 reviewcount: 6
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![*nasi bakar ayam sisit bali*](https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.webp)
+![*nasi bakar ayam sisit bali*](https://img-global.cpcdn.com/recipes/a43dd773e975509c/682x484cq65/nasi-bakar-ayam-sisit-bali-foto-resep-utama.png)
 
 Ingin membuat *nasi bakar ayam sisit bali* ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti bunda coba dirumah
 

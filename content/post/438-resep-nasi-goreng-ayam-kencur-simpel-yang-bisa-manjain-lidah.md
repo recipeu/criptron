@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T05:51:24.751Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.png
 author: Sarah Quinn
 ratingvalue: 4.8
 reviewcount: 14
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi goreng ayam kencur simpel](https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.webp)
+![Nasi goreng ayam kencur simpel](https://img-global.cpcdn.com/recipes/1015c16bea07fb51/682x484cq65/nasi-goreng-ayam-kencur-simpel-foto-resep-utama.png)
 
 Ingin membuat Nasi goreng ayam kencur simpel ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib ibu coba segera
 

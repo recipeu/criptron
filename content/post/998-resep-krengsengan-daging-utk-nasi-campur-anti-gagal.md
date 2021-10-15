@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T11:23:57.550Z 
-thumbnail: https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.png
 author: Johanna Hunt
 ratingvalue: 4.9
 reviewcount: 7
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Krengsengan Daging utk Nasi Campur](https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.webp)
+![Krengsengan Daging utk Nasi Campur](https://img-global.cpcdn.com/recipes/55597a7efcaf9233/682x484cq65/krengsengan-daging-utk-nasi-campur-foto-resep-utama.png)
 
 1 langkah mudah mengolah  Krengsengan Daging utk Nasi Campur cocok banget jika digunakan untuk menjamu teman
 

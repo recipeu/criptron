@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-25T03:53:10.592Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.png
 author: Gregory Patton
 ratingvalue: 5
 reviewcount: 15
@@ -84,7 +84,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi ayam hainam RICE COOKER](https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.webp)
+![Nasi ayam hainam RICE COOKER](https://img-global.cpcdn.com/recipes/d2793a7e612ef61b/682x484cq65/nasi-ayam-hainam-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi ayam hainam RICE COOKER ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti bunda coba dirumah
 

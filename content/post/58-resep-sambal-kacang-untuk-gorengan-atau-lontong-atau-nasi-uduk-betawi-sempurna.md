@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T12:08:47.159Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.png
 author: Rosetta Jensen
 ratingvalue: 3.1
 reviewcount: 15
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Sambal kacang untuk gorengan atau lontong atau nasi uduk betawi](https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.webp)
+![Sambal kacang untuk gorengan atau lontong atau nasi uduk betawi](https://img-global.cpcdn.com/recipes/e40a7408ab759e4d/682x484cq65/sambal-kacang-untuk-gorengan-atau-lontong-atau-nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia Sambal kacang untuk gorengan atau lontong atau nasi uduk betawi    dengan 4 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu tamu
 

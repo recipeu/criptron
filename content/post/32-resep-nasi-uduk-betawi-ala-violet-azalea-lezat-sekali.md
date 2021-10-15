@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T22:29:36.035Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.png
 author: Susan Lane
 ratingvalue: 3.4
 reviewcount: 11
@@ -91,7 +91,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi ala Violet Azalea](https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.webp)
+![Nasi Uduk Betawi ala Violet Azalea](https://img-global.cpcdn.com/recipes/0223ede819991215/682x484cq65/nasi-uduk-betawi-ala-violet-azalea-foto-resep-utama.png)
 
 14 langkah cepat dan mudah mengolah  Nasi Uduk Betawi ala Violet Azalea cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T06:16:30.593Z 
-thumbnail: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png
 author: Leonard White
 ratingvalue: 3.8
 reviewcount: 3
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![MPASI nasi tim + tumis ayam tahu](https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.webp)
+![MPASI nasi tim + tumis ayam tahu](https://img-global.cpcdn.com/recipes/58fbc0058953940e/682x484cq65/mpasi-nasi-tim-tumis-ayam-tahu-foto-resep-utama.png)
 
 Ingin membuat MPASI nasi tim + tumis ayam tahu ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

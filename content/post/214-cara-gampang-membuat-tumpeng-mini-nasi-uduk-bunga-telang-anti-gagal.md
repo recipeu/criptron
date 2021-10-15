@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-18T19:49:20.568Z 
-thumbnail: https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.png
 author: Betty Stone
 ratingvalue: 4.9
 reviewcount: 12
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Tumpeng mini nasi uduk bunga telang](https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.webp)
+![Tumpeng mini nasi uduk bunga telang](https://img-global.cpcdn.com/recipes/80479a9d90ef1fdc/682x484cq65/tumpeng-mini-nasi-uduk-bunga-telang-foto-resep-utama.png)
 
 Resep rahasia Tumpeng mini nasi uduk bunga telang  sederhana dengan 3 langkahmudah dan cepat yang harus ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-16T15:57:43.893Z 
-thumbnail: https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.png
 author: Rosalie Garner
 ratingvalue: 3.4
 reviewcount: 13
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![Semur telur + tahu (lauk nasi uduk)](https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.webp)
+![Semur telur + tahu (lauk nasi uduk)](https://img-global.cpcdn.com/recipes/eec6c0fdf80df9a9/682x484cq65/semur-telur-tahu-lauk-nasi-uduk-foto-resep-utama.png)
 
 Resep rahasia Semur telur + tahu (lauk nasi uduk)    dengan 5 langkahcepat dan mudah yang musti kamu coba segera
 

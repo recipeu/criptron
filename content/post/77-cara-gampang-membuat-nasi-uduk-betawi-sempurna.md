@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T18:09:24.575Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Mable Sparks
 ratingvalue: 3.9
 reviewcount: 11
@@ -70,7 +70,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/8e2c44d57ec57007/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 6 langkah cepat dan mudah mengolah  Nasi uduk betawi yang bisa bunda coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-26T05:15:32.622Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png
 author: Gabriel Marshall
 ratingvalue: 3.1
 reviewcount: 11
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng teri medan praktis](https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.webp)
+![Nasi goreng teri medan praktis](https://img-global.cpcdn.com/recipes/8ac65187b6de836d/682x484cq65/nasi-goreng-teri-medan-praktis-foto-resep-utama.png)
 
 4 langkah cepat membuat  Nasi goreng teri medan praktis cocok sekali jika digunakan untuk menjamu teman
 

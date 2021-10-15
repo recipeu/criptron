@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-30T03:21:08.529Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.png
 author: Travis Ross
 ratingvalue: 4.5
 reviewcount: 12
@@ -60,7 +60,7 @@ recipecategory: Lunch
 ---
 
 
-![Mpasi nasi Tim wortel dan ayam suwir](https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.webp)
+![Mpasi nasi Tim wortel dan ayam suwir](https://img-global.cpcdn.com/recipes/9d6cf0be5d6295d2/682x484cq65/mpasi-nasi-tim-wortel-dan-ayam-suwir-foto-resep-utama.png)
 
 Resep rahasia Mpasi nasi Tim wortel dan ayam suwir    dengan 4 langkahmudah cocok banget jika digunakan untuk menjamu teman
 

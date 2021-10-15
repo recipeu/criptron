@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-14T06:25:00.575Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.png
 author: Andre Kelley
 ratingvalue: 3.2
 reviewcount: 13
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng Sambal Ijo (Toping Baso Sapi dan Teri Medan) Simple](https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.webp)
+![Nasi Goreng Sambal Ijo (Toping Baso Sapi dan Teri Medan) Simple](https://img-global.cpcdn.com/recipes/4d8ea87683e40249/682x484cq65/nasi-goreng-sambal-ijo-toping-baso-sapi-dan-teri-medan-simple-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Goreng Sambal Ijo (Toping Baso Sapi dan Teri Medan) Simple cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T16:05:41.285Z 
-thumbnail: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png
 author: Cody Thomas
 ratingvalue: 3.6
 reviewcount: 4
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Ayam Hainan Magic Com](https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp)
+![Nasi Ayam Hainan Magic Com](https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Ayam Hainan Magic Com cocok banget jika digunakan untuk menjamu tamu
 

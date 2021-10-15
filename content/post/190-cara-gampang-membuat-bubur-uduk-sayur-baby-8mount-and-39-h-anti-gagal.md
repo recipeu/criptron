@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T06:39:23.795Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.png
 author: Genevieve Wise
 ratingvalue: 4
 reviewcount: 14
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Bubur uduk sayur - baby 8mount&#39;h](https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.webp)
+![Bubur uduk sayur - baby 8mount&#39;h](https://img-global.cpcdn.com/recipes/5968419b46b7556c/682x484cq65/bubur-uduk-sayur-baby-8mounth-foto-resep-utama.png)
 
 Ingin membuat Bubur uduk sayur - baby 8mount&#39;h ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa kamu coba segera
 

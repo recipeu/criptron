@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T20:30:53.863Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.png
 author: Adam Rios
 ratingvalue: 3.1
 reviewcount: 9
@@ -74,7 +74,7 @@ recipecategory: Lunch
 ---
 
 
-![Sushi Roll](https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.webp)
+![Sushi Roll](https://img-global.cpcdn.com/recipes/ebd45cb9330efc92/682x484cq65/sushi-roll-foto-resep-utama.png)
 
 14 langkah cepat dan mudah memasak  Sushi Roll cocok banget jika digunakan untuk menjamu tamu
 

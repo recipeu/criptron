@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-04T15:04:41.304Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: Winifred Lawson
 ratingvalue: 3.2
 reviewcount: 3
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/e008f568dd52f51a/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 3 langkah cepat membuat  Nasi Daun Jeruk yang bisa ibu coba dirumah
 
@@ -90,13 +90,13 @@ recipecategory: Dinner
 ## Tata Cara Membuat Nasi Daun Jeruk:
 
 1. Cuci beras. Tambahkan santan dan air. Tumis bawang merah dan bawang putih hingga harum dan layu, masukkan ke campuran beras
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e8ee2e9cbae042c4/160x128cq70/nasi-daun-jeruk-langkah-memasak-1-foto.webp" alt="Nasi Daun Jeruk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e8ee2e9cbae042c4/160x128cq70/nasi-daun-jeruk-langkah-memasak-1-foto.png" alt="Nasi Daun Jeruk" width="340" height="340">
 >1. Tambahkan daun jeruk, sereh, daun salam, garam dan kaldu bubuk. Masak di rice cooker hingga matang
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/00ced531c5bb93ae/160x128cq70/nasi-daun-jeruk-langkah-memasak-2-foto.webp" alt="Nasi Daun Jeruk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/00ced531c5bb93ae/160x128cq70/nasi-daun-jeruk-langkah-memasak-2-foto.png" alt="Nasi Daun Jeruk" width="340" height="340">
 >1. Jika sudah matang, aduk merata. Tambahkan 1 sdm margarin lalu aduk merata. Nasi jeruk siap disantap
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/1ac77c30e553cce0/160x128cq70/nasi-daun-jeruk-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/3ab8efe7e44412de/160x128cq70/nasi-daun-jeruk-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/635152f4cffa1954/160x128cq70/nasi-daun-jeruk-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/1ac77c30e553cce0/160x128cq70/nasi-daun-jeruk-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/3ab8efe7e44412de/160x128cq70/nasi-daun-jeruk-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/635152f4cffa1954/160x128cq70/nasi-daun-jeruk-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk" width="340" height="340">
 >
 
 

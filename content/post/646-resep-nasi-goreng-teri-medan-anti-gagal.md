@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-19T14:04:33.530Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 author: Fannie Campbell
 ratingvalue: 3.7
 reviewcount: 10
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi goreng teri medan 🍛](https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp)
+![Nasi goreng teri medan 🍛](https://img-global.cpcdn.com/recipes/d89bb74e75366feb/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi goreng teri medan 🍛 yang musti ibu coba dirumah
 

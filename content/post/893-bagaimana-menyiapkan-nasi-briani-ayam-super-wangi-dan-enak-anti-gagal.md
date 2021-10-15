@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-21T16:10:36.530Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.png
 author: Lida Hardy
 ratingvalue: 4.6
 reviewcount: 12
@@ -74,7 +74,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Briani ayam super wangi dan enak](https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.webp)
+![Nasi Briani ayam super wangi dan enak](https://img-global.cpcdn.com/recipes/c397501ed4bd5824/682x484cq65/nasi-briani-ayam-super-wangi-dan-enak-foto-resep-utama.png)
 
 Resep rahasia Nasi Briani ayam super wangi dan enak  enak dengan 9 langkahcepat yang harus bunda coba dirumah
 

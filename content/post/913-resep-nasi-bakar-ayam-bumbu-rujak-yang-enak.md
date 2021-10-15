@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T02:40:44.620Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.png
 author: Jeffery Torres
 ratingvalue: 3.9
 reviewcount: 11
@@ -75,7 +75,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ayam Bumbu Rujak](https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.webp)
+![Nasi Bakar Ayam Bumbu Rujak](https://img-global.cpcdn.com/recipes/2cc7eefe4b13f11b/682x484cq65/nasi-bakar-ayam-bumbu-rujak-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ayam Bumbu Rujak ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang wajib ibu coba dirumah
 

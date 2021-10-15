@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T00:20:49.550Z 
-thumbnail: https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.png
 author: Jeffrey Joseph
 ratingvalue: 5
 reviewcount: 11
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk santan kara](https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.webp)
+![Nasi uduk santan kara](https://img-global.cpcdn.com/recipes/836fbf0d126ebab1/682x484cq65/nasi-uduk-santan-kara-foto-resep-utama.png)
 
 4 langkah cepat dan mudah memasak  Nasi uduk santan kara cocok banget jika digunakan untuk menjamu teman
 

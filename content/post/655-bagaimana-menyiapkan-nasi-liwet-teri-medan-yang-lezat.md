@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T15:37:49.370Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 author: Wayne Becker
 ratingvalue: 4
 reviewcount: 9
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![nasi liwet teri medan](https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp)
+![nasi liwet teri medan](https://img-global.cpcdn.com/recipes/a8a711530875e1a0/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png)
 
 Resep rahasia nasi liwet teri medan    dengan 2 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

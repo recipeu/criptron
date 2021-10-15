@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T13:09:16.352Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.png
 author: Douglas Henderson
 ratingvalue: 5
 reviewcount: 10
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk + Kulit Crispy](https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.webp)
+![Nasi Daun Jeruk + Kulit Crispy](https://img-global.cpcdn.com/recipes/1bb2b6f08150895e/682x484cq65/nasi-daun-jeruk-kulit-crispy-foto-resep-utama.png)
 
 Resep Nasi Daun Jeruk + Kulit Crispy  sederhana dengan 7 langkahmudah dan cepat yang wajib kamu coba dirumah
 
@@ -98,12 +98,12 @@ Resep Nasi Daun Jeruk + Kulit Crispy  sederhana dengan 7 langkahmudah dan cepat 
 ## Cara Mudah Membuat Nasi Daun Jeruk + Kulit Crispy:
 
 1. Cincang halus daun jeruk dan bawang putih.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8fe5f95629508b1e/160x128cq70/nasi-daun-jeruk-kulit-crispy-langkah-memasak-1-foto.webp" alt="Nasi Daun Jeruk + Kulit Crispy" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8fe5f95629508b1e/160x128cq70/nasi-daun-jeruk-kulit-crispy-langkah-memasak-1-foto.png" alt="Nasi Daun Jeruk + Kulit Crispy" width="340" height="340">
 >1. Tumis bawang putih dengan sedikit minyak hingga harum, lalu masukkan daun jeruk. Aduk rata. Masak hingga bawang agak kecoklatan. Lalu matikan api dan masukkan mentega/margarin
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7ae10f8a5430b1f0/160x128cq70/nasi-daun-jeruk-kulit-crispy-langkah-memasak-2-foto.webp" alt="Nasi Daun Jeruk + Kulit Crispy" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7ae10f8a5430b1f0/160x128cq70/nasi-daun-jeruk-kulit-crispy-langkah-memasak-2-foto.png" alt="Nasi Daun Jeruk + Kulit Crispy" width="340" height="340">
 >1. Masukkan pada rice cooker, aduk rata dengan nasi putih yg baru matang.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/59a50e1dad11788f/160x128cq70/nasi-daun-jeruk-kulit-crispy-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk + Kulit Crispy" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ecaad7b30ee0e77d/160x128cq70/nasi-daun-jeruk-kulit-crispy-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk + Kulit Crispy" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/59a50e1dad11788f/160x128cq70/nasi-daun-jeruk-kulit-crispy-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk + Kulit Crispy" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ecaad7b30ee0e77d/160x128cq70/nasi-daun-jeruk-kulit-crispy-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk + Kulit Crispy" width="340" height="340">
 >1. Kulit crispy : Cuci bersih kulit, buang bagian2 minyaknya, potong2 sesuai selera. Lalu keringkan dengan tissue dapur.
 1. Marinasi kulit dengan bawang putih cincang, kaldu jamur, garam, dan cabe bubuk. (Aku semalaman)
 1. Masukkan kulit yg sudah di marinasi kedalam teflon. Lalu nyalakan api sedang ke besar, aduk2 kulit hingga kulit berubah warna.

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T04:44:21.663Z 
-thumbnail: https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.png
 author: Alberta Higgins
 ratingvalue: 4.7
 reviewcount: 5
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng teri medan pelangi](https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.webp)
+![Nasi goreng teri medan pelangi](https://img-global.cpcdn.com/recipes/40f5429697b9c9d2/682x484cq65/nasi-goreng-teri-medan-pelangi-foto-resep-utama.png)
 
 4 langkah mudah dan cepat mengolah  Nasi goreng teri medan pelangi yang bisa ibu coba dirumah
 

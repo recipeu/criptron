@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T22:43:01.956Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png
 author: Lenora Adams
 ratingvalue: 3
 reviewcount: 4
@@ -26,7 +26,7 @@ recipeingredient:
 - "saos tiram 2 sdm"
 - "kecap asin 1/2 sdt"
 - "minyak goreng 2 sdm"
-- "bawang putih goreng           lihat resep 2 sdm"
+- "bawang putih goreng   . 2 sdm"
 recipeinstructions:
 - "Cuci bersih ayam, tiriskan. Bumbui ayam dengan bumbu-bumbu kecuali bawang putih goreng dan marinasi selama kurang lebih 20 menit."
 - "Cuci beras seperti biasanya, tuangkan ayam marinasi, tuang air aduk dan taburi bawang putih goreng."
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Hainan Rice Cooker](https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.webp)
+![Nasi Ayam Hainan Rice Cooker](https://img-global.cpcdn.com/recipes/ae60bbab088866e9/682x484cq65/nasi-ayam-hainan-rice-cooker-foto-resep-utama.png)
 
 4 langkah cepat memasak  Nasi Ayam Hainan Rice Cooker yang musti ibu coba dirumah
 
@@ -82,7 +82,7 @@ recipecategory: Lunch
 1. saos tiram 2 sdm
 1. kecap asin 1/2 sdt
 1. minyak goreng 2 sdm
-1. bawang putih goreng           lihat resep 2 sdm
+1. bawang putih goreng   . 2 sdm
 
 
 

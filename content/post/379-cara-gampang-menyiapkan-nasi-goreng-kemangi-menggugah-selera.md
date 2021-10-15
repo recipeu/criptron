@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-19T23:24:00.823Z 
-thumbnail: https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.png
 author: Ola Sherman
 ratingvalue: 4.7
 reviewcount: 5
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi goreng kemangi](https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.webp)
+![Nasi goreng kemangi](https://img-global.cpcdn.com/recipes/818a5e3e33cd1ade/682x484cq65/nasi-goreng-kemangi-foto-resep-utama.png)
 
 Ingin membuat Nasi goreng kemangi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

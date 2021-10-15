@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T14:17:47.434Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.png
 author: Scott Alvarado
 ratingvalue: 3.4
 reviewcount: 11
@@ -78,7 +78,7 @@ recipecategory: Dessert
 ---
 
 
-![Chicken Katsu Curry Rice](https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.webp)
+![Chicken Katsu Curry Rice](https://img-global.cpcdn.com/recipes/f9250f91e1219f2f/682x484cq65/chicken-katsu-curry-rice-foto-resep-utama.png)
 
 Ingin membuat Chicken Katsu Curry Rice ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang wajib kamu coba dirumah
 

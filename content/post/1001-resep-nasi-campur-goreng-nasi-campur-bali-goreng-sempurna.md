@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T18:07:32.680Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.png
 author: Josephine Sanders
 ratingvalue: 3.5
 reviewcount: 6
@@ -55,7 +55,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi campur goreng (Nasi campur Bali goreng)](https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.webp)
+![Nasi campur goreng (Nasi campur Bali goreng)](https://img-global.cpcdn.com/recipes/2bc727f311cc78e4/682x484cq65/nasi-campur-goreng-nasi-campur-bali-goreng-foto-resep-utama.png)
 
 1 langkah mudah dan cepat memasak  Nasi campur goreng (Nasi campur Bali goreng) cocok sekali jika digunakan untuk menjamu teman
 

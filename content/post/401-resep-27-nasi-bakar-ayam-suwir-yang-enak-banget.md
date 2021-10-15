@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-11T13:44:06.960Z 
-thumbnail: https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.png
 author: Nelle Mitchell
 ratingvalue: 3.1
 reviewcount: 13
@@ -85,7 +85,7 @@ recipecategory: Dinner
 ---
 
 
-![27. Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.webp)
+![27. Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/42c7256dc214fec0/682x484cq65/27-nasi-bakar-ayam-suwir-foto-resep-utama.png)
 
 4 langkah mudah membuat  27. Nasi bakar ayam suwir cocok sekali jika digunakan untuk menjamu teman
 

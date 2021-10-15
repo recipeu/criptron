@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-27T13:01:22.471Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.png
 author: Stella Pena
 ratingvalue: 4.7
 reviewcount: 15
@@ -93,7 +93,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam Hainan (Hainanese Chicken) ala Malay&amp;Sgp](https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.webp)
+![Nasi Ayam Hainan (Hainanese Chicken) ala Malay&amp;Sgp](https://img-global.cpcdn.com/recipes/b1e6e221bd4f8db7/682x484cq65/nasi-ayam-hainan-hainanese-chicken-ala-malaysgp-foto-resep-utama.png)
 
 Ingin membuat Nasi Ayam Hainan (Hainanese Chicken) ala Malay&amp;Sgp ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T03:44:21.354Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png
 author: Betty Kelley
 ratingvalue: 4.3
 reviewcount: 3
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Rempeyek teri medan](https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp)
+![Rempeyek teri medan](https://img-global.cpcdn.com/recipes/f96b34ad058c7e1f/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png)
 
 6 langkah cepat memasak  Rempeyek teri medan yang musti kamu coba segera
 

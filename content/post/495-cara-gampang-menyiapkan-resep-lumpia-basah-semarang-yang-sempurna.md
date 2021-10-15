@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-11T05:28:05.389Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.png
 author: Jeffery Casey
 ratingvalue: 4.1
 reviewcount: 8
@@ -83,7 +83,7 @@ recipecategory: Dessert
 ---
 
 
-![Resep Lumpia Basah Semarang](https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.webp)
+![Resep Lumpia Basah Semarang](https://img-global.cpcdn.com/recipes/2f0cdb3e4a5e599e/682x484cq65/resep-lumpia-basah-semarang-foto-resep-utama.png)
 
 Resep Resep Lumpia Basah Semarang    dengan 9 langkahcepat dan mudah yang musti kamu coba dirumah
 

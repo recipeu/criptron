@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-02T04:49:41.685Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.png
 author: Beatrice Stone
 ratingvalue: 4.9
 reviewcount: 14
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Semur betawi pelengkap nasi uduk](https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.webp)
+![Semur betawi pelengkap nasi uduk](https://img-global.cpcdn.com/recipes/ef597194476376f6/682x484cq65/semur-betawi-pelengkap-nasi-uduk-foto-resep-utama.png)
 
 Resep Semur betawi pelengkap nasi uduk    dengan 5 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

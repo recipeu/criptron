@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T18:08:37.309Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.png
 author: Oscar Bradley
 ratingvalue: 3.8
 reviewcount: 10
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Tumis kacang panjang teri medan](https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.webp)
+![Tumis kacang panjang teri medan](https://img-global.cpcdn.com/recipes/ab43913c3d5edc94/682x484cq65/tumis-kacang-panjang-teri-medan-foto-resep-utama.png)
 
 Resep dan cara mengolah  Tumis kacang panjang teri medan cocok banget jika digunakan untuk menjamu tamu
 

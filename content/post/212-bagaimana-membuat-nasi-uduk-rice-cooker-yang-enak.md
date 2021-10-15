@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-26T09:14:27.462Z 
-thumbnail: https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 author: Gabriel Brewer
 ratingvalue: 3.5
 reviewcount: 10
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk rice cooker](https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp)
+![Nasi uduk rice cooker](https://img-global.cpcdn.com/recipes/64bd1e925d29af07/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi uduk rice cooker yang musti bunda coba dirumah
 

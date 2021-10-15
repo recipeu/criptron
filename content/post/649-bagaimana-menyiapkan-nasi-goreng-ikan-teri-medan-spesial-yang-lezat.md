@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-02T06:19:12.292Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.png
 author: Joshua McDonald
 ratingvalue: 3.6
 reviewcount: 12
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Goreng Ikan Teri Medan Spesial](https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.webp)
+![Nasi Goreng Ikan Teri Medan Spesial](https://img-global.cpcdn.com/recipes/4366710408d6434b/682x484cq65/nasi-goreng-ikan-teri-medan-spesial-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Goreng Ikan Teri Medan Spesial yang bisa kamu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-30T23:39:17.724Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.png
 author: Martin Daniel
 ratingvalue: 3.6
 reviewcount: 14
@@ -76,7 +76,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Hainan Rice Cooker](https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.webp)
+![Nasi Hainan Rice Cooker](https://img-global.cpcdn.com/recipes/3eca16afd43ca767/682x484cq65/nasi-hainan-rice-cooker-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Hainan Rice Cooker yang wajib kamu coba dirumah
 

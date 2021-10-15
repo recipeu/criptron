@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-31T09:25:45.838Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.png
 author: Eula Miller
 ratingvalue: 4.2
 reviewcount: 5
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Liwet Magic Com](https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.webp)
+![Nasi Liwet Magic Com](https://img-global.cpcdn.com/recipes/1d51b803b2419661/682x484cq65/nasi-liwet-magic-com-foto-resep-utama.png)
 
 4 langkah cepat dan mudah membuat  Nasi Liwet Magic Com yang bisa ibu coba dirumah
 

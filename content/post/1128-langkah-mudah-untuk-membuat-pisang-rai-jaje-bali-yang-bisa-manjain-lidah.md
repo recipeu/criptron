@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T13:01:20.134Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.png
 author: Victoria Herrera
 ratingvalue: 5
 reviewcount: 5
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang Rai (jaje Bali)](https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.webp)
+![Pisang Rai (jaje Bali)](https://img-global.cpcdn.com/recipes/5a434ed612fc4de0/682x484cq65/pisang-rai-jaje-bali-foto-resep-utama.png)
 
 5 langkah mudah dan cepat memasak  Pisang Rai (jaje Bali) cocok sekali jika digunakan untuk menjamu teman
 
@@ -86,9 +86,9 @@ Namun dalam resep kali ini cukup berbeda, yaitu dengan. Bali Beaches + recipe Pi
 1. Potong pisang sesuai selera
 1. Celupkan pisang ke adonan tepung, dan masukkan ke air mendidih (kecilkan api saat memasukkan pisang) tunggu hingga mengapung baru tiriskan
 1. Setelah tiris gulingkan ke parutan kelapa lalu beri gula aren cair😋
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/6ce1e268e490b203/160x128cq70/pisang-rai-jaje-bali-langkah-memasak-5-foto.webp" alt="Pisang Rai (jaje Bali)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/76e627f7d964e0a5/160x128cq70/pisang-rai-jaje-bali-langkah-memasak-5-foto.webp" alt="Pisang Rai (jaje Bali)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/101583e004783179/160x128cq70/pisang-rai-jaje-bali-langkah-memasak-5-foto.webp" alt="Pisang Rai (jaje Bali)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/6ce1e268e490b203/160x128cq70/pisang-rai-jaje-bali-langkah-memasak-5-foto.png" alt="Pisang Rai (jaje Bali)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/76e627f7d964e0a5/160x128cq70/pisang-rai-jaje-bali-langkah-memasak-5-foto.png" alt="Pisang Rai (jaje Bali)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/101583e004783179/160x128cq70/pisang-rai-jaje-bali-langkah-memasak-5-foto.png" alt="Pisang Rai (jaje Bali)" width="340" height="340">
 >
 
 Sajikan pisang rai sebagai kudapan spesial menyambut Hari Raya Nyepi. Siapkan pisang kepok atau raja sebagai salah satu bahan utamanya. KOMPAS.com - Menyambut Hari Raya Nyepi, kamu bisa mencoba bikin pisang rai. Camilan tradisional khas Bali yang terbuat dari bahan sederhana. Pisang rai olahan dari pisang, pisang rai sangat nikmat dan murah, pisang rai dapat dibeli di pasar-pasar tradisional, cara membuat pisang rai sangat mudah. 

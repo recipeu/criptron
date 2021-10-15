@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-27T04:19:25.539Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 author: Adelaide Love
 ratingvalue: 3.1
 reviewcount: 14
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng Teri Medan](https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp)
+![Nasi Goreng Teri Medan](https://img-global.cpcdn.com/recipes/4a31382c555b94fe/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png)
 
 Ingin membuat Nasi Goreng Teri Medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

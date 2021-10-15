@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T09:39:17.880Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 author: Bruce Clark
 ratingvalue: 4.1
 reviewcount: 10
@@ -75,7 +75,7 @@ recipecategory: Lunch
 ---
 
 
-![PISANG RAI khas Bali](https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp)
+![PISANG RAI khas Bali](https://img-global.cpcdn.com/recipes/2f1aad06c766401a/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png)
 
 Resep dan cara memasak  PISANG RAI khas Bali cocok sekali jika digunakan untuk menjamu teman
 

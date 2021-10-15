@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-05T04:02:02.136Z 
-thumbnail: https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.png
 author: Clyde Mitchell
 ratingvalue: 3
 reviewcount: 8
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![51. Nasi Bakar Ayam Kentang Pedas](https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.webp)
+![51. Nasi Bakar Ayam Kentang Pedas](https://img-global.cpcdn.com/recipes/dbf1f6821713c5c3/682x484cq65/51-nasi-bakar-ayam-kentang-pedas-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  51. Nasi Bakar Ayam Kentang Pedas cocok sekali jika digunakan untuk menjamu tamu
 

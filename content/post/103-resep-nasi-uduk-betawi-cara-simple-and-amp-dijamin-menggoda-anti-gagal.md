@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T17:34:11.970Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.png
 author: Erik Moody
 ratingvalue: 4.1
 reviewcount: 10
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi, cara simple &amp; dijamin menggoda 😍](https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.webp)
+![Nasi Uduk Betawi, cara simple &amp; dijamin menggoda 😍](https://img-global.cpcdn.com/recipes/fd57c1cbb29e5107/682x484cq65/nasi-uduk-betawi-cara-simple-dijamin-menggoda-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Uduk Betawi, cara simple &amp; dijamin menggoda 😍 cocok sekali jika digunakan untuk menjamu tamu
 

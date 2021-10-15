@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-29T22:18:44.206Z 
-thumbnail: https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.png
 author: Johnny Bowen
 ratingvalue: 3.7
 reviewcount: 13
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam KFC di Magic Com](https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.webp)
+![Nasi Ayam KFC di Magic Com](https://img-global.cpcdn.com/recipes/88001b93efa84fb4/682x484cq65/nasi-ayam-kfc-di-magic-com-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Ayam KFC di Magic Com yang wajib bunda coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T15:54:38.194Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.png
 author: Susie Drake
 ratingvalue: 3.4
 reviewcount: 3
@@ -75,7 +75,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Goreng Kunyit + PeTe tabur Teri Medan Goreng](https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.webp)
+![Nasi Goreng Kunyit + PeTe tabur Teri Medan Goreng](https://img-global.cpcdn.com/recipes/d79c25bc7ab12f10/682x484cq65/nasi-goreng-kunyit-pete-tabur-teri-medan-goreng-foto-resep-utama.png)
 
 Resep Nasi Goreng Kunyit + PeTe tabur Teri Medan Goreng    dengan 4 langkahcepat dan mudah yang musti bunda coba segera
 

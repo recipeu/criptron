@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-14T02:42:55.716Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png
 author: Clara Schneider
 ratingvalue: 3.9
 reviewcount: 11
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Sambal Kacang Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.webp)
+![Sambal Kacang Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/e7fcb250e59c02f1/682x484cq65/sambal-kacang-nasi-uduk-betawi-foto-resep-utama.png)
 
 Ingin membuat Sambal Kacang Nasi Uduk Betawi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

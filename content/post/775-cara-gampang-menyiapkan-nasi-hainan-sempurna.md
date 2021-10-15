@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T10:33:31.356Z 
-thumbnail: https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.png
 author: Oscar Mason
 ratingvalue: 3.3
 reviewcount: 5
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Hainan](https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.webp)
+![Nasi Hainan](https://img-global.cpcdn.com/recipes/263d69fbd4492a37/682x484cq65/nasi-hainan-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Hainan cocok banget jika digunakan untuk menjamu teman
 

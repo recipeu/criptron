@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T00:51:17.338Z 
-thumbnail: https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
 author: Jesus Pierce
 ratingvalue: 3.4
 reviewcount: 8
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk magicom](https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp)
+![Nasi uduk magicom](https://img-global.cpcdn.com/recipes/71b4243183eece8c/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png)
 
 Resep Nasi uduk magicom    dengan 2 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

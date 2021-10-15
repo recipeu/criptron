@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-07T04:11:53.293Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.png
 author: Lydia Berry
 ratingvalue: 5
 reviewcount: 7
@@ -76,7 +76,7 @@ recipecategory: Lunch
 ---
 
 
-![NASKARQUE.... (Nasi Bakar isi Tongkol Pedas)](https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.webp)
+![NASKARQUE.... (Nasi Bakar isi Tongkol Pedas)](https://img-global.cpcdn.com/recipes/b08896fdb0707518/682x484cq65/naskarque-nasi-bakar-isi-tongkol-pedas-foto-resep-utama.png)
 
 Ingin membuat NASKARQUE.... (Nasi Bakar isi Tongkol Pedas) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

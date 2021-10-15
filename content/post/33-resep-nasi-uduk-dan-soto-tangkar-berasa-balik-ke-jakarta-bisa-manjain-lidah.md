@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T20:34:41.546Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.png
 author: Claudia Horton
 ratingvalue: 3.1
 reviewcount: 3
@@ -41,7 +41,7 @@ recipeingredient:
 - "lada putih 1/2 sdt"
 - "kaldu sapi bubuk 1 sdt"
 - "Pelengkap "
-- "Nasi uduk           lihat resep "
+- "Nasi uduk   . "
 - "Sambal cabe bawang putih resep nyusul "
 - "Jeruk limau "
 - "Bawang goreng "
@@ -85,7 +85,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk dan soto tangkar, berasa balik ke Jakarta 😋](https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.webp)
+![Nasi uduk dan soto tangkar, berasa balik ke Jakarta 😋](https://img-global.cpcdn.com/recipes/7ba04ffa12c82996/682x484cq65/nasi-uduk-dan-soto-tangkar-berasa-balik-ke-jakarta-foto-resep-utama.png)
 
 Ingin membuat Nasi uduk dan soto tangkar, berasa balik ke Jakarta 😋 ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 
@@ -118,7 +118,7 @@ Ingin membuat Nasi uduk dan soto tangkar, berasa balik ke Jakarta 😋 ? Coba re
 1. lada putih 1/2 sdt
 1. kaldu sapi bubuk 1 sdt
 1. Pelengkap 
-1. Nasi uduk           lihat resep 
+1. Nasi uduk   . 
 1. Sambal cabe bawang putih resep nyusul 
 1. Jeruk limau 
 1. Bawang goreng 

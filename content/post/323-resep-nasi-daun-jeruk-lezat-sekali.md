@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T23:28:30.712Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: Jeffrey Powers
 ratingvalue: 3
 reviewcount: 10
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/d4db30ad83d2e66c/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Daun Jeruk cocok banget jika digunakan untuk menjamu teman
 

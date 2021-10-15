@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T02:31:57.836Z 
-thumbnail: https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.png
 author: Lizzie Blair
 ratingvalue: 3.8
 reviewcount: 14
@@ -87,7 +87,7 @@ recipecategory: Lunch
 ---
 
 
-![Bakmi godog jowo ala semarang#bikinramdanberkesan](https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.webp)
+![Bakmi godog jowo ala semarang#bikinramdanberkesan](https://img-global.cpcdn.com/recipes/48e84f705d47ccac/682x484cq65/bakmi-godog-jowo-ala-semarangbikinramdanberkesan-foto-resep-utama.png)
 
 Ingin membuat Bakmi godog jowo ala semarang#bikinramdanberkesan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus kamu coba segera
 

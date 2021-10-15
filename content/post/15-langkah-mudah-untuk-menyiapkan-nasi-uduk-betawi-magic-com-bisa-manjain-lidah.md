@@ -7,18 +7,18 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-01T17:44:54.660Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 author: Rachel Butler
 ratingvalue: 3.6
 reviewcount: 12
 recipeingredient:
 - "beras pulen saya pakai merk Pandan Wangi cuci bersih 6 cup"
 - "santan disesuaikan dengan takaran magic com Secukupnya"
-- "bumbu dasar putih           lihat resep 1 sdm"
+- "bumbu dasar putih   . 1 sdm"
 - "daun salam sobek2 5 lembar"
 - "daun jeruk sobek2 5 lembar"
 - "sereh geprek 4 batang"
@@ -60,7 +60,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi (Magic Com)](https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp)
+![Nasi Uduk Betawi (Magic Com)](https://img-global.cpcdn.com/recipes/7089863b14976a31/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Betawi (Magic Com) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus kamu coba dirumah
 
@@ -70,7 +70,7 @@ Ingin membuat Nasi Uduk Betawi (Magic Com) ? Coba resep berikut ini. Cara memasa
 
 1. beras pulen saya pakai merk Pandan Wangi cuci bersih 6 cup
 1. santan disesuaikan dengan takaran magic com Secukupnya
-1. bumbu dasar putih           lihat resep 1 sdm
+1. bumbu dasar putih   . 1 sdm
 1. daun salam sobek2 5 lembar
 1. daun jeruk sobek2 5 lembar
 1. sereh geprek 4 batang

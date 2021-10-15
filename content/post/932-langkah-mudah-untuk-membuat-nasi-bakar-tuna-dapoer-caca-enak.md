@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T08:56:07.392Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.png
 author: Anne McGuire
 ratingvalue: 3.2
 reviewcount: 8
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar tuna dapoer caca](https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.webp)
+![Nasi bakar tuna dapoer caca](https://img-global.cpcdn.com/recipes/d8ba50a54c51f0b9/682x484cq65/nasi-bakar-tuna-dapoer-caca-foto-resep-utama.png)
 
 4 langkah cepat dan mudah memasak  Nasi bakar tuna dapoer caca cocok sekali jika digunakan untuk menjamu tamu
 

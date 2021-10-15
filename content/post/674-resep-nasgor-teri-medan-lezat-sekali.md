@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T20:38:24.639Z 
-thumbnail: https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.png
 author: Adele Owen
 ratingvalue: 3.4
 reviewcount: 4
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasgor Teri Medan](https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.webp)
+![Nasgor Teri Medan](https://img-global.cpcdn.com/recipes/dd698196069c6a78/682x484cq65/nasgor-teri-medan-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasgor Teri Medan cocok sekali jika digunakan untuk menjamu tamu
 

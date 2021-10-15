@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T09:52:59.261Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.png
 author: Eunice Summers
 ratingvalue: 3.2
 reviewcount: 9
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi briyani simple](https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.webp)
+![Nasi briyani simple](https://img-global.cpcdn.com/recipes/5e9f438cfe33b746/682x484cq65/nasi-briyani-simple-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi briyani simple yang bisa bunda coba dirumah
 

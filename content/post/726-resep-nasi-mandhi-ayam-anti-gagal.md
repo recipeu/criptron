@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-10T09:41:13.322Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.png
 author: Eugene Wright
 ratingvalue: 3.2
 reviewcount: 7
@@ -89,7 +89,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Mandhi Ayam](https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.webp)
+![Nasi Mandhi Ayam](https://img-global.cpcdn.com/recipes/c9e32b045cfd1af5/682x484cq65/nasi-mandhi-ayam-foto-resep-utama.png)
 
 Ingin membuat Nasi Mandhi Ayam ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib ibu coba dirumah
 

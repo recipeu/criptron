@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T02:53:15.809Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.png
 author: Nora Roberson
 ratingvalue: 5
 reviewcount: 4
@@ -28,8 +28,8 @@ recipeingredient:
 - "oatmeal blender 5 sdm"
 - "telur kocok lepas 1 butir"
 - "Bahan C "
-- "resep sambal Salsa           lihat resep 1 buah"
-- "resep nasi goreng           lihat resep 1 buah"
+- "resep sambal Salsa   . 1 buah"
+- "resep nasi goreng   . 1 buah"
 recipeinstructions:
 - "Bahan A. Belah ayam menjadi 2 bagian. Pukul-pukul bagian tebalnya dengan pemukul daging. Masukkan semua bumbu kering. Aduk rata sampai semua daging terlumur bumbu.  Bahan B. Ambil 1 daging, balurkan dengan tepung terigu."
 - "Lalu celupkan kedalam telur. Kemudian masukkan kedalam oats yg telah diblender."
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng Ayam Salsa](https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.webp)
+![Nasi Goreng Ayam Salsa](https://img-global.cpcdn.com/recipes/0cd2f9c421f08192/682x484cq65/nasi-goreng-ayam-salsa-foto-resep-utama.png)
 
 4 langkah mudah dan cepat mengolah  Nasi Goreng Ayam Salsa cocok banget jika digunakan untuk menjamu teman
 
@@ -87,8 +87,8 @@ recipecategory: Lunch
 1. oatmeal blender 5 sdm
 1. telur kocok lepas 1 butir
 1. Bahan C 
-1. resep sambal Salsa           lihat resep 1 buah
-1. resep nasi goreng           lihat resep 1 buah
+1. resep sambal Salsa   . 1 buah
+1. resep nasi goreng   . 1 buah
 
 
 

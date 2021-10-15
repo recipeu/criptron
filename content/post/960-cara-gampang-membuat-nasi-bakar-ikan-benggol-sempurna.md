@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-18T02:02:09.373Z 
-thumbnail: https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.png
 author: Tyler Buchanan
 ratingvalue: 3.9
 reviewcount: 6
@@ -84,7 +84,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ikan Benggol](https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.webp)
+![Nasi Bakar Ikan Benggol](https://img-global.cpcdn.com/recipes/516231b15e7f8e1c/682x484cq65/nasi-bakar-ikan-benggol-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ikan Benggol ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa kamu coba segera
 

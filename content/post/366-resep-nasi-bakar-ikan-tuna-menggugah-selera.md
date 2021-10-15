@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-27T09:02:03.331Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 author: Ralph Carroll
 ratingvalue: 3.8
 reviewcount: 5
@@ -73,7 +73,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ikan tuna](https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp)
+![Nasi bakar ikan tuna](https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png)
 
 5 langkah mudah dan cepat membuat  Nasi bakar ikan tuna yang wajib bunda coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-18T05:57:31.105Z 
-thumbnail: https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.png
 author: Duane Harrison
 ratingvalue: 3.4
 reviewcount: 13
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Daun Jeruk Wangi nan Mudah](https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.webp)
+![Nasi Daun Jeruk Wangi nan Mudah](https://img-global.cpcdn.com/recipes/abfd561e924cebe6/682x484cq65/nasi-daun-jeruk-wangi-nan-mudah-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Daun Jeruk Wangi nan Mudah yang harus bunda coba segera
 

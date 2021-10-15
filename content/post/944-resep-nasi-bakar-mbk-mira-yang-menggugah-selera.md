@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-30T21:29:40.008Z 
-thumbnail: https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.png
 author: Lizzie Munoz
 ratingvalue: 4.8
 reviewcount: 15
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar mbk mira](https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.webp)
+![Nasi bakar mbk mira](https://img-global.cpcdn.com/recipes/593dfe1ebf7bdb82/682x484cq65/nasi-bakar-mbk-mira-foto-resep-utama.png)
 
 Resep Nasi bakar mbk mira    dengan 4 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

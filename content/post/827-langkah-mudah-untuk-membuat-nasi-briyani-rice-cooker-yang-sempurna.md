@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-10T12:49:34.343Z 
-thumbnail: https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.png
 author: Stephen Wilson
 ratingvalue: 3.8
 reviewcount: 15
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Briyani Rice Cooker](https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.webp)
+![Nasi Briyani Rice Cooker](https://img-global.cpcdn.com/recipes/00c725862a118da4/682x484cq65/nasi-briyani-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Briyani Rice Cooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-27T19:55:29.100Z 
-thumbnail: https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.png
 author: Francisco Cruz
 ratingvalue: 3.7
 reviewcount: 7
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Urap Bali - Part Nasi Campur Bali](https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.webp)
+![Urap Bali - Part Nasi Campur Bali](https://img-global.cpcdn.com/recipes/715f4fa97d38a695/682x484cq65/urap-bali-part-nasi-campur-bali-foto-resep-utama.png)
 
 2 langkah cepat dan mudah membuat  Urap Bali - Part Nasi Campur Bali cocok sekali jika digunakan untuk menjamu teman
 

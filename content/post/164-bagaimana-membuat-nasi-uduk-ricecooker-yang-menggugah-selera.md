@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-14T10:19:09.071Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png
 author: Derrick Torres
 ratingvalue: 4.5
 reviewcount: 8
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk RiceCooker](https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.webp)
+![Nasi Uduk RiceCooker](https://img-global.cpcdn.com/recipes/8f77069b0bda2faf/682x484cq65/nasi-uduk-ricecooker-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Uduk RiceCooker yang musti bunda coba dirumah
 
@@ -84,10 +84,10 @@ Resep dan cara mengolah  Nasi Uduk RiceCooker yang musti bunda coba dirumah
 ## Tata Cara Menyiapkan Nasi Uduk RiceCooker:
 
 1. Siapkan rempah rempah,daun salam,sereh,lengkuas,jahe dan santan kara. - Cuci beras sampai bersih,masukan air sesuai takaran,daun salam,sereh,lengkuas,jahe,garam dan santan kara,masak sampai matang.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/572676c9e61da24c/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-1-foto.webp" alt="Nasi Uduk RiceCooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/572676c9e61da24c/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-1-foto.png" alt="Nasi Uduk RiceCooker" width="340" height="340">
 ><img class="lazyload" data-src="//assets-global.cpcdn.com/assets/icons/button_play-2c75c40dde080a61004c1f40b05d8f140eaff45d7e9e6481dc71c63d2e7c4909.png" alt="Nasi Uduk RiceCooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/4c702a205b725f92/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-1-foto.webp" alt="Nasi Uduk RiceCooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/01481540c11f46fe/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-1-foto.webp" alt="Nasi Uduk RiceCooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/4c702a205b725f92/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-1-foto.png" alt="Nasi Uduk RiceCooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/01481540c11f46fe/160x128cq70/nasi-uduk-ricecooker-langkah-memasak-1-foto.png" alt="Nasi Uduk RiceCooker" width="340" height="340">
 >1. Setelah matang,buka tutup rice cooker,nanti masih ada santan yg masih menggumpal,selanjut nya aduk aduk agar santan yg menggumpal tercampur rata dengan nasi,tutup lagi rice cooker nya biarkan selama 5 menit - Ini adalah penampakan nasi uduk yg sdh diaduk dan diamkan selama 5 menit di rice cooker,pulen dan enak.
 1. Siap sajikan dengan teman2 pelengkapnya😋🙏 -           (lihat resep)
 

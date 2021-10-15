@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-26T11:52:17.979Z 
-thumbnail: https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.png
 author: Maude Dawson
 ratingvalue: 4
 reviewcount: 9
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Campur Korea (Bibimbap)](https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.webp)
+![Nasi Campur Korea (Bibimbap)](https://img-global.cpcdn.com/recipes/086a4adce48adf4f/682x484cq65/nasi-campur-korea-bibimbap-foto-resep-utama.png)
 
 Resep rahasia Nasi Campur Korea (Bibimbap)  sederhana dengan 3 langkahmudah cocok banget jika digunakan untuk menjamu teman
 

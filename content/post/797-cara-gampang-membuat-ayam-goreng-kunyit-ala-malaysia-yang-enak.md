@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-09T17:44:45.436Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.png
 author: Harriet Watts
 ratingvalue: 3.6
 reviewcount: 5
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Ayam goreng kunyit ala Malaysia](https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.webp)
+![Ayam goreng kunyit ala Malaysia](https://img-global.cpcdn.com/recipes/c0803245ca75c68a/682x484cq65/ayam-goreng-kunyit-ala-malaysia-foto-resep-utama.png)
 
 Resep dan cara mengolah  Ayam goreng kunyit ala Malaysia yang wajib kamu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T08:33:08.384Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.png
 author: Martin Munoz
 ratingvalue: 3.5
 reviewcount: 9
@@ -58,7 +58,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Bunga Telang](https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.webp)
+![Nasi Uduk Bunga Telang](https://img-global.cpcdn.com/recipes/6b0f686592679b71/682x484cq65/nasi-uduk-bunga-telang-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Bunga Telang  anti gagal dengan 2 langkahcepat yang bisa ibu coba segera
 

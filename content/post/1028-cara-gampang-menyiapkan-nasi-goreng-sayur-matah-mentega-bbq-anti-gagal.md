@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T10:39:12.954Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.png
 author: Ernest Fleming
 ratingvalue: 4.2
 reviewcount: 11
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng sayur matah mentega BBQ](https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.webp)
+![Nasi goreng sayur matah mentega BBQ](https://img-global.cpcdn.com/recipes/fd01081cb9ac2dad/682x484cq65/nasi-goreng-sayur-matah-mentega-bbq-foto-resep-utama.png)
 
 Resep rahasia Nasi goreng sayur matah mentega BBQ    dengan 6 langkahcepat yang bisa ibu coba dirumah
 

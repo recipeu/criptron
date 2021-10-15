@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T23:45:25.977Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.png
 author: Millie Jefferson
 ratingvalue: 4.1
 reviewcount: 3
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Pisang rai bali](https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.webp)
+![Pisang rai bali](https://img-global.cpcdn.com/recipes/9c8122b7c887b6b9/682x484cq65/pisang-rai-bali-foto-resep-utama.png)
 
 Resep rahasia Pisang rai bali    dengan 3 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu tamu
 

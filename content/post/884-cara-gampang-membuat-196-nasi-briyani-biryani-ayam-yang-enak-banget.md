@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T13:05:46.949Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.png
 author: Leon Gardner
 ratingvalue: 3.9
 reviewcount: 15
@@ -80,7 +80,7 @@ recipecategory: Lunch
 ---
 
 
-![#196 Nasi Briyani/Biryani Ayam](https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.webp)
+![#196 Nasi Briyani/Biryani Ayam](https://img-global.cpcdn.com/recipes/d750e444c07c1b72/682x484cq65/196-nasi-briyanibiryani-ayam-foto-resep-utama.png)
 
 Resep rahasia #196 Nasi Briyani/Biryani Ayam    dengan 4 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-12T02:14:39.670Z 
-thumbnail: https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.png
 author: Edward Willis
 ratingvalue: 3.8
 reviewcount: 9
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi daun jeruk tampah](https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.webp)
+![Nasi daun jeruk tampah](https://img-global.cpcdn.com/recipes/dea6011942541962/682x484cq65/nasi-daun-jeruk-tampah-foto-resep-utama.png)
 
 Resep Nasi daun jeruk tampah    dengan 8 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

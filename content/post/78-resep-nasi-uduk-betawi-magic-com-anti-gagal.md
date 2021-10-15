@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T13:57:59.010Z 
-thumbnail: https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 author: Dora McDonald
 ratingvalue: 3.3
 reviewcount: 12
@@ -76,7 +76,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi (magic com)](https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp)
+![Nasi Uduk Betawi (magic com)](https://img-global.cpcdn.com/recipes/64336d408b669abd/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Uduk Betawi (magic com) cocok banget jika digunakan untuk menjamu tamu
 

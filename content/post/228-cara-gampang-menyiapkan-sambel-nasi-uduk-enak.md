@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-21T17:32:55.328Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.png
 author: Marguerite McGee
 ratingvalue: 4.3
 reviewcount: 7
@@ -58,7 +58,7 @@ recipecategory: Dinner
 ---
 
 
-![Sambel nasi uduk](https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.webp)
+![Sambel nasi uduk](https://img-global.cpcdn.com/recipes/cc57e345352cbb22/682x484cq65/sambel-nasi-uduk-foto-resep-utama.png)
 
 3 langkah mudah dan cepat memasak  Sambel nasi uduk yang harus kamu coba segera
 

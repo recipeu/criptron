@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-19T14:54:52.629Z 
-thumbnail: https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 author: Delia Phillips
 ratingvalue: 3
 reviewcount: 5
@@ -70,7 +70,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Liwet Teri Medan](https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp)
+![Nasi Liwet Teri Medan](https://img-global.cpcdn.com/recipes/19ab628ef657e476/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png)
 
 Resep rahasia Nasi Liwet Teri Medan    dengan 4 langkahmudah yang musti ibu coba dirumah
 

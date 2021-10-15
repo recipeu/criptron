@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-09T15:37:23.031Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png
 author: Lawrence Morton
 ratingvalue: 4.3
 reviewcount: 10
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![Ayam Goreng Berempah](https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp)
+![Ayam Goreng Berempah](https://img-global.cpcdn.com/recipes/e42e672f7b2eb7a9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png)
 
 3 langkah cepat dan mudah mengolah  Ayam Goreng Berempah yang bisa kamu coba dirumah
 

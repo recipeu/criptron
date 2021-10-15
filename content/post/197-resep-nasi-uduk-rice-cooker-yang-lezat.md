@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T06:05:51.780Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 author: Ollie Singleton
 ratingvalue: 3.1
 reviewcount: 11
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Rice Cooker](https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp)
+![Nasi Uduk Rice Cooker](https://img-global.cpcdn.com/recipes/e5492402b426fa2f/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png)
 
 4 langkah cepat mengolah  Nasi Uduk Rice Cooker cocok banget jika digunakan untuk menjamu teman
 

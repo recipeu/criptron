@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-26T12:10:56.304Z 
-thumbnail: https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.png
 author: Justin Terry
 ratingvalue: 3.2
 reviewcount: 8
@@ -58,7 +58,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk simpel](https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.webp)
+![Nasi uduk simpel](https://img-global.cpcdn.com/recipes/61837360b4c56ab3/682x484cq65/nasi-uduk-simpel-foto-resep-utama.png)
 
 2 langkah mudah mengolah  Nasi uduk simpel yang wajib kamu coba segera
 

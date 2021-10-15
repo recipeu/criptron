@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-17T03:59:52.113Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.png
 author: Kate Reeves
 ratingvalue: 4.8
 reviewcount: 13
@@ -74,7 +74,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk betawi rice coooker](https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.webp)
+![Nasi uduk betawi rice coooker](https://img-global.cpcdn.com/recipes/1fd6204958d12022/682x484cq65/nasi-uduk-betawi-rice-coooker-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi uduk betawi rice coooker yang harus kamu coba dirumah
 
@@ -110,11 +110,11 @@ Cara membuat nasi uduk betawi bisa menggunakan rice cooker. Jadi, masakan ini co
 
 1. Cuci beras di air mengalir
 1. Setelah bersih masukan ke dalam rice cooker, tambahkan serai, daun salam, laos/lengkuas, jahe
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e4328f23b42453ee/160x128cq70/nasi-uduk-betawi-rice-coooker-langkah-memasak-2-foto.webp" alt="Nasi uduk betawi rice coooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8d53f39b57110413/160x128cq70/nasi-uduk-betawi-rice-coooker-langkah-memasak-2-foto.webp" alt="Nasi uduk betawi rice coooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/38eb855bf8cea9ff/160x128cq70/nasi-uduk-betawi-rice-coooker-langkah-memasak-2-foto.webp" alt="Nasi uduk betawi rice coooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e4328f23b42453ee/160x128cq70/nasi-uduk-betawi-rice-coooker-langkah-memasak-2-foto.png" alt="Nasi uduk betawi rice coooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8d53f39b57110413/160x128cq70/nasi-uduk-betawi-rice-coooker-langkah-memasak-2-foto.png" alt="Nasi uduk betawi rice coooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/38eb855bf8cea9ff/160x128cq70/nasi-uduk-betawi-rice-coooker-langkah-memasak-2-foto.png" alt="Nasi uduk betawi rice coooker" width="340" height="340">
 >1. Tambahkan santan dan beri garam, aduk - aduk, tutup dan tekan tombol cook biarkan sampai jadi nasi
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/f4ccd9803f08b9c5/160x128cq70/nasi-uduk-betawi-rice-coooker-langkah-memasak-3-foto.webp" alt="Nasi uduk betawi rice coooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/f4ccd9803f08b9c5/160x128cq70/nasi-uduk-betawi-rice-coooker-langkah-memasak-3-foto.png" alt="Nasi uduk betawi rice coooker" width="340" height="340">
 >1. Untuk sambal, giling/tumbuk kacang tanah goreng, bawang dan cabe sampai halus
 1. Pindahkan ke wadah tambah gula, garam, cuka, dan air. aduk dan cicipi
 1. Setelah nasi uduk matang sajikan dengan lauk dan sambal, dan taburi bawang merah goreng diatasnya, selamat mencoba

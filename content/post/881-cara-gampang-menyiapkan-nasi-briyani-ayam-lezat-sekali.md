@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-07T15:56:29.235Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 author: Ora Gutierrez
 ratingvalue: 3.8
 reviewcount: 14
@@ -37,7 +37,7 @@ recipeingredient:
 - "kayu manis 2 ruas"
 - "cengkeh 5"
 - "Bumbu halus  "
-- "bumbu dasar putih           lihat resep 3 blok"
+- "bumbu dasar putih   . 3 blok"
 - "bumbu kare sy bubuk 1 bungkus"
 - "Pelengkap "
 - "Kismis "
@@ -79,7 +79,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi briyani ayam](https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp)
+![Nasi briyani ayam](https://img-global.cpcdn.com/recipes/ffa232cf68c78265/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi briyani ayam cocok sekali jika digunakan untuk menjamu tamu
 
@@ -108,7 +108,7 @@ Resep dan cara mengolah  Nasi briyani ayam cocok sekali jika digunakan untuk men
 1. kayu manis 2 ruas
 1. cengkeh 5
 1. Bumbu halus  
-1. bumbu dasar putih           lihat resep 3 blok
+1. bumbu dasar putih   . 3 blok
 1. bumbu kare sy bubuk 1 bungkus
 1. Pelengkap 
 1. Kismis 

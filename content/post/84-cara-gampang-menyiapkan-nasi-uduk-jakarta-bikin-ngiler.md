@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T12:43:49.835Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
 author: Ola Rodriguez
 ratingvalue: 4.7
 reviewcount: 6
@@ -24,10 +24,10 @@ recipeingredient:
 - "kaldu sapi bubuk 1 sdm"
 - "daun salam 2 lbr"
 - "Pelengkap "
-- "Kering tempe           lihat resep "
-- "Ayam tulang lunak           lihat resep "
+- "Kering tempe   . "
+- "Ayam tulang lunak   . "
 - "Timun "
-- "Keremesan           lihat resep "
+- "Keremesan   . "
 - "Telur rebus "
 recipeinstructions:
 - "Siapkan semua bahan"
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Jakarta](https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp)
+![Nasi Uduk Jakarta](https://img-global.cpcdn.com/recipes/d9fa89c2517ba209/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Uduk Jakarta yang musti ibu coba segera
 
@@ -82,10 +82,10 @@ Resep rahasia dan cara memasak  Nasi Uduk Jakarta yang musti ibu coba segera
 1. kaldu sapi bubuk 1 sdm
 1. daun salam 2 lbr
 1. Pelengkap 
-1. Kering tempe           lihat resep 
-1. Ayam tulang lunak           lihat resep 
+1. Kering tempe   . 
+1. Ayam tulang lunak   . 
 1. Timun 
-1. Keremesan           lihat resep 
+1. Keremesan   . 
 1. Telur rebus 
 
 

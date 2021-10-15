@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-09T20:17:48.270Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png
 author: Lee Peterson
 ratingvalue: 3.2
 reviewcount: 5
@@ -79,7 +79,7 @@ recipecategory: Dinner
 ---
 
 
-![Tahu Gimbal khas Semarang](https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp)
+![Tahu Gimbal khas Semarang](https://img-global.cpcdn.com/recipes/4f447e5fd4547f2a/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png)
 
 4 langkah mudah dan cepat membuat  Tahu Gimbal khas Semarang cocok sekali jika digunakan untuk menjamu tamu
 

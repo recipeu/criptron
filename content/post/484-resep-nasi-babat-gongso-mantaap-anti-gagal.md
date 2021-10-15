@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T00:16:17.565Z 
-thumbnail: https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.png
 author: Nathaniel Miller
 ratingvalue: 3.4
 reviewcount: 5
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Babat Gongso mantaap👍👍👍😘](https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.webp)
+![Nasi Babat Gongso mantaap👍👍👍😘](https://img-global.cpcdn.com/recipes/45b92fb44d94ccda/682x484cq65/nasi-babat-gongso-mantaap-foto-resep-utama.png)
 
 Resep rahasia Nasi Babat Gongso mantaap👍👍👍😘    dengan 7 langkahcepat yang musti ibu coba dirumah
 

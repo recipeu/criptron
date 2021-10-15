@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T09:11:23.760Z 
-thumbnail: https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 author: Lilly Hawkins
 ratingvalue: 4.2
 reviewcount: 9
@@ -106,7 +106,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi ayam Semarang](https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp)
+![Nasi ayam Semarang](https://img-global.cpcdn.com/recipes/99d3fbc17c8e47e6/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png)
 
 6 langkah mudah dan cepat mengolah  Nasi ayam Semarang yang harus bunda coba dirumah
 

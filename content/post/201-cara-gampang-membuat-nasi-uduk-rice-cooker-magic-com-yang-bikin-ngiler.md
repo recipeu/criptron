@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T00:42:24.050Z 
-thumbnail: https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.png
 author: Leon Cross
 ratingvalue: 4.6
 reviewcount: 7
@@ -58,7 +58,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Rice cooker / Magic com](https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.webp)
+![Nasi Uduk Rice cooker / Magic com](https://img-global.cpcdn.com/recipes/619dba810fd5145c/682x484cq65/nasi-uduk-rice-cooker-magic-com-foto-resep-utama.png)
 
 2 langkah mudah memasak  Nasi Uduk Rice cooker / Magic com yang musti kamu coba dirumah
 

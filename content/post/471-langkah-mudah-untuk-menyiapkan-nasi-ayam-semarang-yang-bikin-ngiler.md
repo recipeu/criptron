@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-27T03:17:57.841Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 author: Ronnie Mason
 ratingvalue: 3.8
 reviewcount: 15
@@ -105,7 +105,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi ayam Semarang](https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp)
+![Nasi ayam Semarang](https://img-global.cpcdn.com/recipes/ad40038f91693a1c/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png)
 
 9 langkah mudah membuat  Nasi ayam Semarang cocok sekali jika digunakan untuk menjamu tamu
 

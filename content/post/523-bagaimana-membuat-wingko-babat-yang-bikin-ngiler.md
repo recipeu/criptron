@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-26T03:44:21.867Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.png
 author: Isaac Bryan
 ratingvalue: 3.2
 reviewcount: 15
@@ -58,7 +58,7 @@ recipecategory: Lunch
 ---
 
 
-![Wingko babat](https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.webp)
+![Wingko babat](https://img-global.cpcdn.com/recipes/2c77bbfc95a28904/682x484cq65/wingko-babat-foto-resep-utama.png)
 
 Resep Wingko babat    dengan 3 langkahcepat cocok sekali jika digunakan untuk menjamu teman
 

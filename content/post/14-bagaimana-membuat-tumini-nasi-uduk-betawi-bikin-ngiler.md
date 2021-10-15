@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-08T12:10:44.153Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.png
 author: Owen Thomas
 ratingvalue: 4
 reviewcount: 6
@@ -52,7 +52,7 @@ recipeingredient:
 - "Air Hangat 100 ml"
 - "Air Perasan Jeruk Nipis 1/2 sdt"
 - "Pelengkap "
-- "Semur Betawi           lihat resep "
+- "Semur Betawi   . "
 - "Telur Dadar iris "
 - "Tempe Goreng "
 - "Bawang Merah Goreng "
@@ -98,7 +98,7 @@ recipecategory: Dinner
 ---
 
 
-![Tumini Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.webp)
+![Tumini Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/5856da1eb7b05360/682x484cq65/tumini-nasi-uduk-betawi-foto-resep-utama.png)
 
 Ingin membuat Tumini Nasi Uduk Betawi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 
@@ -142,7 +142,7 @@ Ingin membuat Tumini Nasi Uduk Betawi ? Coba resep berikut ini. Cara memasaknya 
 1. Air Hangat 100 ml
 1. Air Perasan Jeruk Nipis 1/2 sdt
 1. Pelengkap 
-1. Semur Betawi           lihat resep 
+1. Semur Betawi   . 
 1. Telur Dadar iris 
 1. Tempe Goreng 
 1. Bawang Merah Goreng 

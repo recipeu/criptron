@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-21T04:31:29.851Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.png
 author: Herbert Hines
 ratingvalue: 3.5
 reviewcount: 4
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang Rai Coklat Keju](https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.webp)
+![Pisang Rai Coklat Keju](https://img-global.cpcdn.com/recipes/8a45fd833af31e36/682x484cq65/pisang-rai-coklat-keju-foto-resep-utama.png)
 
 Resep dan cara memasak  Pisang Rai Coklat Keju yang bisa kamu coba segera
 

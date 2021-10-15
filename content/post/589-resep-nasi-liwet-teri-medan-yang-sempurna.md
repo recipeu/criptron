@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-14T14:28:40.804Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 author: Milton Peterson
 ratingvalue: 4.8
 reviewcount: 12
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Liwet Teri Medan](https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp)
+![Nasi Liwet Teri Medan](https://img-global.cpcdn.com/recipes/9daf9796145d04ca/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png)
 
 Resep Nasi Liwet Teri Medan  enak dengan 4 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

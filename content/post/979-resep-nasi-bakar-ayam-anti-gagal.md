@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-26T03:46:45.495Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 author: Mark Anderson
 ratingvalue: 5
 reviewcount: 15
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ayam](https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp)
+![Nasi Bakar Ayam](https://img-global.cpcdn.com/recipes/2586201_64b33d3dfef62b40/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png)
 
 4 langkah mudah dan cepat memasak  Nasi Bakar Ayam yang harus ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T18:55:13.838Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png
 author: Troy Hanson
 ratingvalue: 4.2
 reviewcount: 11
@@ -72,7 +72,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Sambal Matah](https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp)
+![Nasi Ayam Sambal Matah](https://img-global.cpcdn.com/recipes/9f60a5c332b63937/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Nasi Ayam Sambal Matah  enak dengan 5 langkahmudah dan cepat yang wajib ibu coba segera
 

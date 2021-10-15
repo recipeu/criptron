@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T14:40:57.445Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Della Goodwin
 ratingvalue: 3.6
 reviewcount: 6
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/f4c621c03aa9736e/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 7 langkah cepat memasak  Nasi uduk betawi yang wajib kamu coba dirumah
 

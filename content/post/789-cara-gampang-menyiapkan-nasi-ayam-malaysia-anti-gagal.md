@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-31T06:22:05.353Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.png
 author: Carrie Ryan
 ratingvalue: 3.8
 reviewcount: 15
@@ -92,7 +92,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Malaysia](https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.webp)
+![Nasi Ayam Malaysia](https://img-global.cpcdn.com/recipes/9c8647cac0d23d8b/682x484cq65/nasi-ayam-malaysia-foto-resep-utama.png)
 
 Resep Nasi Ayam Malaysia    dengan 5 langkahcepat cocok sekali jika digunakan untuk menjamu tamu
 

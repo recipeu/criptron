@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-29T05:49:13.295Z 
-thumbnail: https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.png
 author: Julia Floyd
 ratingvalue: 4.1
 reviewcount: 7
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi rice cooker (ala silvy)](https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.webp)
+![Nasi Uduk Betawi rice cooker (ala silvy)](https://img-global.cpcdn.com/recipes/612e7d0740ca3b0f/682x484cq65/nasi-uduk-betawi-rice-cooker-ala-silvy-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Betawi rice cooker (ala silvy) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti ibu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T22:40:41.306Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.png
 author: Cecilia Baldwin
 ratingvalue: 3.3
 reviewcount: 13
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Hujan Panas Pelangi 🌈 / Rainbow rice 🌾](https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.webp)
+![Nasi Hujan Panas Pelangi 🌈 / Rainbow rice 🌾](https://img-global.cpcdn.com/recipes/7aa9dff063b24ba4/682x484cq65/nasi-hujan-panas-pelangi-rainbow-rice-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Hujan Panas Pelangi 🌈 / Rainbow rice 🌾 yang bisa ibu coba dirumah
 

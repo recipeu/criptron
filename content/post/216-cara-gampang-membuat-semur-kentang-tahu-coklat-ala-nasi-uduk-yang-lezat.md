@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-28T09:16:55.039Z 
-thumbnail: https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.png
 author: Adelaide Bush
 ratingvalue: 3.8
 reviewcount: 13
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Semur kentang tahu coklat ala nasi uduk](https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.webp)
+![Semur kentang tahu coklat ala nasi uduk](https://img-global.cpcdn.com/recipes/123ce9276e8e4820/682x484cq65/semur-kentang-tahu-coklat-ala-nasi-uduk-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Semur kentang tahu coklat ala nasi uduk cocok sekali jika digunakan untuk menjamu teman
 

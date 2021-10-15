@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T07:58:58.560Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.png
 author: Lilly Estrada
 ratingvalue: 3.1
 reviewcount: 15
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![Bakwan Teri Medan](https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.webp)
+![Bakwan Teri Medan](https://img-global.cpcdn.com/recipes/9b2f3acb5b0cbff2/682x484cq65/bakwan-teri-medan-foto-resep-utama.png)
 
 Ingin membuat Bakwan Teri Medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

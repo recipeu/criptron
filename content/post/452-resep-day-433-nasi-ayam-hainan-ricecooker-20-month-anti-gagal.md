@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-16T04:28:56.487Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.png
 author: Ronnie Robinson
 ratingvalue: 3.7
 reviewcount: 7
@@ -79,7 +79,7 @@ recipecategory: Dessert
 ---
 
 
-![Day. 433 Nasi Ayam Hainan Ricecooker (20 month+)](https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.webp)
+![Day. 433 Nasi Ayam Hainan Ricecooker (20 month+)](https://img-global.cpcdn.com/recipes/7cf9869da9921e00/682x484cq65/day-433-nasi-ayam-hainan-ricecooker-20-month-foto-resep-utama.png)
 
 Resep rahasia Day. 433 Nasi Ayam Hainan Ricecooker (20 month+)  anti gagal dengan 6 langkahmudah yang musti ibu coba dirumah
 

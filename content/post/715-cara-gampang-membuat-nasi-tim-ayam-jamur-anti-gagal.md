@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T07:59:02.245Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.png
 author: Jorge Reese
 ratingvalue: 4.3
 reviewcount: 11
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi tim ayam jamur](https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.webp)
+![Nasi tim ayam jamur](https://img-global.cpcdn.com/recipes/9d023b68eb8f81fc/682x484cq65/nasi-tim-ayam-jamur-foto-resep-utama.png)
 
 Resep rahasia Nasi tim ayam jamur    dengan 7 langkahcepat dan mudah yang wajib bunda coba segera
 

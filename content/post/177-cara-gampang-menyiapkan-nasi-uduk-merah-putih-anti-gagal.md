@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T10:18:51.802Z 
-thumbnail: https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.png
 author: Belle Wheeler
 ratingvalue: 4.7
 reviewcount: 4
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk merah putih 🇮🇩](https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.webp)
+![Nasi uduk merah putih 🇮🇩](https://img-global.cpcdn.com/recipes/860f8dfb07b9e1f5/682x484cq65/nasi-uduk-merah-putih-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk merah putih 🇮🇩  sederhana dengan 4 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 
@@ -112,7 +112,7 @@ Nasi uduk memiliki cita rasa yang enak, dilengkapi dengan lauk-pauk yang Nasi ud
 
 1. Cuci bersih beras, masukkan semua bahan, masak seperti biasa
 1. Untuk nasi uduk secang, rebus air dan secang, tunggu mendidih dan mendapatkan warna yang diinginkan
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c6f3f58602e3f782/160x128cq70/nasi-uduk-merah-putih-langkah-memasak-2-foto.webp" alt="Nasi uduk merah putih 🇮🇩" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c6f3f58602e3f782/160x128cq70/nasi-uduk-merah-putih-langkah-memasak-2-foto.png" alt="Nasi uduk merah putih 🇮🇩" width="340" height="340">
 >1. Gunakan air rebusan secang dan bahan lainnya untuk menanak nasi.
 1. Cetak dan atur di piring saji
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T23:52:43.615Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.png
 author: Lillie Hubbard
 ratingvalue: 3.8
 reviewcount: 11
@@ -71,7 +71,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Medan Magic Com](https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.webp)
+![Nasi Ayam Medan Magic Com](https://img-global.cpcdn.com/recipes/0f22779499bd423f/682x484cq65/nasi-ayam-medan-magic-com-foto-resep-utama.png)
 
 Ingin membuat Nasi Ayam Medan Magic Com ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-19T00:14:48.587Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.png
 author: Helen Romero
 ratingvalue: 4.2
 reviewcount: 5
@@ -59,7 +59,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Magic Com Ayam KFC](https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.webp)
+![Nasi Magic Com Ayam KFC](https://img-global.cpcdn.com/recipes/ea22f47092289472/682x484cq65/nasi-magic-com-ayam-kfc-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Magic Com Ayam KFC yang musti ibu coba segera
 

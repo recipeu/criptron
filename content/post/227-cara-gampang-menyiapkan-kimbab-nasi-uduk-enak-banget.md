@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T05:25:42.825Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.png
 author: Ada Hines
 ratingvalue: 4.7
 reviewcount: 14
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Kimbab Nasi Uduk](https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.webp)
+![Kimbab Nasi Uduk](https://img-global.cpcdn.com/recipes/c7626f60f7fb0320/682x484cq65/kimbab-nasi-uduk-foto-resep-utama.png)
 
 Resep rahasia Kimbab Nasi Uduk  enak dengan 4 langkahcepat yang bisa kamu coba segera
 
@@ -101,10 +101,10 @@ Resep rahasia Kimbab Nasi Uduk  enak dengan 4 langkahcepat yang bisa kamu coba s
 ## Cara Mudah Membuat Kimbab Nasi Uduk:
 
 1. Campur bahan nasi uduk lalu aduk. Masak nasi seperti biasa. Saya pakai rice cooker.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/135e608cfcf098b3/160x128cq70/kimbab-nasi-uduk-langkah-memasak-1-foto.webp" alt="Kimbab Nasi Uduk" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/604ea78805f71efa/160x128cq70/kimbab-nasi-uduk-langkah-memasak-1-foto.webp" alt="Kimbab Nasi Uduk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/135e608cfcf098b3/160x128cq70/kimbab-nasi-uduk-langkah-memasak-1-foto.png" alt="Kimbab Nasi Uduk" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/604ea78805f71efa/160x128cq70/kimbab-nasi-uduk-langkah-memasak-1-foto.png" alt="Kimbab Nasi Uduk" width="340" height="340">
 >1. Ambil nasi, besihkan rempah2nya, dan biarkan uap panasnya hilang, jika ingin langsung di makan. Jika ingin di makan kemudian, misal untuk bekal dijalan/piknik, nasi harus dalam keadaan dingin ketika di gulung.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b49e3ab16e14ab15/160x128cq70/kimbab-nasi-uduk-langkah-memasak-2-foto.webp" alt="Kimbab Nasi Uduk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b49e3ab16e14ab15/160x128cq70/kimbab-nasi-uduk-langkah-memasak-2-foto.png" alt="Kimbab Nasi Uduk" width="340" height="340">
 >1. Alasi sushi mat lalu letakan Nori di atasnya. Tata nasi, telur dadar, abon, ketimun, daun kemangi dan sambal. Lalu gulung sambil di padatkan.
 1. Potong2 dan sajikan.
 

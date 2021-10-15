@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-19T18:36:04.767Z 
-thumbnail: https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.png
 author: Nora Moran
 ratingvalue: 3.2
 reviewcount: 14
@@ -85,7 +85,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Teri Ayam Pedas](https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.webp)
+![Nasi Bakar Teri Ayam Pedas](https://img-global.cpcdn.com/recipes/26b8cc4e8534e3ad/682x484cq65/nasi-bakar-teri-ayam-pedas-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Teri Ayam Pedas ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

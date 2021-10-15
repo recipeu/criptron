@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-21T06:43:40.602Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.png
 author: Myrtle Collins
 ratingvalue: 4.6
 reviewcount: 10
@@ -71,7 +71,7 @@ recipecategory: Lunch
 ---
 
 
-![241.Nasi uduk betawi](https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.webp)
+![241.Nasi uduk betawi](https://img-global.cpcdn.com/recipes/f313b2abfaf44160/682x484cq65/241nasi-uduk-betawi-foto-resep-utama.png)
 
 5 langkah cepat dan mudah mengolah  241.Nasi uduk betawi yang harus kamu coba segera
 

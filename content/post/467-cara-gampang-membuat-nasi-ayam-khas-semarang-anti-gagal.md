@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T02:38:47.045Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.png
 author: Beatrice Harmon
 ratingvalue: 3.4
 reviewcount: 14
@@ -75,7 +75,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Khas Semarang](https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.webp)
+![Nasi Ayam Khas Semarang](https://img-global.cpcdn.com/recipes/b821d3625031bed2/682x484cq65/nasi-ayam-khas-semarang-foto-resep-utama.png)
 
 6 langkah cepat dan mudah memasak  Nasi Ayam Khas Semarang yang wajib ibu coba dirumah
 

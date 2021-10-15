@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-15T05:37:30.398Z 
-thumbnail: https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 author: Ralph Ball
 ratingvalue: 4.1
 reviewcount: 6
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Pisang Rai Khas Bali](https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp)
+![Pisang Rai Khas Bali](https://img-global.cpcdn.com/recipes/222bbdb1b0c396cf/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png)
 
 Resep rahasia Pisang Rai Khas Bali  anti gagal dengan 5 langkahcepat yang harus ibu coba dirumah
 

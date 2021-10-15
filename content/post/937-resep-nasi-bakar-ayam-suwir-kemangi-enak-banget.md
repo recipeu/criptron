@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T02:21:20.432Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
 author: Earl Houston
 ratingvalue: 3.9
 reviewcount: 10
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ayam Suwir Kemangi](https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Ayam Suwir Kemangi](https://img-global.cpcdn.com/recipes/2556314567203ac5/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png)
 
 3 langkah cepat dan mudah membuat  Nasi Bakar Ayam Suwir Kemangi cocok sekali jika digunakan untuk menjamu teman
 

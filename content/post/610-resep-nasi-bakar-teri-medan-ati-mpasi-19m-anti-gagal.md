@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-01T06:11:48.573Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.png
 author: Dennis Moran
 ratingvalue: 3.6
 reviewcount: 10
@@ -72,7 +72,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Teri Medan Ati | Mpasi 19M+](https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.webp)
+![Nasi Bakar Teri Medan Ati | Mpasi 19M+](https://img-global.cpcdn.com/recipes/0026f6b9e5205814/682x484cq65/nasi-bakar-teri-medan-ati-mpasi-19m-foto-resep-utama.png)
 
 7 langkah cepat memasak  Nasi Bakar Teri Medan Ati | Mpasi 19M+ cocok sekali jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T07:13:18.310Z 
-thumbnail: https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.png
 author: Sara Myers
 ratingvalue: 4.1
 reviewcount: 4
@@ -99,7 +99,7 @@ recipecategory: Lunch
 ---
 
 
-![RICE BOWL (Nasi kuning Bali_Ayam Betutu)](https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.webp)
+![RICE BOWL (Nasi kuning Bali_Ayam Betutu)](https://img-global.cpcdn.com/recipes/dcfc9d2a27a7d8b0/682x484cq65/rice-bowl-nasi-kuning-bali_ayam-betutu-foto-resep-utama.png)
 
 Ingin membuat RICE BOWL (Nasi kuning Bali_Ayam Betutu) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti kamu coba dirumah
 

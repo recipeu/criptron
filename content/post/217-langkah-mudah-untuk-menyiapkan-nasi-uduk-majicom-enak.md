@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T23:52:53.020Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.png
 author: Fanny Taylor
 ratingvalue: 5
 reviewcount: 6
@@ -59,7 +59,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk majicom](https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.webp)
+![Nasi uduk majicom](https://img-global.cpcdn.com/recipes/8bf4a1ff5c652487/682x484cq65/nasi-uduk-majicom-foto-resep-utama.png)
 
 Resep Nasi uduk majicom    dengan 2 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu tamu
 

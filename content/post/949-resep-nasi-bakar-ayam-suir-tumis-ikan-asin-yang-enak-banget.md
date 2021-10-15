@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T22:57:59.785Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.png
 author: Daisy Elliott
 ratingvalue: 4.8
 reviewcount: 6
@@ -60,7 +60,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ayam Suir / Tumis Ikan Asin](https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.webp)
+![Nasi Bakar Ayam Suir / Tumis Ikan Asin](https://img-global.cpcdn.com/recipes/7ab00e6f91a0579f/682x484cq65/nasi-bakar-ayam-suir-tumis-ikan-asin-foto-resep-utama.png)
 
 5 langkah cepat mengolah  Nasi Bakar Ayam Suir / Tumis Ikan Asin cocok sekali jika digunakan untuk menjamu tamu
 

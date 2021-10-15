@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-22T22:46:35.161Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.png
 author: Ina Rodriquez
 ratingvalue: 4.9
 reviewcount: 9
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Resep Nasi Ayam Kentucky Rice Cooker](https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.webp)
+![Resep Nasi Ayam Kentucky Rice Cooker](https://img-global.cpcdn.com/recipes/bf9c7e01bf476c47/682x484cq65/resep-nasi-ayam-kentucky-rice-cooker-foto-resep-utama.png)
 
 5 langkah mudah dan cepat membuat  Resep Nasi Ayam Kentucky Rice Cooker yang musti ibu coba dirumah
 

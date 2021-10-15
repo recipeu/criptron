@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-19T20:57:21.465Z 
-thumbnail: https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.png
 author: Anthony Hunt
 ratingvalue: 3.8
 reviewcount: 14
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Wingko oven enduess empuk mudah](https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.webp)
+![Wingko oven enduess empuk mudah](https://img-global.cpcdn.com/recipes/52c749df9aa8857c/682x484cq65/wingko-oven-enduess-empuk-mudah-foto-resep-utama.png)
 
 Resep dan cara memasak  Wingko oven enduess empuk mudah cocok sekali jika digunakan untuk menjamu tamu
 

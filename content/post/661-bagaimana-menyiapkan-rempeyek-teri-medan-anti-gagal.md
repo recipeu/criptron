@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T00:50:05.760Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png
 author: Vincent French
 ratingvalue: 4.1
 reviewcount: 4
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![Rempeyek Teri Medan](https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.webp)
+![Rempeyek Teri Medan](https://img-global.cpcdn.com/recipes/9fac57d8cee028b2/682x484cq65/rempeyek-teri-medan-foto-resep-utama.png)
 
 5 langkah cepat membuat  Rempeyek Teri Medan cocok sekali jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T01:28:54.765Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 author: Hannah Sherman
 ratingvalue: 3.3
 reviewcount: 9
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk #Rice Cooker](https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp)
+![Nasi Daun Jeruk #Rice Cooker](https://img-global.cpcdn.com/recipes/f7e476bcefdecbdc/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Daun Jeruk #Rice Cooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa kamu coba segera
 
@@ -88,15 +88,15 @@ Ingin membuat Nasi Daun Jeruk #Rice Cooker ? Coba resep berikut ini. Cara memasa
 
 1. Cuci bersih beras dan berikan air seperti takaran air mau masak nasi biasa
 1. Siapkan daun jeruk yg telah di cincang/iris, daun salam, sereh yg telah digeprek, butter/ mentega, garam, kaldu bubuk dan merica secukupnya sesuai selera. Masukan semua bahan ke dalam wadah rice cooker dan aduk2 rata.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7c8c967590c871ae/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-2-foto.webp" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b79f2f703f96e8a0/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-2-foto.webp" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7c8c967590c871ae/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-2-foto.png" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b79f2f703f96e8a0/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-2-foto.png" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
 >1. Masak beras di rice cooker sambil terus diaduk2 sekali2 sebelum beras masak.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/907f3ceb0451ad18/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8695ecd51669def2/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c2ec5f66b2409036/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/907f3ceb0451ad18/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8695ecd51669def2/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c2ec5f66b2409036/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
 >1. NASI DAUN JERUK gurih dan harum bgt siap dinikmati dengan lauk ya... Selamat mencoba, Tuhan memberkati 🙏😇
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/40bda9da89f2770a/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-4-foto.webp" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e345b9120a0fd5c7/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-4-foto.webp" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/40bda9da89f2770a/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-4-foto.png" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e345b9120a0fd5c7/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-4-foto.png" alt="Nasi Daun Jeruk #Rice Cooker" width="340" height="340">
 >
 
 

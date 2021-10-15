@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T18:48:10.539Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.png
 author: Myrtie Morgan
 ratingvalue: 3.4
 reviewcount: 11
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi daun jeruk magiccom](https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.webp)
+![Nasi daun jeruk magiccom](https://img-global.cpcdn.com/recipes/8d3917c8843ae6c9/682x484cq65/nasi-daun-jeruk-magiccom-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi daun jeruk magiccom yang harus kamu coba dirumah
 

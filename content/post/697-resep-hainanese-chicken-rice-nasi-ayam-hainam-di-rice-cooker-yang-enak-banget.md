@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-09T07:08:49.407Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.png
 author: Larry Cain
 ratingvalue: 4.9
 reviewcount: 8
@@ -97,7 +97,7 @@ recipecategory: Dinner
 ---
 
 
-![Hainanese Chicken Rice (nasi ayam Hainam) di rice cooker](https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.webp)
+![Hainanese Chicken Rice (nasi ayam Hainam) di rice cooker](https://img-global.cpcdn.com/recipes/d4cb4ebd0a4ea8d7/682x484cq65/hainanese-chicken-rice-nasi-ayam-hainam-di-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Hainanese Chicken Rice (nasi ayam Hainam) di rice cooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T18:02:51.170Z 
-thumbnail: https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.png
 author: Tony Phillips
 ratingvalue: 4.4
 reviewcount: 9
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi pakai Magiccom](https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.webp)
+![Nasi Uduk Betawi pakai Magiccom](https://img-global.cpcdn.com/recipes/88175b050383f37b/682x484cq65/nasi-uduk-betawi-pakai-magiccom-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Uduk Betawi pakai Magiccom yang wajib kamu coba segera
 

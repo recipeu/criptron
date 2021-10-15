@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-08T00:23:14.349Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png
 author: Lillian Welch
 ratingvalue: 3.6
 reviewcount: 15
@@ -24,10 +24,10 @@ recipeingredient:
 - "garam Sejumput"
 - "Air secukupnya untuk memasak beras "
 - "Tempe orek "
-- "Bisa dilihat disini bahannya           lihat resep "
+- "Bisa dilihat disini bahannya   . "
 - "Soun  Bihun goreng "
-- "Bisa dilihat disini bahannya ga pake minyak wijen           lihat resep "
-- "Bisa dilihat disini bahannya pakai minyak wijen           lihat resep "
+- "Bisa dilihat disini bahannya ga pake minyak wijen   . "
+- "Bisa dilihat disini bahannya pakai minyak wijen   . "
 - "Telur balado "
 - "telur rebus dan sisihkan 4 buah"
 - "bumbu balado indofood 1/4 bungkus"
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Rice Cooker](https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.webp)
+![Nasi Uduk Rice Cooker](https://img-global.cpcdn.com/recipes/e04f22841f83ffb7/682x484cq65/nasi-uduk-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi Uduk Rice Cooker  sederhana dengan 3 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 
@@ -84,10 +84,10 @@ Resep Nasi Uduk Rice Cooker  sederhana dengan 3 langkahcepat dan mudah cocok sek
 1. garam Sejumput
 1. Air secukupnya untuk memasak beras 
 1. Tempe orek 
-1. Bisa dilihat disini bahannya           lihat resep 
+1. Bisa dilihat disini bahannya   . 
 1. Soun  Bihun goreng 
-1. Bisa dilihat disini bahannya ga pake minyak wijen           lihat resep 
-1. Bisa dilihat disini bahannya pakai minyak wijen           lihat resep 
+1. Bisa dilihat disini bahannya ga pake minyak wijen   . 
+1. Bisa dilihat disini bahannya pakai minyak wijen   . 
 1. Telur balado 
 1. telur rebus dan sisihkan 4 buah
 1. bumbu balado indofood 1/4 bungkus
@@ -100,11 +100,11 @@ Resep Nasi Uduk Rice Cooker  sederhana dengan 3 langkahcepat dan mudah cocok sek
 ## Tata Cara Membuat Nasi Uduk Rice Cooker:
 
 1. Siapkan bahan.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8b74b953dc1dcf28/160x128cq70/nasi-uduk-rice-cooker-langkah-memasak-1-foto.webp" alt="Nasi Uduk Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8b74b953dc1dcf28/160x128cq70/nasi-uduk-rice-cooker-langkah-memasak-1-foto.png" alt="Nasi Uduk Rice Cooker" width="340" height="340">
 >1. Cuci beras seperti biasa, kemudian masukkan bahan bumbu dan santan ke dalam beras. Aduk rata. Masak hingga matang.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/08aacb51a0ad9208/160x128cq70/nasi-uduk-rice-cooker-langkah-memasak-2-foto.webp" alt="Nasi Uduk Rice Cooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/bbfa378a4a1ad107/160x128cq70/nasi-uduk-rice-cooker-langkah-memasak-2-foto.webp" alt="Nasi Uduk Rice Cooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/48d1570afd6644a0/160x128cq70/nasi-uduk-rice-cooker-langkah-memasak-2-foto.webp" alt="Nasi Uduk Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/08aacb51a0ad9208/160x128cq70/nasi-uduk-rice-cooker-langkah-memasak-2-foto.png" alt="Nasi Uduk Rice Cooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/bbfa378a4a1ad107/160x128cq70/nasi-uduk-rice-cooker-langkah-memasak-2-foto.png" alt="Nasi Uduk Rice Cooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/48d1570afd6644a0/160x128cq70/nasi-uduk-rice-cooker-langkah-memasak-2-foto.png" alt="Nasi Uduk Rice Cooker" width="340" height="340">
 >1. Telur balado: tusuk2 telur yang sudah direbus. Kemudian goreng hingga berkulit dan sisihkan. Tumis bumbu instan sebentar dan beri sedikit air. Masukkan telur dan masak hingga meresap.
 
 

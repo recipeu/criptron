@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T19:21:12.507Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.png
 author: Dustin Morton
 ratingvalue: 3.5
 reviewcount: 5
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk kampung (jkt) rice cooker](https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.webp)
+![Nasi uduk kampung (jkt) rice cooker](https://img-global.cpcdn.com/recipes/a968568270e00c53/682x484cq65/nasi-uduk-kampung-jkt-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi uduk kampung (jkt) rice cooker  anti gagal dengan 5 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

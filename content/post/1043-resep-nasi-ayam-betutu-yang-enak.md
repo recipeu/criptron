@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T22:43:11.449Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.png
 author: Nina Alvarez
 ratingvalue: 3.9
 reviewcount: 5
@@ -83,7 +83,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi ayam betutu](https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.webp)
+![Nasi ayam betutu](https://img-global.cpcdn.com/recipes/9a7dd2aca7699dae/682x484cq65/nasi-ayam-betutu-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi ayam betutu cocok banget jika digunakan untuk menjamu teman
 

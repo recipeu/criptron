@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-08T09:09:24.654Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.png
 author: Jim Adams
 ratingvalue: 3
 reviewcount: 11
@@ -54,7 +54,7 @@ recipecategory: Dessert
 ---
 
 
-![Jamur tiram crispy sambal matah](https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.webp)
+![Jamur tiram crispy sambal matah](https://img-global.cpcdn.com/recipes/9189baa9ec4685ba/682x484cq65/jamur-tiram-crispy-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Jamur tiram crispy sambal matah yang harus ibu coba segera
 
@@ -73,10 +73,10 @@ Resep Jamur Tiram - Jamur tiram merupakan salah satu bahan pangan yang mudah dij
 ## Tata Cara Membuat Jamur tiram crispy sambal matah:
 
 1. Cuci bersih jamur, lalu peras agar airnya keluar.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/4c30639b7be1e640/160x128cq70/jamur-tiram-crispy-sambal-matah-langkah-memasak-1-foto.webp" alt="Jamur tiram crispy sambal matah" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/4c30639b7be1e640/160x128cq70/jamur-tiram-crispy-sambal-matah-langkah-memasak-1-foto.png" alt="Jamur tiram crispy sambal matah" width="340" height="340">
 >1. Buat 2 adonan, 1 basah dan 1 kering. Untuk adonan kering campur dengan 2 sdm tepung beras agar crispy lebih lama dan untuk membuat adonan basah gunakan air dingin. Goreng hingga berwarna golden brown. Saya tambahkan sambal matah diatasnya. Resep sambal matah sudah pernah saya share dibawah ya.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/903d2c82ea4abb73/160x128cq70/jamur-tiram-crispy-sambal-matah-langkah-memasak-2-foto.webp" alt="Jamur tiram crispy sambal matah" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/f4d97a1f59eaca0e/160x128cq70/jamur-tiram-crispy-sambal-matah-langkah-memasak-2-foto.webp" alt="Jamur tiram crispy sambal matah" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/903d2c82ea4abb73/160x128cq70/jamur-tiram-crispy-sambal-matah-langkah-memasak-2-foto.png" alt="Jamur tiram crispy sambal matah" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/f4d97a1f59eaca0e/160x128cq70/jamur-tiram-crispy-sambal-matah-langkah-memasak-2-foto.png" alt="Jamur tiram crispy sambal matah" width="340" height="340">
 >
 
 Jamur tiram disuwir-suwir kemudian di cuci &amp; tiriskan (gak perlu diperas yaa). Siapkan wadah dan campur semua bahan kering.aduk hingga tercampur rata menjadi tepung bumbu. Kalau jamurnya gak fresh, crispy nya gak jadi. Resep Ayam Crispy Sambal Matah mudah dan enak sebagai menu spesial makan siang sehari-hari. Resep ayam kentucky mudah bisa Bunda variasikan dengan resep Ayam Crispy Sambal Matah. 

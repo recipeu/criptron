@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T09:39:52.172Z 
-thumbnail: https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.png
 author: Alta Fox
 ratingvalue: 4.3
 reviewcount: 7
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng atau Nasi Gongso Ati](https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.webp)
+![Nasi Goreng atau Nasi Gongso Ati](https://img-global.cpcdn.com/recipes/46140085c6403e4d/682x484cq65/nasi-goreng-atau-nasi-gongso-ati-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Goreng atau Nasi Gongso Ati cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-20T19:55:02.983Z 
-thumbnail: https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.png
 author: Ruth Glover
 ratingvalue: 3
 reviewcount: 3
@@ -74,7 +74,7 @@ recipecategory: Dessert
 ---
 
 
-![Tahu pong isi makaroni](https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.webp)
+![Tahu pong isi makaroni](https://img-global.cpcdn.com/recipes/87657737b0c170b7/682x484cq65/tahu-pong-isi-makaroni-foto-resep-utama.png)
 
 Resep rahasia Tahu pong isi makaroni  sederhana dengan 4 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu teman
 

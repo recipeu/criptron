@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-30T16:40:15.918Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png
 author: Catherine Tyler
 ratingvalue: 4.4
 reviewcount: 11
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi daun jeruk tanpa santan](https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp)
+![Nasi daun jeruk tanpa santan](https://img-global.cpcdn.com/recipes/d23d60fb514de32a/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png)
 
 3 langkah cepat dan mudah mengolah  Nasi daun jeruk tanpa santan yang bisa ibu coba segera
 

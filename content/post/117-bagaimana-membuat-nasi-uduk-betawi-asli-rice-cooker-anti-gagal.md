@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T01:09:37.773Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.png
 author: Garrett Fowler
 ratingvalue: 3.7
 reviewcount: 15
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi asli rice cooker](https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.webp)
+![Nasi uduk betawi asli rice cooker](https://img-global.cpcdn.com/recipes/2edb3ff991f7a1f5/682x484cq65/nasi-uduk-betawi-asli-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi uduk betawi asli rice cooker  anti gagal dengan 2 langkahcepat dan mudah yang wajib bunda coba dirumah
 

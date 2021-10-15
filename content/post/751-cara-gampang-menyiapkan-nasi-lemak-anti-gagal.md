@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-26T10:21:39.796Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.png
 author: Maurice Mack
 ratingvalue: 3.2
 reviewcount: 6
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Lemak](https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.webp)
+![Nasi Lemak](https://img-global.cpcdn.com/recipes/c0e6af5f00da35e0/682x484cq65/nasi-lemak-foto-resep-utama.png)
 
 3 langkah cepat membuat  Nasi Lemak yang wajib kamu coba dirumah
 

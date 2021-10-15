@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-07T21:45:06.118Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.png
 author: Ella Perkins
 ratingvalue: 3.5
 reviewcount: 12
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi liwet teri medan magic com](https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.webp)
+![Nasi liwet teri medan magic com](https://img-global.cpcdn.com/recipes/c6960c09f09cb872/682x484cq65/nasi-liwet-teri-medan-magic-com-foto-resep-utama.png)
 
 Resep Nasi liwet teri medan magic com    dengan 4 langkahcepat yang musti ibu coba segera
 

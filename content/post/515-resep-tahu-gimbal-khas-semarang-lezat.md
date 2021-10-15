@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T15:35:23.679Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png
 author: Douglas Figueroa
 ratingvalue: 4.5
 reviewcount: 3
@@ -79,7 +79,7 @@ recipecategory: Lunch
 ---
 
 
-![Tahu Gimbal Khas Semarang](https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.webp)
+![Tahu Gimbal Khas Semarang](https://img-global.cpcdn.com/recipes/b056d46ce2d44440/682x484cq65/tahu-gimbal-khas-semarang-foto-resep-utama.png)
 
 Ingin membuat Tahu Gimbal Khas Semarang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang wajib ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T15:41:29.274Z 
-thumbnail: https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png
 author: Trevor Potter
 ratingvalue: 3.9
 reviewcount: 6
@@ -70,7 +70,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam sambal matah](https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.webp)
+![Nasi Ayam sambal matah](https://img-global.cpcdn.com/recipes/63f0bdbabad94d05/682x484cq65/nasi-ayam-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Nasi Ayam sambal matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib kamu coba dirumah
 

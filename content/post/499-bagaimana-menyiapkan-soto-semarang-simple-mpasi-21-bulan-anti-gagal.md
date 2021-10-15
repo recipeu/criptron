@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T23:46:15.781Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.png
 author: Matthew Pittman
 ratingvalue: 4.7
 reviewcount: 5
@@ -83,7 +83,7 @@ recipecategory: Dinner
 ---
 
 
-![Soto Semarang Simple (MPASI 21 BULAN)](https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.webp)
+![Soto Semarang Simple (MPASI 21 BULAN)](https://img-global.cpcdn.com/recipes/e15919bc7b6a2550/682x484cq65/soto-semarang-simple-mpasi-21-bulan-foto-resep-utama.png)
 
 Ingin membuat Soto Semarang Simple (MPASI 21 BULAN) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib ibu coba dirumah
 

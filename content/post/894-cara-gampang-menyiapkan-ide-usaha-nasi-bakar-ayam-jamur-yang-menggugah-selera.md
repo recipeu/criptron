@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T10:34:58.005Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.png
 author: Eva Higgins
 ratingvalue: 4.3
 reviewcount: 4
@@ -83,7 +83,7 @@ recipecategory: Dessert
 ---
 
 
-![Ide Usaha: Nasi Bakar Ayam Jamur](https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.webp)
+![Ide Usaha: Nasi Bakar Ayam Jamur](https://img-global.cpcdn.com/recipes/1aaf716a69fd8d39/682x484cq65/ide-usaha-nasi-bakar-ayam-jamur-foto-resep-utama.png)
 
 Ingin membuat Ide Usaha: Nasi Bakar Ayam Jamur ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

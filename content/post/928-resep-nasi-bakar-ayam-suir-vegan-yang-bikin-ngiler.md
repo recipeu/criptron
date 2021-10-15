@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T03:20:10.713Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.png
 author: Lillie Henderson
 ratingvalue: 4.4
 reviewcount: 4
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Ayam Suir (vegan)](https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.webp)
+![Nasi Bakar Ayam Suir (vegan)](https://img-global.cpcdn.com/recipes/4390213ba6ff3204/682x484cq65/nasi-bakar-ayam-suir-vegan-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ayam Suir (vegan) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa ibu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T11:07:27.104Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png
 author: Frank Williamson
 ratingvalue: 4.5
 reviewcount: 7
@@ -61,7 +61,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk (Tanpa Santan)](https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.webp)
+![Nasi Daun Jeruk (Tanpa Santan)](https://img-global.cpcdn.com/recipes/1aa0166d1a61e658/682x484cq65/nasi-daun-jeruk-tanpa-santan-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Daun Jeruk (Tanpa Santan) yang musti kamu coba segera
 

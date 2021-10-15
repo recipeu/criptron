@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-17T03:10:30.563Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
 author: Marvin Watts
 ratingvalue: 3
 reviewcount: 4
@@ -77,7 +77,7 @@ recipecategory: Dinner
 ---
 
 
-![Soto ayam semarang](https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp)
+![Soto ayam semarang](https://img-global.cpcdn.com/recipes/4e899e53c794d6e5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png)
 
 4 langkah cepat memasak  Soto ayam semarang cocok sekali jika digunakan untuk menjamu tamu
 

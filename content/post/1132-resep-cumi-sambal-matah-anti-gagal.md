@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-24T02:00:18.245Z 
-thumbnail: https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.png
 author: Sophia Vargas
 ratingvalue: 4.9
 reviewcount: 8
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Cumi sambal matah](https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.webp)
+![Cumi sambal matah](https://img-global.cpcdn.com/recipes/999d0f29e69538e1/682x484cq65/cumi-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Cumi sambal matah  anti gagal dengan 5 langkahmudah yang harus ibu coba dirumah
 

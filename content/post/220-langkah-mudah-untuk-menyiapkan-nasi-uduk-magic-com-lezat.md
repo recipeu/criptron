@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T07:09:51.116Z 
-thumbnail: https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.png
 author: Lucas Delgado
 ratingvalue: 3.4
 reviewcount: 11
@@ -59,7 +59,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk magic com](https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.webp)
+![Nasi uduk magic com](https://img-global.cpcdn.com/recipes/39233773489e4047/682x484cq65/nasi-uduk-magic-com-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi uduk magic com cocok sekali jika digunakan untuk menjamu teman
 

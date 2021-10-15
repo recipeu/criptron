@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T13:43:28.325Z 
-thumbnail: https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.png
 author: Hallie Jensen
 ratingvalue: 4.3
 reviewcount: 12
@@ -77,7 +77,7 @@ recipecategory: Dinner
 ---
 
 
-![MILO Chicken Strips](https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.webp)
+![MILO Chicken Strips](https://img-global.cpcdn.com/recipes/210f52ad72afeda3/682x484cq65/milo-chicken-strips-foto-resep-utama.png)
 
 10 langkah mudah dan cepat memasak  MILO Chicken Strips yang wajib bunda coba dirumah
 

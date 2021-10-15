@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-16T03:28:46.572Z 
-thumbnail: https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.png
 author: Donald Lane
 ratingvalue: 4.2
 reviewcount: 12
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi Rice Cooker praktis,anti gagal dan enak](https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.webp)
+![Nasi Uduk Betawi Rice Cooker praktis,anti gagal dan enak](https://img-global.cpcdn.com/recipes/563b2549cbb06647/682x484cq65/nasi-uduk-betawi-rice-cooker-praktisanti-gagal-dan-enak-foto-resep-utama.png)
 
 4 langkah mudah memasak  Nasi Uduk Betawi Rice Cooker praktis,anti gagal dan enak cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-22T05:42:45.306Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.png
 author: Sarah Lindsey
 ratingvalue: 3.6
 reviewcount: 15
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ikan tuna (kaleng)](https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.webp)
+![Nasi bakar ikan tuna (kaleng)](https://img-global.cpcdn.com/recipes/3d777c334903ec49/682x484cq65/nasi-bakar-ikan-tuna-kaleng-foto-resep-utama.png)
 
 Resep Nasi bakar ikan tuna (kaleng)  sederhana dengan 7 langkahmudah dan cepat yang musti ibu coba dirumah
 

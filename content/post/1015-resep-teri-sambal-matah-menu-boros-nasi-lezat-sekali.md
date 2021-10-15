@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T06:27:28.219Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.png
 author: Tom Torres
 ratingvalue: 4.1
 reviewcount: 13
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Teri sambal Matah menu boros nasi](https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.webp)
+![Teri sambal Matah menu boros nasi](https://img-global.cpcdn.com/recipes/b682f387704ea424/682x484cq65/teri-sambal-matah-menu-boros-nasi-foto-resep-utama.png)
 
 2 langkah cepat memasak  Teri sambal Matah menu boros nasi cocok sekali jika digunakan untuk menjamu teman
 

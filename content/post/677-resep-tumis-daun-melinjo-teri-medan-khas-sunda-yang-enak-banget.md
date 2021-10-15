@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T18:10:46.366Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.png
 author: Amelia Lyons
 ratingvalue: 4.1
 reviewcount: 9
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Tumis Daun Melinjo Teri Medan Khas Sunda](https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.webp)
+![Tumis Daun Melinjo Teri Medan Khas Sunda](https://img-global.cpcdn.com/recipes/6ab42f495ddc1e73/682x484cq65/tumis-daun-melinjo-teri-medan-khas-sunda-foto-resep-utama.png)
 
 5 langkah cepat dan mudah mengolah  Tumis Daun Melinjo Teri Medan Khas Sunda yang bisa ibu coba segera
 

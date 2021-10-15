@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-05T05:43:15.802Z 
-thumbnail: https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.png
 author: Ada Cross
 ratingvalue: 3.2
 reviewcount: 5
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Sederhana](https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.webp)
+![Nasi Uduk Sederhana](https://img-global.cpcdn.com/recipes/85a241bb2b5e4f77/682x484cq65/nasi-uduk-sederhana-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Sederhana  sederhana dengan 5 langkahmudah yang bisa ibu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T10:42:54.546Z 
-thumbnail: https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
 author: Richard Sanchez
 ratingvalue: 4.4
 reviewcount: 15
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ayam suwir pete](https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp)
+![Nasi bakar ayam suwir pete](https://img-global.cpcdn.com/recipes/479691b60db26ea8/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ayam suwir pete  anti gagal dengan 5 langkahcepat yang harus kamu coba segera
 

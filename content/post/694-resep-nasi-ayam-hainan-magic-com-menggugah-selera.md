@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-24T21:11:48.295Z 
-thumbnail: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png
 author: Grace Guerrero
 ratingvalue: 4
 reviewcount: 15
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Hainan Magic Com](https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.webp)
+![Nasi Ayam Hainan Magic Com](https://img-global.cpcdn.com/recipes/037534fa3c2f4dec/682x484cq65/nasi-ayam-hainan-magic-com-foto-resep-utama.png)
 
 Resep rahasia Nasi Ayam Hainan Magic Com  anti gagal dengan 4 langkahmudah dan cepat yang wajib kamu coba segera
 

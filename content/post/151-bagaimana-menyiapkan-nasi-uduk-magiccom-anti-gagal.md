@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T05:11:32.723Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.png
 author: Chad Pena
 ratingvalue: 5
 reviewcount: 7
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk magiccom](https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.webp)
+![Nasi uduk magiccom](https://img-global.cpcdn.com/recipes/5d845043d33d74e6/682x484cq65/nasi-uduk-magiccom-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk magiccom  sederhana dengan 3 langkahmudah dan cepat yang musti bunda coba segera
 

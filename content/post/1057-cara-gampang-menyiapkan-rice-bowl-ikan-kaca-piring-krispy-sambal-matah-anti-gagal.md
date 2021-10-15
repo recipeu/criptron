@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-21T16:54:01.933Z 
-thumbnail: https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.png
 author: Miguel Brown
 ratingvalue: 4.4
 reviewcount: 10
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Rice bowl Ikan Kaca Piring Krispy Sambal Matah](https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.webp)
+![Rice bowl Ikan Kaca Piring Krispy Sambal Matah](https://img-global.cpcdn.com/recipes/41347535c007ae71/682x484cq65/rice-bowl-ikan-kaca-piring-krispy-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Rice bowl Ikan Kaca Piring Krispy Sambal Matah  enak dengan 3 langkahmudah cocok sekali jika digunakan untuk menjamu teman
 

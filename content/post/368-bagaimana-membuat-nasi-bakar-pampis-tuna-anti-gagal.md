@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T03:33:22.615Z 
-thumbnail: https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.png
 author: Charlie Price
 ratingvalue: 3
 reviewcount: 10
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Pampis Tuna](https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.webp)
+![Nasi Bakar Pampis Tuna](https://img-global.cpcdn.com/recipes/89e2f10126fcb62b/682x484cq65/nasi-bakar-pampis-tuna-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Bakar Pampis Tuna cocok banget jika digunakan untuk menjamu tamu
 
@@ -100,14 +100,14 @@ Resep dan cara mengolah  Nasi Bakar Pampis Tuna cocok banget jika digunakan untu
 ## Langkah-langkah Untuk Menyiapkan Nasi Bakar Pampis Tuna:
 
 1. Isian pampis tuna : - Tumis bumbu halus sampai matang, kemudian masukkan daun jeruk iris, tuna, garam dan gula. Aduk2, jika sudah hampir kering masukkan daun bawang dan kemangi. Aduk rata, angkat
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5275c445f4828826/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-1-foto.webp" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/da667847135fb1f9/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-1-foto.webp" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5275c445f4828826/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-1-foto.png" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/da667847135fb1f9/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-1-foto.png" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
 >1. Letakkan 2 centong nasi keatas daun pisang, ratakan dan lebarkan. Taruh 5 sdm pampis ditengah nasi, lalu gulung daun pisang dan sematkan dengan tusuk gigi seperti membuat lontong.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/202d7604b334f961/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-2-foto.webp" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/79844f09e6a3ec4e/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-2-foto.webp" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0563e3242d041894/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-2-foto.webp" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/202d7604b334f961/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-2-foto.png" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/79844f09e6a3ec4e/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-2-foto.png" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0563e3242d041894/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-2-foto.png" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
 >1. Panggang sampai tercium wangi daun pisang. Sajikan hangat
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/852449cc3c8d2f87/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-3-foto.webp" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/852449cc3c8d2f87/160x128cq70/nasi-bakar-pampis-tuna-langkah-memasak-3-foto.png" alt="Nasi Bakar Pampis Tuna" width="340" height="340">
 >
 
 

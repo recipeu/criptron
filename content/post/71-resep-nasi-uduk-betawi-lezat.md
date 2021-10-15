@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T11:28:05.717Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Carl Banks
 ratingvalue: 5
 reviewcount: 3
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/4e717c4249a56bb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 5 langkah mudah membuat  Nasi uduk betawi cocok sekali jika digunakan untuk menjamu tamu
 

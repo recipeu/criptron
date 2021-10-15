@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T17:13:43.712Z 
-thumbnail: https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.png
 author: Kate Pope
 ratingvalue: 4.1
 reviewcount: 11
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah](https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.webp)
+![Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah](https://img-global.cpcdn.com/recipes/66de34af7d755591/682x484cq65/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah  anti gagal dengan 7 langkahmudah yang harus ibu coba segera
 
@@ -93,10 +93,10 @@ Resep rahasia Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah  anti gag
 
 1. Cuci bersih beras, sisihkan.
 1. Siapkan bahan. Iris bawang merah dan bawang putih, lalu geprek lengkuas dan sereh.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/cea383e008f7c7c5/160x128cq70/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-langkah-memasak-2-foto.webp" alt="Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/cea383e008f7c7c5/160x128cq70/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-langkah-memasak-2-foto.png" alt="Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah" width="340" height="340">
 >1. Panaskan minyak untuk menumis. Tumis bahan2 hingga harum, matikan api, lalu masukkan air. Aduk2 sebentar. (Jadi air tidak di didihkan bersama bumbu ya, hanya hangat dari pan saja)
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/234ea93adaf0b412/160x128cq70/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-langkah-memasak-3-foto.webp" alt="Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ec0c838bb06b1fc4/160x128cq70/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-langkah-memasak-3-foto.webp" alt="Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/234ea93adaf0b412/160x128cq70/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-langkah-memasak-3-foto.png" alt="Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ec0c838bb06b1fc4/160x128cq70/nasi-uduk-rice-cooker-tips-spy-nasi-tdk-gosong-dibawah-langkah-memasak-3-foto.png" alt="Nasi Uduk Rice Cooker + Tips spy nasi tdk gosong dibawah" width="340" height="340">
 >1. Masukkan tumisan bahan beserta airnya kedalam beras yang sudah dicuci. Kemudian tambahkan santan, 1/2sdm garam, 1sdt kaldu jamur. Aduk dan Tes rasa, kalo sudah kerasa asin gurihnya nyalakan rice cooker masak seperti biasa.
 1. NOTE : Aduk2 nasi saat sedang mendidih di rice cooker, agar santan tercampur dengan baik. Trick ini juga berguna supaya nasi tidak begitu lengket dan gosong di bagian bawahnya.
 1. Saat sudah matang (bunyi njtrek) langsung dibuka dan aduk2 lagi nasi agar santan tidak hanya diatas nasi, tapi jadi tercampur semua, ini juga agar nasi tidak kering dibawah (karena pada saat matang nasi bagian atas cenderung lebih basah, santan juga naik ke permukaan dan nasi bagian bawah cenderung kering)

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-03T19:09:45.002Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 author: Jackson Allison
 ratingvalue: 3.8
 reviewcount: 3
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar ayam kemangi](https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp)
+![Nasi bakar ayam kemangi](https://img-global.cpcdn.com/recipes/e2763a38c609e810/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi bakar ayam kemangi yang harus kamu coba segera
 

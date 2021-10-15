@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-21T16:29:30.876Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png
 author: Albert Perry
 ratingvalue: 3.4
 reviewcount: 9
@@ -76,7 +76,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Briyani Ayam](https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.webp)
+![Nasi Briyani Ayam](https://img-global.cpcdn.com/recipes/4778eebcfa6ae65e/682x484cq65/nasi-briyani-ayam-foto-resep-utama.png)
 
 Ingin membuat Nasi Briyani Ayam ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus ibu coba segera
 

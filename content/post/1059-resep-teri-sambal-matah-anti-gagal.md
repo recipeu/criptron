@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T02:34:11.394Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.png
 author: Tony Morrison
 ratingvalue: 3.1
 reviewcount: 7
@@ -57,7 +57,7 @@ recipecategory: Dinner
 ---
 
 
-![Teri Sambal Matah](https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.webp)
+![Teri Sambal Matah](https://img-global.cpcdn.com/recipes/c005d6bf91327e75/682x484cq65/teri-sambal-matah-foto-resep-utama.png)
 
 3 langkah cepat memasak  Teri Sambal Matah cocok sekali jika digunakan untuk menjamu teman
 

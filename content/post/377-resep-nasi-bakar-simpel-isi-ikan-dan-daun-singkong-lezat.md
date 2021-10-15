@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-03T08:40:19.048Z 
-thumbnail: https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.png
 author: Earl Matthews
 ratingvalue: 3.5
 reviewcount: 6
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Simpel Isi Ikan dan Daun Singkong](https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.webp)
+![Nasi Bakar Simpel Isi Ikan dan Daun Singkong](https://img-global.cpcdn.com/recipes/Recipe_2015_05_09_12_57_13_135_3c25e9fe28124bf6f81c/682x484cq65/nasi-bakar-simpel-isi-ikan-dan-daun-singkong-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Simpel Isi Ikan dan Daun Singkong  sederhana dengan 7 langkahmudah dan cepat yang musti kamu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T15:45:36.283Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.png
 author: Victor Kennedy
 ratingvalue: 3
 reviewcount: 10
@@ -61,7 +61,7 @@ recipecategory: Dinner
 ---
 
 
-![Tim Saring Teri Medan](https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.webp)
+![Tim Saring Teri Medan](https://img-global.cpcdn.com/recipes/2e9b3e5c8ed4eb20/682x484cq65/tim-saring-teri-medan-foto-resep-utama.png)
 
 Resep dan cara memasak  Tim Saring Teri Medan cocok banget jika digunakan untuk menjamu teman
 

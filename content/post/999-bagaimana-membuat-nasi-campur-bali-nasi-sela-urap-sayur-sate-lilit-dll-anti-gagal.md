@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T05:46:16.793Z 
-thumbnail: https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.png
 author: Violet Conner
 ratingvalue: 3.8
 reviewcount: 15
@@ -27,7 +27,7 @@ recipeingredient:
 - "terasi 1 sdt"
 - "garam secukupnya 1/2 sdt"
 - "minyak goreng Secukupnya"
-- " Sate Lilit Sayur Urap Telur rebus bumbu genep lihat resep           lihat resep "
+- " Sate Lilit Sayur Urap Telur rebus bumbu genep lihat resep   . "
 - " Bahan Pelengkap  "
 - "Mentimun "
 - "Kacang tanah goreng sy  skip lupa "
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Campur Bali 💖 (Nasi Sela, Urap Sayur, Sate Lilit, dll)](https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.webp)
+![Nasi Campur Bali 💖 (Nasi Sela, Urap Sayur, Sate Lilit, dll)](https://img-global.cpcdn.com/recipes/906b020949ba6a69/682x484cq65/nasi-campur-bali-nasi-sela-urap-sayur-sate-lilit-dll-foto-resep-utama.png)
 
 Resep rahasia Nasi Campur Bali 💖 (Nasi Sela, Urap Sayur, Sate Lilit, dll)  sederhana dengan 3 langkahmudah cocok sekali jika digunakan untuk menjamu teman
 
@@ -86,7 +86,7 @@ Resep rahasia Nasi Campur Bali 💖 (Nasi Sela, Urap Sayur, Sate Lilit, dll)  se
 1. terasi 1 sdt
 1. garam secukupnya 1/2 sdt
 1. minyak goreng Secukupnya
-1.  Sate Lilit Sayur Urap Telur rebus bumbu genep lihat resep           lihat resep 
+1.  Sate Lilit Sayur Urap Telur rebus bumbu genep lihat resep   . 
 1.  Bahan Pelengkap  
 1. Mentimun 
 1. Kacang tanah goreng sy  skip lupa 

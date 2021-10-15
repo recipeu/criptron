@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-08T13:42:28.887Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.png
 author: Gene George
 ratingvalue: 4.3
 reviewcount: 9
@@ -89,7 +89,7 @@ recipecategory: Lunch
 ---
 
 
-![Soto Medan](https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.webp)
+![Soto Medan](https://img-global.cpcdn.com/recipes/fd96df022f5ecae8/682x484cq65/soto-medan-foto-resep-utama.png)
 
 Resep dan cara mengolah  Soto Medan yang wajib bunda coba segera
 

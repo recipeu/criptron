@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-08T04:03:56.411Z 
-thumbnail: https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 author: Ralph Griffin
 ratingvalue: 4.2
 reviewcount: 12
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk Betawi (magic com)](https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp)
+![Nasi uduk Betawi (magic com)](https://img-global.cpcdn.com/recipes/45da9647682ae7bf/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png)
 
 4 langkah cepat mengolah  Nasi uduk Betawi (magic com) cocok sekali jika digunakan untuk menjamu teman
 

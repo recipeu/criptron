@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-21T10:35:18.771Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.png
 author: Marcus Huff
 ratingvalue: 3.7
 reviewcount: 7
@@ -27,7 +27,7 @@ recipeingredient:
 - "baking powder 1/2 sendok teh"
 - "garam 1/2 sendok teh"
 - "Pelengkap "
-- "sambal matah           lihat resep "
+- "sambal matah   . "
 - "wortel besar potong dadu 1 batang"
 - "buncis iris 1 cm 5 batang"
 recipeinstructions:
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Crispy Chicken Rice Bowl Sambal Matah](https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.webp)
+![Crispy Chicken Rice Bowl Sambal Matah](https://img-global.cpcdn.com/recipes/cb689bc5c120befb/682x484cq65/crispy-chicken-rice-bowl-sambal-matah-foto-resep-utama.png)
 
 5 langkah mudah mengolah  Crispy Chicken Rice Bowl Sambal Matah yang musti bunda coba dirumah
 
@@ -87,7 +87,7 @@ recipecategory: Dinner
 1. baking powder 1/2 sendok teh
 1. garam 1/2 sendok teh
 1. Pelengkap 
-1. sambal matah           lihat resep 
+1. sambal matah   . 
 1. wortel besar potong dadu 1 batang
 1. buncis iris 1 cm 5 batang
 

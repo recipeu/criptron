@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-27T10:23:03.055Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png
 author: Dora Marsh
 ratingvalue: 3.3
 reviewcount: 5
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi liwet dori sambal matah](https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.webp)
+![Nasi liwet dori sambal matah](https://img-global.cpcdn.com/recipes/a27c6e9f4b752da9/682x484cq65/nasi-liwet-dori-sambal-matah-foto-resep-utama.png)
 
 Resep Nasi liwet dori sambal matah  sederhana dengan 9 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

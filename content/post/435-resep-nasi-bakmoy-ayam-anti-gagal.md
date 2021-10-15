@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T17:20:55.049Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.png
 author: Georgie Jones
 ratingvalue: 3.7
 reviewcount: 9
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakmoy ayam](https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.webp)
+![Nasi bakmoy ayam](https://img-global.cpcdn.com/recipes/c8172ed728778c68/682x484cq65/nasi-bakmoy-ayam-foto-resep-utama.png)
 
 4 langkah cepat dan mudah memasak  Nasi bakmoy ayam cocok banget jika digunakan untuk menjamu tamu
 

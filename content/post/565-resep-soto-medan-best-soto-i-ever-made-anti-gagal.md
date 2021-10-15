@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-22T22:40:45.913Z 
-thumbnail: https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.png
 author: Francis Drake
 ratingvalue: 4.8
 reviewcount: 9
@@ -99,7 +99,7 @@ recipecategory: Lunch
 ---
 
 
-![Soto Medan (Best Soto I Ever made)](https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.webp)
+![Soto Medan (Best Soto I Ever made)](https://img-global.cpcdn.com/recipes/86e49297181fbbf4/682x484cq65/soto-medan-best-soto-i-ever-made-foto-resep-utama.png)
 
 Ingin membuat Soto Medan (Best Soto I Ever made) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib ibu coba dirumah
 

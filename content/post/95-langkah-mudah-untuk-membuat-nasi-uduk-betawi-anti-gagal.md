@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T04:12:10.544Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Effie Ramos
 ratingvalue: 3.8
 reviewcount: 11
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/0b02f9d62b2229d6/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 3 langkah mudah membuat  Nasi Uduk Betawi yang musti bunda coba dirumah
 

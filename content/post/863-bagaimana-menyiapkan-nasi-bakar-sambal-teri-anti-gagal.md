@@ -7,16 +7,16 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T19:32:39.805Z 
-thumbnail: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png
 author: Howard Kelley
 ratingvalue: 4
 reviewcount: 10
 recipeingredient:
-- "nasi lemaknasi uduk           lihat resep 1 porsi"
+- "nasi lemaknasi uduk   . 1 porsi"
 - "daun kemangi daun pisang Secukupnya"
 - "sambal teri resep menyusul Secukupnya"
 recipeinstructions:
@@ -53,7 +53,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar sambal Teri](https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.webp)
+![Nasi Bakar sambal Teri](https://img-global.cpcdn.com/recipes/42ff719e2abeb75c/682x484cq65/nasi-bakar-sambal-teri-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar sambal Teri ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang wajib ibu coba dirumah
 
@@ -61,7 +61,7 @@ Ingin membuat Nasi Bakar sambal Teri ? Coba resep berikut ini. Cara memasaknya s
 
 ## Bahan-bahan Yang Dibutuhkan Dalam Pembuatan Nasi Bakar sambal Teri:
 
-1. nasi lemaknasi uduk           lihat resep 1 porsi
+1. nasi lemaknasi uduk   . 1 porsi
 1. daun kemangi daun pisang Secukupnya
 1. sambal teri resep menyusul Secukupnya
 

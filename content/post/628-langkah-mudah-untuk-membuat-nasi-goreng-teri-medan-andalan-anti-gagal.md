@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T15:48:14.921Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.png
 author: Lizzie Fletcher
 ratingvalue: 4.7
 reviewcount: 15
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi goreng teri medan andalan](https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.webp)
+![Nasi goreng teri medan andalan](https://img-global.cpcdn.com/recipes/3534a2b86404abcd/682x484cq65/nasi-goreng-teri-medan-andalan-foto-resep-utama.png)
 
 3 langkah mudah memasak  Nasi goreng teri medan andalan yang harus bunda coba segera
 

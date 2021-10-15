@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T15:29:34.692Z 
-thumbnail: https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.png
 author: Rosie Poole
 ratingvalue: 4
 reviewcount: 15
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Isi Ikan](https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.webp)
+![Nasi Bakar Isi Ikan](https://img-global.cpcdn.com/recipes/56d3f7f04169db83/682x484cq65/nasi-bakar-isi-ikan-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Isi Ikan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus kamu coba segera
 

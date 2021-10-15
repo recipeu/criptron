@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-11T07:57:23.113Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png
 author: Aaron Jones
 ratingvalue: 4.9
 reviewcount: 6
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Liwet Daun Jeruk Rice cooker](https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.webp)
+![Nasi Liwet Daun Jeruk Rice cooker](https://img-global.cpcdn.com/recipes/a24bf72a84eaffc0/682x484cq65/nasi-liwet-daun-jeruk-rice-cooker-foto-resep-utama.png)
 
 Resep rahasia Nasi Liwet Daun Jeruk Rice cooker  anti gagal dengan 5 langkahcepat cocok banget jika digunakan untuk menjamu teman
 

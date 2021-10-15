@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-05T19:32:42.791Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.png
 author: Marguerite Welch
 ratingvalue: 4.9
 reviewcount: 6
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Sambel nasi uduk betawi](https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.webp)
+![Sambel nasi uduk betawi](https://img-global.cpcdn.com/recipes/7db038f0e496dd2f/682x484cq65/sambel-nasi-uduk-betawi-foto-resep-utama.png)
 
 Ingin membuat Sambel nasi uduk betawi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

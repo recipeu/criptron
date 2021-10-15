@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T14:05:50.677Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.png
 author: Laura Sims
 ratingvalue: 4
 reviewcount: 8
@@ -78,7 +78,7 @@ recipecategory: Dessert
 ---
 
 
-![Pulut Ayam Thai (Danok)](https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.webp)
+![Pulut Ayam Thai (Danok)](https://img-global.cpcdn.com/recipes/8a476e46baaf7f37/682x484cq65/pulut-ayam-thai-danok-foto-resep-utama.png)
 
 Ingin membuat Pulut Ayam Thai (Danok) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti kamu coba dirumah
 

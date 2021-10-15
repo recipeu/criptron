@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-30T23:57:41.736Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.png
 author: Pauline Harmon
 ratingvalue: 3.7
 reviewcount: 10
@@ -76,7 +76,7 @@ recipecategory: Lunch
 ---
 
 
-![Resep Nasi Bakar Teri Jengkol (ikuti channel youtube saya : silvia slovia)](https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.webp)
+![Resep Nasi Bakar Teri Jengkol (ikuti channel youtube saya : silvia slovia)](https://img-global.cpcdn.com/recipes/5019e025d79d88aa/682x484cq65/resep-nasi-bakar-teri-jengkol-ikuti-channel-youtube-saya-silvia-slovia-foto-resep-utama.png)
 
 6 langkah mudah membuat  Resep Nasi Bakar Teri Jengkol (ikuti channel youtube saya : silvia slovia) yang musti kamu coba segera
 

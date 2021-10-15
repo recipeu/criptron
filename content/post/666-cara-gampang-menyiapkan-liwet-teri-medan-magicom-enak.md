@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-18T16:54:42.853Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.png
 author: Marie Lloyd
 ratingvalue: 4.1
 reviewcount: 4
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Liwet teri Medan Magicom😍🤤👌](https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.webp)
+![Liwet teri Medan Magicom😍🤤👌](https://img-global.cpcdn.com/recipes/a4a9625a0abb3635/682x484cq65/liwet-teri-medan-magicom-foto-resep-utama.png)
 
 Resep Liwet teri Medan Magicom😍🤤👌  enak dengan 3 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-02T06:11:03.035Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.png
 author: Genevieve Greene
 ratingvalue: 4.1
 reviewcount: 5
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk (Betawi) magiccom](https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.webp)
+![Nasi uduk (Betawi) magiccom](https://img-global.cpcdn.com/recipes/7d960828d7ef453d/682x484cq65/nasi-uduk-betawi-magiccom-foto-resep-utama.png)
 
 4 langkah mudah dan cepat membuat  Nasi uduk (Betawi) magiccom yang bisa bunda coba dirumah
 

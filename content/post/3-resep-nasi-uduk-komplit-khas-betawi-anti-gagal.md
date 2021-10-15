@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-04T19:18:14.673Z 
-thumbnail: https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.png
 author: Stanley Ortiz
 ratingvalue: 3.8
 reviewcount: 14
@@ -56,7 +56,7 @@ recipeingredient:
 - "daun seledri iris 2 batang"
 - "garam 1/2 sdt"
 - "kaldu bubuk 1/2 sdt"
-- "kaldu udang bubuk bisa diganti udang rebon           lihat resep 1 sdm"
+- "kaldu udang bubuk bisa diganti udang rebon   . 1 sdm"
 - "merica bubuk 1/4 sdt"
 - "kecap manis 3 sdm"
 - "minyak goreng untuk menumis 3 sdm"
@@ -104,7 +104,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Komplit khas Betawi](https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.webp)
+![Nasi Uduk Komplit khas Betawi](https://img-global.cpcdn.com/recipes/93e9274564c8b08f/682x484cq65/nasi-uduk-komplit-khas-betawi-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Komplit khas Betawi  sederhana dengan 7 langkahcepat cocok sekali jika digunakan untuk menjamu teman
 
@@ -152,7 +152,7 @@ Resep rahasia Nasi Uduk Komplit khas Betawi  sederhana dengan 7 langkahcepat coc
 1. daun seledri iris 2 batang
 1. garam 1/2 sdt
 1. kaldu bubuk 1/2 sdt
-1. kaldu udang bubuk bisa diganti udang rebon           lihat resep 1 sdm
+1. kaldu udang bubuk bisa diganti udang rebon   . 1 sdm
 1. merica bubuk 1/4 sdt
 1. kecap manis 3 sdm
 1. minyak goreng untuk menumis 3 sdm

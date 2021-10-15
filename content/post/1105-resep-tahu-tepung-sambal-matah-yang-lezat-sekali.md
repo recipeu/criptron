@@ -7,17 +7,17 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T01:44:46.259Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.png
 author: Rhoda Hill
 ratingvalue: 3.3
 reviewcount: 11
 recipeingredient:
 - "tahu kuning 7 bh"
-- "resep sambal matah Cek resep sambal matah            lihat resep 1"
+- "resep sambal matah Cek resep sambal matah    . 1"
 - "Bahan pelapis tepung "
 - "muncung tepung terigu 4 sdm"
 - "tepung beras 1 sdm"
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Tahu Tepung Sambal Matah](https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.webp)
+![Tahu Tepung Sambal Matah](https://img-global.cpcdn.com/recipes/8d08ce05e1cbb99e/682x484cq65/tahu-tepung-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Tahu Tepung Sambal Matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus ibu coba dirumah
 
@@ -69,7 +69,7 @@ Ingin membuat Tahu Tepung Sambal Matah ? Coba resep berikut ini. Cara memasaknya
 ## Beberapa Bahan Yang Diperlukan Dalam Pembuatan Tahu Tepung Sambal Matah:
 
 1. tahu kuning 7 bh
-1. resep sambal matah Cek resep sambal matah            lihat resep 1
+1. resep sambal matah Cek resep sambal matah    . 1
 1. Bahan pelapis tepung 
 1. muncung tepung terigu 4 sdm
 1. tepung beras 1 sdm

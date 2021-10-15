@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-16T01:31:07.147Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 author: Hulda Carr
 ratingvalue: 4.8
 reviewcount: 15
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Daun Jeruk Rice Cooker](https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp)
+![Nasi Daun Jeruk Rice Cooker](https://img-global.cpcdn.com/recipes/5b55041d1b51d720/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi Daun Jeruk Rice Cooker  enak dengan 5 langkahmudah dan cepat yang musti ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T05:55:51.319Z 
-thumbnail: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png
 author: Evelyn Garner
 ratingvalue: 5
 reviewcount: 3
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam suir pedas](https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.webp)
+![Nasi bakar ayam suir pedas](https://img-global.cpcdn.com/recipes/090c14bb4e96fbfb/682x484cq65/nasi-bakar-ayam-suir-pedas-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar ayam suir pedas ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

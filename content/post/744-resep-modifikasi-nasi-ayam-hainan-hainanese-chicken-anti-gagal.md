@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-08T22:31:44.636Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.png
 author: Herman McGee
 ratingvalue: 4.8
 reviewcount: 15
@@ -95,7 +95,7 @@ recipecategory: Lunch
 ---
 
 
-![Modifikasi Nasi Ayam Hainan (Hainanese Chicken)](https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.webp)
+![Modifikasi Nasi Ayam Hainan (Hainanese Chicken)](https://img-global.cpcdn.com/recipes/0d80691a34c09d53/682x484cq65/modifikasi-nasi-ayam-hainan-hainanese-chicken-foto-resep-utama.png)
 
 11 langkah cepat mengolah  Modifikasi Nasi Ayam Hainan (Hainanese Chicken) yang musti bunda coba segera
 

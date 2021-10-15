@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T09:41:02.770Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
 author: Duane Garcia
 ratingvalue: 3.3
 reviewcount: 15
@@ -80,7 +80,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ayam suwir kemangi](https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp)
+![Nasi bakar ayam suwir kemangi](https://img-global.cpcdn.com/recipes/f5f9741fed289700/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar ayam suwir kemangi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib bunda coba dirumah
 

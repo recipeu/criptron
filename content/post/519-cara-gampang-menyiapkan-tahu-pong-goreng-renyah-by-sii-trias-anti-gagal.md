@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-13T19:51:51.429Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.png
 author: Della Garza
 ratingvalue: 4
 reviewcount: 12
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Tahu pong goreng renyah😍 by Sii Trias💓](https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.webp)
+![Tahu pong goreng renyah😍 by Sii Trias💓](https://img-global.cpcdn.com/recipes/f6727e749288426e/682x484cq65/tahu-pong-goreng-renyah-by-sii-trias-foto-resep-utama.png)
 
 Resep Tahu pong goreng renyah😍 by Sii Trias💓    dengan 5 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

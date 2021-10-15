@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T16:04:32.895Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.png
 author: Chester Garcia
 ratingvalue: 3.1
 reviewcount: 6
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![🌶Tahu Crispy Sambal Mattah🌶](https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.webp)
+![🌶Tahu Crispy Sambal Mattah🌶](https://img-global.cpcdn.com/recipes/fd04117b6b2bc479/682x484cq65/tahu-crispy-sambal-mattah-foto-resep-utama.png)
 
 Resep dan cara mengolah  🌶Tahu Crispy Sambal Mattah🌶 cocok banget jika digunakan untuk menjamu tamu
 

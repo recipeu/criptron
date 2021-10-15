@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-14T21:36:22.352Z 
-thumbnail: https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.png
 author: Frank Matthews
 ratingvalue: 3.1
 reviewcount: 8
@@ -82,7 +82,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar teri favorite](https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.webp)
+![Nasi Bakar teri favorite](https://img-global.cpcdn.com/recipes/85bc2639e23cca2d/682x484cq65/nasi-bakar-teri-favorite-foto-resep-utama.png)
 
 Resep Nasi Bakar teri favorite  enak dengan 10 langkahmudah cocok sekali jika digunakan untuk menjamu teman
 

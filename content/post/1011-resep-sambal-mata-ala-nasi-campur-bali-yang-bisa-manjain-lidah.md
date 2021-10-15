@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-21T19:02:34.037Z 
-thumbnail: https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.png
 author: Gertrude Stokes
 ratingvalue: 4.8
 reviewcount: 13
@@ -58,7 +58,7 @@ recipecategory: Dinner
 ---
 
 
-![Sambal mata ala nasi campur bali](https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.webp)
+![Sambal mata ala nasi campur bali](https://img-global.cpcdn.com/recipes/05742053a00c532e/682x484cq65/sambal-mata-ala-nasi-campur-bali-foto-resep-utama.png)
 
 Ingin membuat Sambal mata ala nasi campur bali ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus bunda coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T01:30:52.129Z 
-thumbnail: https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.png
 author: Allen Singleton
 ratingvalue: 4.1
 reviewcount: 10
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar ikan tuna pedas](https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.webp)
+![Nasi bakar ikan tuna pedas](https://img-global.cpcdn.com/recipes/90b16304395e059a/682x484cq65/nasi-bakar-ikan-tuna-pedas-foto-resep-utama.png)
 
 Resep Nasi bakar ikan tuna pedas  anti gagal dengan 6 langkahcepat yang harus bunda coba segera
 

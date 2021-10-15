@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-05T15:18:24.466Z 
-thumbnail: https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.png
 author: Sadie Ramos
 ratingvalue: 4.7
 reviewcount: 7
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Briyani Kambing / Biryani Lamb](https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.webp)
+![Nasi Briyani Kambing / Biryani Lamb](https://img-global.cpcdn.com/recipes/15f86a338fe7c818/682x484cq65/nasi-briyani-kambing-biryani-lamb-foto-resep-utama.png)
 
 Ingin membuat Nasi Briyani Kambing / Biryani Lamb ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus bunda coba dirumah
 

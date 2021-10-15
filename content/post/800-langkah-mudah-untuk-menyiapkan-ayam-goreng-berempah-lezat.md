@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-02T15:21:40.629Z 
-thumbnail: https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png
 author: Jeremy Andrews
 ratingvalue: 3.7
 reviewcount: 7
@@ -57,7 +57,7 @@ recipecategory: Dinner
 ---
 
 
-![Ayam Goreng Berempah](https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.webp)
+![Ayam Goreng Berempah](https://img-global.cpcdn.com/recipes/130a44be139a23e9/682x484cq65/ayam-goreng-berempah-foto-resep-utama.png)
 
 Resep Ayam Goreng Berempah    dengan 3 langkahcepat dan mudah yang bisa ibu coba dirumah
 

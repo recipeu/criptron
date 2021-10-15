@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T10:12:44.503Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.png
 author: Estella Sparks
 ratingvalue: 4.5
 reviewcount: 10
@@ -77,7 +77,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk Cumi Goreng Tepung Sambel Dabu](https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.webp)
+![Nasi Daun Jeruk Cumi Goreng Tepung Sambel Dabu](https://img-global.cpcdn.com/recipes/e88c0c7196933cbe/682x484cq65/nasi-daun-jeruk-cumi-goreng-tepung-sambel-dabu-foto-resep-utama.png)
 
 Ingin membuat Nasi Daun Jeruk Cumi Goreng Tepung Sambel Dabu ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa bunda coba segera
 

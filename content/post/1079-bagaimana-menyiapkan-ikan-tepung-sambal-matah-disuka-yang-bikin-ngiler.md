@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T01:27:46.162Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.png
 author: Jimmy Clayton
 ratingvalue: 3.8
 reviewcount: 13
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Ikan Tepung Sambal Matah Disuka](https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.webp)
+![Ikan Tepung Sambal Matah Disuka](https://img-global.cpcdn.com/recipes/5f69c98eb6ae6e99/682x484cq65/ikan-tepung-sambal-matah-disuka-foto-resep-utama.png)
 
 Resep rahasia Ikan Tepung Sambal Matah Disuka  enak dengan 3 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu teman
 

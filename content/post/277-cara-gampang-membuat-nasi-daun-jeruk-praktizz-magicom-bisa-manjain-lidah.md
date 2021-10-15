@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T21:46:30.140Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.png
 author: Mitchell Osborne
 ratingvalue: 4.5
 reviewcount: 7
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk Praktizz magicom](https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.webp)
+![Nasi Daun Jeruk Praktizz magicom](https://img-global.cpcdn.com/recipes/7557281bd18ca8e5/682x484cq65/nasi-daun-jeruk-praktizz-magicom-foto-resep-utama.png)
 
 Ingin membuat Nasi Daun Jeruk Praktizz magicom ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

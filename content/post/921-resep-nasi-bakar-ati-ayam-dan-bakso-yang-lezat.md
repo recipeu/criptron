@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T21:20:27.338Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.png
 author: Nancy Elliott
 ratingvalue: 4.8
 reviewcount: 12
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar ati ayam dan bakso](https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.webp)
+![Nasi Bakar ati ayam dan bakso](https://img-global.cpcdn.com/recipes/d7a5fd2a65b5bb6b/682x484cq65/nasi-bakar-ati-ayam-dan-bakso-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Bakar ati ayam dan bakso yang harus bunda coba dirumah
 

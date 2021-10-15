@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-09T21:41:22.710Z 
-thumbnail: https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.png
 author: Juan James
 ratingvalue: 3.6
 reviewcount: 6
@@ -59,7 +59,7 @@ recipecategory: Dinner
 ---
 
 
-![Cumi krispi sambal matah](https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.webp)
+![Cumi krispi sambal matah](https://img-global.cpcdn.com/recipes/38b8d5b47dc69302/682x484cq65/cumi-krispi-sambal-matah-foto-resep-utama.png)
 
 Resep Cumi krispi sambal matah  sederhana dengan 5 langkahmudah dan cepat yang wajib kamu coba segera
 
@@ -80,7 +80,7 @@ Begitupun halnya ayam krispi dan berbagai hidangan goreng bahkan nasi putih seka
 ## Cara Menyiapkan Cumi krispi sambal matah:
 
 1. Campur kan telur kedalam cumi yg sudah d bersihkan.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ae6c37c81d3bc558/160x128cq70/cumi-krispi-sambal-matah-langkah-memasak-1-foto.webp" alt="Cumi krispi sambal matah" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ae6c37c81d3bc558/160x128cq70/cumi-krispi-sambal-matah-langkah-memasak-1-foto.png" alt="Cumi krispi sambal matah" width="340" height="340">
 >1. Campur tepung beras dan tepung kobe. Masukkan cumi yg sudah d baluri telur satu². Ulangi jika perlu
 1. Goreng cumi. Angkat jika sudah matang kecoklatan.
 1. Tambahkan sambal matah d atas nya.

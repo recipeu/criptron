@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T05:00:24.752Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.png
 author: Lee Cross
 ratingvalue: 4.2
 reviewcount: 3
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Ayam Goreng Berempah Malay 🇲🇾](https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.webp)
+![Ayam Goreng Berempah Malay 🇲🇾](https://img-global.cpcdn.com/recipes/5309c49197d4b5b2/682x484cq65/ayam-goreng-berempah-malay-foto-resep-utama.png)
 
 Resep Ayam Goreng Berempah Malay 🇲🇾    dengan 4 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu teman
 

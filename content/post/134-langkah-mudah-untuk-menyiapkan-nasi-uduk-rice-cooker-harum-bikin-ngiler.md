@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T23:26:31.910Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.png
 author: Lucy Richards
 ratingvalue: 4.8
 reviewcount: 11
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk rice cooker harum](https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.webp)
+![Nasi uduk rice cooker harum](https://img-global.cpcdn.com/recipes/8234cd9248976bb7/682x484cq65/nasi-uduk-rice-cooker-harum-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi uduk rice cooker harum yang wajib kamu coba dirumah
 

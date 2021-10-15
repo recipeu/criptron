@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T16:56:25.607Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.png
 author: Chester Carson
 ratingvalue: 5
 reviewcount: 3
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![MPASI 14+ Nasi Bakar Ayam Kemangi](https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.webp)
+![MPASI 14+ Nasi Bakar Ayam Kemangi](https://img-global.cpcdn.com/recipes/4bab3ded03902844/682x484cq65/mpasi-14-nasi-bakar-ayam-kemangi-foto-resep-utama.png)
 
 Resep rahasia MPASI 14+ Nasi Bakar Ayam Kemangi  sederhana dengan 8 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu teman
 

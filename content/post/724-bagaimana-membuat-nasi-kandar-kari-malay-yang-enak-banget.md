@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T12:43:52.150Z 
-thumbnail: https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.png
 author: Miguel Patton
 ratingvalue: 4.5
 reviewcount: 15
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Kandar (Kari Malay)](https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.webp)
+![Nasi Kandar (Kari Malay)](https://img-global.cpcdn.com/recipes/771e4dcbee115920/682x484cq65/nasi-kandar-kari-malay-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Kandar (Kari Malay) cocok sekali jika digunakan untuk menjamu tamu
 
@@ -111,11 +111,11 @@ Resep rahasia dan cara memasak  Nasi Kandar (Kari Malay) cocok sekali jika digun
 
 1. Haluskan bawang merah bawang putih tumis hingga harum kemudian masukkan bubuk kari. Masak hingga mengeluarkan minyak.
 1. Masukkan ayam masak hingga beubah warna lalu tambahkan kecap manis dan garam
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8e9b20db308316cb/160x128cq70/nasi-kandar-kari-malay-langkah-memasak-2-foto.webp" alt="Nasi Kandar (Kari Malay)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/964da6755699c545/160x128cq70/nasi-kandar-kari-malay-langkah-memasak-2-foto.webp" alt="Nasi Kandar (Kari Malay)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5253373e2548a8a4/160x128cq70/nasi-kandar-kari-malay-langkah-memasak-2-foto.webp" alt="Nasi Kandar (Kari Malay)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8e9b20db308316cb/160x128cq70/nasi-kandar-kari-malay-langkah-memasak-2-foto.png" alt="Nasi Kandar (Kari Malay)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/964da6755699c545/160x128cq70/nasi-kandar-kari-malay-langkah-memasak-2-foto.png" alt="Nasi Kandar (Kari Malay)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/5253373e2548a8a4/160x128cq70/nasi-kandar-kari-malay-langkah-memasak-2-foto.png" alt="Nasi Kandar (Kari Malay)" width="340" height="340">
 >1. Tambahkan air. Masak hingga air menyusut dan kuah mengental. Tes rasa
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e7424598cd1c66a6/160x128cq70/nasi-kandar-kari-malay-langkah-memasak-3-foto.webp" alt="Nasi Kandar (Kari Malay)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e7424598cd1c66a6/160x128cq70/nasi-kandar-kari-malay-langkah-memasak-3-foto.png" alt="Nasi Kandar (Kari Malay)" width="340" height="340">
 >1. Pisahkan ayam dengan kuahnya. Sisakan kentangnya. Ayam bisa digoreng atau dipanggang/oven. Kalau saya, ayam dioven hingga agak mengering
 1. Tumisan kol : tumis bawang bombay hingga harum lalu masukkan irisan kol tambahkan saus tiram dan kecap asin, koreksi rasa
 1. Sambal hijau : tumis cabe hijau, bawang merah dan tomat hijau hingga layu. Lalu haluskan tambahkan garam. Tumis kembali dengan minyak hingga sambal matang

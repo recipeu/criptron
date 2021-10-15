@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T18:48:09.708Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.png
 author: Bettie Parker
 ratingvalue: 4.9
 reviewcount: 11
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi brayani](https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.webp)
+![Nasi brayani](https://img-global.cpcdn.com/recipes/e34aa03ccb264341/682x484cq65/nasi-brayani-foto-resep-utama.png)
 
 7 langkah mudah dan cepat memasak  Nasi brayani yang musti kamu coba segera
 

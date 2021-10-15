@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T17:26:08.307Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.png
 author: Harvey Black
 ratingvalue: 4.9
 reviewcount: 14
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk 🇮🇩](https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.webp)
+![Nasi Uduk 🇮🇩](https://img-global.cpcdn.com/recipes/ecd6b2cd12d05696/682x484cq65/nasi-uduk-foto-resep-utama.png)
 
 Resep Nasi Uduk 🇮🇩    dengan 6 langkahmudah cocok banget jika digunakan untuk menjamu tamu
 

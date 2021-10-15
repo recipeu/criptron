@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-30T11:58:53.959Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png
 author: Edith Grant
 ratingvalue: 3.4
 reviewcount: 14
@@ -98,7 +98,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Sela Bali](https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp)
+![Nasi Sela Bali](https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png)
 
 Resep Nasi Sela Bali  sederhana dengan 11 langkahcepat yang harus kamu coba segera
 

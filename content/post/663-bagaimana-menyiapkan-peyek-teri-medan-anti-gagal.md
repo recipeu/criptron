@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-05T16:01:17.203Z 
-thumbnail: https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.png
 author: Aaron Webb
 ratingvalue: 4.5
 reviewcount: 11
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Peyek Teri Medan](https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.webp)
+![Peyek Teri Medan](https://img-global.cpcdn.com/recipes/54a8d342ffd796d2/682x484cq65/peyek-teri-medan-foto-resep-utama.png)
 
 Ingin membuat Peyek Teri Medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti ibu coba dirumah
 

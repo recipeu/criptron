@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T20:36:44.744Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.png
 author: Alan Mack
 ratingvalue: 3.7
 reviewcount: 5
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi ayam semarang (nasi liwet)](https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.webp)
+![Nasi ayam semarang (nasi liwet)](https://img-global.cpcdn.com/recipes/7148d27cea6c397d/682x484cq65/nasi-ayam-semarang-nasi-liwet-foto-resep-utama.png)
 
 Resep rahasia Nasi ayam semarang (nasi liwet)  anti gagal dengan 7 langkahmudah dan cepat yang bisa kamu coba segera
 

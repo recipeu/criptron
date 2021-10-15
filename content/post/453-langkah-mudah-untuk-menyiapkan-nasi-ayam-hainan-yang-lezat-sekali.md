@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T03:22:54.384Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 author: Steven Gordon
 ratingvalue: 4.7
 reviewcount: 11
@@ -82,7 +82,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp)
+![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/8e1f67ce9236560b/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png)
 
 Resep rahasia Nasi Ayam Hainan  enak dengan 7 langkahmudah dan cepat yang musti bunda coba dirumah
 

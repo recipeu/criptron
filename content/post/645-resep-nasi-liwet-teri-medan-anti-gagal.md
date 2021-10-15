@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T06:40:56.809Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 author: Susan Dennis
 ratingvalue: 3.3
 reviewcount: 4
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Liwet Teri Medan](https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp)
+![Nasi Liwet Teri Medan](https://img-global.cpcdn.com/recipes/6b280bb122c3f370/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Liwet Teri Medan cocok banget jika digunakan untuk menjamu tamu
 

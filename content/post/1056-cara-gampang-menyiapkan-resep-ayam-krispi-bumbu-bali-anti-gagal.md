@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-05T01:21:48.831Z 
-thumbnail: https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.png
 author: Inez Martinez
 ratingvalue: 4.5
 reviewcount: 15
@@ -77,7 +77,7 @@ recipecategory: Lunch
 ---
 
 
-![Resep Ayam Krispi Bumbu Bali](https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.webp)
+![Resep Ayam Krispi Bumbu Bali](https://img-global.cpcdn.com/recipes/55d45354ea97b8a0/682x484cq65/resep-ayam-krispi-bumbu-bali-foto-resep-utama.png)
 
 Resep dan cara mengolah  Resep Ayam Krispi Bumbu Bali yang bisa bunda coba dirumah
 

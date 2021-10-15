@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T11:42:03.113Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.png
 author: Gary Spencer
 ratingvalue: 4
 reviewcount: 11
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Semur Telur tahu tempe betawi / semur nasi uduk betawi](https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.webp)
+![Semur Telur tahu tempe betawi / semur nasi uduk betawi](https://img-global.cpcdn.com/recipes/9bcd21620d719a89/682x484cq65/semur-telur-tahu-tempe-betawi-semur-nasi-uduk-betawi-foto-resep-utama.png)
 
 Ingin membuat Semur Telur tahu tempe betawi / semur nasi uduk betawi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

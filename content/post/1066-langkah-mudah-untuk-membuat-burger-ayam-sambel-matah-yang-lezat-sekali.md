@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-25T17:48:10.323Z 
-thumbnail: https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.png
 author: Phillip Ford
 ratingvalue: 3.1
 reviewcount: 9
@@ -78,7 +78,7 @@ recipecategory: Dessert
 ---
 
 
-![Burger Ayam Sambel Matah](https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.webp)
+![Burger Ayam Sambel Matah](https://img-global.cpcdn.com/recipes/93906357ae94fae2/682x484cq65/burger-ayam-sambel-matah-foto-resep-utama.png)
 
 Resep dan cara mengolah  Burger Ayam Sambel Matah yang wajib ibu coba dirumah
 

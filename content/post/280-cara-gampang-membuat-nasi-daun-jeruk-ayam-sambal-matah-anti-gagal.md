@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T17:50:34.242Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.png
 author: Jose Hudson
 ratingvalue: 3.9
 reviewcount: 12
@@ -71,7 +71,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk ayam sambal matah](https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.webp)
+![Nasi Daun Jeruk ayam sambal matah](https://img-global.cpcdn.com/recipes/fb3101302c737ec5/682x484cq65/nasi-daun-jeruk-ayam-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Nasi Daun Jeruk ayam sambal matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

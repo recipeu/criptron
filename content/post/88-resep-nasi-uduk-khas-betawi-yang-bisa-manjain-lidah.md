@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-20T03:53:39.791Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 author: Nathan Goodwin
 ratingvalue: 4.3
 reviewcount: 11
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk khas Betawi](https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp)
+![Nasi Uduk khas Betawi](https://img-global.cpcdn.com/recipes/6fd7a602e5ed86fa/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Uduk khas Betawi yang bisa kamu coba dirumah
 

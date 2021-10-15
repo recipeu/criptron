@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T06:14:55.547Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.png
 author: Phoebe Tyler
 ratingvalue: 3.2
 reviewcount: 15
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar](https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.webp)
+![Nasi Bakar](https://img-global.cpcdn.com/recipes/8e256e5db4be4299/682x484cq65/nasi-bakar-foto-resep-utama.png)
 
 Resep Nasi Bakar  enak dengan 11 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T18:10:32.626Z 
-thumbnail: https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.png
 author: Della Green
 ratingvalue: 3.9
 reviewcount: 13
@@ -84,7 +84,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ati Ampela](https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.webp)
+![Nasi Bakar Ati Ampela](https://img-global.cpcdn.com/recipes/571fb2d687582321/682x484cq65/nasi-bakar-ati-ampela-foto-resep-utama.png)
 
 Resep Nasi Bakar Ati Ampela  enak dengan 6 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

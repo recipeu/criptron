@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-03T02:07:22.597Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png
 author: Lola Carson
 ratingvalue: 3.5
 reviewcount: 8
@@ -94,7 +94,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ayam Jamur](https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp)
+![Nasi Bakar Ayam Jamur](https://img-global.cpcdn.com/recipes/1d87b2a72ab4f872/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png)
 
 Resep Nasi Bakar Ayam Jamur    dengan 13 langkahmudah cocok sekali jika digunakan untuk menjamu tamu
 

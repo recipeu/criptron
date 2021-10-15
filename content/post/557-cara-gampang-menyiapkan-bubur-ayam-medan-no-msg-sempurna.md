@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-17T00:57:01.463Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.png
 author: Thomas Wade
 ratingvalue: 3.2
 reviewcount: 5
@@ -80,7 +80,7 @@ recipecategory: Dinner
 ---
 
 
-![Bubur Ayam Medan no msg](https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.webp)
+![Bubur Ayam Medan no msg](https://img-global.cpcdn.com/recipes/6f04f53833354bf9/682x484cq65/bubur-ayam-medan-no-msg-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Bubur Ayam Medan no msg cocok banget jika digunakan untuk menjamu tamu
 

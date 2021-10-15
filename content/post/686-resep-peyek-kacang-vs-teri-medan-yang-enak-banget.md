@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T17:18:14.576Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.png
 author: Lester Boone
 ratingvalue: 4.3
 reviewcount: 9
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![Peyek kacang vs teri medan](https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.webp)
+![Peyek kacang vs teri medan](https://img-global.cpcdn.com/recipes/8e7b379815c228a3/682x484cq65/peyek-kacang-vs-teri-medan-foto-resep-utama.png)
 
 Resep Peyek kacang vs teri medan    dengan 5 langkahcepat dan mudah yang bisa kamu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-12T23:16:15.422Z 
-thumbnail: https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.png
 author: Claudia Haynes
 ratingvalue: 3.3
 reviewcount: 10
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![Rice Bowl Ayam Gongso](https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.webp)
+![Rice Bowl Ayam Gongso](https://img-global.cpcdn.com/recipes/490db79f45b52317/682x484cq65/rice-bowl-ayam-gongso-foto-resep-utama.png)
 
 4 langkah cepat dan mudah mengolah  Rice Bowl Ayam Gongso cocok sekali jika digunakan untuk menjamu teman
 

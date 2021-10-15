@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-30T16:27:11.638Z 
-thumbnail: https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.png
 author: Winifred Mathis
 ratingvalue: 3.5
 reviewcount: 4
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Kue pisang rai](https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.webp)
+![Kue pisang rai](https://img-global.cpcdn.com/recipes/28ac163b07b03f4e/682x484cq65/kue-pisang-rai-foto-resep-utama.png)
 
 Resep Kue pisang rai    dengan 3 langkahmudah yang bisa bunda coba dirumah
 

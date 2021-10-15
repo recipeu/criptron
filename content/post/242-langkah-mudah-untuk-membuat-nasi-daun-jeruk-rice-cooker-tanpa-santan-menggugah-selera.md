@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T07:39:42.549Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png
 author: Samuel Campbell
 ratingvalue: 3.5
 reviewcount: 12
@@ -59,7 +59,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi daun jeruk rice cooker tanpa santan](https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp)
+![Nasi daun jeruk rice cooker tanpa santan](https://img-global.cpcdn.com/recipes/bd0264b093dfe264/682x484cq65/nasi-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png)
 
 4 langkah mudah mengolah  Nasi daun jeruk rice cooker tanpa santan cocok sekali jika digunakan untuk menjamu tamu
 

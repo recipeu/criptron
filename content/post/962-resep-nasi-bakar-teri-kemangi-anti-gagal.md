@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T06:05:57.305Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png
 author: Dean Carr
 ratingvalue: 4.2
 reviewcount: 5
@@ -58,7 +58,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Teri Kemangi](https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Teri Kemangi](https://img-global.cpcdn.com/recipes/2ca27e96d7b04fda/682x484cq65/nasi-bakar-teri-kemangi-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Teri Kemangi  enak dengan 4 langkahcepat dan mudah yang harus bunda coba segera
 

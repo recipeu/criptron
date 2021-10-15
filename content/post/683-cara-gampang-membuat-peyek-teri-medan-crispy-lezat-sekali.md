@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-02T17:44:51.358Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.png
 author: Clara Bowen
 ratingvalue: 4.4
 reviewcount: 10
@@ -36,7 +36,7 @@ recipeinstructions:
 - "Jika adonan sudah siap panaskn minyak ya bunda..oh iya jgan pake minyak sedikit usahakan minyak nya cukup bnyak ya."
 - "Goreng di pinggiran wajan dengan ukuran sesuka bunda😊 jika menurut bunda sudah agak keras kalo di tekan² itu tandanya udah mateng... Api jagan terlalu besar ya bun biar gax gampang gosong..."
 - "Selamat mencoba.. 😊😊 bisa di tanyakan jika masih ada yg bingug😊"
-- ""
+. 
 categories:
 - Resep
 tags:
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Peyek teri medan crispy](https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.webp)
+![Peyek teri medan crispy](https://img-global.cpcdn.com/recipes/7f38f0082a9e343a/682x484cq65/peyek-teri-medan-crispy-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Peyek teri medan crispy yang wajib bunda coba segera
 

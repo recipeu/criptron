@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T11:41:26.051Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 author: Rosetta McDaniel
 ratingvalue: 3.1
 reviewcount: 6
@@ -73,7 +73,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ikan tuna](https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp)
+![Nasi bakar ikan tuna](https://img-global.cpcdn.com/recipes/c34ce90b820bc5fe/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ikan tuna    dengan 5 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

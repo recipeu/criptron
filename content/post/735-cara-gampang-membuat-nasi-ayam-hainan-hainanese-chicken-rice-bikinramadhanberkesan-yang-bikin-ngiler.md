@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-26T11:51:58.632Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.png
 author: John Pope
 ratingvalue: 4.7
 reviewcount: 10
@@ -98,7 +98,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Hainan (Hainanese Chicken Rice) #BikinRamadhanBerkesan](https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.webp)
+![Nasi Ayam Hainan (Hainanese Chicken Rice) #BikinRamadhanBerkesan](https://img-global.cpcdn.com/recipes/7910527b8a3c854e/682x484cq65/nasi-ayam-hainan-hainanese-chicken-rice-bikinramadhanberkesan-foto-resep-utama.png)
 
 Resep Nasi Ayam Hainan (Hainanese Chicken Rice) #BikinRamadhanBerkesan    dengan 5 langkahcepat dan mudah yang wajib bunda coba segera
 

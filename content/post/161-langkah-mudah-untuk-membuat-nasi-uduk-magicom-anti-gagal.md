@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-13T06:32:30.072Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
 author: Celia Lyons
 ratingvalue: 3
 reviewcount: 6
@@ -25,10 +25,10 @@ recipeingredient:
 - "lengkuas geprek 1 ruas"
 - "serai geprek 1 batang"
 - "Menu Pendamping Lainnya "
-- "Sambel Kentang Pete           lihat resep "
-- "Ayam Goreng Serundeng           lihat resep "
-- "Cumi Asin Kentang Pedas           lihat resep "
-- "Sayur Kari Tahu           lihat resep "
+- "Sambel Kentang Pete   . "
+- "Ayam Goreng Serundeng   . "
+- "Cumi Asin Kentang Pedas   . "
+- "Sayur Kari Tahu   . "
 recipeinstructions:
 - "Cuci bersih beras, rendam dalam air selama 10 menit"
 - "Masukkan bahan lainnya, mulai masak seperti biasa Jangan diaduk ya, santannya dituang di atas airnya"
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Magicom](https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp)
+![Nasi Uduk Magicom](https://img-global.cpcdn.com/recipes/ada9e221907dc64b/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png)
 
 4 langkah cepat membuat  Nasi Uduk Magicom cocok sekali jika digunakan untuk menjamu teman
 
@@ -83,10 +83,10 @@ recipecategory: Lunch
 1. lengkuas geprek 1 ruas
 1. serai geprek 1 batang
 1. Menu Pendamping Lainnya 
-1. Sambel Kentang Pete           lihat resep 
-1. Ayam Goreng Serundeng           lihat resep 
-1. Cumi Asin Kentang Pedas           lihat resep 
-1. Sayur Kari Tahu           lihat resep 
+1. Sambel Kentang Pete   . 
+1. Ayam Goreng Serundeng   . 
+1. Cumi Asin Kentang Pedas   . 
+1. Sayur Kari Tahu   . 
 
 Resep NASI UDUK RICE COOKER Ala Ola Подробнее. Cara masak nasi uduk #magicom ini mudah banget. Dapur Ima: Nasi Kuning/Nasi Uduk Tumpeng (Homemade Dapur Ima). Cara Membuat Hiasan Tumpeng Nasi Kuning dari Sayuran. 
 

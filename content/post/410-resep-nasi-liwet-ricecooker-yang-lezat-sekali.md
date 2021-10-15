@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-25T14:22:38.566Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
 author: Mark Alvarado
 ratingvalue: 3.5
 reviewcount: 7
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi liwet ricecooker](https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp)
+![Nasi liwet ricecooker](https://img-global.cpcdn.com/recipes/a838168f2a7e9f21/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi liwet ricecooker yang harus kamu coba dirumah
 

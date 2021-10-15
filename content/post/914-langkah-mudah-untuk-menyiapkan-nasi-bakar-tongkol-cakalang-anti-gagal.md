@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-11T18:04:26.948Z 
-thumbnail: https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.png
 author: Wayne Gonzales
 ratingvalue: 4.2
 reviewcount: 5
@@ -92,7 +92,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Tongkol/CakalaNg](https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.webp)
+![Nasi Bakar Tongkol/CakalaNg](https://img-global.cpcdn.com/recipes/13c42a118c8de470/682x484cq65/nasi-bakar-tongkolcakalang-foto-resep-utama.png)
 
 14 langkah cepat membuat  Nasi Bakar Tongkol/CakalaNg yang harus kamu coba segera
 

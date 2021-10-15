@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-20T10:18:36.522Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.png
 author: Virgie Brock
 ratingvalue: 3.3
 reviewcount: 5
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Ati Semarang](https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.webp)
+![Nasi Goreng Ati Semarang](https://img-global.cpcdn.com/recipes/0ccf5d8fe3745ea5/682x484cq65/nasi-goreng-ati-semarang-foto-resep-utama.png)
 
 Resep rahasia Nasi Goreng Ati Semarang  enak dengan 4 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

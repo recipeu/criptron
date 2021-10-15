@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-19T21:06:59.247Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.png
 author: Elizabeth Cohen
 ratingvalue: 3.5
 reviewcount: 14
@@ -78,7 +78,7 @@ recipecategory: Lunch
 ---
 
 
-![Tahu Gimbal](https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.webp)
+![Tahu Gimbal](https://img-global.cpcdn.com/recipes/d1b8461718d8a7c8/682x484cq65/tahu-gimbal-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Tahu Gimbal cocok banget jika digunakan untuk menjamu teman
 

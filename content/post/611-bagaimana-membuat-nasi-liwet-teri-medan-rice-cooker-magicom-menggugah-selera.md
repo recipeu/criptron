@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-31T08:35:19.475Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.png
 author: Mark Norris
 ratingvalue: 3.9
 reviewcount: 10
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Liwet Teri Medan (Rice Cooker/Magicom)](https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.webp)
+![Nasi Liwet Teri Medan (Rice Cooker/Magicom)](https://img-global.cpcdn.com/recipes/3cedc90859a2e641/682x484cq65/nasi-liwet-teri-medan-rice-cookermagicom-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Liwet Teri Medan (Rice Cooker/Magicom) yang bisa bunda coba dirumah
 

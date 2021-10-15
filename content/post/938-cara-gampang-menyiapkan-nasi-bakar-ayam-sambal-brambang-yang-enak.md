@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T21:44:03.789Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.png
 author: Georgie Gilbert
 ratingvalue: 4.2
 reviewcount: 11
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Ayam Sambal Brambang](https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.webp)
+![Nasi Bakar Ayam Sambal Brambang](https://img-global.cpcdn.com/recipes/5feaad6fe2ca2225/682x484cq65/nasi-bakar-ayam-sambal-brambang-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Ayam Sambal Brambang  sederhana dengan 5 langkahmudah dan cepat yang wajib ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T21:25:54.855Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.png
 author: Claudia Wade
 ratingvalue: 4.3
 reviewcount: 4
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng sayur #PR_BukaNasiBiasa](https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.webp)
+![Nasi goreng sayur #PR_BukaNasiBiasa](https://img-global.cpcdn.com/recipes/5e35863c147b1c18/682x484cq65/nasi-goreng-sayur-pr_bukanasibiasa-foto-resep-utama.png)
 
 Resep Nasi goreng sayur #PR_BukaNasiBiasa    dengan 2 langkahmudah yang harus ibu coba segera
 

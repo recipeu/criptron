@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-27T00:08:15.920Z 
-thumbnail: https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.png
 author: Wesley Gibbs
 ratingvalue: 3.9
 reviewcount: 13
@@ -78,7 +78,7 @@ recipecategory: Dinner
 ---
 
 
-![Cramcam (sayur untuk nasi campur atau nasi lawar bali)](https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.webp)
+![Cramcam (sayur untuk nasi campur atau nasi lawar bali)](https://img-global.cpcdn.com/recipes/36818bec3b5d1b6f/682x484cq65/cramcam-sayur-untuk-nasi-campur-atau-nasi-lawar-bali-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Cramcam (sayur untuk nasi campur atau nasi lawar bali) yang wajib bunda coba dirumah
 

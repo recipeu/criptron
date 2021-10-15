@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-27T12:10:03.373Z 
-thumbnail: https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.png
 author: Virgie Welch
 ratingvalue: 3.3
 reviewcount: 8
@@ -32,7 +32,7 @@ recipeingredient:
 - "Telur dadar "
 - "Sosis goreng "
 - "timun Potongan"
-- "Orek tempe           lihat resep "
+- "Orek tempe   . "
 - "Mie goreng "
 recipeinstructions:
 - "Ambil 3 cup beras dan cuci bersih dan masukkan ke panci rice cooker."
@@ -75,7 +75,7 @@ recipecategory: Dinner
 ---
 
 
-![Tumini Nasi Uduk Pandan](https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.webp)
+![Tumini Nasi Uduk Pandan](https://img-global.cpcdn.com/recipes/133e8bf835d8753e/682x484cq65/tumini-nasi-uduk-pandan-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Tumini Nasi Uduk Pandan cocok sekali jika digunakan untuk menjamu teman
 
@@ -99,7 +99,7 @@ Resep rahasia dan cara memasak  Tumini Nasi Uduk Pandan cocok sekali jika diguna
 1. Telur dadar 
 1. Sosis goreng 
 1. timun Potongan
-1. Orek tempe           lihat resep 
+1. Orek tempe   . 
 1. Mie goreng 
 
 

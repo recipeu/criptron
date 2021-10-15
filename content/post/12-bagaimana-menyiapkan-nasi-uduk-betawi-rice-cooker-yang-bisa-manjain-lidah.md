@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T23:57:38.599Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png
 author: Verna Rodgers
 ratingvalue: 4
 reviewcount: 11
@@ -28,7 +28,7 @@ recipeingredient:
 - "garam 1 sdm"
 - "Pendamping  optional "
 - "Bihun goreng "
-- "Semur tahutempejengkoldaging resep semur cek lampiran ya           lihat resep "
+- "Semur tahutempejengkoldaging resep semur cek lampiran ya   . "
 - "Bawang goreng "
 - "Kerupuk "
 recipeinstructions:
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi Rice Cooker](https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp)
+![Nasi Uduk Betawi Rice Cooker](https://img-global.cpcdn.com/recipes/4296b20cd3146f36/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Uduk Betawi Rice Cooker yang bisa kamu coba dirumah
 
@@ -88,7 +88,7 @@ Resep dan cara mengolah  Nasi Uduk Betawi Rice Cooker yang bisa kamu coba diruma
 1. garam 1 sdm
 1. Pendamping  optional 
 1. Bihun goreng 
-1. Semur tahutempejengkoldaging resep semur cek lampiran ya           lihat resep 
+1. Semur tahutempejengkoldaging resep semur cek lampiran ya   . 
 1. Bawang goreng 
 1. Kerupuk 
 

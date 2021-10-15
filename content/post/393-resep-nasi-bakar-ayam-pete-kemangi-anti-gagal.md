@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T23:43:34.431Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.png
 author: Gregory Watson
 ratingvalue: 3.7
 reviewcount: 4
@@ -84,7 +84,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ayam, Pete, kemangi](https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Ayam, Pete, kemangi](https://img-global.cpcdn.com/recipes/a33cc13a16d37587/682x484cq65/nasi-bakar-ayam-pete-kemangi-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ayam, Pete, kemangi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 
@@ -130,8 +130,8 @@ Ingin membuat Nasi Bakar Ayam, Pete, kemangi ? Coba resep berikut ini. Cara mema
 ## Langkah-langkah Untuk Membuat Nasi Bakar Ayam, Pete, kemangi:
 
 1. Nasi: - - Tumis Bawang merah dan bumbu lainnya hingga harum. - - Tambahkan air plus santan. Aduk rata. - - Cuci beras, masukkan ke rice cooker. Tambahkan campuran air dan bumbu tadi. Masak nasi seperti biasa.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/62d79600b54d0e6a/160x128cq70/nasi-bakar-ayam-pete-kemangi-langkah-memasak-1-foto.webp" alt="Nasi Bakar Ayam, Pete, kemangi" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/212086fbcbe401f1/160x128cq70/nasi-bakar-ayam-pete-kemangi-langkah-memasak-1-foto.webp" alt="Nasi Bakar Ayam, Pete, kemangi" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/62d79600b54d0e6a/160x128cq70/nasi-bakar-ayam-pete-kemangi-langkah-memasak-1-foto.png" alt="Nasi Bakar Ayam, Pete, kemangi" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/212086fbcbe401f1/160x128cq70/nasi-bakar-ayam-pete-kemangi-langkah-memasak-1-foto.png" alt="Nasi Bakar Ayam, Pete, kemangi" width="340" height="340">
 >1. Ayam suwir: - - Tumis bumbu halus bersama serai, lengkuas, daun jeruk, daun salam sampai harum. - - Tambahkan sedikit air. Lalu masukkan ayam suwir dan pete.  - - Masukkan gula, garam, lada dan kecap manis.
 1. Masak hingga bumbu meresap dan air menyusut cenderung kering. Sebelum diangkat masukkan kemangi. Aduk sebentar, angkat.
 1. Ambil nasi dan campur dengan ayam suwir. Setelah itu ambil campuran nasi dan ayam secukupnya, taruh di atas daun pisan. Gulung dan sematkan ujung-ujungnya dengan tusuk gigi.

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-25T00:10:48.119Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.png
 author: Rose Reed
 ratingvalue: 4.3
 reviewcount: 10
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Ayam Taichan x nasi daun jeruk](https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.webp)
+![Ayam Taichan x nasi daun jeruk](https://img-global.cpcdn.com/recipes/4615f1c50dac7409/682x484cq65/ayam-taichan-x-nasi-daun-jeruk-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Ayam Taichan x nasi daun jeruk yang musti ibu coba dirumah
 

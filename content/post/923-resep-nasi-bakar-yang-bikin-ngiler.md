@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T03:24:39.279Z 
-thumbnail: https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.png
 author: Leila Graham
 ratingvalue: 3.7
 reviewcount: 8
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar](https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.webp)
+![Nasi bakar](https://img-global.cpcdn.com/recipes/13fa1ce6298251e8/682x484cq65/nasi-bakar-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar  sederhana dengan 3 langkahmudah yang harus ibu coba segera
 

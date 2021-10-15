@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T03:13:19.694Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.png
 author: Ernest Tran
 ratingvalue: 4.2
 reviewcount: 10
@@ -85,7 +85,7 @@ recipecategory: Dinner
 ---
 
 
-![Lumpia sayur bumbu singaraja](https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.webp)
+![Lumpia sayur bumbu singaraja](https://img-global.cpcdn.com/recipes/6ce2a61c70bd67aa/682x484cq65/lumpia-sayur-bumbu-singaraja-foto-resep-utama.png)
 
 Ingin membuat Lumpia sayur bumbu singaraja ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T21:20:50.144Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.png
 author: Jared Keller
 ratingvalue: 4.3
 reviewcount: 3
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi asli](https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.webp)
+![Nasi uduk betawi asli](https://img-global.cpcdn.com/recipes/5590f8cc76ebc0bf/682x484cq65/nasi-uduk-betawi-asli-foto-resep-utama.png)
 
 Ingin membuat Nasi uduk betawi asli ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

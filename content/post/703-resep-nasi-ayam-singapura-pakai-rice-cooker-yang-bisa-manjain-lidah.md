@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-18T21:00:42.949Z 
-thumbnail: https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.png
 author: Mittie Bailey
 ratingvalue: 5
 reviewcount: 11
@@ -25,7 +25,7 @@ recipeingredient:
 - "Bahan Marinasi  "
 - "saus tiram 3 sdm"
 - "arak masak aku skip 2 sdm"
-- "minyak wijen homemade           lihat resep 1 sdm"
+- "minyak wijen homemade   . 1 sdm"
 - "garam 4 sdt"
 - "merica bubuk 1 sdt"
 - "penyedap optional 1 sdt"
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam Singapura (Pakai Rice Cooker)](https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.webp)
+![Nasi Ayam Singapura (Pakai Rice Cooker)](https://img-global.cpcdn.com/recipes/44fb1ad049158d50/682x484cq65/nasi-ayam-singapura-pakai-rice-cooker-foto-resep-utama.png)
 
 6 langkah mudah dan cepat memasak  Nasi Ayam Singapura (Pakai Rice Cooker) yang harus bunda coba segera
 
@@ -88,7 +88,7 @@ recipecategory: Dinner
 1. Bahan Marinasi  
 1. saus tiram 3 sdm
 1. arak masak aku skip 2 sdm
-1. minyak wijen homemade           lihat resep 1 sdm
+1. minyak wijen homemade   . 1 sdm
 1. garam 4 sdt
 1. merica bubuk 1 sdt
 1. penyedap optional 1 sdt

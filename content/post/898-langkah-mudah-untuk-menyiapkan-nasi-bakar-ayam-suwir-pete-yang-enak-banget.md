@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T16:42:46.027Z 
-thumbnail: https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png
 author: Joe Norton
 ratingvalue: 5
 reviewcount: 7
@@ -83,7 +83,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ayam suwir pete](https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.webp)
+![Nasi bakar ayam suwir pete](https://img-global.cpcdn.com/recipes/55c8c16ef08632b3/682x484cq65/nasi-bakar-ayam-suwir-pete-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ayam suwir pete    dengan 4 langkahcepat yang wajib kamu coba segera
 

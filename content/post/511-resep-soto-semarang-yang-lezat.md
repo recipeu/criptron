@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T22:34:33.211Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.png
 author: Herbert Singleton
 ratingvalue: 3.4
 reviewcount: 8
@@ -88,7 +88,7 @@ recipecategory: Dinner
 ---
 
 
-![Soto Semarang](https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.webp)
+![Soto Semarang](https://img-global.cpcdn.com/recipes/4b5a3446a8eb487f/682x484cq65/soto-semarang-foto-resep-utama.png)
 
 Ingin membuat Soto Semarang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti ibu coba dirumah
 

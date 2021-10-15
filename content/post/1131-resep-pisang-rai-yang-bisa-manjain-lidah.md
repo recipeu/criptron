@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-28T00:41:06.785Z 
-thumbnail: https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.png
 author: Lottie Wade
 ratingvalue: 4.4
 reviewcount: 8
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang Rai](https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.webp)
+![Pisang Rai](https://img-global.cpcdn.com/recipes/057ee9f95141619f/682x484cq65/pisang-rai-foto-resep-utama.png)
 
 Resep dan cara memasak  Pisang Rai yang harus ibu coba dirumah
 

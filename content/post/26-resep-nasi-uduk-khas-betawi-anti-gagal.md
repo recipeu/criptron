@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-31T10:17:15.085Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 author: Alan Doyle
 ratingvalue: 4.7
 reviewcount: 9
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Khas Betawi](https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp)
+![Nasi Uduk Khas Betawi](https://img-global.cpcdn.com/recipes/3423c302f92b9eb3/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png)
 
 4 langkah mudah dan cepat membuat  Nasi Uduk Khas Betawi yang harus bunda coba dirumah
 

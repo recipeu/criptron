@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T06:44:58.174Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: Scott Kennedy
 ratingvalue: 3.8
 reviewcount: 15
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi daun jeruk](https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi daun jeruk](https://img-global.cpcdn.com/recipes/8997e54726c75841/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi daun jeruk cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-16T22:54:58.802Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png
 author: Paul Ramirez
 ratingvalue: 3.9
 reviewcount: 6
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam](https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.webp)
+![Nasi bakar ayam](https://img-global.cpcdn.com/recipes/a26d5c8d5f56c500/682x484cq65/nasi-bakar-ayam-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ayam  enak dengan 4 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-24T14:39:44.035Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.png
 author: Dylan Powell
 ratingvalue: 5
 reviewcount: 7
@@ -84,7 +84,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Tongkol, jamur &amp; jagung manis](https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.webp)
+![Nasi Bakar Tongkol, jamur &amp; jagung manis](https://img-global.cpcdn.com/recipes/2d1917e702c68e40/682x484cq65/nasi-bakar-tongkol-jamur-jagung-manis-foto-resep-utama.png)
 
 9 langkah mudah dan cepat mengolah  Nasi Bakar Tongkol, jamur &amp; jagung manis cocok banget jika digunakan untuk menjamu tamu
 

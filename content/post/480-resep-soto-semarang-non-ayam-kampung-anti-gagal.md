@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T12:03:57.840Z 
-thumbnail: https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.png
 author: Ola Fisher
 ratingvalue: 3.8
 reviewcount: 9
@@ -85,7 +85,7 @@ recipecategory: Lunch
 ---
 
 
-![Soto Semarang (non ayam kampung)](https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.webp)
+![Soto Semarang (non ayam kampung)](https://img-global.cpcdn.com/recipes/43d1602a320bdfbc/682x484cq65/soto-semarang-non-ayam-kampung-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Soto Semarang (non ayam kampung) cocok banget jika digunakan untuk menjamu teman
 

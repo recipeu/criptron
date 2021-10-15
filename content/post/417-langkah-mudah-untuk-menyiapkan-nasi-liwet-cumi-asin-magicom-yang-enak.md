@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-21T19:47:19.046Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.png
 author: Lela Floyd
 ratingvalue: 3.5
 reviewcount: 9
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Liwet Cumi Asin Magicom](https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.webp)
+![Nasi Liwet Cumi Asin Magicom](https://img-global.cpcdn.com/recipes/6fd7453a9802c57e/682x484cq65/nasi-liwet-cumi-asin-magicom-foto-resep-utama.png)
 
 Resep Nasi Liwet Cumi Asin Magicom  sederhana dengan 5 langkahmudah cocok banget jika digunakan untuk menjamu tamu
 

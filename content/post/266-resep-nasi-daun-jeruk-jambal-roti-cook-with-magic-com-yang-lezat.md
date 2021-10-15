@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-30T02:34:41.019Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.png
 author: Florence Lynch
 ratingvalue: 5
 reviewcount: 4
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi daun jeruk jambal roti (cook with magic com)](https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.webp)
+![Nasi daun jeruk jambal roti (cook with magic com)](https://img-global.cpcdn.com/recipes/5b9453d9e6a12ca4/682x484cq65/nasi-daun-jeruk-jambal-roti-cook-with-magic-com-foto-resep-utama.png)
 
 Resep rahasia Nasi daun jeruk jambal roti (cook with magic com)    dengan 4 langkahcepat yang musti bunda coba dirumah
 

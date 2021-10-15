@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T09:07:19.741Z 
-thumbnail: https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 author: Virginia Gray
 ratingvalue: 3.6
 reviewcount: 7
@@ -99,7 +99,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Semarang](https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp)
+![Nasi Ayam Semarang](https://img-global.cpcdn.com/recipes/790ad311040aead5/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png)
 
 Resep Nasi Ayam Semarang  enak dengan 10 langkahmudah yang harus kamu coba dirumah
 

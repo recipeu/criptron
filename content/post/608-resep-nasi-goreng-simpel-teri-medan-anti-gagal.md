@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-09T04:03:36.122Z 
-thumbnail: https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.png
 author: Nelle Burns
 ratingvalue: 3.8
 reviewcount: 4
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi goreng simpel teri medan](https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.webp)
+![Nasi goreng simpel teri medan](https://img-global.cpcdn.com/recipes/122180244d5bc808/682x484cq65/nasi-goreng-simpel-teri-medan-foto-resep-utama.png)
 
 3 langkah mudah dan cepat mengolah  Nasi goreng simpel teri medan yang bisa kamu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T21:41:38.745Z 
-thumbnail: https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
 author: Duane Richards
 ratingvalue: 3.1
 reviewcount: 9
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk Magicom](https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp)
+![Nasi Daun Jeruk Magicom](https://img-global.cpcdn.com/recipes/895ba378aa21851e/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Daun Jeruk Magicom yang bisa kamu coba dirumah
 

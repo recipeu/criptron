@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-19T03:06:36.577Z 
-thumbnail: https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.png
 author: Pearl Knight
 ratingvalue: 4.2
 reviewcount: 3
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Choipan medan](https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.webp)
+![Choipan medan](https://img-global.cpcdn.com/recipes/97bddee2170bb6a2/682x484cq65/choipan-medan-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Choipan medan yang bisa bunda coba dirumah
 

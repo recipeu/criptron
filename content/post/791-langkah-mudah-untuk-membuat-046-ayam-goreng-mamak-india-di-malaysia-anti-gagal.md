@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T20:33:23.449Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.png
 author: Johanna McCormick
 ratingvalue: 4.7
 reviewcount: 7
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![046. Ayam Goreng Mamak (India di Malaysia)](https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.webp)
+![046. Ayam Goreng Mamak (India di Malaysia)](https://img-global.cpcdn.com/recipes/9d54b8f92d4e6474/682x484cq65/046-ayam-goreng-mamak-india-di-malaysia-foto-resep-utama.png)
 
 Resep rahasia 046. Ayam Goreng Mamak (India di Malaysia)  sederhana dengan 6 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

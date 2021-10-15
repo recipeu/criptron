@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T12:57:11.384Z 
-thumbnail: https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.png
 author: Betty Little
 ratingvalue: 3.1
 reviewcount: 7
@@ -90,7 +90,7 @@ recipecategory: Dinner
 ---
 
 
-![Rice Bowl 🍲 Salted Egg Chicken Sambal Matah](https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.webp)
+![Rice Bowl 🍲 Salted Egg Chicken Sambal Matah](https://img-global.cpcdn.com/recipes/237ca01123e2fbe7/682x484cq65/rice-bowl-salted-egg-chicken-sambal-matah-foto-resep-utama.png)
 
 Resep Rice Bowl 🍲 Salted Egg Chicken Sambal Matah    dengan 7 langkahmudah yang wajib kamu coba segera
 

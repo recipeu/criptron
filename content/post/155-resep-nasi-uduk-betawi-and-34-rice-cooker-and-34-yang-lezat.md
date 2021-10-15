@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T18:07:11.795Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png
 author: Clara Glover
 ratingvalue: 4.8
 reviewcount: 10
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Betawi &#34;Rice Cooker&#34;](https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.webp)
+![Nasi Uduk Betawi &#34;Rice Cooker&#34;](https://img-global.cpcdn.com/recipes/1d1bd3e320520e3f/682x484cq65/nasi-uduk-betawi-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Betawi &#34;Rice Cooker&#34; ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus ibu coba dirumah
 

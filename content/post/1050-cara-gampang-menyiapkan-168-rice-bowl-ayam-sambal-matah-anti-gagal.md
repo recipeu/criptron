@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-26T11:05:46.166Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.png
 author: Catherine Freeman
 ratingvalue: 4.1
 reviewcount: 7
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![#168 Rice Bowl Ayam Sambal Matah](https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.webp)
+![#168 Rice Bowl Ayam Sambal Matah](https://img-global.cpcdn.com/recipes/5f7084c33c1cb6b1/682x484cq65/168-rice-bowl-ayam-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat #168 Rice Bowl Ayam Sambal Matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa ibu coba segera
 

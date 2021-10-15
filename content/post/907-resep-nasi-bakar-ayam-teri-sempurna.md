@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T18:26:10.352Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png
 author: Dustin Wade
 ratingvalue: 4.6
 reviewcount: 15
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam teri](https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.webp)
+![Nasi bakar ayam teri](https://img-global.cpcdn.com/recipes/d4b7b36f953bcf78/682x484cq65/nasi-bakar-ayam-teri-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ayam teri    dengan 5 langkahcepat yang wajib bunda coba dirumah
 

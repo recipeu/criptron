@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-03T15:28:37.338Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.png
 author: Pauline Hammond
 ratingvalue: 3.3
 reviewcount: 4
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi wangi (rice cooker)](https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.webp)
+![Nasi uduk betawi wangi (rice cooker)](https://img-global.cpcdn.com/recipes/c1ca569865d6733e/682x484cq65/nasi-uduk-betawi-wangi-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi uduk betawi wangi (rice cooker) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib kamu coba dirumah
 

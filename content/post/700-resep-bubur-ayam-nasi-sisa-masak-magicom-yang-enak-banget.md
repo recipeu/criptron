@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T06:30:44.829Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.png
 author: Adeline Soto
 ratingvalue: 4.3
 reviewcount: 11
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Bubur Ayam Nasi Sisa Masak Magicom](https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.webp)
+![Bubur Ayam Nasi Sisa Masak Magicom](https://img-global.cpcdn.com/recipes/6e3ff9be72bf3927/682x484cq65/bubur-ayam-nasi-sisa-masak-magicom-foto-resep-utama.png)
 
 Resep Bubur Ayam Nasi Sisa Masak Magicom  anti gagal dengan 4 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu teman
 

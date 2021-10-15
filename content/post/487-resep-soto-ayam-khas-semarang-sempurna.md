@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T11:12:39.028Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png
 author: Alex Mann
 ratingvalue: 3
 reviewcount: 7
@@ -77,7 +77,7 @@ recipecategory: Lunch
 ---
 
 
-![Soto Ayam Khas Semarang](https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.webp)
+![Soto Ayam Khas Semarang](https://img-global.cpcdn.com/recipes/d008cffee09c5e9c/682x484cq65/soto-ayam-khas-semarang-foto-resep-utama.png)
 
 3 langkah mudah memasak  Soto Ayam Khas Semarang cocok sekali jika digunakan untuk menjamu tamu
 

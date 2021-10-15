@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-05T22:05:52.304Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.png
 author: Ralph Parker
 ratingvalue: 3.7
 reviewcount: 15
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Tumis Teri Bandeng (untuk isi nasi bakar)](https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.webp)
+![Tumis Teri Bandeng (untuk isi nasi bakar)](https://img-global.cpcdn.com/recipes/bd88bd4f3efdd654/682x484cq65/tumis-teri-bandeng-untuk-isi-nasi-bakar-foto-resep-utama.png)
 
 Resep dan cara mengolah  Tumis Teri Bandeng (untuk isi nasi bakar) yang bisa bunda coba segera
 

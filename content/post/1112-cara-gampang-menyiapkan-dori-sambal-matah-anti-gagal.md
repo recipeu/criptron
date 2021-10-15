@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-04T12:42:41.694Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.png
 author: Winnie Farmer
 ratingvalue: 4.5
 reviewcount: 15
@@ -70,7 +70,7 @@ recipecategory: Lunch
 ---
 
 
-![Dori Sambal Matah](https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.webp)
+![Dori Sambal Matah](https://img-global.cpcdn.com/recipes/f37a67742461736d/682x484cq65/dori-sambal-matah-foto-resep-utama.png)
 
 9 langkah mudah dan cepat memasak  Dori Sambal Matah cocok sekali jika digunakan untuk menjamu tamu
 

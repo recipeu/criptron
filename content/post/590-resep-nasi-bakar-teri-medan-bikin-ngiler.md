@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T05:47:21.543Z 
-thumbnail: https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 author: Jeffrey McGuire
 ratingvalue: 3.7
 reviewcount: 12
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Teri Medan](https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp)
+![Nasi Bakar Teri Medan](https://img-global.cpcdn.com/recipes/de525fac05d86c1e/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Teri Medan  sederhana dengan 4 langkahcepat dan mudah yang musti ibu coba dirumah
 

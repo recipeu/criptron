@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T20:34:29.096Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.png
 author: Benjamin Porter
 ratingvalue: 3.2
 reviewcount: 5
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Biryani Praktis](https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.webp)
+![Nasi Biryani Praktis](https://img-global.cpcdn.com/recipes/cc855ff1144950f2/682x484cq65/nasi-biryani-praktis-foto-resep-utama.png)
 
 Resep rahasia Nasi Biryani Praktis  sederhana dengan 8 langkahcepat cocok banget jika digunakan untuk menjamu teman
 

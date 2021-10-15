@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-24T11:41:48.521Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.png
 author: Eva Montgomery
 ratingvalue: 4.9
 reviewcount: 3
@@ -58,7 +58,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk #RiceCooker](https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.webp)
+![Nasi Daun Jeruk #RiceCooker](https://img-global.cpcdn.com/recipes/7a673e26f793b43b/682x484cq65/nasi-daun-jeruk-ricecooker-foto-resep-utama.png)
 
 Resep rahasia Nasi Daun Jeruk #RiceCooker  enak dengan 3 langkahmudah dan cepat yang harus ibu coba segera
 

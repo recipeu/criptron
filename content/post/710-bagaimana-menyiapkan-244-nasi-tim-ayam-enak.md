@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-25T05:29:09.072Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.png
 author: Lucile Huff
 ratingvalue: 3.2
 reviewcount: 11
@@ -78,7 +78,7 @@ recipecategory: Dessert
 ---
 
 
-![244. Nasi Tim Ayam](https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.webp)
+![244. Nasi Tim Ayam](https://img-global.cpcdn.com/recipes/2b896b0f523be052/682x484cq65/244-nasi-tim-ayam-foto-resep-utama.png)
 
 5 langkah cepat membuat  244. Nasi Tim Ayam yang wajib ibu coba dirumah
 

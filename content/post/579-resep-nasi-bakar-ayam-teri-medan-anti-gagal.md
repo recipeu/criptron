@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-14T17:21:10.456Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
 author: Hulda Dennis
 ratingvalue: 3.6
 reviewcount: 11
@@ -84,7 +84,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam teri medan](https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp)
+![Nasi bakar ayam teri medan](https://img-global.cpcdn.com/recipes/a2fbc4595f7ec203/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png)
 
 Resep Nasi bakar ayam teri medan    dengan 13 langkahmudah yang bisa kamu coba dirumah
 

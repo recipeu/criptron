@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T04:13:56.985Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png
 author: Brett Gross
 ratingvalue: 3.8
 reviewcount: 9
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Teri Medan Pedas](https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp)
+![Nasi Goreng Teri Medan Pedas](https://img-global.cpcdn.com/recipes/1b0898b7806308a4/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png)
 
 2 langkah mudah mengolah  Nasi Goreng Teri Medan Pedas yang wajib bunda coba dirumah
 

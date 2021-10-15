@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T14:14:02.132Z 
-thumbnail: https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.png
 author: Catherine Reeves
 ratingvalue: 3
 reviewcount: 11
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi liwet teri medan pete](https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.webp)
+![Nasi liwet teri medan pete](https://img-global.cpcdn.com/recipes/72792898d22ddd8c/682x484cq65/nasi-liwet-teri-medan-pete-foto-resep-utama.png)
 
 Ingin membuat Nasi liwet teri medan pete ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

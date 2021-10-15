@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-20T12:06:13.816Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.png
 author: Harvey Chambers
 ratingvalue: 4.3
 reviewcount: 10
@@ -67,7 +67,7 @@ recipecategory: Lunch
 ---
 
 
-![Bubur ikan teri medan (mpasi1+)](https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.webp)
+![Bubur ikan teri medan (mpasi1+)](https://img-global.cpcdn.com/recipes/d580f1972b8cf3ee/682x484cq65/bubur-ikan-teri-medan-mpasi1-foto-resep-utama.png)
 
 Resep Bubur ikan teri medan (mpasi1+)    dengan 6 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

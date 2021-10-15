@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-16T16:47:04.729Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.png
 author: Amelia Reeves
 ratingvalue: 3.9
 reviewcount: 13
@@ -55,7 +55,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Liwet Ayam KFC](https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.webp)
+![Nasi Liwet Ayam KFC](https://img-global.cpcdn.com/recipes/0e995da14b7ba8a1/682x484cq65/nasi-liwet-ayam-kfc-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Liwet Ayam KFC yang bisa ibu coba segera
 
@@ -75,7 +75,7 @@ Resep dan cara memasak  Nasi Liwet Ayam KFC yang bisa ibu coba segera
 ## Tata Cara Menyiapkan Nasi Liwet Ayam KFC:
 
 1. Cuci beras, masukin ke panci rice cooker dengan air. Tambahin ayam kfc sama kecap asin, masak sampai matang. Aku tambahin sedikit mix vegetables, biar agak cantip 🌈
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/62b62151a95647c7/160x128cq70/nasi-liwet-ayam-kfc-langkah-memasak-1-foto.webp" alt="Nasi Liwet Ayam KFC" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/62b62151a95647c7/160x128cq70/nasi-liwet-ayam-kfc-langkah-memasak-1-foto.png" alt="Nasi Liwet Ayam KFC" width="340" height="340">
 >1. Kalo udah mateng, bejek-bejek ayamnya dan ambil tulangnya. Dah
 
 

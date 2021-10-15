@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T07:33:23.615Z 
-thumbnail: https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.png
 author: Estelle Holloway
 ratingvalue: 4
 reviewcount: 13
@@ -94,7 +94,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Semur Jengkol Nasi Uduknye Betawi](https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.webp)
+![Nasi Uduk Semur Jengkol Nasi Uduknye Betawi](https://img-global.cpcdn.com/recipes/15dc763e3bf28c12/682x484cq65/nasi-uduk-semur-jengkol-nasi-uduknye-betawi-foto-resep-utama.png)
 
 5 langkah mudah dan cepat membuat  Nasi Uduk Semur Jengkol Nasi Uduknye Betawi cocok sekali jika digunakan untuk menjamu teman
 

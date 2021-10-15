@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T23:35:01.903Z 
-thumbnail: https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.png
 author: Clifford McDaniel
 ratingvalue: 3.1
 reviewcount: 12
@@ -74,7 +74,7 @@ recipecategory: Lunch
 ---
 
 
-![MPASI 8m+ : Nasi Lembek Uduk Udang Saus Mentega](https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.webp)
+![MPASI 8m+ : Nasi Lembek Uduk Udang Saus Mentega](https://img-global.cpcdn.com/recipes/347bec065f58f361/682x484cq65/mpasi-8m-nasi-lembek-uduk-udang-saus-mentega-foto-resep-utama.png)
 
 8 langkah cepat dan mudah memasak  MPASI 8m+ : Nasi Lembek Uduk Udang Saus Mentega yang harus ibu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-08T21:16:38.515Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.png
 author: Calvin Garza
 ratingvalue: 4.2
 reviewcount: 8
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Daun Jeruk Ricecooker ala #buayu](https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.webp)
+![Nasi Daun Jeruk Ricecooker ala #buayu](https://img-global.cpcdn.com/recipes/7d81cb0e433ecc70/682x484cq65/nasi-daun-jeruk-ricecooker-ala-buayu-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Daun Jeruk Ricecooker ala #buayu yang harus ibu coba dirumah
 

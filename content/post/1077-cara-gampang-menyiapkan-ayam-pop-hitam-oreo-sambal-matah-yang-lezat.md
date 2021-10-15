@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-02T03:19:18.768Z 
-thumbnail: https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.png
 author: Victoria Collier
 ratingvalue: 3.3
 reviewcount: 5
@@ -81,7 +81,7 @@ recipecategory: Dessert
 ---
 
 
-![Ayam Pop Hitam Oreo Sambal Matah](https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.webp)
+![Ayam Pop Hitam Oreo Sambal Matah](https://img-global.cpcdn.com/recipes/37d62581eadc71bd/682x484cq65/ayam-pop-hitam-oreo-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Ayam Pop Hitam Oreo Sambal Matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang harus bunda coba dirumah
 

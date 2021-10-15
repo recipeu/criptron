@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T11:18:27.545Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.png
 author: Cornelia Todd
 ratingvalue: 4.6
 reviewcount: 6
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi tim + Tum/pepes Tahu Keju. MpAsi 11bulan](https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.webp)
+![Nasi tim + Tum/pepes Tahu Keju. MpAsi 11bulan](https://img-global.cpcdn.com/recipes/7c165ce2ccd5bb36/682x484cq65/nasi-tim-tumpepes-tahu-keju-mpasi-11bulan-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi tim + Tum/pepes Tahu Keju. MpAsi 11bulan yang wajib kamu coba dirumah
 

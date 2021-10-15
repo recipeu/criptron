@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-30T01:41:39.618Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: Eric Schmidt
 ratingvalue: 3.3
 reviewcount: 8
@@ -55,7 +55,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/8e5d9d11624701f6/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 Resep Nasi Daun Jeruk  enak dengan 1 langkahmudah dan cepat yang bisa ibu coba segera
 

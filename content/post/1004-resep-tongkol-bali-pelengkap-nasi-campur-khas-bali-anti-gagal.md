@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T16:44:12.628Z 
-thumbnail: https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.png
 author: Mattie Schmidt
 ratingvalue: 4.7
 reviewcount: 13
@@ -80,7 +80,7 @@ recipecategory: Dessert
 ---
 
 
-![Tongkol Bali (Pelengkap Nasi Campur Khas Bali)](https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.webp)
+![Tongkol Bali (Pelengkap Nasi Campur Khas Bali)](https://img-global.cpcdn.com/recipes/68e97cd3ca11cb2f/682x484cq65/tongkol-bali-pelengkap-nasi-campur-khas-bali-foto-resep-utama.png)
 
 Resep Tongkol Bali (Pelengkap Nasi Campur Khas Bali)    dengan 6 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

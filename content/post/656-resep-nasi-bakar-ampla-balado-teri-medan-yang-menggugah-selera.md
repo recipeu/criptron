@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-21T04:10:23.841Z 
-thumbnail: https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.png
 author: Peter Wong
 ratingvalue: 4.5
 reviewcount: 11
@@ -74,7 +74,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar (ampla balado + teri medan)](https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.webp)
+![Nasi Bakar (ampla balado + teri medan)](https://img-global.cpcdn.com/recipes/72f7a6a3b36b8eda/682x484cq65/nasi-bakar-ampla-balado-teri-medan-foto-resep-utama.png)
 
 6 langkah mudah dan cepat memasak  Nasi Bakar (ampla balado + teri medan) yang bisa bunda coba segera
 

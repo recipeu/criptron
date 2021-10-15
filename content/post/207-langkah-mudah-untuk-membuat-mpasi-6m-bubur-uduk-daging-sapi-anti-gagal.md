@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-25T06:25:24.835Z 
-thumbnail: https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.png
 author: Mayme Baldwin
 ratingvalue: 4.6
 reviewcount: 4
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![Mpasi 6m+ Bubur uduk daging sapi](https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.webp)
+![Mpasi 6m+ Bubur uduk daging sapi](https://img-global.cpcdn.com/recipes/aed3ff4800915081/682x484cq65/mpasi-6m-bubur-uduk-daging-sapi-foto-resep-utama.png)
 
 Resep rahasia Mpasi 6m+ Bubur uduk daging sapi  sederhana dengan 5 langkahmudah dan cepat yang wajib kamu coba dirumah
 

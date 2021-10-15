@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T20:54:13.766Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.png
 author: Mark Flowers
 ratingvalue: 5
 reviewcount: 6
@@ -65,7 +65,7 @@ recipecategory: Dessert
 ---
 
 
-![MPASI Triple ProHe: Ikan Teri Medan, Ayam, Telur Ayam Kampung](https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.webp)
+![MPASI Triple ProHe: Ikan Teri Medan, Ayam, Telur Ayam Kampung](https://img-global.cpcdn.com/recipes/f580308177d0d5dc/682x484cq65/mpasi-triple-prohe-ikan-teri-medan-ayam-telur-ayam-kampung-foto-resep-utama.png)
 
 6 langkah mudah memasak  MPASI Triple ProHe: Ikan Teri Medan, Ayam, Telur Ayam Kampung yang musti ibu coba dirumah
 

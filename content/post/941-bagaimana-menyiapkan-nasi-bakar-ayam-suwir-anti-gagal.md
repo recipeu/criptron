@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-14T09:19:59.011Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 author: Lou Cooper
 ratingvalue: 3.4
 reviewcount: 3
@@ -76,7 +76,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp)
+![Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/bd2b650bcd77863b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png)
 
 9 langkah mudah membuat  Nasi bakar ayam suwir cocok banget jika digunakan untuk menjamu tamu
 

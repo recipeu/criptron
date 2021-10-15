@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T16:34:52.158Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.png
 author: Viola Campbell
 ratingvalue: 3.3
 reviewcount: 9
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Rice bowl: ikan sambal matah dengan telur mata sapi](https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.webp)
+![Rice bowl: ikan sambal matah dengan telur mata sapi](https://img-global.cpcdn.com/recipes/2d9017c9eeace3e1/682x484cq65/rice-bowl-ikan-sambal-matah-dengan-telur-mata-sapi-foto-resep-utama.png)
 
 Ingin membuat Rice bowl: ikan sambal matah dengan telur mata sapi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

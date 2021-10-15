@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-18T15:09:09.632Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.png
 author: Jim Rios
 ratingvalue: 3.2
 reviewcount: 12
@@ -82,7 +82,7 @@ recipecategory: Dinner
 ---
 
 
-![Rice Bowl Ayam Geprek Sambal Matah](https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.webp)
+![Rice Bowl Ayam Geprek Sambal Matah](https://img-global.cpcdn.com/recipes/ad3f2a9632438e86/682x484cq65/rice-bowl-ayam-geprek-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Rice Bowl Ayam Geprek Sambal Matah    dengan 10 langkahcepat cocok sekali jika digunakan untuk menjamu tamu
 

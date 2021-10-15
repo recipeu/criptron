@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T00:28:29.672Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.png
 author: Frederick Clark
 ratingvalue: 3.9
 reviewcount: 12
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi goreng pattaya (นาซีโกเร็ง พัทยา)](https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.webp)
+![Nasi goreng pattaya (นาซีโกเร็ง พัทยา)](https://img-global.cpcdn.com/recipes/3615e858fafd5bfb/682x484cq65/nasi-goreng-pattaya-นาซโกเรง-พทยา-foto-resep-utama.png)
 
 Resep rahasia Nasi goreng pattaya (นาซีโกเร็ง พัทยา)  enak dengan 7 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

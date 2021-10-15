@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-26T06:08:58.101Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.png
 author: Elmer Bryant
 ratingvalue: 5
 reviewcount: 15
@@ -57,7 +57,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)](https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.webp)
+![Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)](https://img-global.cpcdn.com/recipes/6b9b9594ccbf5781/682x484cq65/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-foto-resep-utama.png)
 
 Resep rahasia Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)  sederhana dengan 4 langkahmudah yang wajib ibu coba segera
 
@@ -77,14 +77,14 @@ Resep rahasia Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)  sederhan
 ## Cara Membuat Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com):
 
 1. Cincang halus bawang putih dan iris memanjang daun jeruk. (TIPS: buang tulang daun jeruk agar tidak pahit)
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/69c89b7406ca0790/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-1-foto.webp" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/69c89b7406ca0790/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-1-foto.png" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
 >1. Panaskan wajan. Tumis sebentar bawang putih kemudian masukkan daun jeruk. (TIPS: gunakan api kecil, jangan sampai bawang putih gosong).
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/6d046db3c26dc563/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-2-foto.webp" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/aebd82c4194ef57a/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-2-foto.webp" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/6d046db3c26dc563/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-2-foto.png" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/aebd82c4194ef57a/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-2-foto.png" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
 >1. Matikan api kompor. Masukkan nasi putih. Tambahkan sedikit saja garam, secukupnya kaldu bubuk jika berkenan. Aduk merata.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/d4328e7a75d13d03/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/d4328e7a75d13d03/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
 >1. Nasi Daun Jeruk siap disajikan dengan lauk kesukaan anda 😄👍🏻
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ff4f27f44f5ec30b/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-4-foto.webp" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ff4f27f44f5ec30b/160x128cq70/nasi-daun-jeruk-sederhana-tanpa-santan-tanpa-magic-com-langkah-memasak-4-foto.png" alt="Nasi Daun Jeruk Sederhana (Tanpa Santan Tanpa Magic com)" width="340" height="340">
 >
 
 

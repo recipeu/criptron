@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T21:15:26.564Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png
 author: Alice Adams
 ratingvalue: 3.2
 reviewcount: 8
@@ -102,7 +102,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Ayam Hainan Singapore| Versi Komplit dengan Ricecooker](https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp)
+![Nasi Ayam Hainan Singapore| Versi Komplit dengan Ricecooker](https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Ayam Hainan Singapore| Versi Komplit dengan Ricecooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

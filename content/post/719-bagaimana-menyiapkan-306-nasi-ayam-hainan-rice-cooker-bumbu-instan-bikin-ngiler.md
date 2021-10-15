@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-20T10:29:35.687Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.png
 author: Hulda Stone
 ratingvalue: 3.8
 reviewcount: 13
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![306. Nasi Ayam Hainan Rice Cooker Bumbu Instan](https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.webp)
+![306. Nasi Ayam Hainan Rice Cooker Bumbu Instan](https://img-global.cpcdn.com/recipes/4ae634f568c99ac3/682x484cq65/306-nasi-ayam-hainan-rice-cooker-bumbu-instan-foto-resep-utama.png)
 
 7 langkah mudah dan cepat mengolah  306. Nasi Ayam Hainan Rice Cooker Bumbu Instan cocok sekali jika digunakan untuk menjamu tamu
 

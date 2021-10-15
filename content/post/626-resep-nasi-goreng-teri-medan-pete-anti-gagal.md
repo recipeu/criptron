@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-16T03:28:05.359Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.png
 author: Jared Hogan
 ratingvalue: 5
 reviewcount: 11
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Teri Medan Pete](https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.webp)
+![Nasi Goreng Teri Medan Pete](https://img-global.cpcdn.com/recipes/4ac8e6df95765c66/682x484cq65/nasi-goreng-teri-medan-pete-foto-resep-utama.png)
 
 Resep Nasi Goreng Teri Medan Pete  sederhana dengan 7 langkahmudah dan cepat yang harus kamu coba segera
 

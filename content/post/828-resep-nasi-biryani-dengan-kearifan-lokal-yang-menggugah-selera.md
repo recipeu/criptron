@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-26T13:55:47.785Z 
-thumbnail: https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.png
 author: Susie Mack
 ratingvalue: 3.7
 reviewcount: 11
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Biryani dengan kearifan lokal 🙈😂](https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.webp)
+![Nasi Biryani dengan kearifan lokal 🙈😂](https://img-global.cpcdn.com/recipes/643b6c93f0d0a541/682x484cq65/nasi-biryani-dengan-kearifan-lokal-foto-resep-utama.png)
 
 6 langkah mudah memasak  Nasi Biryani dengan kearifan lokal 🙈😂 yang musti bunda coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-14T11:44:06.794Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.png
 author: Lola Willis
 ratingvalue: 4.4
 reviewcount: 8
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Sate Lilit Ikan Tenggiri - Part Nasi Campur Bali](https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.webp)
+![Sate Lilit Ikan Tenggiri - Part Nasi Campur Bali](https://img-global.cpcdn.com/recipes/fd0de7f4fa7d8ad9/682x484cq65/sate-lilit-ikan-tenggiri-part-nasi-campur-bali-foto-resep-utama.png)
 
 3 langkah cepat mengolah  Sate Lilit Ikan Tenggiri - Part Nasi Campur Bali cocok sekali jika digunakan untuk menjamu teman
 

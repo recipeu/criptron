@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T21:52:08.426Z 
-thumbnail: https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png
 author: Estelle McCormick
 ratingvalue: 4.5
 reviewcount: 6
@@ -59,7 +59,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi daun jeruk magicom](https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.webp)
+![Nasi daun jeruk magicom](https://img-global.cpcdn.com/recipes/023bab23cf861e8f/682x484cq65/nasi-daun-jeruk-magicom-foto-resep-utama.png)
 
 Ingin membuat Nasi daun jeruk magicom ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti kamu coba segera
 

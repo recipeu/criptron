@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-05T17:01:43.514Z 
-thumbnail: https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png
 author: Hattie Turner
 ratingvalue: 4.6
 reviewcount: 7
@@ -33,10 +33,10 @@ recipeingredient:
 - "garam 1 sd 15 sdt Secukupnya"
 - "minyak untuk menumis bumbu 2 sdm"
 - "Pelengkap  "
-- "Ayam suwir mercon           lihat resep "
-- "Sate puyuh bacem           lihat resep "
-- "Sambal goreng kentang tahu           lihat resep "
-- "Sambal petir pete           lihat resep "
+- "Ayam suwir mercon   . "
+- "Sate puyuh bacem   . "
+- "Sambal goreng kentang tahu   . "
+- "Sambal petir pete   . "
 - "Kerupuk "
 recipeinstructions:
 - "Cuci bersih beras."
@@ -77,7 +77,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi liwet ricecooker](https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.webp)
+![Nasi liwet ricecooker](https://img-global.cpcdn.com/recipes/80dafe0354b22344/682x484cq65/nasi-liwet-ricecooker-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi liwet ricecooker cocok banget jika digunakan untuk menjamu tamu
 
@@ -102,10 +102,10 @@ Resep rahasia dan cara memasak  Nasi liwet ricecooker cocok banget jika digunaka
 1. garam 1 sd 15 sdt Secukupnya
 1. minyak untuk menumis bumbu 2 sdm
 1. Pelengkap  
-1. Ayam suwir mercon           lihat resep 
-1. Sate puyuh bacem           lihat resep 
-1. Sambal goreng kentang tahu           lihat resep 
-1. Sambal petir pete           lihat resep 
+1. Ayam suwir mercon   . 
+1. Sate puyuh bacem   . 
+1. Sambal goreng kentang tahu   . 
+1. Sambal petir pete   . 
 1. Kerupuk 
 
 Nasi Liwet Sunda is one of my favorite rice dishes. There are many rice dishes in Indonesia that use coconut milk and spices and they This nasi liwet Sunda can be made on stove-top, rice cooker or instant pot. My favorite ways are rice cooker and instant pot. Nasi liwet identik dengan aroma yang wangi dan tekstur yang pulen. 

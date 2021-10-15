@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-30T04:52:41.783Z 
-thumbnail: https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 author: Rosa Blake
 ratingvalue: 5
 reviewcount: 12
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Khas Betawi](https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp)
+![Nasi Uduk Khas Betawi](https://img-global.cpcdn.com/recipes/924d9ee74a9ad941/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png)
 
 5 langkah cepat mengolah  Nasi Uduk Khas Betawi cocok banget jika digunakan untuk menjamu tamu
 

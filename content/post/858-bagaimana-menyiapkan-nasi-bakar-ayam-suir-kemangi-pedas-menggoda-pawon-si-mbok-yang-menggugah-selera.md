@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T11:59:20.579Z 
-thumbnail: https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.png
 author: Jeffrey Fitzgerald
 ratingvalue: 4.6
 reviewcount: 14
@@ -81,7 +81,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam suir kemangi pedas menggoda pawon si mbok](https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.webp)
+![Nasi bakar ayam suir kemangi pedas menggoda pawon si mbok](https://img-global.cpcdn.com/recipes/41d94a73c3b9f059/682x484cq65/nasi-bakar-ayam-suir-kemangi-pedas-menggoda-pawon-si-mbok-foto-resep-utama.png)
 
 Resep Nasi bakar ayam suir kemangi pedas menggoda pawon si mbok    dengan 7 langkahcepat cocok banget jika digunakan untuk menjamu tamu
 

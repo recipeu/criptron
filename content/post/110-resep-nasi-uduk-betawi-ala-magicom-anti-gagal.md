@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-09T15:17:10.088Z 
-thumbnail: https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.png
 author: Inez Nichols
 ratingvalue: 3.7
 reviewcount: 15
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk betawi ala magicom](https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.webp)
+![Nasi uduk betawi ala magicom](https://img-global.cpcdn.com/recipes/120180c5302828a5/682x484cq65/nasi-uduk-betawi-ala-magicom-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi uduk betawi ala magicom yang wajib ibu coba segera
 

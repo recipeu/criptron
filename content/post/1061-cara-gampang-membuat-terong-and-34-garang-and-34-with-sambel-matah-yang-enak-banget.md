@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T06:22:12.293Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.png
 author: Allie Pope
 ratingvalue: 4.5
 reviewcount: 5
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Terong &#34;Garang&#34; with Sambel Matah](https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.webp)
+![Terong &#34;Garang&#34; with Sambel Matah](https://img-global.cpcdn.com/recipes/0f552af1b10be0f3/682x484cq65/terong-garang-with-sambel-matah-foto-resep-utama.png)
 
 Resep Terong &#34;Garang&#34; with Sambel Matah  anti gagal dengan 5 langkahmudah cocok banget jika digunakan untuk menjamu tamu
 

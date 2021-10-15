@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T13:32:04.728Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.png
 author: Minerva Howell
 ratingvalue: 3.5
 reviewcount: 13
@@ -57,7 +57,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk](https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.webp)
+![Nasi Uduk](https://img-global.cpcdn.com/recipes/f25e62bca6594253/682x484cq65/nasi-uduk-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus bunda coba segera
 
@@ -79,10 +79,10 @@ Ingin membuat Nasi Uduk ? Coba resep berikut ini. Cara memasaknya sangat praktis
 ## Tata Cara Menyiapkan Nasi Uduk:
 
 1. Cuci bersih sampai bersih. Kemudian tarok serai, daun heruk, daun salam, dan garam.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7362005db8b21391/160x128cq70/nasi-uduk-langkah-memasak-1-foto.webp" alt="Nasi Uduk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7362005db8b21391/160x128cq70/nasi-uduk-langkah-memasak-1-foto.png" alt="Nasi Uduk" width="340" height="340">
 >1. Kemudian tambahkan santan kedalamnya sebanyak ketika kita memasak nasi.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/1a4e282220c8213b/160x128cq70/nasi-uduk-langkah-memasak-2-foto.webp" alt="Nasi Uduk" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c8aab3fa042b79f2/160x128cq70/nasi-uduk-langkah-memasak-2-foto.webp" alt="Nasi Uduk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/1a4e282220c8213b/160x128cq70/nasi-uduk-langkah-memasak-2-foto.png" alt="Nasi Uduk" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c8aab3fa042b79f2/160x128cq70/nasi-uduk-langkah-memasak-2-foto.png" alt="Nasi Uduk" width="340" height="340">
 >1. Masukkan kedalam ricecooker. Ketika mendidih, aduk nasi hingga merata. Tunggu hingga matang kemudian sajikan dengan pelengkap lainnya.
 
 

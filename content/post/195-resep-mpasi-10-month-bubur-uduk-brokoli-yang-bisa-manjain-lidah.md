@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-09T13:06:50.524Z 
-thumbnail: https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.png
 author: Janie Carpenter
 ratingvalue: 4.3
 reviewcount: 3
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![MPASI 10 Month : bubur uduk brokoli](https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.webp)
+![MPASI 10 Month : bubur uduk brokoli](https://img-global.cpcdn.com/recipes/570d29ba3b539a25/682x484cq65/mpasi-10-month-bubur-uduk-brokoli-foto-resep-utama.png)
 
 7 langkah cepat dan mudah memasak  MPASI 10 Month : bubur uduk brokoli cocok banget jika digunakan untuk menjamu teman
 

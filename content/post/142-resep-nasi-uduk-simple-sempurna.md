@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-14T10:20:20.165Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.png
 author: Eunice Hopkins
 ratingvalue: 4.6
 reviewcount: 12
@@ -56,7 +56,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Simple](https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.webp)
+![Nasi Uduk Simple](https://img-global.cpcdn.com/recipes/4bf557fe35d3f3a7/682x484cq65/nasi-uduk-simple-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Simple  sederhana dengan 1 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

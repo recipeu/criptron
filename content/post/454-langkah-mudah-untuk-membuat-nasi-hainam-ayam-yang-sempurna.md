@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T04:28:54.708Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.png
 author: Lester Miles
 ratingvalue: 4.1
 reviewcount: 6
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi hainam ayam](https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.webp)
+![Nasi hainam ayam](https://img-global.cpcdn.com/recipes/3f0ed26886e9b170/682x484cq65/nasi-hainam-ayam-foto-resep-utama.png)
 
 Ingin membuat Nasi hainam ayam ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

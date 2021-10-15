@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T00:18:26.597Z 
-thumbnail: https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.png
 author: Flora Brewer
 ratingvalue: 4.8
 reviewcount: 6
@@ -43,7 +43,7 @@ recipeinstructions:
 - "Siap kan minyak banyak agar seluruh ayam terendam, panaskan minyak lalu goreng hingga ayam kuning keemasan."
 - "Angkat dan tiriskan, terakhir goreng terpisah daun kari koja lalu taburi diatas ayam goreng berempah."
 - "Siap untuk disajikan dan dihidangkan dengan nasi hangat. SELAMAT MENCOBA"
-- ""
+. 
 categories:
 - Resep
 tags:
@@ -76,7 +76,7 @@ recipecategory: Dessert
 ---
 
 
-![Ayam goreng berempah malaysia](https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.webp)
+![Ayam goreng berempah malaysia](https://img-global.cpcdn.com/recipes/33e3fbdb3dbaa91f/682x484cq65/ayam-goreng-berempah-malaysia-foto-resep-utama.png)
 
 6 langkah mudah dan cepat memasak  Ayam goreng berempah malaysia cocok sekali jika digunakan untuk menjamu tamu
 

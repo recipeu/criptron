@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T00:14:54.498Z 
-thumbnail: https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 author: Cordelia Walker
 ratingvalue: 3
 reviewcount: 9
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp)
+![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/39c3956ac09e6049/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png)
 
 Resep rahasia Nasi Ayam Hainan  sederhana dengan 8 langkahmudah cocok sekali jika digunakan untuk menjamu teman
 

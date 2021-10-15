@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-01T06:27:13.847Z 
-thumbnail: https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.png
 author: Kathryn Moss
 ratingvalue: 4.3
 reviewcount: 4
@@ -74,7 +74,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Jambal Teri Medan](https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.webp)
+![Nasi Bakar Jambal Teri Medan](https://img-global.cpcdn.com/recipes/28e5bd31fc3fbaad/682x484cq65/nasi-bakar-jambal-teri-medan-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Jambal Teri Medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti bunda coba segera
 

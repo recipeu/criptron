@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-27T18:20:41.744Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.png
 author: Stella Manning
 ratingvalue: 4.5
 reviewcount: 14
@@ -76,7 +76,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Liwet Teri Medan Magicom](https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.webp)
+![Nasi Liwet Teri Medan Magicom](https://img-global.cpcdn.com/recipes/3f9998d0532b528d/682x484cq65/nasi-liwet-teri-medan-magicom-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Liwet Teri Medan Magicom cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T13:06:50.491Z 
-thumbnail: https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.png
 author: Harriet Kelley
 ratingvalue: 3.1
 reviewcount: 9
@@ -76,7 +76,7 @@ recipecategory: Dinner
 ---
 
 
-![Resep Tahu Pong Isi Sayur Mercon Goreng Krispy](https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.webp)
+![Resep Tahu Pong Isi Sayur Mercon Goreng Krispy](https://img-global.cpcdn.com/recipes/a2c4636031302e52/682x484cq65/resep-tahu-pong-isi-sayur-mercon-goreng-krispy-foto-resep-utama.png)
 
 Ingin membuat Resep Tahu Pong Isi Sayur Mercon Goreng Krispy ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

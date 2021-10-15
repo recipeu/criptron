@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T19:30:20.182Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.png
 author: Thomas Wells
 ratingvalue: 4.2
 reviewcount: 10
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Bihun goreng kol yg kayak di nasi uduk](https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.webp)
+![Bihun goreng kol yg kayak di nasi uduk](https://img-global.cpcdn.com/recipes/e2ff0964c34e000e/682x484cq65/bihun-goreng-kol-yg-kayak-di-nasi-uduk-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Bihun goreng kol yg kayak di nasi uduk cocok sekali jika digunakan untuk menjamu teman
 

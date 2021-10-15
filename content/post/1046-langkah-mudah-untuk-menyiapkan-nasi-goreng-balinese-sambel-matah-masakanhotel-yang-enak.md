@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T15:26:13.489Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.png
 author: Stanley Bowers
 ratingvalue: 3.4
 reviewcount: 14
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng balinese sambel matah #MasakanHotel](https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.webp)
+![Nasi goreng balinese sambel matah #MasakanHotel](https://img-global.cpcdn.com/recipes/ceeef45fbfd3880b/682x484cq65/nasi-goreng-balinese-sambel-matah-masakanhotel-foto-resep-utama.png)
 
 Ingin membuat Nasi goreng balinese sambel matah #MasakanHotel ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-05T04:58:52.291Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.png
 author: Millie Sharp
 ratingvalue: 4.1
 reviewcount: 11
@@ -76,7 +76,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Urap Medan](https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.webp)
+![Nasi Urap Medan](https://img-global.cpcdn.com/recipes/b676e013a5959ea2/682x484cq65/nasi-urap-medan-foto-resep-utama.png)
 
 5 langkah mudah memasak  Nasi Urap Medan yang wajib ibu coba dirumah
 

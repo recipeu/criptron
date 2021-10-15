@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T01:03:28.733Z 
-thumbnail: https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.png
 author: Kyle Austin
 ratingvalue: 4.5
 reviewcount: 12
@@ -91,7 +91,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Hainam &amp; Ayam rebus](https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.webp)
+![Nasi Hainam &amp; Ayam rebus](https://img-global.cpcdn.com/recipes/426b4aaa7f9c25c5/682x484cq65/nasi-hainam-ayam-rebus-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Hainam &amp; Ayam rebus yang musti bunda coba segera
 

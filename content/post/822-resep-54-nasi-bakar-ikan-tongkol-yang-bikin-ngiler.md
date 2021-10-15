@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-03T06:44:31.995Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.png
 author: Georgia Steele
 ratingvalue: 3.2
 reviewcount: 10
@@ -79,7 +79,7 @@ recipecategory: Lunch
 ---
 
 
-![54. NASI BAKAR IKAN TONGKOL](https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.webp)
+![54. NASI BAKAR IKAN TONGKOL](https://img-global.cpcdn.com/recipes/5dd247baa0b05c1a/682x484cq65/54-nasi-bakar-ikan-tongkol-foto-resep-utama.png)
 
 Ingin membuat 54. NASI BAKAR IKAN TONGKOL ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti ibu coba dirumah
 

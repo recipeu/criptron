@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T13:53:07.861Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.png
 author: Eugenia Underwood
 ratingvalue: 3.3
 reviewcount: 4
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Ketan Bakar Isi Serundeng / Pulut Panggang](https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.webp)
+![Ketan Bakar Isi Serundeng / Pulut Panggang](https://img-global.cpcdn.com/recipes/d370c48138807610/682x484cq65/ketan-bakar-isi-serundeng-pulut-panggang-foto-resep-utama.png)
 
 Resep Ketan Bakar Isi Serundeng / Pulut Panggang  sederhana dengan 6 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

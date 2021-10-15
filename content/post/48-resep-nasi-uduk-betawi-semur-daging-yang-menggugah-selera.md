@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T05:49:08.282Z 
-thumbnail: https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.png
 author: Florence Reese
 ratingvalue: 5
 reviewcount: 6
@@ -78,7 +78,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk betawi semur daging](https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.webp)
+![Nasi uduk betawi semur daging](https://img-global.cpcdn.com/recipes/57d82d597c6fffb7/682x484cq65/nasi-uduk-betawi-semur-daging-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk betawi semur daging  sederhana dengan 5 langkahmudah dan cepat yang wajib ibu coba segera
 

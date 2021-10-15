@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-25T19:10:09.047Z 
-thumbnail: https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.png
 author: Bill Freeman
 ratingvalue: 4.3
 reviewcount: 4
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Kwetiau Goreng Medan cah liao](https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.webp)
+![Kwetiau Goreng Medan cah liao](https://img-global.cpcdn.com/recipes/93f16035e62973db/682x484cq65/kwetiau-goreng-medan-cah-liao-foto-resep-utama.png)
 
 5 langkah cepat membuat  Kwetiau Goreng Medan cah liao yang harus kamu coba dirumah
 

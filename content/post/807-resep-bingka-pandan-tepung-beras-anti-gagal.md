@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T05:26:03.088Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.png
 author: Eddie Frank
 ratingvalue: 4.3
 reviewcount: 8
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Bingka Pandan Tepung Beras](https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.webp)
+![Bingka Pandan Tepung Beras](https://img-global.cpcdn.com/recipes/8fc009eba999a605/682x484cq65/bingka-pandan-tepung-beras-foto-resep-utama.png)
 
 Resep dan cara memasak  Bingka Pandan Tepung Beras cocok sekali jika digunakan untuk menjamu tamu
 

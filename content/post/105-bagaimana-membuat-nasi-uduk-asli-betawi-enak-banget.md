@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-18T11:49:45.301Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.png
 author: Vera Fletcher
 ratingvalue: 3
 reviewcount: 9
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk (Asli Betawi)](https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.webp)
+![Nasi Uduk (Asli Betawi)](https://img-global.cpcdn.com/recipes/e05ac8bef8c39eb7/682x484cq65/nasi-uduk-asli-betawi-foto-resep-utama.png)
 
 3 langkah cepat membuat  Nasi Uduk (Asli Betawi) yang harus kamu coba segera
 

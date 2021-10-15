@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T03:35:03.600Z 
-thumbnail: https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png
 author: Grace Blair
 ratingvalue: 3.8
 reviewcount: 6
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi goreng teri medan](https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.webp)
+![Nasi goreng teri medan](https://img-global.cpcdn.com/recipes/11d6178696b77a99/682x484cq65/nasi-goreng-teri-medan-foto-resep-utama.png)
 
 Ingin membuat Nasi goreng teri medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

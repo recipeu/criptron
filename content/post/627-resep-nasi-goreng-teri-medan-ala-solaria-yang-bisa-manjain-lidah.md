@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T21:42:38.946Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.png
 author: Rosalie Palmer
 ratingvalue: 4.8
 reviewcount: 13
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Goreng Teri Medan ala Solaria](https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.webp)
+![Nasi Goreng Teri Medan ala Solaria](https://img-global.cpcdn.com/recipes/6e96c87f6c159b92/682x484cq65/nasi-goreng-teri-medan-ala-solaria-foto-resep-utama.png)
 
 Ingin membuat Nasi Goreng Teri Medan ala Solaria ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

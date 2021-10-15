@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T19:02:11.277Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.png
 author: Mildred Hart
 ratingvalue: 3.4
 reviewcount: 7
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi merah goreng teri medan](https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.webp)
+![Nasi merah goreng teri medan](https://img-global.cpcdn.com/recipes/f67a09198532c8c1/682x484cq65/nasi-merah-goreng-teri-medan-foto-resep-utama.png)
 
 4 langkah mudah membuat  Nasi merah goreng teri medan yang harus ibu coba dirumah
 

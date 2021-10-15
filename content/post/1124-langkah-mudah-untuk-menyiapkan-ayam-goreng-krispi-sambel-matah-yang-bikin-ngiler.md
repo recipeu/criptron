@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-03T10:36:31.241Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.png
 author: Paul Carson
 ratingvalue: 3.2
 reviewcount: 15
@@ -72,7 +72,7 @@ recipecategory: Dinner
 ---
 
 
-![Ayam goreng krispi sambel matah](https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.webp)
+![Ayam goreng krispi sambel matah](https://img-global.cpcdn.com/recipes/e54e8804b143e73c/682x484cq65/ayam-goreng-krispi-sambel-matah-foto-resep-utama.png)
 
 Resep dan cara memasak  Ayam goreng krispi sambel matah cocok banget jika digunakan untuk menjamu tamu
 

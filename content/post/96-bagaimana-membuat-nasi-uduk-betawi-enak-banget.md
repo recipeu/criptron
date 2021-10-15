@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T16:50:13.501Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Tillie Ross
 ratingvalue: 3.7
 reviewcount: 13
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk Betawi](https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk Betawi](https://img-global.cpcdn.com/recipes/2a9b9e3c9f8924c9/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Ingin membuat Nasi uduk Betawi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

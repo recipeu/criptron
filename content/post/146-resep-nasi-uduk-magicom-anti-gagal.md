@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T13:26:03.762Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png
 author: Gilbert Fleming
 ratingvalue: 4.8
 reviewcount: 8
@@ -58,7 +58,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Magicom](https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.webp)
+![Nasi Uduk Magicom](https://img-global.cpcdn.com/recipes/ce5bc4a49e7d275a/682x484cq65/nasi-uduk-magicom-foto-resep-utama.png)
 
 Resep Nasi Uduk Magicom    dengan 3 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu tamu
 
@@ -80,7 +80,7 @@ Resep NASI UDUK RICE COOKER Ala Ola Подробнее. Cara masak nasi uduk #ma
 ## Cara Mudah Menyiapkan Nasi Uduk Magicom:
 
 1. Bismilah, siapkan bahan lalu cuci bersih beras, daun, dan sereh,
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/9e521084955215e3/160x128cq70/nasi-uduk-magicom-langkah-memasak-1-foto.webp" alt="Nasi Uduk Magicom" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/9e521084955215e3/160x128cq70/nasi-uduk-magicom-langkah-memasak-1-foto.png" alt="Nasi Uduk Magicom" width="340" height="340">
 >1. Tuang ke panci sunqara, sereh, salam, GGP secukupnya dan Air secukupnya lalu masak di api sedang hingga mendidih aduk terus, cek rasa.
 1. Beras yg dicuci tidak usah tambahkan air, Masukan santan kedalam beras, saat panas dan masak tunggu hingga matang lalu aduk dan diamkan sebentar.
 

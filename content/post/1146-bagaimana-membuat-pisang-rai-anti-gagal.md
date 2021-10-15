@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T00:27:22.869Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.png
 author: Ina Andrews
 ratingvalue: 4
 reviewcount: 12
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Pisang rai](https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.webp)
+![Pisang rai](https://img-global.cpcdn.com/recipes/4d186bab38548abe/682x484cq65/pisang-rai-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Pisang rai yang bisa bunda coba dirumah
 

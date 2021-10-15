@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-24T06:56:30.485Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.png
 author: Bernard Nash
 ratingvalue: 4.1
 reviewcount: 15
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Rice Cooker Praktis](https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.webp)
+![Nasi Uduk Rice Cooker Praktis](https://img-global.cpcdn.com/recipes/c8d77150c6a2d8ea/682x484cq65/nasi-uduk-rice-cooker-praktis-foto-resep-utama.png)
 
 Resep Nasi Uduk Rice Cooker Praktis  sederhana dengan 4 langkahcepat dan mudah yang musti ibu coba segera
 

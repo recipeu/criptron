@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T08:00:46.957Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.png
 author: Lewis Henry
 ratingvalue: 4.2
 reviewcount: 11
@@ -88,7 +88,7 @@ recipecategory: Dinner
 ---
 
 
-![Soto Medan](https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.webp)
+![Soto Medan](https://img-global.cpcdn.com/recipes/e305b16ffe20069a/682x484cq65/soto-medan-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Soto Medan cocok banget jika digunakan untuk menjamu teman
 

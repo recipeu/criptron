@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T15:34:02.231Z 
-thumbnail: https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.png
 author: Helena Gutierrez
 ratingvalue: 4.9
 reviewcount: 10
@@ -42,7 +42,7 @@ recipeingredient:
 - "telur rebus 2 butir"
 - "Daun bawang dan seledri iris secukupnya "
 - "Tomat di potong2 "
-- "Perkedel kentang           lihat resep "
+- "Perkedel kentang   . "
 - "Kerupuk tempe dan udang "
 - "Jeruk nipis "
 - "Sambal "
@@ -88,7 +88,7 @@ recipecategory: Dinner
 ---
 
 
-![Soto Ayam Medan](https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.webp)
+![Soto Ayam Medan](https://img-global.cpcdn.com/recipes/aad0cde8b69b53a0/682x484cq65/soto-ayam-medan-foto-resep-utama.png)
 
 7 langkah mudah dan cepat memasak  Soto Ayam Medan yang harus bunda coba dirumah
 
@@ -122,7 +122,7 @@ recipecategory: Dinner
 1. telur rebus 2 butir
 1. Daun bawang dan seledri iris secukupnya 
 1. Tomat di potong2 
-1. Perkedel kentang           lihat resep 
+1. Perkedel kentang   . 
 1. Kerupuk tempe dan udang 
 1. Jeruk nipis 
 1. Sambal 

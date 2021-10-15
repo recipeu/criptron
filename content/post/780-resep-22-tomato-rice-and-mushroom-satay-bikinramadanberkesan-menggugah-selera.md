@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-21T07:16:00.376Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.png
 author: Clayton Castillo
 ratingvalue: 3.3
 reviewcount: 10
@@ -81,7 +81,7 @@ recipecategory: Dinner
 ---
 
 
-![22. Tomato Rice and Mushroom Satay #BikinRamadanBerkesan](https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.webp)
+![22. Tomato Rice and Mushroom Satay #BikinRamadanBerkesan](https://img-global.cpcdn.com/recipes/3a11d9eb525ca129/682x484cq65/22-tomato-rice-and-mushroom-satay-bikinramadanberkesan-foto-resep-utama.png)
 
 5 langkah cepat dan mudah mengolah  22. Tomato Rice and Mushroom Satay #BikinRamadanBerkesan yang wajib kamu coba segera
 

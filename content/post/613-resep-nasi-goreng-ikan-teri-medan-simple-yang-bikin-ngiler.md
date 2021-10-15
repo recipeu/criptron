@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-25T05:23:47.409Z 
-thumbnail: https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.png
 author: Nathaniel Gonzalez
 ratingvalue: 5
 reviewcount: 6
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Ikan Teri Medan simple](https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.webp)
+![Nasi Goreng Ikan Teri Medan simple](https://img-global.cpcdn.com/recipes/dc24eb5ba32fb376/682x484cq65/nasi-goreng-ikan-teri-medan-simple-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Goreng Ikan Teri Medan simple cocok banget jika digunakan untuk menjamu tamu
 

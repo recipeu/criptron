@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-16T14:37:48.489Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.png
 author: Christina Chambers
 ratingvalue: 4.4
 reviewcount: 14
@@ -21,7 +21,7 @@ recipeingredient:
 - "Ayam Goreng 1 potong"
 - "Kol Wortel Saos Tiram Tumis Sayur 4 sdm"
 - "Kerupuk "
-- "Bawang Goreng           lihat resep "
+- "Bawang Goreng   . "
 recipeinstructions:
 - "Masak dan siapkan nasi uduknya.           (lihat resep)"
 - "Siapkan Ayam Goreng           (lihat resep)"
@@ -60,7 +60,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Komplit Minimalis](https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.webp)
+![Nasi Uduk Komplit Minimalis](https://img-global.cpcdn.com/recipes/2d696e2d55b299ea/682x484cq65/nasi-uduk-komplit-minimalis-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Komplit Minimalis ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa kamu coba dirumah
 
@@ -73,7 +73,7 @@ Ingin membuat Nasi Uduk Komplit Minimalis ? Coba resep berikut ini. Cara memasak
 1. Ayam Goreng 1 potong
 1. Kol Wortel Saos Tiram Tumis Sayur 4 sdm
 1. Kerupuk 
-1. Bawang Goreng           lihat resep 
+1. Bawang Goreng   . 
 
 
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-19T04:34:05.800Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.png
 author: Harvey Huff
 ratingvalue: 4.6
 reviewcount: 14
@@ -87,7 +87,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar tuna ati ampela pedas komplit dan enaaak!!](https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.webp)
+![Nasi bakar tuna ati ampela pedas komplit dan enaaak!!](https://img-global.cpcdn.com/recipes/d24f15f322b39ec3/682x484cq65/nasi-bakar-tuna-ati-ampela-pedas-komplit-dan-enaaak-foto-resep-utama.png)
 
 Resep Nasi bakar tuna ati ampela pedas komplit dan enaaak!!  enak dengan 7 langkahmudah dan cepat yang harus ibu coba segera
 

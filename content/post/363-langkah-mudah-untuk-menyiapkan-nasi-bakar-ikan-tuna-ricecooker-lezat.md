@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-02T02:20:11.787Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.png
 author: Lillie Clark
 ratingvalue: 3.2
 reviewcount: 3
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ikan tuna (ricecooker)](https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.webp)
+![Nasi bakar ikan tuna (ricecooker)](https://img-global.cpcdn.com/recipes/3e532fa8b47b1250/682x484cq65/nasi-bakar-ikan-tuna-ricecooker-foto-resep-utama.png)
 
 6 langkah cepat dan mudah membuat  Nasi bakar ikan tuna (ricecooker) cocok banget jika digunakan untuk menjamu teman
 

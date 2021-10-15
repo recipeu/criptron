@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-25T18:17:49.484Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
 author: Evelyn Washington
 ratingvalue: 4.3
 reviewcount: 12
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk jakarta](https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp)
+![Nasi uduk jakarta](https://img-global.cpcdn.com/recipes/fe4689b834d654fa/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk jakarta  enak dengan 6 langkahmudah cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-14T08:34:32.131Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.png
 author: Roger Nash
 ratingvalue: 3.9
 reviewcount: 11
@@ -80,7 +80,7 @@ recipecategory: Dessert
 ---
 
 
-![Lumpiang / Lumpia Bali](https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.webp)
+![Lumpiang / Lumpia Bali](https://img-global.cpcdn.com/recipes/4d154b879166b133/682x484cq65/lumpiang-lumpia-bali-foto-resep-utama.png)
 
 Ingin membuat Lumpiang / Lumpia Bali ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

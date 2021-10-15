@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T00:05:01.876Z 
-thumbnail: https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.png
 author: Miguel Tucker
 ratingvalue: 4.4
 reviewcount: 7
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![70. Nasi Hainan &amp; Ayam Panggang](https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.webp)
+![70. Nasi Hainan &amp; Ayam Panggang](https://img-global.cpcdn.com/recipes/17acd27462000761/682x484cq65/70-nasi-hainan-ayam-panggang-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  70. Nasi Hainan &amp; Ayam Panggang yang musti ibu coba dirumah
 

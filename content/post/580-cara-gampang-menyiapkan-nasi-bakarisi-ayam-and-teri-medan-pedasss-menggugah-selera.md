@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T16:57:16.920Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.png
 author: Edith Paul
 ratingvalue: 4
 reviewcount: 8
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar(isi ayam and teri Medan pedasss)](https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.webp)
+![Nasi bakar(isi ayam and teri Medan pedasss)](https://img-global.cpcdn.com/recipes/3e76bf8710208138/682x484cq65/nasi-bakarisi-ayam-and-teri-medan-pedasss-foto-resep-utama.png)
 
 Resep Nasi bakar(isi ayam and teri Medan pedasss)    dengan 6 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

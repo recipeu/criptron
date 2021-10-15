@@ -7,16 +7,16 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T05:18:17.784Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 author: Richard Park
 ratingvalue: 3.3
 reviewcount: 7
 recipeingredient:
-- "Nasi uduk harumnasi biasa 1 cup           lihat resep "
+- "Nasi uduk harumnasi biasa 1 cup   . "
 - "daun kemangi 1 ikat"
 - "dada ayam 1/2"
 - "daun salam 1"
@@ -74,7 +74,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp)
+![Nasi bakar ayam suwir](https://img-global.cpcdn.com/recipes/8ebaa8eed939d53b/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi bakar ayam suwir yang wajib bunda coba segera
 
@@ -82,7 +82,7 @@ Resep rahasia dan cara memasak  Nasi bakar ayam suwir yang wajib bunda coba sege
 
 ## Bahan-bahan Yang Digunakan Dalam Menyiapkan Nasi bakar ayam suwir:
 
-1. Nasi uduk harumnasi biasa 1 cup           lihat resep 
+1. Nasi uduk harumnasi biasa 1 cup   . 
 1. daun kemangi 1 ikat
 1. dada ayam 1/2
 1. daun salam 1
@@ -111,14 +111,14 @@ Agar lebih spesial gunakan ayam kampung. Ini Resep mudah Membuat Nasi Bakar isi 
 
 1. Rebus dada ayam + daun salam + sejumput garam hingga matang. Angkat dan biarkan dingin kemudian disuwir-suwir, sisihkan.
 1. Tumis bumbu halus hingga harum, tambahkan semua bumbu lainnya, aduk rata.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/cf3145fcdfec0575/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-2-foto.webp" alt="Nasi bakar ayam suwir" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/293f2e3c3427d0fd/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-2-foto.webp" alt="Nasi bakar ayam suwir" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/cf3145fcdfec0575/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-2-foto.png" alt="Nasi bakar ayam suwir" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/293f2e3c3427d0fd/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-2-foto.png" alt="Nasi bakar ayam suwir" width="340" height="340">
 >1. Tambahkan ayam suwir, aduk rata hingga bumbu meresap. Angkat dan sisihkan.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c4754a68f4a3abc7/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-3-foto.webp" alt="Nasi bakar ayam suwir" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/a863ea9eefd382ec/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-3-foto.webp" alt="Nasi bakar ayam suwir" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c4754a68f4a3abc7/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-3-foto.png" alt="Nasi bakar ayam suwir" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/a863ea9eefd382ec/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-3-foto.png" alt="Nasi bakar ayam suwir" width="340" height="340">
 >1. Siapkan dua lembar daun pisang yang kecil di atas, masukkan nasi uduk secukupnya. Tambahkan ayam suwir di atasnya + kemangi di samping, bungkus sesuai selera.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ebc9d4f5c360c15f/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-4-foto.webp" alt="Nasi bakar ayam suwir" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/4f3f91abdd0376ef/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-4-foto.webp" alt="Nasi bakar ayam suwir" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ebc9d4f5c360c15f/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-4-foto.png" alt="Nasi bakar ayam suwir" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/4f3f91abdd0376ef/160x128cq70/nasi-bakar-ayam-suwir-langkah-memasak-4-foto.png" alt="Nasi bakar ayam suwir" width="340" height="340">
 >1. Panaskan kukusan, kukus nasi selama 30 menit. Angkat. Lalu bakar dgn teflon atau arang. Bolak² sampai daunnya kecoklatan.
 
 

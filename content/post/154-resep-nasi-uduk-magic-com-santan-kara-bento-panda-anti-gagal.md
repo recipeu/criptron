@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-19T09:16:26.773Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.png
 author: Mildred Love
 ratingvalue: 3.4
 reviewcount: 15
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi uduk Magic com santan kara (bento panda)](https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.webp)
+![Nasi uduk Magic com santan kara (bento panda)](https://img-global.cpcdn.com/recipes/e24842442e9d7697/682x484cq65/nasi-uduk-magic-com-santan-kara-bento-panda-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi uduk Magic com santan kara (bento panda) cocok banget jika digunakan untuk menjamu teman
 

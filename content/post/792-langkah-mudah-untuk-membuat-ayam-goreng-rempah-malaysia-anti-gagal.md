@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T23:18:58.825Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.png
 author: Clayton Carroll
 ratingvalue: 3.9
 reviewcount: 7
@@ -74,7 +74,7 @@ recipecategory: Lunch
 ---
 
 
-![Ayam Goreng Rempah Malaysia](https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.webp)
+![Ayam Goreng Rempah Malaysia](https://img-global.cpcdn.com/recipes/5c62d4141c4c0fca/682x484cq65/ayam-goreng-rempah-malaysia-foto-resep-utama.png)
 
 4 langkah mudah memasak  Ayam Goreng Rempah Malaysia yang wajib bunda coba dirumah
 

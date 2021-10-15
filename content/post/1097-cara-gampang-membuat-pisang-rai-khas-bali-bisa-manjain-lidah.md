@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T12:34:42.895Z 
-thumbnail: https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 author: David Cook
 ratingvalue: 3.1
 reviewcount: 6
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang Rai Khas Bali](https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp)
+![Pisang Rai Khas Bali](https://img-global.cpcdn.com/recipes/790e7d2f56d5e20e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png)
 
 Ingin membuat Pisang Rai Khas Bali ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang harus ibu coba dirumah
 

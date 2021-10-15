@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-04T09:47:39.163Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.png
 author: Antonio Williamson
 ratingvalue: 4
 reviewcount: 8
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar teri medan+ ayam + udang no pedas](https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.webp)
+![Nasi bakar teri medan+ ayam + udang no pedas](https://img-global.cpcdn.com/recipes/5d92817b05d69f56/682x484cq65/nasi-bakar-teri-medan-ayam-udang-no-pedas-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar teri medan+ ayam + udang no pedas  enak dengan 7 langkahcepat cocok sekali jika digunakan untuk menjamu teman
 

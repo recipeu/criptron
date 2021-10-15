@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-29T04:29:21.878Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.png
 author: Lola Hudson
 ratingvalue: 3
 reviewcount: 4
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Blacan Fried Chicken](https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.webp)
+![Blacan Fried Chicken](https://img-global.cpcdn.com/recipes/d5dc91037ac49808/682x484cq65/blacan-fried-chicken-foto-resep-utama.png)
 
 Ingin membuat Blacan Fried Chicken ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

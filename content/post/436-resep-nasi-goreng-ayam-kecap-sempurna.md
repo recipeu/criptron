@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T08:49:48.908Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.png
 author: Rhoda McKenzie
 ratingvalue: 3.6
 reviewcount: 9
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng ayam kecap](https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.webp)
+![Nasi goreng ayam kecap](https://img-global.cpcdn.com/recipes/1713b81e4ef35ace/682x484cq65/nasi-goreng-ayam-kecap-foto-resep-utama.png)
 
 Resep Nasi goreng ayam kecap  sederhana dengan 8 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu tamu
 

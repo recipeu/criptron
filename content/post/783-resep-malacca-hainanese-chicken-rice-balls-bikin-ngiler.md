@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-21T20:14:56.088Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.png
 author: Eugenia Frazier
 ratingvalue: 3.4
 reviewcount: 10
@@ -82,7 +82,7 @@ recipecategory: Lunch
 ---
 
 
-![Malacca Hainanese Chicken Rice Balls](https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.webp)
+![Malacca Hainanese Chicken Rice Balls](https://img-global.cpcdn.com/recipes/b06bef3a0d4fd154/682x484cq65/malacca-hainanese-chicken-rice-balls-foto-resep-utama.png)
 
 Ingin membuat Malacca Hainanese Chicken Rice Balls ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti ibu coba dirumah
 

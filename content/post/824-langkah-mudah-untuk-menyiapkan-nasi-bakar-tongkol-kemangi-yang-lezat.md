@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-21T15:59:41.398Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.png
 author: Dale Williamson
 ratingvalue: 3.3
 reviewcount: 9
@@ -22,7 +22,7 @@ recipeingredient:
 - "garam 1/2 sdm"
 - "serai 1 batang"
 - "daun salam 3 lembar"
-- "suwir kemangi secukupnya           lihat resep Tongkol"
+- "suwir kemangi secukupnya   . Tongkol"
 - "daun kemangi dan cabe rawit sebagai tambahan "
 - "daun pisang untuk membungkus secukupnya"
 - "gigi untuk menyemat secukupnya tusuk"
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Tongkol Kemangi](https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Tongkol Kemangi](https://img-global.cpcdn.com/recipes/8b2b2892ae85f53a/682x484cq65/nasi-bakar-tongkol-kemangi-foto-resep-utama.png)
 
 6 langkah mudah mengolah  Nasi Bakar Tongkol Kemangi cocok sekali jika digunakan untuk menjamu teman
 
@@ -79,7 +79,7 @@ recipecategory: Lunch
 1. garam 1/2 sdm
 1. serai 1 batang
 1. daun salam 3 lembar
-1. suwir kemangi secukupnya           lihat resep Tongkol
+1. suwir kemangi secukupnya   . Tongkol
 1. daun kemangi dan cabe rawit sebagai tambahan 
 1. daun pisang untuk membungkus secukupnya
 1. gigi untuk menyemat secukupnya tusuk

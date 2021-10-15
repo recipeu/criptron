@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T09:59:47.243Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.png
 author: Ida Page
 ratingvalue: 4.9
 reviewcount: 6
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar telur asin](https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.webp)
+![Nasi bakar telur asin](https://img-global.cpcdn.com/recipes/bb849cff78154112/682x484cq65/nasi-bakar-telur-asin-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi bakar telur asin cocok banget jika digunakan untuk menjamu tamu
 

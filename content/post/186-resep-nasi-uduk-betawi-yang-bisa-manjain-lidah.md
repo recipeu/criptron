@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-30T23:43:05.146Z 
-thumbnail: https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Ina Hayes
 ratingvalue: 4.8
 reviewcount: 12
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/262e7b5e553f0715/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Betawi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang wajib ibu coba dirumah
 
@@ -93,11 +93,11 @@ Ingin membuat Nasi Uduk Betawi ? Coba resep berikut ini. Cara memasaknya sangat 
 ## Langkah-langkah Untuk Membuat Nasi Uduk Betawi:
 
 1. Kukus beras selama kurang lebih 20 menit, angkat, sisihkan
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c19663cd0f81d99e/160x128cq70/nasi-uduk-betawi-langkah-memasak-1-foto.webp" alt="Nasi Uduk Betawi" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c19663cd0f81d99e/160x128cq70/nasi-uduk-betawi-langkah-memasak-1-foto.png" alt="Nasi Uduk Betawi" width="340" height="340">
 >1. Masak santan bersama bahan lain dan garam hingga mendidih, matikan api
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7eacab02761da351/160x128cq70/nasi-uduk-betawi-langkah-memasak-2-foto.webp" alt="Nasi Uduk Betawi" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/7eacab02761da351/160x128cq70/nasi-uduk-betawi-langkah-memasak-2-foto.png" alt="Nasi Uduk Betawi" width="340" height="340">
 >1. Tuang beras yang sudah di kukus ke dalam santan tadi, aduk hingga rata
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/84adaca7cd3e9dea/160x128cq70/nasi-uduk-betawi-langkah-memasak-3-foto.webp" alt="Nasi Uduk Betawi" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/84adaca7cd3e9dea/160x128cq70/nasi-uduk-betawi-langkah-memasak-3-foto.png" alt="Nasi Uduk Betawi" width="340" height="340">
 >1. Panaskan langseng, masukkan beras, masak hingga matang kurang lebih 40-50 menit.
 1. Setelah matang angkat, aduk nasi sambil menyisihkan bahan rempah tadi.
 1. Nasi uduk siap dihidangkan dengan lauk dan bahan pelengkap

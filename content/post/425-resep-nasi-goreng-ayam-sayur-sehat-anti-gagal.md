@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T06:46:45.841Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.png
 author: Ray Lewis
 ratingvalue: 3.4
 reviewcount: 11
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng ayam sayur sehat](https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.webp)
+![Nasi goreng ayam sayur sehat](https://img-global.cpcdn.com/recipes/ba43409f21e50fd4/682x484cq65/nasi-goreng-ayam-sayur-sehat-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi goreng ayam sayur sehat cocok banget jika digunakan untuk menjamu tamu
 
@@ -104,7 +104,7 @@ Untuk itulah, menyajikan hidangan ini untuk keluarga tentunya akan cocok menging
 1. Masukkan sayuran yg sudah di rebus, aduk sebentar lalu masukan bumbu - aduk lagii~~
 1. Masak sampai semua bumbu merata lalu ambil sedikit untuk cicipi, kalau kurang rasanya bisa ditambah sendiri ya bumbunya..
 1. Jadi deh masukin piring siap makan :)
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c87c763216ef72c6/160x128cq70/nasi-goreng-ayam-sayur-sehat-langkah-memasak-6-foto.webp" alt="Nasi goreng ayam sayur sehat" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/c87c763216ef72c6/160x128cq70/nasi-goreng-ayam-sayur-sehat-langkah-memasak-6-foto.png" alt="Nasi goreng ayam sayur sehat" width="340" height="340">
 >
 
 Ikuti panduan berikut untuk membuat nasi goreng ayam. Biasanya nasi goreng dicampurkan dengan sayur-sayuran yang segar dan bergizi, tapi tidak halnya dengan resep nasi goreng yang ini. Meskipun sehat dan aman untuk dikonsumsi, makan makanan pedas seperti cabe tanpa terkontrol akan berdampak kurang baik untuk kesehatan organ tubuh. Menurut Saya cara membuat nasi goreng telur sangat sederhana, mudah dan sangat praktis. Karena kita tak terlalu banyak menggunakan bumbu dan juga bahan campuran lainnya seperti irisan sosis, telur, udang, cumi sotong, ayam, daging sapi, daging kambing dan juga kornet. 

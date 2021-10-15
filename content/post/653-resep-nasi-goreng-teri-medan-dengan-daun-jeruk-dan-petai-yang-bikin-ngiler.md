@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T11:37:57.001Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.png
 author: Kyle Estrada
 ratingvalue: 4.8
 reviewcount: 11
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Teri Medan dengan Daun jeruk dan Petai](https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.webp)
+![Nasi Goreng Teri Medan dengan Daun jeruk dan Petai](https://img-global.cpcdn.com/recipes/0b6a04b1a42ae61a/682x484cq65/nasi-goreng-teri-medan-dengan-daun-jeruk-dan-petai-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Goreng Teri Medan dengan Daun jeruk dan Petai yang musti bunda coba dirumah
 

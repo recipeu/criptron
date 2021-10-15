@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-17T00:07:33.205Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.png
 author: Jennie Tucker
 ratingvalue: 5
 reviewcount: 4
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![Mie kupat / mie kopyok khas Semarang](https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.webp)
+![Mie kupat / mie kopyok khas Semarang](https://img-global.cpcdn.com/recipes/d2cf6cf6e05a2690/682x484cq65/mie-kupat-mie-kopyok-khas-semarang-foto-resep-utama.png)
 
 5 langkah cepat dan mudah membuat  Mie kupat / mie kopyok khas Semarang cocok sekali jika digunakan untuk menjamu tamu
 

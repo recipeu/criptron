@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T08:25:41.143Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.png
 author: Jerry Garcia
 ratingvalue: 4.2
 reviewcount: 13
@@ -72,7 +72,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Betawi Anti Gagal](https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.webp)
+![Nasi Uduk Betawi Anti Gagal](https://img-global.cpcdn.com/recipes/cbc57c7e9d803e78/682x484cq65/nasi-uduk-betawi-anti-gagal-foto-resep-utama.png)
 
 12 langkah mudah dan cepat memasak  Nasi Uduk Betawi Anti Gagal yang harus ibu coba dirumah
 

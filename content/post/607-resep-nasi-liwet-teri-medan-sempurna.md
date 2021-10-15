@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-03T01:03:39.556Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 author: Lora Mack
 ratingvalue: 4.1
 reviewcount: 10
@@ -59,7 +59,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi liwet teri medan](https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp)
+![Nasi liwet teri medan](https://img-global.cpcdn.com/recipes/5af2878ee58a6d07/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png)
 
 4 langkah mudah membuat  Nasi liwet teri medan yang musti bunda coba dirumah
 

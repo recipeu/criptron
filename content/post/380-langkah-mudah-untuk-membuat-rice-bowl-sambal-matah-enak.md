@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-14T23:19:17.364Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.png
 author: Bettie Chapman
 ratingvalue: 3
 reviewcount: 6
@@ -73,7 +73,7 @@ recipecategory: Dessert
 ---
 
 
-![Rice Bowl Sambal Matah](https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.webp)
+![Rice Bowl Sambal Matah](https://img-global.cpcdn.com/recipes/3a6a495dfa7e6dc3/682x484cq65/rice-bowl-sambal-matah-foto-resep-utama.png)
 
 6 langkah mudah membuat  Rice Bowl Sambal Matah yang wajib ibu coba segera
 

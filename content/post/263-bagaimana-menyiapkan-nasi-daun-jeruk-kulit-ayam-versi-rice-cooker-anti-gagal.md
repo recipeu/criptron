@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-28T20:49:05.456Z 
-thumbnail: https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.png
 author: Ruth Ramos
 ratingvalue: 4.5
 reviewcount: 3
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Daun Jeruk Kulit Ayam (Versi Rice Cooker)](https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.webp)
+![Nasi Daun Jeruk Kulit Ayam (Versi Rice Cooker)](https://img-global.cpcdn.com/recipes/880f529b5daf4e75/682x484cq65/nasi-daun-jeruk-kulit-ayam-versi-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Daun Jeruk Kulit Ayam (Versi Rice Cooker) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang wajib kamu coba segera
 

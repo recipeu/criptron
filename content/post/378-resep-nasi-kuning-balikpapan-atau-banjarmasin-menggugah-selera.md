@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-21T06:55:23.303Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.png
 author: Russell Davis
 ratingvalue: 4.8
 reviewcount: 7
@@ -82,7 +82,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi kuning Balikpapan atau Banjarmasin](https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.webp)
+![Nasi kuning Balikpapan atau Banjarmasin](https://img-global.cpcdn.com/recipes/6c21701ec22e6c6c/682x484cq65/nasi-kuning-balikpapan-atau-banjarmasin-foto-resep-utama.png)
 
 9 langkah cepat dan mudah mengolah  Nasi kuning Balikpapan atau Banjarmasin yang bisa ibu coba segera
 

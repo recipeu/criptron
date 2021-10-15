@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-13T23:52:15.864Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.png
 author: Duane Warren
 ratingvalue: 4.4
 reviewcount: 11
@@ -77,7 +77,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ikan salem](https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.webp)
+![Nasi bakar ikan salem](https://img-global.cpcdn.com/recipes/5005c9e105cded65/682x484cq65/nasi-bakar-ikan-salem-foto-resep-utama.png)
 
 Resep rahasia Nasi bakar ikan salem  sederhana dengan 9 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

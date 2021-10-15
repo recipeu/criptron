@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T23:38:23.294Z 
-thumbnail: https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.png
 author: Myrtie Goodwin
 ratingvalue: 4.4
 reviewcount: 5
@@ -104,7 +104,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Campur Bali](https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.webp)
+![Nasi Campur Bali](https://img-global.cpcdn.com/recipes/aa282ee19f27153c/682x484cq65/nasi-campur-bali-foto-resep-utama.png)
 
 Resep rahasia Nasi Campur Bali  sederhana dengan 8 langkahcepat dan mudah yang harus ibu coba dirumah
 

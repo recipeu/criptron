@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T16:58:54.759Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.png
 author: Cordelia Cummings
 ratingvalue: 4.8
 reviewcount: 10
@@ -30,7 +30,7 @@ recipeingredient:
 - "air matang 100 ml"
 - "garam dan kaldu bubuk 1/2 sdt"
 - "Bahan Ayam Suwir Sambal Matah "
-- "daging ayam ungkep           lihat resep 250 gram"
+- "daging ayam ungkep   . 250 gram"
 - "cabe rawit 5 buah"
 - "bawang merah 8 butir"
 - "bawang putih opsional 2 siung"
@@ -82,7 +82,7 @@ recipecategory: Dessert
 ---
 
 
-![Bubur Bali Bumbu Kacang dengan Ayam Suwir Sambal Matah](https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.webp)
+![Bubur Bali Bumbu Kacang dengan Ayam Suwir Sambal Matah](https://img-global.cpcdn.com/recipes/ba80aa8dbf850663/682x484cq65/bubur-bali-bumbu-kacang-dengan-ayam-suwir-sambal-matah-foto-resep-utama.png)
 
 Resep dan cara memasak  Bubur Bali Bumbu Kacang dengan Ayam Suwir Sambal Matah cocok banget jika digunakan untuk menjamu tamu
 
@@ -104,7 +104,7 @@ Resep dan cara memasak  Bubur Bali Bumbu Kacang dengan Ayam Suwir Sambal Matah c
 1. air matang 100 ml
 1. garam dan kaldu bubuk 1/2 sdt
 1. Bahan Ayam Suwir Sambal Matah 
-1. daging ayam ungkep           lihat resep 250 gram
+1. daging ayam ungkep   . 250 gram
 1. cabe rawit 5 buah
 1. bawang merah 8 butir
 1. bawang putih opsional 2 siung

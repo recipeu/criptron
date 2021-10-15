@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-22T12:14:46.843Z 
-thumbnail: https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.png
 author: Edwin Hubbard
 ratingvalue: 4.9
 reviewcount: 13
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Betawi (Tips nasi tidak cepat basi)](https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.webp)
+![Nasi Uduk Betawi (Tips nasi tidak cepat basi)](https://img-global.cpcdn.com/recipes/09255912eba8675c/682x484cq65/nasi-uduk-betawi-tips-nasi-tidak-cepat-basi-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi Uduk Betawi (Tips nasi tidak cepat basi) cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T21:26:15.023Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png
 author: Gordon Vargas
 ratingvalue: 3
 reviewcount: 4
@@ -86,7 +86,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto Ayam Semarang](https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.webp)
+![Soto Ayam Semarang](https://img-global.cpcdn.com/recipes/c0ea52389fd7d1b5/682x484cq65/soto-ayam-semarang-foto-resep-utama.png)
 
 Ingin membuat Soto Ayam Semarang ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

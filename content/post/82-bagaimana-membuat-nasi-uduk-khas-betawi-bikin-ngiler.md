@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T05:17:04.341Z 
-thumbnail: https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 author: Robert Barton
 ratingvalue: 4.7
 reviewcount: 15
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Khas Betawi](https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp)
+![Nasi Uduk Khas Betawi](https://img-global.cpcdn.com/recipes/26ea0d2772f6aece/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png)
 
 5 langkah cepat membuat  Nasi Uduk Khas Betawi yang musti ibu coba segera
 

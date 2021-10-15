@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-03T17:18:26.369Z 
-thumbnail: https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.png
 author: Madge Ramos
 ratingvalue: 4.8
 reviewcount: 4
@@ -89,7 +89,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Gurih Ayam Pedas Kemangi](https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Gurih Ayam Pedas Kemangi](https://img-global.cpcdn.com/recipes/51b9fb9db720f797/682x484cq65/nasi-bakar-gurih-ayam-pedas-kemangi-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Gurih Ayam Pedas Kemangi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa ibu coba segera
 

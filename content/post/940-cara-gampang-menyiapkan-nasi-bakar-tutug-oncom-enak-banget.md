@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T08:49:27.980Z 
-thumbnail: https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.png
 author: Delia McKinney
 ratingvalue: 4
 reviewcount: 15
@@ -68,7 +68,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Tutug Oncom](https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.webp)
+![Nasi Bakar Tutug Oncom](https://img-global.cpcdn.com/recipes/36f02e6e67c85a83/682x484cq65/nasi-bakar-tutug-oncom-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Bakar Tutug Oncom yang bisa bunda coba dirumah
 

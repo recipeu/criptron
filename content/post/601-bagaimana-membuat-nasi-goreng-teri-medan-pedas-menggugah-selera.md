@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T12:24:24.922Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png
 author: Jason Shaw
 ratingvalue: 4
 reviewcount: 9
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Goreng Teri Medan (Pedas)](https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.webp)
+![Nasi Goreng Teri Medan (Pedas)](https://img-global.cpcdn.com/recipes/2778de3c65c8ab02/682x484cq65/nasi-goreng-teri-medan-pedas-foto-resep-utama.png)
 
 Resep Nasi Goreng Teri Medan (Pedas)  enak dengan 3 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-05T16:27:52.856Z 
-thumbnail: https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.png
 author: Wayne Taylor
 ratingvalue: 3.9
 reviewcount: 12
@@ -59,7 +59,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi daun jeruk (dengan rice cooker)](https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.webp)
+![Nasi daun jeruk (dengan rice cooker)](https://img-global.cpcdn.com/recipes/574ab218a04931b6/682x484cq65/nasi-daun-jeruk-dengan-rice-cooker-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi daun jeruk (dengan rice cooker) yang bisa bunda coba segera
 

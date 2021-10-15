@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T08:58:45.095Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.png
 author: Johnny Moody
 ratingvalue: 3
 reviewcount: 11
@@ -95,7 +95,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Lemak (rice cooker)](https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.webp)
+![Nasi Lemak (rice cooker)](https://img-global.cpcdn.com/recipes/4d19d6edafd54ebc/682x484cq65/nasi-lemak-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Lemak (rice cooker) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa ibu coba segera
 

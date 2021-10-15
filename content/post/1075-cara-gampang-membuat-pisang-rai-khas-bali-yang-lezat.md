@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T12:14:13.432Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 author: Rosa Becker
 ratingvalue: 4.4
 reviewcount: 5
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Pisang Rai khas Bali](https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp)
+![Pisang Rai khas Bali](https://img-global.cpcdn.com/recipes/3a14779aad72a9b2/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png)
 
 Resep dan cara mengolah  Pisang Rai khas Bali yang bisa kamu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-11T13:22:57.207Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png
 author: Mattie Townsend
 ratingvalue: 4
 reviewcount: 14
@@ -72,7 +72,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi ayam Semarang](https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.webp)
+![Nasi ayam Semarang](https://img-global.cpcdn.com/recipes/e9c36fe3424dd79f/682x484cq65/nasi-ayam-semarang-foto-resep-utama.png)
 
 Resep Nasi ayam Semarang  enak dengan 10 langkahmudah dan cepat yang wajib bunda coba dirumah
 

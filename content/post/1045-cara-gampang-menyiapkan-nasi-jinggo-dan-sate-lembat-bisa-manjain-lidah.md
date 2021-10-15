@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-31T17:47:05.606Z 
-thumbnail: https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.png
 author: Lucile Santos
 ratingvalue: 4
 reviewcount: 14
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Jinggo dan Sate Lembat](https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.webp)
+![Nasi Jinggo dan Sate Lembat](https://img-global.cpcdn.com/recipes/471c8453cc356dce/682x484cq65/nasi-jinggo-dan-sate-lembat-foto-resep-utama.png)
 
 Ingin membuat Nasi Jinggo dan Sate Lembat ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

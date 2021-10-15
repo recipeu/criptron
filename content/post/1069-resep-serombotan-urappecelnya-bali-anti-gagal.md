@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-18T02:08:18.062Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.png
 author: Lucas Bowman
 ratingvalue: 3
 reviewcount: 5
@@ -81,7 +81,7 @@ recipecategory: Lunch
 ---
 
 
-![Serombotan Urap+Pecelnya Bali](https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.webp)
+![Serombotan Urap+Pecelnya Bali](https://img-global.cpcdn.com/recipes/2a471dc852676e4b/682x484cq65/serombotan-urappecelnya-bali-foto-resep-utama.png)
 
 Ingin membuat Serombotan Urap+Pecelnya Bali ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

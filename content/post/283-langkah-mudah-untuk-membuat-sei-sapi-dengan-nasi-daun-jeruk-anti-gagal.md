@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T12:10:20.625Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.png
 author: Elnora Reyes
 ratingvalue: 3.4
 reviewcount: 8
@@ -94,7 +94,7 @@ recipecategory: Lunch
 ---
 
 
-![Sei Sapi Dengan Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.webp)
+![Sei Sapi Dengan Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/5c8fc9dfb830729e/682x484cq65/sei-sapi-dengan-nasi-daun-jeruk-foto-resep-utama.png)
 
 Ingin membuat Sei Sapi Dengan Nasi Daun Jeruk ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

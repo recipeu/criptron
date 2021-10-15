@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-11T03:41:37.975Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.png
 author: John Freeman
 ratingvalue: 3.5
 reviewcount: 11
@@ -70,7 +70,7 @@ recipecategory: Dessert
 ---
 
 
-![4. Nasi bakar pindang kemangi](https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.webp)
+![4. Nasi bakar pindang kemangi](https://img-global.cpcdn.com/recipes/d4413e197a931021/682x484cq65/4-nasi-bakar-pindang-kemangi-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  4. Nasi bakar pindang kemangi yang harus kamu coba segera
 

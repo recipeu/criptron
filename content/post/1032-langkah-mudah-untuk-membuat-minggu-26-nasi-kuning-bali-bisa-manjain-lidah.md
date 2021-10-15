@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T05:23:28.907Z 
-thumbnail: https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.png
 author: Olivia Todd
 ratingvalue: 5
 reviewcount: 12
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![Minggu 26 - Nasi Kuning Bali](https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.webp)
+![Minggu 26 - Nasi Kuning Bali](https://img-global.cpcdn.com/recipes/eff3ec415e6d883e/682x484cq65/minggu-26-nasi-kuning-bali-foto-resep-utama.png)
 
 6 langkah cepat dan mudah mengolah  Minggu 26 - Nasi Kuning Bali yang bisa bunda coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T12:17:39.430Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.png
 author: Edna Cobb
 ratingvalue: 4.5
 reviewcount: 8
@@ -76,7 +76,7 @@ recipecategory: Dinner
 ---
 
 
-![Ayam kriyuk sambel mattah (tetap kriyuk walau dingin)](https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.webp)
+![Ayam kriyuk sambel mattah (tetap kriyuk walau dingin)](https://img-global.cpcdn.com/recipes/8618bef07ed10d98/682x484cq65/ayam-kriyuk-sambel-mattah-tetap-kriyuk-walau-dingin-foto-resep-utama.png)
 
 Resep Ayam kriyuk sambel mattah (tetap kriyuk walau dingin)  anti gagal dengan 5 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu tamu
 

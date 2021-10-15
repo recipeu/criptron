@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-09T05:08:01.972Z 
-thumbnail: https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.png
 author: Tony Moreno
 ratingvalue: 3.9
 reviewcount: 12
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Lele crispy sambal matah](https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.webp)
+![Lele crispy sambal matah](https://img-global.cpcdn.com/recipes/913f240895c34cea/682x484cq65/lele-crispy-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Lele crispy sambal matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

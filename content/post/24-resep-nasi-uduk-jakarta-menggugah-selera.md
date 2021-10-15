@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T19:50:20.728Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png
 author: Kenneth Sanchez
 ratingvalue: 4
 reviewcount: 3
@@ -100,7 +100,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Jakarta](https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.webp)
+![Nasi Uduk Jakarta](https://img-global.cpcdn.com/recipes/e148311f9c40ca07/682x484cq65/nasi-uduk-jakarta-foto-resep-utama.png)
 
 7 langkah cepat membuat  Nasi Uduk Jakarta yang wajib kamu coba dirumah
 

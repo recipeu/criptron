@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-22T23:12:32.460Z 
-thumbnail: https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.png
 author: Catherine Massey
 ratingvalue: 3.4
 reviewcount: 4
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Peyek Teri Medan](https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.webp)
+![Peyek Teri Medan](https://img-global.cpcdn.com/recipes/41a1b3e864214b3f/682x484cq65/peyek-teri-medan-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Peyek Teri Medan cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T00:39:28.909Z 
-thumbnail: https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.png
 author: John Baker
 ratingvalue: 3.7
 reviewcount: 12
@@ -75,7 +75,7 @@ recipecategory: Lunch
 ---
 
 
-![Pempek teri medan](https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.webp)
+![Pempek teri medan](https://img-global.cpcdn.com/recipes/890b5a7b1e1e2a08/682x484cq65/pempek-teri-medan-foto-resep-utama.png)
 
 7 langkah cepat dan mudah mengolah  Pempek teri medan yang harus ibu coba dirumah
 

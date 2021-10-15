@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T12:02:14.243Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.png
 author: Tony Becker
 ratingvalue: 3.2
 reviewcount: 10
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Biru Rice Cooker/ Nasi Biru](https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.webp)
+![Nasi Uduk Biru Rice Cooker/ Nasi Biru](https://img-global.cpcdn.com/recipes/0cb18a5d11cd1500/682x484cq65/nasi-uduk-biru-rice-cooker-nasi-biru-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Biru Rice Cooker/ Nasi Biru  enak dengan 3 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

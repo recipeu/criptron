@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T23:40:14.631Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.png
 author: Ora Rogers
 ratingvalue: 3.8
 reviewcount: 11
@@ -80,7 +80,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Merah Bakar Ikan Tuna Mangga Muda (Diet Enak Diabetes)](https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.webp)
+![Nasi Merah Bakar Ikan Tuna Mangga Muda (Diet Enak Diabetes)](https://img-global.cpcdn.com/recipes/e068bf7dc2437d48/682x484cq65/nasi-merah-bakar-ikan-tuna-mangga-muda-diet-enak-diabetes-foto-resep-utama.png)
 
 Resep Nasi Merah Bakar Ikan Tuna Mangga Muda (Diet Enak Diabetes)    dengan 18 langkahmudah cocok sekali jika digunakan untuk menjamu teman
 

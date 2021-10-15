@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T17:03:19.292Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 author: Glenn Knight
 ratingvalue: 5
 reviewcount: 10
@@ -72,7 +72,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ikan tuna](https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp)
+![Nasi Bakar Ikan tuna](https://img-global.cpcdn.com/recipes/fe1a1cb2c839b90d/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Ikan tuna    dengan 8 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu teman
 

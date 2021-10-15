@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T09:46:15.086Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.png
 author: Mabel Christensen
 ratingvalue: 4.2
 reviewcount: 10
@@ -57,7 +57,7 @@ recipecategory: Dinner
 ---
 
 
-![Serundeng Bali - Nasi Jenggo Bali](https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.webp)
+![Serundeng Bali - Nasi Jenggo Bali](https://img-global.cpcdn.com/recipes/1c44a53ab18046c9/682x484cq65/serundeng-bali-nasi-jenggo-bali-foto-resep-utama.png)
 
 Resep Serundeng Bali - Nasi Jenggo Bali    dengan 3 langkahmudah dan cepat yang bisa kamu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T15:50:27.677Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Bobby James
 ratingvalue: 3.2
 reviewcount: 4
@@ -104,7 +104,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/f31e85fe42a1ddfb/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk betawi    dengan 5 langkahmudah dan cepat yang bisa bunda coba segera
 

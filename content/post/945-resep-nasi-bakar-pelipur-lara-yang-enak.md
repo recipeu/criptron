@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-26T16:21:02.212Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.png
 author: Connor Evans
 ratingvalue: 3.5
 reviewcount: 4
@@ -77,7 +77,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Pelipur Lara](https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.webp)
+![Nasi Bakar Pelipur Lara](https://img-global.cpcdn.com/recipes/0d57cd5f29435d4b/682x484cq65/nasi-bakar-pelipur-lara-foto-resep-utama.png)
 
 Resep Nasi Bakar Pelipur Lara    dengan 7 langkahcepat cocok sekali jika digunakan untuk menjamu teman
 

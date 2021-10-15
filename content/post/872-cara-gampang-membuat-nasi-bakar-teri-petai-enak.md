@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-23T06:46:06.961Z 
-thumbnail: https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.png
 author: Jim Griffin
 ratingvalue: 3.9
 reviewcount: 12
@@ -74,7 +74,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi bakar teri petai](https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.webp)
+![Nasi bakar teri petai](https://img-global.cpcdn.com/recipes/719a355f8629cec6/682x484cq65/nasi-bakar-teri-petai-foto-resep-utama.png)
 
 Ingin membuat Nasi bakar teri petai ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

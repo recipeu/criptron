@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T00:51:32.397Z 
-thumbnail: https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.png
 author: Leonard Meyer
 ratingvalue: 3.6
 reviewcount: 4
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![160. Nasi Briyani Ayam Magic Com](https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.webp)
+![160. Nasi Briyani Ayam Magic Com](https://img-global.cpcdn.com/recipes/103b6e9c72a35c0d/682x484cq65/160-nasi-briyani-ayam-magic-com-foto-resep-utama.png)
 
 Ingin membuat 160. Nasi Briyani Ayam Magic Com ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

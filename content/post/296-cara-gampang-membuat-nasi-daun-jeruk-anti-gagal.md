@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T22:16:31.950Z 
-thumbnail: https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: George Phelps
 ratingvalue: 4.1
 reviewcount: 5
@@ -27,7 +27,7 @@ recipeingredient:
 - "air 600 ml"
 - "Taburan  "
 - "daun jeruk cincang halus 10 lembar"
-- "bawang goreng           lihat resep 5 sdm"
+- "bawang goreng   . 5 sdm"
 recipeinstructions:
 - "Blender bahan cair, saring."
 - "Cuci beras, tambahkan Garam, kaldu bubuk dan santan, aduk rata beri bahan cair yang sudah disaring."
@@ -67,7 +67,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi daun jeruk](https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi daun jeruk](https://img-global.cpcdn.com/recipes/43302e25a13d5a38/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi daun jeruk cocok banget jika digunakan untuk menjamu teman
 
@@ -86,7 +86,7 @@ Resep dan cara memasak  Nasi daun jeruk cocok banget jika digunakan untuk menjam
 1. air 600 ml
 1. Taburan  
 1. daun jeruk cincang halus 10 lembar
-1. bawang goreng           lihat resep 5 sdm
+1. bawang goreng   . 5 sdm
 
 Nasi daun jeruk siap dihidangkan dengan. Nasi daun jeruk ini memang sedang tren di kalangan masyarakat Indonesia, banyak sekali kaum muda mudi yang berlomba-lomba membuat makanan nasi putih spesial ini. Nasi daun jeruk ala geprek bensu rekomended buat di coba. Geprek bensu nasi daun jeruk anti mainst. 
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T10:45:04.821Z 
-thumbnail: https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.png
 author: Dominic Chambers
 ratingvalue: 4.2
 reviewcount: 10
@@ -78,7 +78,7 @@ recipecategory: Lunch
 ---
 
 
-![151. Nasi Bakar](https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.webp)
+![151. Nasi Bakar](https://img-global.cpcdn.com/recipes/352b9eec74568bef/682x484cq65/151-nasi-bakar-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  151. Nasi Bakar yang bisa bunda coba dirumah
 

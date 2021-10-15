@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-02T01:01:12.645Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.png
 author: Madge Park
 ratingvalue: 5
 reviewcount: 11
@@ -61,7 +61,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Rendang, memanfaatkan lauk sisa](https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.webp)
+![Nasi Bakar Rendang, memanfaatkan lauk sisa](https://img-global.cpcdn.com/recipes/1faa9451e5d25403/682x484cq65/nasi-bakar-rendang-memanfaatkan-lauk-sisa-foto-resep-utama.png)
 
 Resep Nasi Bakar Rendang, memanfaatkan lauk sisa    dengan 4 langkahmudah cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-30T05:33:36.387Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png
 author: Linnie Stewart
 ratingvalue: 4.7
 reviewcount: 15
@@ -78,7 +78,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Tuna Pedas](https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.webp)
+![Nasi Bakar Tuna Pedas](https://img-global.cpcdn.com/recipes/0edbcbbfd94201ff/682x484cq65/nasi-bakar-tuna-pedas-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Tuna Pedas ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti ibu coba dirumah
 

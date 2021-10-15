@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T00:41:53.355Z 
-thumbnail: https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.png
 author: Mitchell Conner
 ratingvalue: 4.1
 reviewcount: 9
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Ikan Masak Kering Kayu Bakar Pelengkap Nasi Uduk/Nasi Kuning](https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.webp)
+![Ikan Masak Kering Kayu Bakar Pelengkap Nasi Uduk/Nasi Kuning](https://img-global.cpcdn.com/recipes/72a73871906c30c5/682x484cq65/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-foto-resep-utama.png)
 
 3 langkah cepat dan mudah memasak  Ikan Masak Kering Kayu Bakar Pelengkap Nasi Uduk/Nasi Kuning cocok sekali jika digunakan untuk menjamu teman
 
@@ -112,7 +112,7 @@ recipecategory: Lunch
 1. Potong potong ikan, beri perasan air jeruk nipis atau air asam supaya ikan kaku sisihkan
 1. Blender bumbu halus, kemudian tumis bumbu halus tambahkan bumbu pelengkap (kecuali kecap, garam, kaldu bubukdan gula merah)tumis sampai harum, tambahkan air, aduk, masukkan ikan,tambahkan kecap, gula, garam kaldu bubuk, koreksi rasa, masak sampai air mengering
 1. Panas pemanggang, panggang ikan, lakukan sampai habis
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/3b94712d6e9d85c3/160x128cq70/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-langkah-memasak-3-foto.webp" alt="Ikan Masak Kering Kayu Bakar Pelengkap Nasi Uduk/Nasi Kuning" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/3b94712d6e9d85c3/160x128cq70/ikan-masak-kering-kayu-bakar-pelengkap-nasi-uduknasi-kuning-langkah-memasak-3-foto.png" alt="Ikan Masak Kering Kayu Bakar Pelengkap Nasi Uduk/Nasi Kuning" width="340" height="340">
 >
 
 

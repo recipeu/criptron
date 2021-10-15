@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T19:54:39.663Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png
 author: Douglas Fox
 ratingvalue: 4.5
 reviewcount: 14
@@ -59,7 +59,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi kuning daun jeruk rice cooker tanpa santan](https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.webp)
+![Nasi kuning daun jeruk rice cooker tanpa santan](https://img-global.cpcdn.com/recipes/ef1be2acb097d737/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-tanpa-santan-foto-resep-utama.png)
 
 Ingin membuat Nasi kuning daun jeruk rice cooker tanpa santan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-13T08:11:53.831Z 
-thumbnail: https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.png
 author: Marion Ballard
 ratingvalue: 3.2
 reviewcount: 14
@@ -81,7 +81,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar isi Ayam Suwir Kemangi](https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.webp)
+![Nasi Bakar isi Ayam Suwir Kemangi](https://img-global.cpcdn.com/recipes/81e3b76fdcd3005d/682x484cq65/nasi-bakar-isi-ayam-suwir-kemangi-foto-resep-utama.png)
 
 8 langkah cepat dan mudah membuat  Nasi Bakar isi Ayam Suwir Kemangi yang musti bunda coba segera
 

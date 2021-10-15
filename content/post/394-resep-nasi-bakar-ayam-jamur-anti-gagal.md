@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T19:12:58.187Z 
-thumbnail: https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png
 author: Jayden Reese
 ratingvalue: 4.2
 reviewcount: 5
@@ -28,7 +28,7 @@ recipeingredient:
 - "sereh geprek 1 batang"
 - "daun jeruk 2 lembar"
 - "kunyit bubuk 1 sdm"
-- "bumbu dasar putih           lihat resep 2 sdm"
+- "bumbu dasar putih   . 2 sdm"
 - "gula garam lada royco Secukupnya"
 - "air minyak goreng daun pisang Secukupnya"
 - "Bumbu Halus  "
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ayam Jamur](https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.webp)
+![Nasi Bakar Ayam Jamur](https://img-global.cpcdn.com/recipes/30edbb01766640c8/682x484cq65/nasi-bakar-ayam-jamur-foto-resep-utama.png)
 
 Resep Nasi Bakar Ayam Jamur    dengan 6 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu teman
 
@@ -94,7 +94,7 @@ Resep Nasi Bakar Ayam Jamur    dengan 6 langkahmudah dan cepat cocok sekali jika
 1. sereh geprek 1 batang
 1. daun jeruk 2 lembar
 1. kunyit bubuk 1 sdm
-1. bumbu dasar putih           lihat resep 2 sdm
+1. bumbu dasar putih   . 2 sdm
 1. gula garam lada royco Secukupnya
 1. air minyak goreng daun pisang Secukupnya
 1. Bumbu Halus  

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-04T11:09:40.463Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 author: Harriett Stevenson
 ratingvalue: 3.3
 reviewcount: 13
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk khas Betawi](https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp)
+![Nasi Uduk khas Betawi](https://img-global.cpcdn.com/recipes/1d61f77f87e35f8d/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk khas Betawi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang wajib kamu coba dirumah
 

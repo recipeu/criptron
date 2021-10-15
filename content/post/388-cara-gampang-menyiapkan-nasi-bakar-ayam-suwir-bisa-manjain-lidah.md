@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-28T11:08:18.380Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png
 author: Dennis Luna
 ratingvalue: 3
 reviewcount: 5
@@ -79,7 +79,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ayam Suwir](https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.webp)
+![Nasi Bakar Ayam Suwir](https://img-global.cpcdn.com/recipes/d487b5866a9af4cb/682x484cq65/nasi-bakar-ayam-suwir-foto-resep-utama.png)
 
 Resep Nasi Bakar Ayam Suwir  sederhana dengan 5 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu tamu
 

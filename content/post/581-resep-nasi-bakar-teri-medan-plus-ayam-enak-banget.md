@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-01T23:48:25.945Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.png
 author: Mary Dawson
 ratingvalue: 3.2
 reviewcount: 15
@@ -87,7 +87,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar teri medan plus ayam](https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.webp)
+![Nasi bakar teri medan plus ayam](https://img-global.cpcdn.com/recipes/f916c574d53350e3/682x484cq65/nasi-bakar-teri-medan-plus-ayam-foto-resep-utama.png)
 
 11 langkah mudah membuat  Nasi bakar teri medan plus ayam yang musti kamu coba segera
 

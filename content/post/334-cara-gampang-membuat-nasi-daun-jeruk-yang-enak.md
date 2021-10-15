@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T09:12:27.773Z 
-thumbnail: https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: Herbert Moore
 ratingvalue: 4.8
 reviewcount: 3
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi daun jeruk](https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi daun jeruk](https://img-global.cpcdn.com/recipes/31e23fe7e0925b93/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 Ingin membuat Nasi daun jeruk ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

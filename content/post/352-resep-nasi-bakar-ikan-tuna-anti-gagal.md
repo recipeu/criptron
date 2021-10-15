@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-19T08:57:03.609Z 
-thumbnail: https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 author: Lucile Harris
 ratingvalue: 4.9
 reviewcount: 6
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ikan Tuna](https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp)
+![Nasi Bakar Ikan Tuna](https://img-global.cpcdn.com/recipes/adfdd7f1f00484cc/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ikan Tuna ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

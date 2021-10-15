@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-27T04:59:49.668Z 
-thumbnail: https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png
 author: Mabelle Walters
 ratingvalue: 4
 reviewcount: 13
@@ -61,7 +61,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ikan tuna](https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.webp)
+![Nasi bakar ikan tuna](https://img-global.cpcdn.com/recipes/eddddc326c04a462/682x484cq65/nasi-bakar-ikan-tuna-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi bakar ikan tuna cocok banget jika digunakan untuk menjamu tamu
 

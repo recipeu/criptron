@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T04:37:37.071Z 
-thumbnail: https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.png
 author: Maggie Weaver
 ratingvalue: 4.6
 reviewcount: 14
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![33. Mee Goreng Malaysia (Mee Mamak)](https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.webp)
+![33. Mee Goreng Malaysia (Mee Mamak)](https://img-global.cpcdn.com/recipes/87d8019c72958dbb/682x484cq65/33-mee-goreng-malaysia-mee-mamak-foto-resep-utama.png)
 
 4 langkah mudah memasak  33. Mee Goreng Malaysia (Mee Mamak) yang bisa kamu coba segera
 

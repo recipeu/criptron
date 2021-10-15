@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-27T22:21:53.752Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.png
 author: Herman Lamb
 ratingvalue: 4.5
 reviewcount: 7
@@ -81,7 +81,7 @@ recipecategory: Dinner
 ---
 
 
-![Rice Bowl ayam jamur crispy Sambal matah](https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.webp)
+![Rice Bowl ayam jamur crispy Sambal matah](https://img-global.cpcdn.com/recipes/bbd6034aed52894e/682x484cq65/rice-bowl-ayam-jamur-crispy-sambal-matah-foto-resep-utama.png)
 
 Resep dan cara mengolah  Rice Bowl ayam jamur crispy Sambal matah yang harus bunda coba segera
 

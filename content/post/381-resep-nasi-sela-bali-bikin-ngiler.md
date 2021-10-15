@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-07T01:49:51.419Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png
 author: Todd Salazar
 ratingvalue: 4.6
 reviewcount: 13
@@ -98,7 +98,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Sela Bali](https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.webp)
+![Nasi Sela Bali](https://img-global.cpcdn.com/recipes/c0c10e07f43a2eaf/682x484cq65/nasi-sela-bali-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Sela Bali cocok sekali jika digunakan untuk menjamu teman
 

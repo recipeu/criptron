@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T05:38:10.611Z 
-thumbnail: https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png
 author: Norman Massey
 ratingvalue: 3.4
 reviewcount: 3
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ayam Teri Medan](https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.webp)
+![Nasi Bakar Ayam Teri Medan](https://img-global.cpcdn.com/recipes/22c8fc06eee33428/682x484cq65/nasi-bakar-ayam-teri-medan-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Bakar Ayam Teri Medan cocok sekali jika digunakan untuk menjamu tamu
 

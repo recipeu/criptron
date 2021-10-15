@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T22:40:08.440Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.png
 author: Angel Webster
 ratingvalue: 4.1
 reviewcount: 14
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Liweut Magic Com](https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.webp)
+![Nasi Liweut Magic Com](https://img-global.cpcdn.com/recipes/fb298b9216e80aeb/682x484cq65/nasi-liweut-magic-com-foto-resep-utama.png)
 
 7 langkah cepat dan mudah memasak  Nasi Liweut Magic Com cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-16T17:58:22.771Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.png
 author: Joel Long
 ratingvalue: 3
 reviewcount: 12
@@ -77,7 +77,7 @@ recipecategory: Lunch
 ---
 
 
-![36. Nasi Daun Jeruk (Rice Cooker) + Daging Sapi Sambal Korek #GlutenFree](https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.webp)
+![36. Nasi Daun Jeruk (Rice Cooker) + Daging Sapi Sambal Korek #GlutenFree](https://img-global.cpcdn.com/recipes/1e53924fe9f72be1/682x484cq65/36-nasi-daun-jeruk-rice-cooker-daging-sapi-sambal-korek-glutenfree-foto-resep-utama.png)
 
 Ingin membuat 36. Nasi Daun Jeruk (Rice Cooker) + Daging Sapi Sambal Korek #GlutenFree ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti kamu coba segera
 

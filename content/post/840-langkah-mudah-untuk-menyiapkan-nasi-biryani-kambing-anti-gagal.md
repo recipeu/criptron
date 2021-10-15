@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T06:44:26.844Z 
-thumbnail: https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.png
 author: Nicholas Newman
 ratingvalue: 3.5
 reviewcount: 12
@@ -71,7 +71,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Biryani kambing](https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.webp)
+![Nasi Biryani kambing](https://img-global.cpcdn.com/recipes/afda46f8a5c3da8c/682x484cq65/nasi-biryani-kambing-foto-resep-utama.png)
 
 7 langkah mudah memasak  Nasi Biryani kambing cocok banget jika digunakan untuk menjamu tamu
 

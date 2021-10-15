@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T12:37:33.795Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 author: Isaac Chambers
 ratingvalue: 3.8
 reviewcount: 4
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar teri medan](https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp)
+![Nasi bakar teri medan](https://img-global.cpcdn.com/recipes/2d894a041410b38c/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi bakar teri medan cocok sekali jika digunakan untuk menjamu teman
 

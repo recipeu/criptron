@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T15:28:26.107Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Bill Cooper
 ratingvalue: 3.2
 reviewcount: 5
@@ -31,8 +31,8 @@ recipeingredient:
 - "bawang putih iris 2 butir"
 - "minyak utk menumis Secukupnya"
 - "Pelengkap  "
-- "Bihun goreng           lihat resep "
-- "Tempe goreng tepung           lihat resep "
+- "Bihun goreng   . "
+- "Tempe goreng tepung   . "
 - "Tahu goreng "
 - "Telur dadar "
 - "Timun "
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/f516c929bdf37cb2/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Betawi  anti gagal dengan 1 langkahmudah cocok banget jika digunakan untuk menjamu teman
 
@@ -94,8 +94,8 @@ Resep rahasia Nasi Uduk Betawi  anti gagal dengan 1 langkahmudah cocok banget ji
 1. bawang putih iris 2 butir
 1. minyak utk menumis Secukupnya
 1. Pelengkap  
-1. Bihun goreng           lihat resep 
-1. Tempe goreng tepung           lihat resep 
+1. Bihun goreng   . 
+1. Tempe goreng tepung   . 
 1. Tahu goreng 
 1. Telur dadar 
 1. Timun 

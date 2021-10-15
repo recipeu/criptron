@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T15:23:11.404Z 
-thumbnail: https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.png
 author: Kate Mendez
 ratingvalue: 3.6
 reviewcount: 7
@@ -70,7 +70,7 @@ recipecategory: Dinner
 ---
 
 
-![Day. 421 Nasi Bakar Ayam Kemangi (20 month+)](https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.webp)
+![Day. 421 Nasi Bakar Ayam Kemangi (20 month+)](https://img-global.cpcdn.com/recipes/97a3f7f24a10d255/682x484cq65/day-421-nasi-bakar-ayam-kemangi-20-month-foto-resep-utama.png)
 
 Resep rahasia Day. 421 Nasi Bakar Ayam Kemangi (20 month+)    dengan 5 langkahmudah yang musti ibu coba segera
 

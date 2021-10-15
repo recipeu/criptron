@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-06T07:38:27.759Z 
-thumbnail: https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.png
 author: Rose Johnson
 ratingvalue: 4.9
 reviewcount: 11
@@ -66,7 +66,7 @@ recipecategory: Dessert
 ---
 
 
-![30.Nasi Goreng Teri Medan](https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.webp)
+![30.Nasi Goreng Teri Medan](https://img-global.cpcdn.com/recipes/88f77cab05e3c983/682x484cq65/30nasi-goreng-teri-medan-foto-resep-utama.png)
 
 Resep rahasia 30.Nasi Goreng Teri Medan  enak dengan 3 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu tamu
 

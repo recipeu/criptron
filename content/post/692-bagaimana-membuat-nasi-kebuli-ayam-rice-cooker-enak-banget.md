@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T20:46:08.528Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.png
 author: Nora Cross
 ratingvalue: 3.2
 reviewcount: 11
@@ -86,7 +86,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Kebuli Ayam Rice Cooker](https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.webp)
+![Nasi Kebuli Ayam Rice Cooker](https://img-global.cpcdn.com/recipes/3bd9b8b5155b6905/682x484cq65/nasi-kebuli-ayam-rice-cooker-foto-resep-utama.png)
 
 Resep rahasia Nasi Kebuli Ayam Rice Cooker  enak dengan 7 langkahmudah dan cepat yang harus ibu coba segera
 

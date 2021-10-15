@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-15T01:56:28.162Z 
-thumbnail: https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.png
 author: Roxie Love
 ratingvalue: 4
 reviewcount: 14
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![Perkedel teri medan basah](https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.webp)
+![Perkedel teri medan basah](https://img-global.cpcdn.com/recipes/570d098ab2d660d0/682x484cq65/perkedel-teri-medan-basah-foto-resep-utama.png)
 
 2 langkah cepat dan mudah memasak  Perkedel teri medan basah yang bisa ibu coba dirumah
 

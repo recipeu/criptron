@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-24T21:34:07.308Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png
 author: Antonio Conner
 ratingvalue: 4.9
 reviewcount: 12
@@ -69,7 +69,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi liwet rice cooker](https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.webp)
+![Nasi liwet rice cooker](https://img-global.cpcdn.com/recipes/f9df2fcd863883d8/682x484cq65/nasi-liwet-rice-cooker-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi liwet rice cooker cocok banget jika digunakan untuk menjamu teman
 

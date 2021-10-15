@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-29T11:14:14.143Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.png
 author: Stella Bishop
 ratingvalue: 4.7
 reviewcount: 6
@@ -64,7 +64,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Ayam Geprek Sambal Matah](https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.webp)
+![Nasi Ayam Geprek Sambal Matah](https://img-global.cpcdn.com/recipes/3532590e02781dbe/682x484cq65/nasi-ayam-geprek-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Nasi Ayam Geprek Sambal Matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti bunda coba dirumah
 

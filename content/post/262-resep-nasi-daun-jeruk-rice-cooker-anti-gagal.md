@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T20:29:00.092Z 
-thumbnail: https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 author: Mattie Terry
 ratingvalue: 4.1
 reviewcount: 4
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk (Rice Cooker)](https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp)
+![Nasi Daun Jeruk (Rice Cooker)](https://img-global.cpcdn.com/recipes/137fe89f320f8673/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi Daun Jeruk (Rice Cooker)    dengan 2 langkahcepat cocok banget jika digunakan untuk menjamu teman
 

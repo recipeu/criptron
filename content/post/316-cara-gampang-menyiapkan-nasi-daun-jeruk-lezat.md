@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-16T04:30:15.613Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: Austin Obrien
 ratingvalue: 3.5
 reviewcount: 10
@@ -58,7 +58,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/bc5265d9a35f285d/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 2 langkah cepat dan mudah memasak  Nasi Daun Jeruk cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-24T08:10:29.487Z 
-thumbnail: https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.png
 author: Elmer Matthews
 ratingvalue: 3.9
 reviewcount: 3
@@ -85,7 +85,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto Semarang Ala Bangkong](https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.webp)
+![Soto Semarang Ala Bangkong](https://img-global.cpcdn.com/recipes/452b0c44731d6faa/682x484cq65/soto-semarang-ala-bangkong-foto-resep-utama.png)
 
 Ingin membuat Soto Semarang Ala Bangkong ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

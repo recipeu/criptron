@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-01T00:28:04.675Z 
-thumbnail: https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png
 author: Steven Greer
 ratingvalue: 3.7
 reviewcount: 9
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi daun jeruk rice cooker](https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.webp)
+![Nasi daun jeruk rice cooker](https://img-global.cpcdn.com/recipes/78c3bcc21a0260a9/682x484cq65/nasi-daun-jeruk-rice-cooker-foto-resep-utama.png)
 
 Resep Nasi daun jeruk rice cooker  sederhana dengan 3 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu tamu
 
@@ -86,13 +86,13 @@ Hai selamat pagi sahabat CWS, pagi ini saya share resep Nasi Daun Jeruk. Praktis
 ## Langkah-langkah Untuk Membuat Nasi daun jeruk rice cooker:
 
 1. Siapkan bahan, cuci bersih beras &amp; tiriskan,
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/dcd6d5962ca881c5/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-1-foto.webp" alt="Nasi daun jeruk rice cooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8513db9673af6d59/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-1-foto.webp" alt="Nasi daun jeruk rice cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/dcd6d5962ca881c5/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-1-foto.png" alt="Nasi daun jeruk rice cooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8513db9673af6d59/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-1-foto.png" alt="Nasi daun jeruk rice cooker" width="340" height="340">
 >1. Panaskan wajan kemudian masukkan margarine sampai meleleh, lalu masukkan irisan daun jeruk,bawang putih, salam,sereh, tumis hingga harum &amp; layu, matikan kompor
 1. Masukkan kedalam beras yg sudah di cuci tadi, lalu tambahkan garam &amp; kaldu, aduk² hingga rata, masukkan air, aduk rata kembali &amp; masak nasi di rice cooker sampai matang. - Setelah matang jgn lupa diaduk dulu ya supaya rasanya lebih tercampur. Selamat mencoba 🙂
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ded8f9ccbaf1417e/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.webp" alt="Nasi daun jeruk rice cooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/f935c05420ebac16/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.webp" alt="Nasi daun jeruk rice cooker" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ad4ab7aae071bd66/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.webp" alt="Nasi daun jeruk rice cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ded8f9ccbaf1417e/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.png" alt="Nasi daun jeruk rice cooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/f935c05420ebac16/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.png" alt="Nasi daun jeruk rice cooker" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/ad4ab7aae071bd66/160x128cq70/nasi-daun-jeruk-rice-cooker-langkah-memasak-3-foto.png" alt="Nasi daun jeruk rice cooker" width="340" height="340">
 >
 
 Berikut nih tips dari saya supaya nasi nya matang. Gurih dan wangi dari daun jeruk menambah kelezatan nasi daun jeruk. Setelah tombol menyatakan matang, masukkan daun jeruk. Jangan buka rice cooker sampai uap hilang. Sajikan nasi bersama lauk pelengkap seperti dadar rawis atau bakwan jagung. 

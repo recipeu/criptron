@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-19T14:35:23.662Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.png
 author: Dennis Powers
 ratingvalue: 4.4
 reviewcount: 10
@@ -71,7 +71,7 @@ recipecategory: Lunch
 ---
 
 
-![Lumpia Basah ala semarang](https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.webp)
+![Lumpia Basah ala semarang](https://img-global.cpcdn.com/recipes/ba06c4f49d39ff5f/682x484cq65/lumpia-basah-ala-semarang-foto-resep-utama.png)
 
 Resep dan cara memasak  Lumpia Basah ala semarang yang bisa kamu coba dirumah
 

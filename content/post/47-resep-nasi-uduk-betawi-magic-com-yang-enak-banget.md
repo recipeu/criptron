@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-27T15:03:01.916Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png
 author: Cody Nichols
 ratingvalue: 3.4
 reviewcount: 13
@@ -62,7 +62,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk Betawi (magic com)](https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.webp)
+![Nasi uduk Betawi (magic com)](https://img-global.cpcdn.com/recipes/8dce8381472d65eb/682x484cq65/nasi-uduk-betawi-magic-com-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi uduk Betawi (magic com) yang harus bunda coba dirumah
 

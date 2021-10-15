@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-15T01:43:18.014Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png
 author: Dennis Simmons
 ratingvalue: 3.5
 reviewcount: 10
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk khas betawi](https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.webp)
+![Nasi uduk khas betawi](https://img-global.cpcdn.com/recipes/b0e9c16c927c50e1/682x484cq65/nasi-uduk-khas-betawi-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk khas betawi    dengan 3 langkahcepat cocok sekali jika digunakan untuk menjamu teman
 

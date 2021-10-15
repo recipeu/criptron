@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-30T15:15:51.082Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.png
 author: Vernon Bell
 ratingvalue: 3.5
 reviewcount: 9
@@ -80,7 +80,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Hujan Panas](https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.webp)
+![Nasi Hujan Panas](https://img-global.cpcdn.com/recipes/d250e16056d3a77f/682x484cq65/nasi-hujan-panas-foto-resep-utama.png)
 
 Ingin membuat Nasi Hujan Panas ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

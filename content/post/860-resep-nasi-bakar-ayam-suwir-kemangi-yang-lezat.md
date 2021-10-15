@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-12T10:27:32.234Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png
 author: Gerald Hunter
 ratingvalue: 4.8
 reviewcount: 14
@@ -78,7 +78,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ayam suwir kemangi](https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.webp)
+![Nasi bakar ayam suwir kemangi](https://img-global.cpcdn.com/recipes/2bc20212a4ce1dca/682x484cq65/nasi-bakar-ayam-suwir-kemangi-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi bakar ayam suwir kemangi yang bisa ibu coba segera
 

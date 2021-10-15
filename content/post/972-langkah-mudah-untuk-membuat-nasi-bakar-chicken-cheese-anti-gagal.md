@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-08T14:49:03.094Z 
-thumbnail: https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.png
 author: Maggie Payne
 ratingvalue: 4.5
 reviewcount: 3
@@ -74,7 +74,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar chicken cheese](https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.webp)
+![Nasi bakar chicken cheese](https://img-global.cpcdn.com/recipes/d596544abe0664f7/682x484cq65/nasi-bakar-chicken-cheese-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi bakar chicken cheese cocok sekali jika digunakan untuk menjamu teman
 

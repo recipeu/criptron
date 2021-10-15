@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T10:50:21.385Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png
 author: Richard Rice
 ratingvalue: 3.7
 reviewcount: 11
@@ -75,7 +75,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Lemak Malaysia](https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.webp)
+![Nasi Lemak Malaysia](https://img-global.cpcdn.com/recipes/3da09b634800159e/682x484cq65/nasi-lemak-malaysia-foto-resep-utama.png)
 
 Resep rahasia Nasi Lemak Malaysia    dengan 4 langkahmudah yang wajib ibu coba dirumah
 

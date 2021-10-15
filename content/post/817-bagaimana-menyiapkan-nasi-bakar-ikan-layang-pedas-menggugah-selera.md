@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-23T17:11:16.551Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.png
 author: Rhoda Green
 ratingvalue: 4.6
 reviewcount: 9
@@ -57,7 +57,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Ikan Layang Pedas](https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.webp)
+![Nasi Bakar Ikan Layang Pedas](https://img-global.cpcdn.com/recipes/4e3a7ac6d3bb726b/682x484cq65/nasi-bakar-ikan-layang-pedas-foto-resep-utama.png)
 
 2 langkah cepat dan mudah mengolah  Nasi Bakar Ikan Layang Pedas cocok sekali jika digunakan untuk menjamu teman
 

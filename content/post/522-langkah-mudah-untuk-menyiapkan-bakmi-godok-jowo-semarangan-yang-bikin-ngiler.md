@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T08:53:02.025Z 
-thumbnail: https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.png
 author: Jeanette Scott
 ratingvalue: 3.4
 reviewcount: 4
@@ -82,7 +82,7 @@ recipecategory: Dessert
 ---
 
 
-![Bakmi Godok Jowo Semarangan](https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.webp)
+![Bakmi Godok Jowo Semarangan](https://img-global.cpcdn.com/recipes/4d613195beb86cf7/682x484cq65/bakmi-godok-jowo-semarangan-foto-resep-utama.png)
 
 Resep Bakmi Godok Jowo Semarangan  anti gagal dengan 8 langkahcepat cocok sekali jika digunakan untuk menjamu tamu
 

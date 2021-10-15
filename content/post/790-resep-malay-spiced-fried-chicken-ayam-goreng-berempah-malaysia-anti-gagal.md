@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T19:20:38.256Z 
-thumbnail: https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.png
 author: Elnora Daniel
 ratingvalue: 3.6
 reviewcount: 7
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Malay Spiced Fried Chicken (Ayam Goreng Berempah Malaysia)](https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.webp)
+![Malay Spiced Fried Chicken (Ayam Goreng Berempah Malaysia)](https://img-global.cpcdn.com/recipes/34e63dbb7f081a00/682x484cq65/malay-spiced-fried-chicken-ayam-goreng-berempah-malaysia-foto-resep-utama.png)
 
 Ingin membuat Malay Spiced Fried Chicken (Ayam Goreng Berempah Malaysia) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-31T16:33:18.015Z 
-thumbnail: https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.png
 author: Christina Washington
 ratingvalue: 3.3
 reviewcount: 10
@@ -88,7 +88,7 @@ recipecategory: Dessert
 ---
 
 
-![Soto Medan](https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.webp)
+![Soto Medan](https://img-global.cpcdn.com/recipes/89245d85c9fe2f8e/682x484cq65/soto-medan-foto-resep-utama.png)
 
 6 langkah mudah mengolah  Soto Medan yang bisa ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-17T09:02:58.430Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.png
 author: Alfred Reyes
 ratingvalue: 3
 reviewcount: 7
@@ -79,7 +79,7 @@ recipecategory: Dessert
 ---
 
 
-![15 - 6 Pisang Rai Khas Bali](https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.webp)
+![15 - 6 Pisang Rai Khas Bali](https://img-global.cpcdn.com/recipes/fb7c2b6224d64d5e/682x484cq65/15-6-pisang-rai-khas-bali-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  15 - 6 Pisang Rai Khas Bali cocok banget jika digunakan untuk menjamu tamu
 

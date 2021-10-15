@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-29T11:13:32.305Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.png
 author: Mabelle Benson
 ratingvalue: 3.5
 reviewcount: 6
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Liwet Rice Cooker ala anak Kost (cepat tinggal cemplung)](https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.webp)
+![Nasi Liwet Rice Cooker ala anak Kost (cepat tinggal cemplung)](https://img-global.cpcdn.com/recipes/b298e66a2b9d1657/682x484cq65/nasi-liwet-rice-cooker-ala-anak-kost-cepat-tinggal-cemplung-foto-resep-utama.png)
 
 3 langkah cepat membuat  Nasi Liwet Rice Cooker ala anak Kost (cepat tinggal cemplung) cocok banget jika digunakan untuk menjamu teman
 

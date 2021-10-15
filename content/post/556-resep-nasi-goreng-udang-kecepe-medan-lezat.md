@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-21T02:56:40.774Z 
-thumbnail: https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.png
 author: Dennis Hughes
 ratingvalue: 4.2
 reviewcount: 3
@@ -70,7 +70,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Goreng Udang Kecepe Medan](https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.webp)
+![Nasi Goreng Udang Kecepe Medan](https://img-global.cpcdn.com/recipes/664ab86b33b2e45d/682x484cq65/nasi-goreng-udang-kecepe-medan-foto-resep-utama.png)
 
 7 langkah cepat dan mudah membuat  Nasi Goreng Udang Kecepe Medan yang bisa kamu coba dirumah
 

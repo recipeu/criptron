@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T14:47:39.826Z 
-thumbnail: https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 author: Lenora Garcia
 ratingvalue: 4.3
 reviewcount: 15
@@ -76,7 +76,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp)
+![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/be9156b6973c802f/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png)
 
 Ingin membuat Nasi Ayam Hainan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib ibu coba dirumah
 

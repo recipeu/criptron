@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T15:54:44.839Z 
-thumbnail: https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.png
 author: Addie Jones
 ratingvalue: 4.2
 reviewcount: 10
@@ -65,7 +65,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi daun jeruk magic com gampang banget by mamom_ernie](https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.webp)
+![Nasi daun jeruk magic com gampang banget by mamom_ernie](https://img-global.cpcdn.com/recipes/11a76f522e9e5b1d/682x484cq65/nasi-daun-jeruk-magic-com-gampang-banget-by-mamom_ernie-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi daun jeruk magic com gampang banget by mamom_ernie cocok sekali jika digunakan untuk menjamu teman
 

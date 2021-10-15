@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-05T15:51:42.246Z 
-thumbnail: https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png
 author: Alberta Jennings
 ratingvalue: 3.2
 reviewcount: 6
@@ -63,7 +63,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ayam Kemangi](https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.webp)
+![Nasi Bakar Ayam Kemangi](https://img-global.cpcdn.com/recipes/36d6ff74f5f4e161/682x484cq65/nasi-bakar-ayam-kemangi-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ayam Kemangi ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-11T22:16:04.049Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png
 author: Brent Johnson
 ratingvalue: 3.4
 reviewcount: 3
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.webp)
+![Nasi Ayam Hainan](https://img-global.cpcdn.com/recipes/2973217f8662ce3e/682x484cq65/nasi-ayam-hainan-foto-resep-utama.png)
 
 16 langkah cepat dan mudah membuat  Nasi Ayam Hainan cocok sekali jika digunakan untuk menjamu tamu
 

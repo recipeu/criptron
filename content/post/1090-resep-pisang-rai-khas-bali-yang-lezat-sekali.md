@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T08:38:40.812Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 author: Joe Williams
 ratingvalue: 4.4
 reviewcount: 8
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Pisang Rai khas Bali🍌](https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp)
+![Pisang Rai khas Bali🍌](https://img-global.cpcdn.com/recipes/9cd60f808cad1a53/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png)
 
 5 langkah mudah dan cepat mengolah  Pisang Rai khas Bali🍌 cocok banget jika digunakan untuk menjamu teman
 

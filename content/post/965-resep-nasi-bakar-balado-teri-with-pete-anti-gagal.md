@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-17T11:29:56.033Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.png
 author: Larry Willis
 ratingvalue: 4.4
 reviewcount: 15
@@ -73,7 +73,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar balado teri with pete](https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.webp)
+![Nasi bakar balado teri with pete](https://img-global.cpcdn.com/recipes/9fa239b29afb1dfa/682x484cq65/nasi-bakar-balado-teri-with-pete-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi bakar balado teri with pete yang musti bunda coba dirumah
 

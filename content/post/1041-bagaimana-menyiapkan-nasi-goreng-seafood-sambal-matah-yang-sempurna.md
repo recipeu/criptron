@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-22T08:33:58.427Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.png
 author: Ora Clark
 ratingvalue: 3
 reviewcount: 9
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi goreng seafood sambal matah](https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.webp)
+![Nasi goreng seafood sambal matah](https://img-global.cpcdn.com/recipes/b40e1d43e8f04a8d/682x484cq65/nasi-goreng-seafood-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Nasi goreng seafood sambal matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang bisa bunda coba dirumah
 

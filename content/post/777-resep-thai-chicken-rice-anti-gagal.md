@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-14T00:14:42.001Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.png
 author: Gerald Warren
 ratingvalue: 3.3
 reviewcount: 5
@@ -86,7 +86,7 @@ recipecategory: Dessert
 ---
 
 
-![Thai chicken rice](https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.webp)
+![Thai chicken rice](https://img-global.cpcdn.com/recipes/0b6b11f5709871bc/682x484cq65/thai-chicken-rice-foto-resep-utama.png)
 
 Resep rahasia Thai chicken rice  enak dengan 12 langkahmudah yang musti ibu coba segera
 

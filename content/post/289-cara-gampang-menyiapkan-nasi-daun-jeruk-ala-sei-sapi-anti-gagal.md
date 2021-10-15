@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-09T22:58:01.681Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.png
 author: Adam Bowen
 ratingvalue: 3.9
 reviewcount: 7
@@ -60,7 +60,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Daun Jeruk Ala Sei Sapi](https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.webp)
+![Nasi Daun Jeruk Ala Sei Sapi](https://img-global.cpcdn.com/recipes/b1f671607a926f10/682x484cq65/nasi-daun-jeruk-ala-sei-sapi-foto-resep-utama.png)
 
 Resep Nasi Daun Jeruk Ala Sei Sapi  sederhana dengan 3 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

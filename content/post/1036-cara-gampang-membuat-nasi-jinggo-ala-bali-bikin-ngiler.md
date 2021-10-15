@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-06T08:19:49.941Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.png
 author: Hulda Weaver
 ratingvalue: 3.6
 reviewcount: 5
@@ -84,7 +84,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Jinggo ala Bali](https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.webp)
+![Nasi Jinggo ala Bali](https://img-global.cpcdn.com/recipes/8989f36f39abf509/682x484cq65/nasi-jinggo-ala-bali-foto-resep-utama.png)
 
 Resep rahasia Nasi Jinggo ala Bali    dengan 5 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu tamu
 

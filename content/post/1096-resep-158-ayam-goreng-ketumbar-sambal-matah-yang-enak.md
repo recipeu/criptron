@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T11:59:02.295Z 
-thumbnail: https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.png
 author: Tony Sims
 ratingvalue: 4.8
 reviewcount: 6
@@ -68,7 +68,7 @@ recipecategory: Lunch
 ---
 
 
-![158. Ayam Goreng Ketumbar Sambal Matah](https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.webp)
+![158. Ayam Goreng Ketumbar Sambal Matah](https://img-global.cpcdn.com/recipes/27d427cf080395da/682x484cq65/158-ayam-goreng-ketumbar-sambal-matah-foto-resep-utama.png)
 
 5 langkah mudah dan cepat membuat  158. Ayam Goreng Ketumbar Sambal Matah yang bisa bunda coba segera
 

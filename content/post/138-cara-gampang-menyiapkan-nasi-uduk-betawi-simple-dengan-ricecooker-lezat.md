@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-29T21:02:03.723Z 
-thumbnail: https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.png
 author: Marguerite Brock
 ratingvalue: 4.8
 reviewcount: 6
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi Simple Dengan Ricecooker](https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.webp)
+![Nasi Uduk Betawi Simple Dengan Ricecooker](https://img-global.cpcdn.com/recipes/fbd3090590e03071/682x484cq65/nasi-uduk-betawi-simple-dengan-ricecooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Betawi Simple Dengan Ricecooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-06T19:52:25.672Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png
 author: Harvey Hansen
 ratingvalue: 5
 reviewcount: 13
@@ -102,7 +102,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Ayam Hainan Singapore| Versi Komplit dengan Ricecooker](https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.webp)
+![Nasi Ayam Hainan Singapore| Versi Komplit dengan Ricecooker](https://img-global.cpcdn.com/recipes/ffeb701be291e32e/682x484cq65/nasi-ayam-hainan-singapore-versi-komplit-dengan-ricecooker-foto-resep-utama.png)
 
 Resep rahasia Nasi Ayam Hainan Singapore| Versi Komplit dengan Ricecooker  sederhana dengan 8 langkahmudah yang bisa ibu coba dirumah
 

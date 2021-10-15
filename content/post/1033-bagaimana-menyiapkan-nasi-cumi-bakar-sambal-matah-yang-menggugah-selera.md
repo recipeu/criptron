@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-01T11:49:45.232Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.png
 author: Gerald Jefferson
 ratingvalue: 3.2
 reviewcount: 7
@@ -74,7 +74,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi cumi bakar sambal matah](https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.webp)
+![Nasi cumi bakar sambal matah](https://img-global.cpcdn.com/recipes/f23a146c38004000/682x484cq65/nasi-cumi-bakar-sambal-matah-foto-resep-utama.png)
 
 Resep Nasi cumi bakar sambal matah  anti gagal dengan 8 langkahmudah yang bisa bunda coba segera
 

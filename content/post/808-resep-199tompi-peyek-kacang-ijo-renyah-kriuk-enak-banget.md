@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T22:29:14.668Z 
-thumbnail: https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.png
 author: Georgia Henry
 ratingvalue: 5
 reviewcount: 13
@@ -72,7 +72,7 @@ recipecategory: Dinner
 ---
 
 
-![199.*Tompi/peyek kacang ijo renyah kriuk*](https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.webp)
+![199.*Tompi/peyek kacang ijo renyah kriuk*](https://img-global.cpcdn.com/recipes/1541304237816084/682x484cq65/199tompipeyek-kacang-ijo-renyah-kriuk-foto-resep-utama.png)
 
 3 langkah cepat mengolah  199.*Tompi/peyek kacang ijo renyah kriuk* yang musti bunda coba dirumah
 

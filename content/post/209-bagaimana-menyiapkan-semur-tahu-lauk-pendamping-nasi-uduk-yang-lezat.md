@@ -7,17 +7,17 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T01:31:38.050Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.png
 author: Emilie Jimenez
 ratingvalue: 4.1
 reviewcount: 4
 recipeingredient:
 - "tahu putih potong segitiga goreng hingga berkulit 6 kotak"
-- "bumbu dasar putih           lihat resep 2 sdm"
+- "bumbu dasar putih   . 2 sdm"
 - "kecap manis 5 sdm"
 - "sereh geprek 2 batang"
 - "daun salam sobek2 3 lembar"
@@ -65,7 +65,7 @@ recipecategory: Dinner
 ---
 
 
-![Semur Tahu (Lauk Pendamping Nasi Uduk)](https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.webp)
+![Semur Tahu (Lauk Pendamping Nasi Uduk)](https://img-global.cpcdn.com/recipes/2f4ee8b0ffa792e7/682x484cq65/semur-tahu-lauk-pendamping-nasi-uduk-foto-resep-utama.png)
 
 Resep Semur Tahu (Lauk Pendamping Nasi Uduk)  enak dengan 3 langkahmudah cocok sekali jika digunakan untuk menjamu tamu
 
@@ -74,7 +74,7 @@ Resep Semur Tahu (Lauk Pendamping Nasi Uduk)  enak dengan 3 langkahmudah cocok s
 ## Bahan-bahan Yang Diperlukan Dalam Pembuatan Semur Tahu (Lauk Pendamping Nasi Uduk):
 
 1. tahu putih potong segitiga goreng hingga berkulit 6 kotak
-1. bumbu dasar putih           lihat resep 2 sdm
+1. bumbu dasar putih   . 2 sdm
 1. kecap manis 5 sdm
 1. sereh geprek 2 batang
 1. daun salam sobek2 3 lembar
@@ -95,9 +95,9 @@ Resep Semur Tahu (Lauk Pendamping Nasi Uduk)  enak dengan 3 langkahmudah cocok s
 
 1. Tumis bumbu dasar putih, daun salam, daun jeruk, sereh, bubuk kayu manis dan pala bubuk hingga harum dan matang.
 1. Tuangkan air, masak hingga mendidih, masukan tahu goreng. Tuang kecap manis. Beri garam, kaldu jamur, merica bubuk. Aduk rata, koreksi rasanya.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0ead52fabeb0ee43/160x128cq70/semur-tahu-lauk-pendamping-nasi-uduk-langkah-memasak-2-foto.webp" alt="Semur Tahu (Lauk Pendamping Nasi Uduk)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0ead52fabeb0ee43/160x128cq70/semur-tahu-lauk-pendamping-nasi-uduk-langkah-memasak-2-foto.png" alt="Semur Tahu (Lauk Pendamping Nasi Uduk)" width="340" height="340">
 >1. Angkat dan siap disajikan.
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b742db136c795e4b/160x128cq70/semur-tahu-lauk-pendamping-nasi-uduk-langkah-memasak-3-foto.webp" alt="Semur Tahu (Lauk Pendamping Nasi Uduk)" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/b742db136c795e4b/160x128cq70/semur-tahu-lauk-pendamping-nasi-uduk-langkah-memasak-3-foto.png" alt="Semur Tahu (Lauk Pendamping Nasi Uduk)" width="340" height="340">
 >
 
 

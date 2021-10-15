@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-01T13:16:34.598Z 
-thumbnail: https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.png
 author: Isabelle Schmidt
 ratingvalue: 3.2
 reviewcount: 15
@@ -81,7 +81,7 @@ recipecategory: Dessert
 ---
 
 
-![Bubur ayam kuah coklat khas semarang](https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.webp)
+![Bubur ayam kuah coklat khas semarang](https://img-global.cpcdn.com/recipes/85db1c02fd18a3d5/682x484cq65/bubur-ayam-kuah-coklat-khas-semarang-foto-resep-utama.png)
 
 4 langkah mudah dan cepat mengolah  Bubur ayam kuah coklat khas semarang cocok banget jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-20T22:33:24.477Z 
-thumbnail: https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Lucinda Flowers
 ratingvalue: 3.6
 reviewcount: 15
@@ -69,7 +69,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi uduk betawi](https://img-global.cpcdn.com/recipes/25c7097251647274/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi uduk betawi yang wajib ibu coba dirumah
 

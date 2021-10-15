@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-24T04:16:57.812Z 
-thumbnail: https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png
 author: Dale Quinn
 ratingvalue: 4.3
 reviewcount: 3
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar teri medan](https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.webp)
+![Nasi Bakar teri medan](https://img-global.cpcdn.com/recipes/77023050d34fc94d/682x484cq65/nasi-bakar-teri-medan-foto-resep-utama.png)
 
 Resep dan cara mengolah  Nasi Bakar teri medan yang harus kamu coba dirumah
 

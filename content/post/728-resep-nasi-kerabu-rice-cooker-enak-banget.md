@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-02T04:30:30.540Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.png
 author: Lester Burke
 ratingvalue: 4.7
 reviewcount: 12
@@ -60,7 +60,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Kerabu Rice Cooker](https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.webp)
+![Nasi Kerabu Rice Cooker](https://img-global.cpcdn.com/recipes/cbdc5823e9589e5d/682x484cq65/nasi-kerabu-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat Nasi Kerabu Rice Cooker ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu teman
 

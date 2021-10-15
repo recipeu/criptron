@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T18:48:01.033Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.png
 author: Florence Baldwin
 ratingvalue: 4.1
 reviewcount: 8
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi timbel teri medan rice cooker](https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.webp)
+![Nasi timbel teri medan rice cooker](https://img-global.cpcdn.com/recipes/3008a40f31467e66/682x484cq65/nasi-timbel-teri-medan-rice-cooker-foto-resep-utama.png)
 
 4 langkah mudah membuat  Nasi timbel teri medan rice cooker cocok sekali jika digunakan untuk menjamu tamu
 

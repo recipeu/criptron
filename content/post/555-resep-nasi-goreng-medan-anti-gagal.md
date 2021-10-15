@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-10T02:35:13.192Z 
-thumbnail: https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.png
 author: Dominic Alvarado
 ratingvalue: 3.1
 reviewcount: 6
@@ -67,7 +67,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi goreng medan](https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.webp)
+![Nasi goreng medan](https://img-global.cpcdn.com/recipes/bd9e487b35ff2556/682x484cq65/nasi-goreng-medan-foto-resep-utama.png)
 
 Ingin membuat Nasi goreng medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib kamu coba segera
 

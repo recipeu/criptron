@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-08T19:53:58.730Z 
-thumbnail: https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Alberta McLaughlin
 ratingvalue: 5
 reviewcount: 4
@@ -64,7 +64,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/099178e5eb94b4b3/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 3 langkah mudah memasak  Nasi Uduk Betawi yang wajib ibu coba dirumah
 

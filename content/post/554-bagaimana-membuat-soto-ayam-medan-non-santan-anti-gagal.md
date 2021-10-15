@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-25T21:23:02.378Z 
-thumbnail: https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.png
 author: Rosetta Washington
 ratingvalue: 3.1
 reviewcount: 14
@@ -82,7 +82,7 @@ recipecategory: Lunch
 ---
 
 
-![Soto Ayam Medan Non Santan](https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.webp)
+![Soto Ayam Medan Non Santan](https://img-global.cpcdn.com/recipes/eff832fbf4e99a98/682x484cq65/soto-ayam-medan-non-santan-foto-resep-utama.png)
 
 5 langkah mudah dan cepat mengolah  Soto Ayam Medan Non Santan cocok banget jika digunakan untuk menjamu tamu
 

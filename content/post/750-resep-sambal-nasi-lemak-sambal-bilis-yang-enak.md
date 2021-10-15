@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-18T03:26:44.852Z 
-thumbnail: https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.png
 author: Tony Singleton
 ratingvalue: 4.1
 reviewcount: 10
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Sambal Nasi Lemak (Sambal Bilis)](https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.webp)
+![Sambal Nasi Lemak (Sambal Bilis)](https://img-global.cpcdn.com/recipes/79fd3ca20fe0ca7d/682x484cq65/sambal-nasi-lemak-sambal-bilis-foto-resep-utama.png)
 
 Ingin membuat Sambal Nasi Lemak (Sambal Bilis) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa kamu coba dirumah
 

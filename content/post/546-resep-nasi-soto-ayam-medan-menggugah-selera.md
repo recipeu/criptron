@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-21T03:16:59.353Z 
-thumbnail: https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.png
 author: Hilda Holland
 ratingvalue: 4.9
 reviewcount: 3
@@ -79,7 +79,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Soto Ayam Medan](https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.webp)
+![Nasi Soto Ayam Medan](https://img-global.cpcdn.com/recipes/410c265d3ce1ac60/682x484cq65/nasi-soto-ayam-medan-foto-resep-utama.png)
 
 Ingin membuat Nasi Soto Ayam Medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

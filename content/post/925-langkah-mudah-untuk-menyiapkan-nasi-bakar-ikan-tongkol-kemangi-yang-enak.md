@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-03T00:05:59.292Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.png
 author: Joshua Ryan
 ratingvalue: 4.7
 reviewcount: 11
@@ -80,7 +80,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi bakar ikan tongkol kemangi](https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.webp)
+![Nasi bakar ikan tongkol kemangi](https://img-global.cpcdn.com/recipes/6bd3b9bdedf97992/682x484cq65/nasi-bakar-ikan-tongkol-kemangi-foto-resep-utama.png)
 
 3 langkah mudah dan cepat mengolah  Nasi bakar ikan tongkol kemangi yang harus bunda coba dirumah
 

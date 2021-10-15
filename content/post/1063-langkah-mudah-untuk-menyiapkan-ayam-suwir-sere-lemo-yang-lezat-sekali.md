@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T18:25:32.423Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.png
 author: Lloyd Gutierrez
 ratingvalue: 3.4
 reviewcount: 7
@@ -31,7 +31,7 @@ recipeingredient:
 - "Nasi putih "
 - "Opor telur ayam "
 - "Bihun goreng "
-- "Terong Kecap Nasi Campur           lihat resep "
+- "Terong Kecap Nasi Campur   . "
 - "Bawang goreng "
 recipeinstructions:
 - "Rebus ayam, diamkan hingga dingin. Suwir-suwir dagingnya saja. (Sisihkan kulit dan tulangnya. Bisa untuk tambahan bikin soto 😁)"
@@ -72,7 +72,7 @@ recipecategory: Lunch
 ---
 
 
-![Ayam Suwir Sere Lemo](https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.webp)
+![Ayam Suwir Sere Lemo](https://img-global.cpcdn.com/recipes/f6eaf33e53ba86ef/682x484cq65/ayam-suwir-sere-lemo-foto-resep-utama.png)
 
 Ingin membuat Ayam Suwir Sere Lemo ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang musti ibu coba segera
 
@@ -95,7 +95,7 @@ Ingin membuat Ayam Suwir Sere Lemo ? Coba resep berikut ini. Cara memasaknya san
 1. Nasi putih 
 1. Opor telur ayam 
 1. Bihun goreng 
-1. Terong Kecap Nasi Campur           lihat resep 
+1. Terong Kecap Nasi Campur   . 
 1. Bawang goreng 
 
 

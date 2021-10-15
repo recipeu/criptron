@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T21:11:22.079Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.png
 author: Georgie Crawford
 ratingvalue: 3.5
 reviewcount: 10
@@ -62,7 +62,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi uduk untuk nasi ayam semarang](https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.webp)
+![Nasi uduk untuk nasi ayam semarang](https://img-global.cpcdn.com/recipes/f33cbdbbda19215d/682x484cq65/nasi-uduk-untuk-nasi-ayam-semarang-foto-resep-utama.png)
 
 Resep rahasia Nasi uduk untuk nasi ayam semarang  enak dengan 4 langkahcepat dan mudah cocok banget jika digunakan untuk menjamu teman
 

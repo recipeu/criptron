@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-31T07:49:09.622Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.png
 author: Nora Sandoval
 ratingvalue: 4.1
 reviewcount: 3
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Hujan Panas Malaysia](https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.webp)
+![Nasi Hujan Panas Malaysia](https://img-global.cpcdn.com/recipes/f2a23ea2e0e0d4f4/682x484cq65/nasi-hujan-panas-malaysia-foto-resep-utama.png)
 
 Ingin membuat Nasi Hujan Panas Malaysia ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu tamu
 

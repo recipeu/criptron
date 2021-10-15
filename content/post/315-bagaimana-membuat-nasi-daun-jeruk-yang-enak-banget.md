@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T13:54:55.283Z 
-thumbnail: https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png
 author: Raymond Jacobs
 ratingvalue: 4.4
 reviewcount: 9
@@ -62,7 +62,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.webp)
+![Nasi Daun Jeruk](https://img-global.cpcdn.com/recipes/52112db0e4cccf19/682x484cq65/nasi-daun-jeruk-foto-resep-utama.png)
 
 Ingin membuat Nasi Daun Jeruk ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang wajib kamu coba segera
 
@@ -89,7 +89,7 @@ Nasi daun jeruk siap dihidangkan dengan. Nasi daun jeruk ini memang sedang tren 
 1. Siapkan bahan2
 1. Cuci beras dan beri air sesuai selera ya...
 1. Masukan semua bahan ke rice cooker dan aduk2 rata... jgn lupa suka di aduk ya biar tercampur rata...
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/acc02986e582225d/160x128cq70/nasi-daun-jeruk-langkah-memasak-3-foto.webp" alt="Nasi Daun Jeruk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/acc02986e582225d/160x128cq70/nasi-daun-jeruk-langkah-memasak-3-foto.png" alt="Nasi Daun Jeruk" width="340" height="340">
 >1. Jika sudh selesai sajikannnn yummyyy 😋😋😋
 
 

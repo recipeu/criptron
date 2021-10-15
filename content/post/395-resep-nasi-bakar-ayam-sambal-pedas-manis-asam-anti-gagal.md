@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-22T03:15:02.742Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.png
 author: Douglas Greene
 ratingvalue: 3.6
 reviewcount: 15
@@ -71,7 +71,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Ayam Sambal Pedas Manis Asam](https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.webp)
+![Nasi Bakar Ayam Sambal Pedas Manis Asam](https://img-global.cpcdn.com/recipes/8eb091cd922d5d6e/682x484cq65/nasi-bakar-ayam-sambal-pedas-manis-asam-foto-resep-utama.png)
 
 Resep Nasi Bakar Ayam Sambal Pedas Manis Asam  sederhana dengan 3 langkahcepat dan mudah yang bisa bunda coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T19:13:37.044Z 
-thumbnail: https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.png
 author: Pearl Francis
 ratingvalue: 4.5
 reviewcount: 4
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi uduk sisa nasi semalam](https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.webp)
+![Nasi uduk sisa nasi semalam](https://img-global.cpcdn.com/recipes/07e82e66928b342d/682x484cq65/nasi-uduk-sisa-nasi-semalam-foto-resep-utama.png)
 
 Resep dan cara memasak  Nasi uduk sisa nasi semalam yang harus ibu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-11T15:24:51.854Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.png
 author: Ivan McDaniel
 ratingvalue: 4.2
 reviewcount: 7
@@ -76,7 +76,7 @@ recipecategory: Dinner
 ---
 
 
-![Chicken Curry Rice Noodles](https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.webp)
+![Chicken Curry Rice Noodles](https://img-global.cpcdn.com/recipes/2d2fc9d1d65f3494/682x484cq65/chicken-curry-rice-noodles-foto-resep-utama.png)
 
 Ingin membuat Chicken Curry Rice Noodles ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok sekali jika digunakan untuk menjamu teman
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-09T23:33:29.906Z 
-thumbnail: https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.png
 author: Ruth Fowler
 ratingvalue: 3.5
 reviewcount: 7
@@ -71,7 +71,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ayam Suwir Jamur](https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.webp)
+![Nasi Bakar Ayam Suwir Jamur](https://img-global.cpcdn.com/recipes/dba8ee2762346c24/682x484cq65/nasi-bakar-ayam-suwir-jamur-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Bakar Ayam Suwir Jamur yang harus kamu coba dirumah
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-20T21:11:41.650Z 
-thumbnail: https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.png
 author: Adrian Walton
 ratingvalue: 4.5
 reviewcount: 14
@@ -75,7 +75,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Tongkol Rica Rica](https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.webp)
+![Nasi Bakar Tongkol Rica Rica](https://img-global.cpcdn.com/recipes/b99b59e9b67d387b/682x484cq65/nasi-bakar-tongkol-rica-rica-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Tongkol Rica Rica  sederhana dengan 4 langkahcepat cocok banget jika digunakan untuk menjamu teman
 

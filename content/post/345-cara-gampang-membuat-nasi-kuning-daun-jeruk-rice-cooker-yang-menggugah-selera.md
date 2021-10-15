@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T08:59:44.959Z 
-thumbnail: https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.png
 author: Isaiah McKinney
 ratingvalue: 3.3
 reviewcount: 7
@@ -76,7 +76,7 @@ recipecategory: Dessert
 ---
 
 
-![NASI KUNING DAUN JERUK (Rice Cooker)](https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.webp)
+![NASI KUNING DAUN JERUK (Rice Cooker)](https://img-global.cpcdn.com/recipes/c255313da4249d93/682x484cq65/nasi-kuning-daun-jeruk-rice-cooker-foto-resep-utama.png)
 
 Ingin membuat NASI KUNING DAUN JERUK (Rice Cooker) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

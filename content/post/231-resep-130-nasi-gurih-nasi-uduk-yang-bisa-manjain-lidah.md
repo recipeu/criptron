@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T09:35:47.576Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.png
 author: Harold Stevens
 ratingvalue: 4.2
 reviewcount: 10
@@ -58,7 +58,7 @@ recipecategory: Lunch
 ---
 
 
-![130. Nasi gurih / nasi uduk](https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.webp)
+![130. Nasi gurih / nasi uduk](https://img-global.cpcdn.com/recipes/2a2c566fed93a1b8/682x484cq65/130-nasi-gurih-nasi-uduk-foto-resep-utama.png)
 
 3 langkah mudah mengolah  130. Nasi gurih / nasi uduk yang musti bunda coba segera
 
@@ -80,14 +80,14 @@ Resep Nasi Uduk - Salah satu dari variasi nasi biasa yang memiliki banyak pengge
 ## Cara Membuat 130. Nasi gurih / nasi uduk:
 
 1. Bersihkan beras, taruh dalam wadah, masukkan daun salam, daun jeruk dan sereh. Tuang santan, masukkan garam lalu nyalakan api
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/eac8d6167a74c83d/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-1-foto.webp" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/eac8d6167a74c83d/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-1-foto.png" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
 >1. Sesekali aduk, agar tidak gosong dibawahnya.....Kalau santan sudah menyusut, matikan kompor lalu tutup panci
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/cbf2ea4207e163a0/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-2-foto.webp" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/57ada9bc1318cc24/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-2-foto.webp" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/1c937b761d074b34/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-2-foto.webp" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/cbf2ea4207e163a0/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-2-foto.png" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/57ada9bc1318cc24/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-2-foto.png" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/1c937b761d074b34/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-2-foto.png" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
 >1. Panaskan air dalam dandang, masukkan beras aron tadi...lalu kukus sampai matang 😉😉 mudah bukan
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8ce757748874122f/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-3-foto.webp" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
-><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/1c97ed0bd275e977/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-3-foto.webp" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/8ce757748874122f/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-3-foto.png" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
+><img class="lazyload" data-src="https://img-global.cpcdn.com/steps/1c97ed0bd275e977/160x128cq70/130-nasi-gurih-nasi-uduk-langkah-memasak-3-foto.png" alt="130. Nasi gurih / nasi uduk" width="340" height="340">
 >
 
 Nasi uduk juga seringkali disajikan jika ada acara-acara tertentu, seperti acara ulang tahun atau acara selamatan lho Moms. Tentunya dengan sayur dan lauk pendamping yang tidak kalah lezatnya. Tapi jika Moms ingin mencoba membuat nasi uduk sebagai hidangan untuk kelurga di rumah, bisa dengan. Nasi Uduk &amp; Nasi Gurih. by Pecinta Kuliner Kediri Raya. Nasi kuning salah satu varian dari sekian banyak menu nasi. 

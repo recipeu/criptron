@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-28T01:40:29.770Z 
-thumbnail: https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.png
 author: Jessie Gonzalez
 ratingvalue: 3.8
 reviewcount: 5
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Tim Ayam](https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.webp)
+![Nasi Tim Ayam](https://img-global.cpcdn.com/recipes/459e937a7eea1d2a/682x484cq65/nasi-tim-ayam-foto-resep-utama.png)
 
 Resep Nasi Tim Ayam  sederhana dengan 4 langkahmudah dan cepat yang wajib ibu coba dirumah
 

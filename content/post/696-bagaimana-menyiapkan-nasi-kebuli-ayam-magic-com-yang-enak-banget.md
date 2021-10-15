@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2022-01-04T11:52:01.488Z 
-thumbnail: https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.png
 author: Eleanor Fisher
 ratingvalue: 4.7
 reviewcount: 14
@@ -73,7 +73,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Kebuli Ayam Magic Com](https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.webp)
+![Nasi Kebuli Ayam Magic Com](https://img-global.cpcdn.com/recipes/31cf9cc1c83b83b8/682x484cq65/nasi-kebuli-ayam-magic-com-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Kebuli Ayam Magic Com cocok banget jika digunakan untuk menjamu tamu
 

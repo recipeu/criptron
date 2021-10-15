@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-31T16:11:11.100Z 
-thumbnail: https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.png
 author: Jim Reese
 ratingvalue: 3.2
 reviewcount: 9
@@ -69,7 +69,7 @@ recipecategory: Dinner
 ---
 
 
-![Jamur Crispy Sambal Matah](https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.webp)
+![Jamur Crispy Sambal Matah](https://img-global.cpcdn.com/recipes/15504ea682121aac/682x484cq65/jamur-crispy-sambal-matah-foto-resep-utama.png)
 
 Ingin membuat Jamur Crispy Sambal Matah ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat cocok banget jika digunakan untuk menjamu tamu
 

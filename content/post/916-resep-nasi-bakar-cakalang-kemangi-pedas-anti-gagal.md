@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T18:43:12.886Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.png
 author: Bernard Robinson
 ratingvalue: 4.3
 reviewcount: 12
@@ -79,7 +79,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Cakalang Kemangi (Pedas)](https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.webp)
+![Nasi Bakar Cakalang Kemangi (Pedas)](https://img-global.cpcdn.com/recipes/ad5ba82eaa457518/682x484cq65/nasi-bakar-cakalang-kemangi-pedas-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Cakalang Kemangi (Pedas) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang musti kamu coba segera
 

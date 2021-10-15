@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-05T00:06:46.588Z 
-thumbnail: https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.png
 author: Eliza Burton
 ratingvalue: 3.8
 reviewcount: 15
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Betawi Rice Cooker #Inspirasi Menu Ramadhan](https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.webp)
+![Nasi Uduk Betawi Rice Cooker #Inspirasi Menu Ramadhan](https://img-global.cpcdn.com/recipes/6c190b595de8698c/682x484cq65/nasi-uduk-betawi-rice-cooker-inspirasi-menu-ramadhan-foto-resep-utama.png)
 
 Resep rahasia Nasi Uduk Betawi Rice Cooker #Inspirasi Menu Ramadhan  anti gagal dengan 6 langkahcepat dan mudah cocok sekali jika digunakan untuk menjamu teman
 

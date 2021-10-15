@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-18T16:48:36.764Z 
-thumbnail: https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.png
 author: Ann Woods
 ratingvalue: 4.5
 reviewcount: 5
@@ -63,7 +63,7 @@ recipecategory: Lunch
 ---
 
 
-![MPASI 9M+ : Nasi Uduk Sapi Kecap](https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.webp)
+![MPASI 9M+ : Nasi Uduk Sapi Kecap](https://img-global.cpcdn.com/recipes/26953be22701db91/682x484cq65/mpasi-9m-nasi-uduk-sapi-kecap-foto-resep-utama.png)
 
 Ingin membuat MPASI 9M+ : Nasi Uduk Sapi Kecap ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa kamu coba segera
 

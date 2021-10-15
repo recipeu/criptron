@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T20:39:54.806Z 
-thumbnail: https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.png
 author: Irene Davis
 ratingvalue: 3.5
 reviewcount: 6
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![Sambel Teri Kacang Medan](https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.webp)
+![Sambel Teri Kacang Medan](https://img-global.cpcdn.com/recipes/849939c4dec40700/682x484cq65/sambel-teri-kacang-medan-foto-resep-utama.png)
 
 Ingin membuat Sambel Teri Kacang Medan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa kamu coba dirumah
 

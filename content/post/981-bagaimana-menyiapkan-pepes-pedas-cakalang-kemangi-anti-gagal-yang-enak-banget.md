@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T13:06:18.965Z 
-thumbnail: https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.png
 author: Raymond Wade
 ratingvalue: 3.1
 reviewcount: 9
@@ -78,7 +78,7 @@ recipecategory: Lunch
 ---
 
 
-![Pepes Pedas Cakalang Kemangi ANTI GAGAL](https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.webp)
+![Pepes Pedas Cakalang Kemangi ANTI GAGAL](https://img-global.cpcdn.com/recipes/357e0c7786db38d4/682x484cq65/pepes-pedas-cakalang-kemangi-anti-gagal-foto-resep-utama.png)
 
 6 langkah mudah dan cepat membuat  Pepes Pedas Cakalang Kemangi ANTI GAGAL yang wajib ibu coba dirumah
 

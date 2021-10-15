@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-03T18:42:15.754Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png
 author: Lucile Page
 ratingvalue: 4.5
 reviewcount: 4
@@ -73,7 +73,7 @@ recipecategory: Dinner
 ---
 
 
-![💓Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.webp)
+![💓Nasi Uduk Betawi](https://img-global.cpcdn.com/recipes/7c0fbe8888cf0f65/682x484cq65/nasi-uduk-betawi-foto-resep-utama.png)
 
 Resep rahasia 💓Nasi Uduk Betawi  enak dengan 6 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu teman
 

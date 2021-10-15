@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-22T02:40:30.908Z 
-thumbnail: https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.png
 author: Rachel Daniel
 ratingvalue: 4.2
 reviewcount: 9
@@ -79,7 +79,7 @@ recipecategory: Lunch
 ---
 
 
-![Ayam Pelalah dan Sambal Matah- Part Nasi Campur Bali](https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.webp)
+![Ayam Pelalah dan Sambal Matah- Part Nasi Campur Bali](https://img-global.cpcdn.com/recipes/de29debada706524/682x484cq65/ayam-pelalah-dan-sambal-matah-part-nasi-campur-bali-foto-resep-utama.png)
 
 Resep rahasia Ayam Pelalah dan Sambal Matah- Part Nasi Campur Bali    dengan 5 langkahmudah dan cepat yang musti kamu coba segera
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-03T14:07:17.352Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.png
 author: Jessie Goodwin
 ratingvalue: 3.2
 reviewcount: 6
@@ -63,7 +63,7 @@ recipecategory: Dessert
 ---
 
 
-![Bubur Nasi Sisa Campur Sayuran](https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.webp)
+![Bubur Nasi Sisa Campur Sayuran](https://img-global.cpcdn.com/recipes/2ace436c4be553d6/682x484cq65/bubur-nasi-sisa-campur-sayuran-foto-resep-utama.png)
 
 Resep dan cara memasak  Bubur Nasi Sisa Campur Sayuran yang wajib ibu coba dirumah
 

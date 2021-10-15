@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-25T17:06:16.244Z 
-thumbnail: https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.png
 author: Louise Schneider
 ratingvalue: 4.8
 reviewcount: 14
@@ -68,7 +68,7 @@ recipecategory: Dessert
 ---
 
 
-![Jaje Pisang Rai Khas Bali🍌](https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.webp)
+![Jaje Pisang Rai Khas Bali🍌](https://img-global.cpcdn.com/recipes/65adab6538ebf149/682x484cq65/jaje-pisang-rai-khas-bali-foto-resep-utama.png)
 
 Resep rahasia Jaje Pisang Rai Khas Bali🍌    dengan 5 langkahcepat yang wajib bunda coba segera
 

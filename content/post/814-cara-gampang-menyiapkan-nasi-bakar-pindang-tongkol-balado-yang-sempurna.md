@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-28T11:50:28.181Z 
-thumbnail: https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.png
 author: Phillip Nunez
 ratingvalue: 4.1
 reviewcount: 9
@@ -56,7 +56,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Bakar Pindang Tongkol Balado](https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.webp)
+![Nasi Bakar Pindang Tongkol Balado](https://img-global.cpcdn.com/recipes/64ca9fd57c06d27c/682x484cq65/nasi-bakar-pindang-tongkol-balado-foto-resep-utama.png)
 
 3 langkah cepat dan mudah membuat  Nasi Bakar Pindang Tongkol Balado cocok sekali jika digunakan untuk menjamu teman
 

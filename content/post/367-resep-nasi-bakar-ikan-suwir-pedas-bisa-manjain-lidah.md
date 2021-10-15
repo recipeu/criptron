@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-22T02:47:49.410Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.png
 author: Lettie Morton
 ratingvalue: 3.9
 reviewcount: 13
@@ -28,7 +28,7 @@ recipeingredient:
 - "air mendidih panas sesuaikan dgn jenis beras 1200 ml"
 - "Daun pisang  tusuk gigi untuk membungkus "
 - "Isi "
-- "Tuna suwir pedas kali ini ikan tuna aku ganti ikan keranjang           lihat resep "
+- "Tuna suwir pedas kali ini ikan tuna aku ganti ikan keranjang   . "
 recipeinstructions:
 - "Buat isiannya dulu. Ikan keranjang/ikan cue/ikan pindang dicuci, dibuang kotorannya dan kepalanya. Goreng jgn terlalu kering. Buang durinya, suwir2 dagingnya jgn terlalu lembut, nanti waktu dimasak akan semakin hancur. Masak spt Tuna Suwir Pedas.           (lihat resep)"
 - "Siapkan bahan lainnya. Cuci beras smp bersih, taruh di bowl magicom. Sisihkan."
@@ -73,7 +73,7 @@ recipecategory: Dessert
 ---
 
 
-![Nasi Bakar Ikan Suwir Pedas](https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.webp)
+![Nasi Bakar Ikan Suwir Pedas](https://img-global.cpcdn.com/recipes/e7b6cbfe91e09d6b/682x484cq65/nasi-bakar-ikan-suwir-pedas-foto-resep-utama.png)
 
 Resep rahasia Nasi Bakar Ikan Suwir Pedas  anti gagal dengan 11 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu teman
 
@@ -93,7 +93,7 @@ Resep rahasia Nasi Bakar Ikan Suwir Pedas  anti gagal dengan 11 langkahmudah dan
 1. air mendidih panas sesuaikan dgn jenis beras 1200 ml
 1. Daun pisang  tusuk gigi untuk membungkus 
 1. Isi 
-1. Tuna suwir pedas kali ini ikan tuna aku ganti ikan keranjang           lihat resep 
+1. Tuna suwir pedas kali ini ikan tuna aku ganti ikan keranjang   . 
 
 Penasaran seperti apa resep ikan tongkol suwir pedas bumbu enak? Untuk membuat ikan tongkol suwir, pertama setelah ikan didiamkan selama waktu yang telah ditentukan, silahkan panaskan minyak dalam wajan. Nasi bakar memang hanya menggunakan nasi pada umumnya. Keunikannya terletak pada daun pisang yang membungkus nasi, membuat aromanya lebih menggugah selera. 
 

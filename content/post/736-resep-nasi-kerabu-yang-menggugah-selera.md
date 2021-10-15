@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-18T00:04:56.952Z 
-thumbnail: https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.png
 author: Lucinda Meyer
 ratingvalue: 4.1
 reviewcount: 4
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Kerabu](https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.webp)
+![Nasi Kerabu](https://img-global.cpcdn.com/recipes/681cef2e08dc8779/682x484cq65/nasi-kerabu-foto-resep-utama.png)
 
 Resep rahasia Nasi Kerabu  anti gagal dengan 4 langkahmudah yang bisa bunda coba segera
 

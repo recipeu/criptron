@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-28T01:14:50.803Z 
-thumbnail: https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.png
 author: Roxie Schmidt
 ratingvalue: 4.9
 reviewcount: 15
@@ -89,7 +89,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Briyani Ayam (HyderAbad Style)](https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.webp)
+![Nasi Briyani Ayam (HyderAbad Style)](https://img-global.cpcdn.com/recipes/2c855e3fae700f46/682x484cq65/nasi-briyani-ayam-hyderabad-style-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi Briyani Ayam (HyderAbad Style) cocok sekali jika digunakan untuk menjamu teman
 

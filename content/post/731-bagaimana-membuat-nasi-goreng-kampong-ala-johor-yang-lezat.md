@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-07T13:10:29.104Z 
-thumbnail: https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.png
 author: Zachary Alvarado
 ratingvalue: 5
 reviewcount: 7
@@ -60,7 +60,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi goreng kampong ala johor](https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.webp)
+![Nasi goreng kampong ala johor](https://img-global.cpcdn.com/recipes/8180df2cacccea16/682x484cq65/nasi-goreng-kampong-ala-johor-foto-resep-utama.png)
 
 Resep rahasia dan cara mengolah  Nasi goreng kampong ala johor yang bisa kamu coba segera
 

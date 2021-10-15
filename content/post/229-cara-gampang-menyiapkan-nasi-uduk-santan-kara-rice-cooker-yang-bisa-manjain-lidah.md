@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-05T22:18:45.888Z 
-thumbnail: https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.png
 author: Estella Clayton
 ratingvalue: 3.9
 reviewcount: 10
@@ -60,7 +60,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Santan Kara Rice Cooker](https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.webp)
+![Nasi Uduk Santan Kara Rice Cooker](https://img-global.cpcdn.com/recipes/cb84b1bd0da6e640/682x484cq65/nasi-uduk-santan-kara-rice-cooker-foto-resep-utama.png)
 
 3 langkah mudah dan cepat memasak  Nasi Uduk Santan Kara Rice Cooker cocok banget jika digunakan untuk menjamu teman
 
@@ -84,9 +84,9 @@ recipecategory: Dinner
 ## Tata Cara Membuat Nasi Uduk Santan Kara Rice Cooker:
 
 1. Cuci beras sampai bersih  - Lalu masukan Sereh,Lengkuas,Daun Salam,Daun Jeruk (Lengkuas dan Sereh di geprek)
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0938d07ffaa60643/160x128cq70/nasi-uduk-santan-kara-rice-cooker-langkah-memasak-1-foto.webp" alt="Nasi Uduk Santan Kara Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/0938d07ffaa60643/160x128cq70/nasi-uduk-santan-kara-rice-cooker-langkah-memasak-1-foto.png" alt="Nasi Uduk Santan Kara Rice Cooker" width="340" height="340">
 >1. Lalu masukan Santan Instan beserta air bisa di sesuaikan seperti memasak nasi putih di ricecooker lalu aduk tambahkan garam aduk dan masukan di ricecooker
-<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e127e8ab0b057c94/160x128cq70/nasi-uduk-santan-kara-rice-cooker-langkah-memasak-2-foto.webp" alt="Nasi Uduk Santan Kara Rice Cooker" width="340" height="340">
+<img class="lazyload" data-src="https://img-global.cpcdn.com/steps/e127e8ab0b057c94/160x128cq70/nasi-uduk-santan-kara-rice-cooker-langkah-memasak-2-foto.png" alt="Nasi Uduk Santan Kara Rice Cooker" width="340" height="340">
 >1. Tunggu sampai mendidih buka ricecooker aduk supaya rasanya menyatu semua,bisa icip sedikit untuk koreksi rasa yg di mau tutup kembali diamkan hingga matang  - Nasi uduk siap di sajikan
 
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-01T15:23:33.626Z 
-thumbnail: https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png
 author: Harold Marshall
 ratingvalue: 4.5
 reviewcount: 3
@@ -61,7 +61,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Liwet Teri Medan](https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.webp)
+![Nasi Liwet Teri Medan](https://img-global.cpcdn.com/recipes/0a920114a5a3570b/682x484cq65/nasi-liwet-teri-medan-foto-resep-utama.png)
 
 Resep rahasia dan cara memasak  Nasi Liwet Teri Medan yang bisa ibu coba segera
 

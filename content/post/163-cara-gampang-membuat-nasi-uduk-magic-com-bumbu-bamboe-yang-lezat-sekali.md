@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T11:22:48.536Z 
-thumbnail: https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.png
 author: Lucy Stokes
 ratingvalue: 3.5
 reviewcount: 9
@@ -58,7 +58,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Uduk Magic Com Bumbu Bamboe](https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.webp)
+![Nasi Uduk Magic Com Bumbu Bamboe](https://img-global.cpcdn.com/recipes/e8bd0d0801f7341b/682x484cq65/nasi-uduk-magic-com-bumbu-bamboe-foto-resep-utama.png)
 
 Resep Nasi Uduk Magic Com Bumbu Bamboe  anti gagal dengan 3 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu tamu
 

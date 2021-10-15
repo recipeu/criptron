@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-27T10:11:36.956Z 
-thumbnail: https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.png
 author: Christine Kennedy
 ratingvalue: 4.8
 reviewcount: 3
@@ -70,7 +70,7 @@ recipecategory: Dinner
 ---
 
 
-![Tahu Telur Bumbu Bali - Part Nasi Campur Bali](https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.webp)
+![Tahu Telur Bumbu Bali - Part Nasi Campur Bali](https://img-global.cpcdn.com/recipes/5877064852be9366/682x484cq65/tahu-telur-bumbu-bali-part-nasi-campur-bali-foto-resep-utama.png)
 
 Resep Tahu Telur Bumbu Bali - Part Nasi Campur Bali    dengan 4 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-21T07:12:35.738Z 
-thumbnail: https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.png
 author: Sue Moreno
 ratingvalue: 4.1
 reviewcount: 4
@@ -77,7 +77,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Kembang Kol Ayam BBQ Mix Vegetable](https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.webp)
+![Nasi Kembang Kol Ayam BBQ Mix Vegetable](https://img-global.cpcdn.com/recipes/9df853e49b7c93b4/682x484cq65/nasi-kembang-kol-ayam-bbq-mix-vegetable-foto-resep-utama.png)
 
 6 langkah mudah dan cepat memasak  Nasi Kembang Kol Ayam BBQ Mix Vegetable cocok banget jika digunakan untuk menjamu teman
 

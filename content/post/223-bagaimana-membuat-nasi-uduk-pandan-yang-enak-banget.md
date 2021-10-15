@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-26T06:04:13.931Z 
-thumbnail: https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.png
 author: Belle Morris
 ratingvalue: 3.5
 reviewcount: 4
@@ -66,7 +66,7 @@ recipecategory: Lunch
 ---
 
 
-![Nasi Uduk Pandan](https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.webp)
+![Nasi Uduk Pandan](https://img-global.cpcdn.com/recipes/ce06441680c29930/682x484cq65/nasi-uduk-pandan-foto-resep-utama.png)
 
 Ingin membuat Nasi Uduk Pandan ? Coba resep berikut ini. Cara memasaknya sangat praktis namun hasilnya gurih dan lezat yang bisa ibu coba dirumah
 

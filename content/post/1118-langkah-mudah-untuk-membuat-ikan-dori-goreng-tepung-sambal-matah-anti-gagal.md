@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-30T03:29:22.442Z 
-thumbnail: https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.png
 author: Inez Griffin
 ratingvalue: 3.5
 reviewcount: 13
@@ -72,7 +72,7 @@ recipecategory: Dinner
 ---
 
 
-![Ikan Dori Goreng Tepung Sambal Matah](https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.webp)
+![Ikan Dori Goreng Tepung Sambal Matah](https://img-global.cpcdn.com/recipes/993dcb6d8ae5e373/682x484cq65/ikan-dori-goreng-tepung-sambal-matah-foto-resep-utama.png)
 
 Resep rahasia Ikan Dori Goreng Tepung Sambal Matah  anti gagal dengan 5 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu tamu
 

@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-23T01:09:23.560Z 
-thumbnail: https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.png
 author: Frank Guzman
 ratingvalue: 4.3
 reviewcount: 9
@@ -66,7 +66,7 @@ recipecategory: Dinner
 ---
 
 
-![Bubur ayam kacang teri medan 😊😊](https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.webp)
+![Bubur ayam kacang teri medan 😊😊](https://img-global.cpcdn.com/recipes/85f0f6090f410910/682x484cq65/bubur-ayam-kacang-teri-medan-foto-resep-utama.png)
 
 Resep Bubur ayam kacang teri medan 😊😊  sederhana dengan 4 langkahmudah cocok banget jika digunakan untuk menjamu tamu
 

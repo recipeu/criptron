@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-17T22:42:26.359Z 
-thumbnail: https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.png
 author: Loretta Wise
 ratingvalue: 4.4
 reviewcount: 13
@@ -83,7 +83,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi Bakar Ketagihan (versi resep nasinya saja dulu yaa..)](https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.webp)
+![Nasi Bakar Ketagihan (versi resep nasinya saja dulu yaa..)](https://img-global.cpcdn.com/recipes/3af708715dc66abc/682x484cq65/nasi-bakar-ketagihan-versi-resep-nasinya-saja-dulu-yaa-foto-resep-utama.png)
 
 Ingin membuat Nasi Bakar Ketagihan (versi resep nasinya saja dulu yaa..) ? Coba resep berikut ini. Cara memasaknya sangat praktis namun jangan kaget jika hasilnya gurih dan lezat yang wajib ibu coba segera
 

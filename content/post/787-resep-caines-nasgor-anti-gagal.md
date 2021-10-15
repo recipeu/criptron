@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-12-12T01:54:07.769Z 
-thumbnail: https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.png
 author: Lester Fuller
 ratingvalue: 4.1
 reviewcount: 3
@@ -82,7 +82,7 @@ recipecategory: Lunch
 ---
 
 
-![Caines nasgor](https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.webp)
+![Caines nasgor](https://img-global.cpcdn.com/recipes/7ec17e2b943f01d0/682x484cq65/caines-nasgor-foto-resep-utama.png)
 
 Resep rahasia Caines nasgor  sederhana dengan 11 langkahmudah dan cepat cocok sekali jika digunakan untuk menjamu teman
 

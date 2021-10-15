@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-10T21:14:28.193Z 
-thumbnail: https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.png
 author: Edgar Bradley
 ratingvalue: 4.2
 reviewcount: 9
@@ -64,7 +64,7 @@ recipecategory: Dinner
 ---
 
 
-![Nasi bakar ayam dijamin enak](https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.webp)
+![Nasi bakar ayam dijamin enak](https://img-global.cpcdn.com/recipes/67a3ad4e66d908c5/682x484cq65/nasi-bakar-ayam-dijamin-enak-foto-resep-utama.png)
 
 Resep Nasi bakar ayam dijamin enak  anti gagal dengan 5 langkahmudah dan cepat cocok banget jika digunakan untuk menjamu teman
 

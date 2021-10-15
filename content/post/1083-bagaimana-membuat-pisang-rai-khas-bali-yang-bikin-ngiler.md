@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-10-13T17:09:35.867Z 
-thumbnail: https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png
 author: Ethan Bowers
 ratingvalue: 3.1
 reviewcount: 11
@@ -61,7 +61,7 @@ recipecategory: Dinner
 ---
 
 
-![Pisang Rai Khas Bali](https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.webp)
+![Pisang Rai Khas Bali](https://img-global.cpcdn.com/recipes/f8cd0120e67db79e/682x484cq65/pisang-rai-khas-bali-foto-resep-utama.png)
 
 Resep dan cara memasak  Pisang Rai Khas Bali cocok banget jika digunakan untuk menjamu tamu
 

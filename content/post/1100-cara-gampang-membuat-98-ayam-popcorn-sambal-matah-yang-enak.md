@@ -7,11 +7,11 @@ lang: id
 language: id
 languageCode: id
 publishDate: 2021-11-07T20:43:49.186Z 
-thumbnail: https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.webp
+thumbnail: https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.png
 images:
-- https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.webp
-image: https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.webp
-cover: https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.webp
+- https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.png
+image: https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.png
+cover: https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.png
 author: Olga Chambers
 ratingvalue: 3.4
 reviewcount: 5
@@ -78,7 +78,7 @@ recipecategory: Dinner
 ---
 
 
-![98. Ayam Popcorn Sambal Matah](https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.webp)
+![98. Ayam Popcorn Sambal Matah](https://img-global.cpcdn.com/recipes/15e86d1fc652ca77/682x484cq65/98-ayam-popcorn-sambal-matah-foto-resep-utama.png)
 
 Resep dan cara memasak  98. Ayam Popcorn Sambal Matah cocok sekali jika digunakan untuk menjamu tamu
 
