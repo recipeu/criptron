@@ -52,21 +52,7 @@ preptime: "PT29M"
 cooktime: "PT48M"
 recipeyield: "3"
 recipecategory: Lunch
-
-
-     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      
-    
+. 
 ---
 
 
