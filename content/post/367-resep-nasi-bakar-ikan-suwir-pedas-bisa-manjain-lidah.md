@@ -28,7 +28,7 @@ recipeingredient:
 - "air mendidih panas sesuaikan dgn jenis beras 1200 ml"
 - "Daun pisang  tusuk gigi untuk membungkus "
 - "Isi "
-- "Tuna suwir pedas kali ini ikan tuna aku ganti ikan keranjang   . "
+- "Tuna suwir pedas kali ini ikan tuna aku ganti ikan keranjang "
 recipeinstructions:
 - "Buat isiannya dulu. Ikan keranjang/ikan cue/ikan pindang dicuci, dibuang kotorannya dan kepalanya. Goreng jgn terlalu kering. Buang durinya, suwir2 dagingnya jgn terlalu lembut, nanti waktu dimasak akan semakin hancur. Masak spt Tuna Suwir Pedas.           (lihat resep)"
 - "Siapkan bahan lainnya. Cuci beras smp bersih, taruh di bowl magicom. Sisihkan."

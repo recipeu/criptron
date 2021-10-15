@@ -25,7 +25,7 @@ recipeingredient:
 - "Garam 1/2 sdt"
 - "Minyak goreng me 2 sdm minyak Secukupnya"
 - "Pelengkap "
-- "Nasi goreng Sanga   . "
+- "Nasi goreng Sanga "
 recipeinstructions:
 - "Siapkan semua bahan-bahannya, lalu potong-potong dan iris-iris tipis sesuai selera, masukkan di wadah"
 - "Campur semua secara bertahap dan perlahan-lahan, beri garam lalu tuangkan minyak goreng yang sudah di panaskan sebelumnya, pelan-pelan ya menuangkannya. Setelah itu aduk-aduk lagi dan tambahkan air perasan jeruk nipis"

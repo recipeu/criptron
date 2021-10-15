@@ -16,7 +16,7 @@ author: Chris Marsh
 ratingvalue: 4.6
 reviewcount: 3
 recipeingredient:
-- "Nasi uduk harumnasi biasa 1 cup   . "
+- "Nasi uduk harumnasi biasa 1 cup "
 - "daun kemangi 1 ikat"
 - "dada ayam 1/2"
 - "daun salam 1"

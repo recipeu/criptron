@@ -28,7 +28,7 @@ recipeingredient:
 - "garam 1 sdm"
 - "Pendamping  optional "
 - "Bihun goreng "
-- "Semur tahutempejengkoldaging resep semur cek lampiran ya   . "
+- "Semur tahutempejengkoldaging resep semur cek lampiran ya "
 - "Bawang goreng "
 - "Kerupuk "
 recipeinstructions:

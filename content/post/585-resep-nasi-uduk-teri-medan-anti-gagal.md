@@ -32,7 +32,7 @@ recipeingredient:
 - "ayam madu pedas manis   . 1 potong"
 - "tahu semur   . 2 potong"
 - "Kerupuk Timun "
-- "Sambal   . "
+- "Sambal "
 recipeinstructions:
 - "Siapkan bahan bahan nya. Beras di cuci Sampe bersih"
 - "Masukan beras, dan semua bahan lainnya. Aduk rata. Aron beras"

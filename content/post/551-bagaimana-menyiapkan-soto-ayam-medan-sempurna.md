@@ -42,7 +42,7 @@ recipeingredient:
 - "telur rebus 2 butir"
 - "Daun bawang dan seledri iris secukupnya "
 - "Tomat di potong2 "
-- "Perkedel kentang   . "
+- "Perkedel kentang "
 - "Kerupuk tempe dan udang "
 - "Jeruk nipis "
 - "Sambal "

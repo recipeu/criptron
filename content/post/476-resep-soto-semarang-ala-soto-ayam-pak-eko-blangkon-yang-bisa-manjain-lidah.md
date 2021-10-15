@@ -37,7 +37,7 @@ recipeingredient:
 - "Bahan pelengkap  "
 - "Nasi putih "
 - "Soun rebus "
-- "Sambal soto   . "
+- "Sambal soto "
 recipeinstructions:
 - "Rebus ayam lalu suwir-suwir. Didihkan sisa kaldu rebusan ayam, air, sereh, daun salam, dan daun jeruk."
 - "Panaskan minyak lalu tumis bumbu halus hingga harum dan matang. Matikan api lalu masukkan suwiran ayam dan kecap manis, aduk rata."

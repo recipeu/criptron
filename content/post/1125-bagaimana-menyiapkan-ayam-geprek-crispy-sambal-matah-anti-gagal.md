@@ -37,7 +37,7 @@ recipeingredient:
 - "air dingin 50 ml"
 - "campuran bahan kering 1 sdm"
 - "Sambal matah "
-- "Resep sambal matah   . "
+- "Resep sambal matah "
 recipeinstructions:
 - "Belah ayam fillet dada menjadi 2 bagian atau bisa di belah lagi supaya lebih tipis, cuci bersih"
 - "Haluskan bawang putih, merica bubuk, garam. Baluri diseluruh permukaan ayam fillet. Diamkan selama 30 menit"

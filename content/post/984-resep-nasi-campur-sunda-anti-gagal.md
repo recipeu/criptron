@@ -30,9 +30,9 @@ recipeingredient:
 - "gula pasir 1 sdm"
 - "minyak goreng untuk menumis 100 ml"
 - "Bahan pelengkap lainnya  "
-- "Oseng tempe buncis   . "
-- "Telur pindang lihat diresep Timlo Solo   . "
-- "Sambal asam terasi   . "
+- "Oseng tempe buncis "
+- "Telur pindang lihat diresep Timlo Solo "
+- "Sambal asam terasi "
 recipeinstructions:
 - "Tumis bawang merah putih hingga harum. Tambahkan cabe, tumis lagi hingga cabe layu"
 - "Masukkan pete, aduk-aduk sebentar"

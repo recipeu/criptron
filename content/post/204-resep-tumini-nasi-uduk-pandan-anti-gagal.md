@@ -32,7 +32,7 @@ recipeingredient:
 - "Telur dadar "
 - "Sosis goreng "
 - "timun Potongan"
-- "Orek tempe   . "
+- "Orek tempe "
 - "Mie goreng "
 recipeinstructions:
 - "Ambil 3 cup beras dan cuci bersih dan masukkan ke panci rice cooker."

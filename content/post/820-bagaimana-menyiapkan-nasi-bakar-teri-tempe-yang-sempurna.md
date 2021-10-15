@@ -16,7 +16,7 @@ author: Addie Grant
 ratingvalue: 3.4
 reviewcount: 15
 recipeingredient:
-- "Nasi uduk harumNasi biasa 2 cup   . "
+- "Nasi uduk harumNasi biasa 2 cup "
 - "ikan teri bilas 1/2 genggam"
 - "tempe papan 1/4"
 - "daun kemangi 1 ikat"

@@ -31,7 +31,7 @@ recipeingredient:
 - "Nasi putih "
 - "Opor telur ayam "
 - "Bihun goreng "
-- "Terong Kecap Nasi Campur   . "
+- "Terong Kecap Nasi Campur "
 - "Bawang goreng "
 recipeinstructions:
 - "Rebus ayam, diamkan hingga dingin. Suwir-suwir dagingnya saja. (Sisihkan kulit dan tulangnya. Bisa untuk tambahan bikin soto 😁)"

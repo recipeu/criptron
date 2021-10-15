@@ -42,7 +42,7 @@ recipeingredient:
 - "daun jeruk purut buang tulangnya 2"
 - "gula aren 1 sdm"
 - "Bahan sambal matah "
-- "Cek di link berikut   . "
+- "Cek di link berikut "
 - "Perlengkapan dekorasi "
 - "Styrofoam 2 ukuran "
 - "Kertas alasbaking paper "

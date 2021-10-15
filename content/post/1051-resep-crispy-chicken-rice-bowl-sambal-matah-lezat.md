@@ -27,7 +27,7 @@ recipeingredient:
 - "baking powder 1/2 sendok teh"
 - "garam 1/2 sendok teh"
 - "Pelengkap "
-- "sambal matah   . "
+- "sambal matah "
 - "wortel besar potong dadu 1 batang"
 - "buncis iris 1 cm 5 batang"
 recipeinstructions:

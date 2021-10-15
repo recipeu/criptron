@@ -46,7 +46,7 @@ recipeingredient:
 - "Taoge Pendek seduh air panas "
 - "Kubis iris tipis "
 - "Jeruk Nipis "
-- "Tempe Goreng Garit   . "
+- "Tempe Goreng Garit "
 recipeinstructions:
 - "Rebus ayam bersama bumbu aromatik, hingga mendidih, ayam matang dan empuk."
 - "Tumis bumbu halus hingga harum.  Tambahkan kecap manis, tumis kembali hingga bumbu matang. Angkat."

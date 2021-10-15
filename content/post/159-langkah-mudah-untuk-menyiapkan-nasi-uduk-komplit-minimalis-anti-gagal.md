@@ -21,7 +21,7 @@ recipeingredient:
 - "Ayam Goreng 1 potong"
 - "Kol Wortel Saos Tiram Tumis Sayur 4 sdm"
 - "Kerupuk "
-- "Bawang Goreng   . "
+- "Bawang Goreng "
 recipeinstructions:
 - "Masak dan siapkan nasi uduknya.           (lihat resep)"
 - "Siapkan Ayam Goreng           (lihat resep)"

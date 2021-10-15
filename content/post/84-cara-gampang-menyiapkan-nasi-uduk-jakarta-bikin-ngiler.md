@@ -24,10 +24,10 @@ recipeingredient:
 - "kaldu sapi bubuk 1 sdm"
 - "daun salam 2 lbr"
 - "Pelengkap "
-- "Kering tempe   . "
-- "Ayam tulang lunak   . "
+- "Kering tempe "
+- "Ayam tulang lunak "
 - "Timun "
-- "Keremesan   . "
+- "Keremesan "
 - "Telur rebus "
 recipeinstructions:
 - "Siapkan semua bahan"

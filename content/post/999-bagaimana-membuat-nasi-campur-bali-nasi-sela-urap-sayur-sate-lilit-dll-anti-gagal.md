@@ -27,7 +27,7 @@ recipeingredient:
 - "terasi 1 sdt"
 - "garam secukupnya 1/2 sdt"
 - "minyak goreng Secukupnya"
-- " Sate Lilit Sayur Urap Telur rebus bumbu genep lihat resep   . "
+- " Sate Lilit Sayur Urap Telur rebus bumbu genep lihat resep "
 - " Bahan Pelengkap  "
 - "Mentimun "
 - "Kacang tanah goreng sy  skip lupa "

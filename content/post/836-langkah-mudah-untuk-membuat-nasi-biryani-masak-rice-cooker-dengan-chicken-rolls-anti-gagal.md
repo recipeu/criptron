@@ -52,7 +52,7 @@ recipeingredient:
 - "daun salam 2 buah"
 - "jahe geprek 2 cm"
 - "Bahan pendamping "
-- "Acar mentah   . "
+- "Acar mentah "
 - "Kacang mete almond or kacang tanah "
 - "Kismis "
 recipeinstructions:

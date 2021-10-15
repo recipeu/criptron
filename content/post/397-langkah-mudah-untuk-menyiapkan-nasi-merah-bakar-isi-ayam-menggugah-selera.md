@@ -22,7 +22,7 @@ recipeingredient:
 - "air 700 ml"
 - "Garam secukupnya"
 - "Liditusuk Gigi secukupnya"
-- "Ayam suwir   . "
+- "Ayam suwir "
 recipeinstructions:
 - "Masak nasi merah dengan daun pandan, beri garam sedikit, masak sampai air mengering, kukus selama 15 menit."
 - "Ambil 1 lembar daun pisang, masukkan 2 centong nasi, masukkan suwiran ayam, beri kemangi lalu gulung, sematkan Lidi dibagian atas dan bawahnya."

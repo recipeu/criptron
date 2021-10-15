@@ -52,7 +52,7 @@ recipeingredient:
 - "Air Hangat 100 ml"
 - "Air Perasan Jeruk Nipis 1/2 sdt"
 - "Pelengkap "
-- "Semur Betawi   . "
+- "Semur Betawi "
 - "Telur Dadar iris "
 - "Tempe Goreng "
 - "Bawang Merah Goreng "

@@ -27,10 +27,10 @@ recipeingredient:
 - "jahe di geprek 1 ruas"
 - "lengkuas geprek 1 ruas"
 - "Tambahan  "
-- "Mie goreng   . "
-- "Telor Balado   . "
+- "Mie goreng "
+- "Telor Balado "
 - "Bawang goreng "
-- "Tumis pare teri   . "
+- "Tumis pare teri "
 - "Kerupuk "
 recipeinstructions:
 - "Cuci bersih beras dan bahan cemplung."

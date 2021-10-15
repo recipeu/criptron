@@ -21,7 +21,7 @@ recipeingredient:
 - "santan 500 ml"
 - "garam 1 sdt"
 - "Bahan Isian  "
-- "Abon ayam   . "
+- "Abon ayam "
 - "sambal terasi Secukupnya"
 - "Pelengkap  "
 - "daun pisang Secukupnya"

@@ -16,7 +16,7 @@ author: Richard Park
 ratingvalue: 3.3
 reviewcount: 7
 recipeingredient:
-- "Nasi uduk harumnasi biasa 1 cup   . "
+- "Nasi uduk harumnasi biasa 1 cup "
 - "daun kemangi 1 ikat"
 - "dada ayam 1/2"
 - "daun salam 1"

@@ -41,7 +41,7 @@ recipeingredient:
 - "lada putih 1/2 sdt"
 - "kaldu sapi bubuk 1 sdt"
 - "Pelengkap "
-- "Nasi uduk   . "
+- "Nasi uduk "
 - "Sambal cabe bawang putih resep nyusul "
 - "Jeruk limau "
 - "Bawang goreng "

@@ -17,7 +17,7 @@ ratingvalue: 3.5
 reviewcount: 14
 recipeingredient:
 - "Nasi gurih saya pakai nasi liwet "
-- "Ayam suwir Kemangi   . "
+- "Ayam suwir Kemangi "
 - "Tempe orek optional "
 - "Daun pisang dan tusuk lidi "
 - "Untuk nasi liwet "

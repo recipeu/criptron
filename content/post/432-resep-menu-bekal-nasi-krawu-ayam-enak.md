@@ -16,11 +16,11 @@ author: Cecelia Woods
 ratingvalue: 3.5
 reviewcount: 8
 recipeingredient:
-- "Ayam suwir kari   . "
+- "Ayam suwir kari "
 - "Nasi "
 - "Selada           lihat tips "
 - "Sayuran           lihat tips "
-- "Serundeng  Poya   . "
+- "Serundeng  Poya "
 recipeinstructions:
 - "Saya cetak nasi pakai cetakan onigiri. Beri bagian tengahnya dengan ayam suwir."
 - "Susun bekal di kotak bekal makanan. Sajikan dengan sayuran dan Poya"

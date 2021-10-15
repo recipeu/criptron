@@ -39,7 +39,7 @@ recipeingredient:
 - "Daun bawang iris2 "
 - "Seledri iris"
 - "Kecap manis "
-- "Sambal soto   . "
+- "Sambal soto "
 - "Tempe goreng "
 - "Tahu goreng "
 recipeinstructions:
