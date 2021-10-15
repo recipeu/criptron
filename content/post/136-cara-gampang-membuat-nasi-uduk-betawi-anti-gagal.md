@@ -36,8 +36,7 @@ recipeinstructions:
 - "Masak kurang lebih 20 mnit lalu angkat"
 - "Sambil.mngaduk2dan mngipas2 buang bumbu2yg ada di nasi smp smua bersih dr bumbu"
 - "Siap untuk di sajikann.dengan bawang goreng smur tahu dan sambel tepe goreng dan telur balado slamat mnikmati"
-. 
-. 
+
 categories:
 - Resep
 tags:

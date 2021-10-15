@@ -19,7 +19,7 @@ recipeingredient:
 - "Semua ada dilampiran ya Silahkan di klik "
 recipeinstructions:
 - "Resep nasi uduk ada di           (lihat resep)"
-. 
+
 - "Resep sambal goreng           (lihat resep)"
 - "Resep ayam suwir           (lihat resep)"
 - "Sambal           (lihat resep)"

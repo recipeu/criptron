@@ -36,7 +36,7 @@ recipeinstructions:
 - "Jika adonan sudah siap panaskn minyak ya bunda..oh iya jgan pake minyak sedikit usahakan minyak nya cukup bnyak ya."
 - "Goreng di pinggiran wajan dengan ukuran sesuka bunda😊 jika menurut bunda sudah agak keras kalo di tekan² itu tandanya udah mateng... Api jagan terlalu besar ya bun biar gax gampang gosong..."
 - "Selamat mencoba.. 😊😊 bisa di tanyakan jika masih ada yg bingug😊"
-. 
+
 categories:
 - Resep
 tags:

@@ -43,7 +43,7 @@ recipeinstructions:
 - "Siap kan minyak banyak agar seluruh ayam terendam, panaskan minyak lalu goreng hingga ayam kuning keemasan."
 - "Angkat dan tiriskan, terakhir goreng terpisah daun kari koja lalu taburi diatas ayam goreng berempah."
 - "Siap untuk disajikan dan dihidangkan dengan nasi hangat. SELAMAT MENCOBA"
-. 
+
 categories:
 - Resep
 tags:

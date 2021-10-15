@@ -30,7 +30,7 @@ recipeingredient:
 recipeinstructions:
 - "Cuci bersih beras, didihkan air santan beserta bumbu dan rempah setelah mendidih masukkan beras dan masak di magic com dengan tekan cook"
 - "Setelah matang aduk nasi dan siap disajikan dengan pelengkap sambel bawang kerupuk dan ayam goreng lengkuas"
-. 
+
 categories:
 - Resep
 tags:

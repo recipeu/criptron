@@ -36,7 +36,7 @@ recipeingredient:
 recipeinstructions:
 - "Kukus bahan taburan selama ±15 menit, kupas pisang lalu potong 4 bagian, sisihkan."
 - "Masak air terlebih dahulu, sambil menunggu air mendidih, campur tepung beras, air kapur sirih dan garam, kemudian tambahkan air sedikit demi sedikit sampai adonan tercampur rata, (tekstur lebih kental dari adonan tepung pisang goreng)."
-. 
+
 - "Bagi 2 jumlah pisang (8 iris untuk warna putih, 8 iris untuk warna merah) Masukkan potongan pisang kedalam campuran tepung beras, aduk sampai terbalut tepung kemudian masukkan ke dalam air yg telah mendidih, kecilkan api, masak sampai pisang mengapung semua, angkat dan sisihkan dulu."
 - "Jika adonan putih selesai di rebus, sisa tepungnya diberi pewarna merah, celupkan pisang dan rebus seperti cara pertama."
 - "Buat kuah kinca, rebus semua bahan sampai gula larut dan mendidih, matikan api, angkat lalu saring."

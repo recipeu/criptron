@@ -41,7 +41,7 @@ recipeinstructions:
 - "Bumbui lada hitam dan sedikiit saja garam (teri medannya sudah asin). Aduk-aduk kembali, masak sampai nasi matang dan terlihat kering."
 - "Tuangkan kocokan telur. Biarkan 5-7 detik, lalu aduk kembali supaya merata dengan nasi. Masak sampai terlihat kering kembali dan matang."
 - "Matikan api, masukkan sisa bagian hijau daun bawang dan cabe rawit, aduk-aduk merata."
-. 
+
 - "Terakhir masukkan teri medang goreng. Aduk rata kembali dan koreksi rasa. Ditahap ini baru ketahuan nasi gorengnya sudah cukup asin atau masih butuh garam lagi."
 - "Sajikan..."
 categories:
